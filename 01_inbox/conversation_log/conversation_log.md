@@ -13,7 +13,7 @@
 
 - **Ji가 시킨 것**: 현재 상태의 vault를 `https://github.com/maljawins/koreanwithji_vault`에 첫 백업.
 - **이해**: 기존 `vault_renew` Git 기록은 현재 vault 구조와 다르므로 보존만 하고, 현재 작업 트리를 별도 첫 snapshot으로 commit하여 Ji가 지정한 새 GitHub 저장소에 올린다. `.env`와 `cookies.txt`는 민감 정보이므로 commit에서 제외한다.
-- **이행**: 진행 중. GitHub 연결 및 push 결과를 확인한 뒤 이 항목을 완료 상태로 갱신한다.
+- **이행**: 완료. 기존 `vault_renew` 기록과 분리된 `main` 첫 snapshot(commit `2b44220`)을 만들고 `https://github.com/maljawins/koreanwithji_vault`에 push했다. 1,887개 파일을 포함했고 `.env`와 `cookies.txt`는 제외했다. GitHub는 57.09MB PDF 1개에 대해 권장 크기(50MB) 초과 경고를 냈으나, 100MB 제한 이하여서 push는 성공했다.
 
 (2026-09-03까지는 [`260903_log.md`](../../00_daily_worklog/260903_log/260903_log.md)로, 2026-09-04~2026-09-13 전체는 [`00_daily_worklog.md`](../../00_daily_worklog/00_daily_worklog.md) 인덱스의 해당 날짜 로그로 옮겨졌다. 새 작업부터 여기 기록한다.)
 
