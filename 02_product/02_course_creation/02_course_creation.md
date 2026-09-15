@@ -2,7 +2,7 @@
 
 > 이 폴더는 **강의 제작 작업장**이다.
 > **이 파일은 지도만 담는다. 내용은 각 파일에 있다.**
-> 최종 갱신: 2026-09-13
+> 최종 갱신: 2026-09-15
 
 ---
 
@@ -16,8 +16,13 @@
 ├─ lesson_design_method.md        ← 레슨 상세 설계법 (outline, draft 단계에서 사용)
 ├─ course_tech_stack.md           ← 테크 스택 리스트
 ├─ 00_curriculum_and_index\       ← 커리큘럼 맵 V7 정본 + 트랙별 index xlsx 5종
-├─ 02_lesson_spec\                ← [층 2] lesson_spec 산출물 (STEP 2부터 채운다. 지금은 빈 폴더)
-└─ 01_course_outline_and_draft\   ← [층 3] outline + [층 4] draft 산출물. 한 레슨 폴더에 둘을 나란히 둔다
+├─ 01_lesson_spec\                ← [층 2] lesson_spec 작업장
+│  ├─ 01_topic_copy\              ← STEP 2-1. V7 주제 복사본
+│  ├─ 02_topic_raw\               ← STEP 2-3. 조준 발췌본
+│  ├─ 03_topic_shaped\            ← STEP 3. 개념을 반영해 범위·순서를 확정한 본
+│  └─ 04_spec_done\               ← STEP 4. 필드까지 모두 채운 완료본
+├─ 02_concept\                    ← `topic_shaped`와 병행하는 개념 작업장. `concept_index.xlsx`를 여기에 둔다
+└─ 03_course_outline_and_draft\   ← [층 3] outline + [층 4] draft 산출물. 한 레슨 폴더에 둘을 나란히 둔다
 ```
 
 > `brainstorm.md`는 2026-09-13에 내용 전부를 `course_plan.md`로 옮겼다. Ji가 직접 삭제할 예정이며 참조하지 않는다.
@@ -35,7 +40,7 @@
 | lesson_spec 필드 작성 규칙, 실물 예시, concept_index | [`course_plan.md`](course_plan.md) §8~§9 |
 | STEP 정의, 결정 기록, 아직 안 정한 것 | [`course_plan.md`](course_plan.md) §10~§11 |
 | 용어의 뜻 (BEAT, BUDGET, Ref_No 등) | [`glossary.md`](glossary.md) |
-| outline과 draft를 어떤 교수 순서로 설계하는가 | [`lesson_design_method.md`](lesson_design_method.md) |
+| outline과 draft를 어떤 교수 순서로 설계하는가 | [`03_course_outline_and_draft/lesson_design_method.md`](03_course_outline_and_draft/lesson_design_method.md) |
 | 어떤 도구를 쓰는가 (Wiki, 영상, 음성) | [`course_tech_stack.md`](course_tech_stack.md) |
 | 커리큘럼 정본, 자료 매핑 index | [`00_curriculum_and_index/`](00_curriculum_and_index/) |
 | 원본 자료 찾기 | [`../01_raw/01_raw.md`](../01_raw/01_raw.md) |
@@ -53,7 +58,7 @@
 | 지금 착수한 할 일 | [`to_do.md`](../../01_inbox/conversation_log/to_do.md) | 끝나면 `course_plan.md` 실시 사항으로 옮긴다 |
 | 로드맵, 계획, 작업 규칙, 결정 기록, 현황 수치, 실시/미실시 사항 | [`course_plan.md`](course_plan.md) | 가리키기만 한다 |
 | 용어 정의 | [`glossary.md`](glossary.md) | 정의를 복사하지 않는다 |
-| 레슨 상세 설계법 | [`lesson_design_method.md`](lesson_design_method.md) | |
+| 레슨 상세 설계법 | [`03_course_outline_and_draft/lesson_design_method.md`](03_course_outline_and_draft/lesson_design_method.md) | |
 | 도구와 기술 | [`course_tech_stack.md`](course_tech_stack.md) | |
 | 커리큘럼 (레슨 수, 제목, 순서) | `00_curriculum_and_index/Korean Course Curriculum Map_Final_V7.xlsx` | 폴더 수치와 다르면 **xlsx가 정본** |
 | 브랜드 톤, 예문 규칙 | [`_about/01_brand.md`](../../_about/01_brand.md) | |

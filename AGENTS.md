@@ -4,7 +4,7 @@
 길이 상한 200줄. 넘으면 내용을 폴더 index로 옮긴다.
 
 ---
-
+I already have line installed here, and I go to the view to see the code skinnected and move to allow codes that you start your ground so you can open up a tab and search for something to debug your application make sure you get that set up and then you dispresses open button solve extension and put it. Another extension that I highly recommend is GitHub if you're where GitHub is essentially a version of your software for code. This means a senior changes that lean and become technology businesses anytime you're a medium size project project you should use in this to create three GitHub account very easy to switch.com as if they could connect to the other insights to a normal way to stop a repository and uploaded to the blocks that you're not going to recent to access to any necessary to refer back as this product making it where he too judged too much by idea highly recommend set if you're wondering education spreadsheets slack generally thousands maybe if you want to set up these ways to now we have to hears to whether you use match worth you can see that next refers different applications and specifically discomputer so form computer like use as it to do something to start might do it some simple or copy new tank close and ingress that are there and a run a single node and describe your ideal date where your computer is called yourself to frontier I was used to skills to case especially in AI tools where influence to check those descriptions to see to use it and finally place a military good and free to try. So most wrongness and we'll see what we get very doing is a key real and it should control and keep demanded how it's controlled on the computer I can still use a result soldiers replication I can post up and it can really use it will actually use it for the person is because it apparently no better their time where you start the country he continued to just open up to be renote and wrote it started and say something smake that we're triple length delivery was on stage to friends enter and then we will see we find that balloon few around the computer and see it will take over and do anything super useful especially to quality and testing the website goes to a form during the task is headed to the administration working at sad the exact same job at the exact same company for years now with no disruption my pay or benefits
 ## 1. 프로젝트와 사용자
 
 Korean With Ji의 한국어 교육 사업 운영을 위한 **Obsidian LLM Wiki vault**다. 코드 저장소가 아니라 지식 저장소다.
@@ -87,7 +87,7 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 | 사업 순서, 우선순위, 기술 스택, 미정 사항 | [`_about/Koreanwithji_기획서_v6_260902.md`](_about/Koreanwithji_기획서_v6_260902.md) |
 | 강의 제작 로드맵, 계획, 작업 규칙, 결정 사항, 실시/미실시 사항 | [`02_product/02_course_creation/course_plan.md`](02_product/02_course_creation/course_plan.md) |
 | 코스 제작 용어 | [`02_product/02_course_creation/glossary.md`](02_product/02_course_creation/glossary.md) |
-| 레슨 상세 설계법 (outline, draft 단계) | [`02_product/02_course_creation/lesson_design_method.md`](02_product/02_course_creation/lesson_design_method.md) |
+| 레슨 상세 설계법 (outline, draft 단계) | [`02_product/02_course_creation/03_course_outline_and_draft/lesson_design_method.md`](02_product/02_course_creation/03_course_outline_and_draft/lesson_design_method.md) |
 | 코스 제작 도구 (Wiki, 영상, 음성) | [`02_product/02_course_creation/course_tech_stack.md`](02_product/02_course_creation/course_tech_stack.md) |
 | 원본 자료 찾기, 트랙 구조 | [`02_product/01_raw/01_raw.md`](02_product/01_raw/01_raw.md) |
 | vault 구조, 자료 .md 변환, 파이프라인 | [`_vault_setup/_vault_setup.md`](_vault_setup/_vault_setup.md) |
@@ -138,7 +138,7 @@ Codex 실행 → AGENTS.md → master_index.md → 00_daily_worklog.md → to_do
 
 **작업 순서**
 ```
-Ji가 프롬프트 작성 → 작업 내용 conversation_log.md에 기록 → 일과 마무리 후 Ji의 요청이 있을 시 YYMMDD_log.md 작성 + to_do.md 갱신
+Ji가 프롬프트 작성 → 작업 내용 conversation_log.md에 기록(Codex turn hook의 append는 사전 승인) → 일과 마무리 후 Ji의 명시 요청이 있을 시 YYMMDD_log.md 작성 + to_do.md 갱신
 ```
 
 **세션 시작**
@@ -147,10 +147,10 @@ Ji가 프롬프트 작성 → 작업 내용 conversation_log.md에 기록 → �
 3. 다음에 무엇을 할지는 [`01_inbox/conversation_log/to_do.md`](01_inbox/conversation_log/to_do.md)를 본다. 작성 요령은 [`01_inbox/01_inbox.md`](01_inbox/01_inbox.md).
 
 **작업 중**
-- 답변할 때마다 [`01_inbox/conversation_log/conversation_log.md`](01_inbox/conversation_log/conversation_log.md)에 실시간으로 기록한다. 항목마다 날짜와 시간, Ji가 시킨 것, 그것을 어떻게 이해했는지, 어떻게 이행했는지와 특이사항(있을 시)까지 남긴다.
+- 답변할 때마다 [`01_inbox/conversation_log/conversation_log.md`](01_inbox/conversation_log/conversation_log.md)에 실시간으로 기록한다. 항목마다 날짜와 시간, Ji가 시킨 것, 그것을 어떻게 이해했는지, 어떻게 이행했는지와 특이사항(있을 시), Codex turn marker를 남긴다. plan mode에서는 hook이 종료를 막지 않으며, 다음 편집 가능한 turn에 기록한다.
 
 **하루 마감**
-- `conversation_log.md`를 근거로 `00_daily_worklog/YYMMDD_log/YYMMDD_log.md`를 쓰고 인덱스 표에 행을 추가한다. 같은 근거로 `to_do.md`도 이때 한 번 갱신한다.
+- `conversation_log.md`를 근거로 `00_daily_worklog/YYMMDD_log/YYMMDD_log.md`를 쓰고 인덱스 표에 행을 추가한다. 같은 근거로 `to_do.md`도 이때 한 번 갱신한다. Ji의 "오늘 마감" 등 명시 요청은 이 세 파일의 생성·수정과 옮긴 conversation 항목 삭제를 승인한다.
 - **이 작업은 Ji가 요청할 때만 한다.** 스스로 판단해서 옮기거나 `to_do.md`를 고치지 않는다.
 
 > 이 기록이 곧 §1의 long-term purpose를 지탱한다. 기록이 끊기면 vault는 인프라가 아니라 파일 더미가 된다.
@@ -193,4 +193,4 @@ Ji가 직접 만든 용어다. **임의로 다른 이름으로 바꾸지 않는�
 - **200줄을 넘기지 않는다.** 넘으면 해당 내용을 폴더 index로 옮기고 여기는 포인터만 남긴다.
 - **모호한 규칙은 쓰지 않는다.** "잘 정리해라" 대신 "쓰기 전에 확인받아라"처럼 지켰는지 검증 가능한 문장으로 쓴다.
 - **반복되는 실수를 발견하면 §10에 한 줄 추가하자고 Ji에게 제안한다.** 임의로 고치지 않는다.
-- 최종 갱신: 2026-09-13
+- 최종 갱신: 2026-09-15

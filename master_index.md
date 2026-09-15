@@ -6,7 +6,7 @@
  - 필요할 때만 조회하는 온디맨드 메모리 아키텍처 구현 (Memory on Demand & Token Saving)
  - 각 폴더와 하위 파일들의 정체성이 1~2줄의 요약 문장과 불릿 리스트로 정확히 기입.
  - AI는 부팅 시 전체 하위 데이터 수천 개를 한 번에 전부 읽는 과부하를 범하지 않고, 오직 이 지도만 파악하고 있다가 Ji가 특정 지식이나 작업을 요구하는 그 순간에만 표적 폴더\파일을 선택적으로 로딩하여 처리하므로 토큰 낭비를 차단하고 처리 성능 상승
- - master_index에는 vault루트에 위치한 **메인 폴더 - .claude, .obsidian, .venv, .vscode 등 시스템 폴더 제외** 및 주요 파일만 표시 (.gitignore, .env, cookies.txt, requirements.txt 같은 시스템 파일 제외)
+ - master_index에는 vault루트에 위치한 **메인 폴더 - .agents, .codex, .obsidian, .venv, .vscode 등 시스템 폴더 제외** 및 주요 파일만 표시 (.gitignore, .env, cookies.txt, requirements.txt 같은 시스템 파일 제외)
   > 각 폴더 별로 폴더명과 동일한 md파일이 존재한다. 그 파일이 각 폴더별 상세 index이다. 폴더 별 상세 목적은 거기서 확인한다.
 
 ---
@@ -59,7 +59,7 @@
 ├─📁 04_marketing\                  유입부터 결제까지의 경로 설계. 추후 마케팅 자료 서가로 확장
 │   └─📄 04_marketing.md            ← 폴더 index
 │
-├─📄 CLAUDE.md                      에이전트 행동 규칙과 라우팅
+├─📄 AGENTS.md                      Codex 에이전트 행동 규칙과 라우팅
 └─📄 master_index.md                현재 파일. vault 전체 큰 그림 index
 ```
 
@@ -74,7 +74,7 @@
 | 과거에 무슨 작업을 했는지 추적 | [`00_daily_worklog/00_daily_worklog.md`](00_daily_worklog/00_daily_worklog.md) |
 | 대화 기록, 지금 할 일 확인, 새 자료 투입, 결과물 검토 | [`01_inbox/01_inbox.md`](01_inbox/01_inbox.md) |
 | 강의 제작, 원본 자료 찾기, 코스 기술 스택 | [`02_product/02_product.md`](02_product/02_product.md) |
-| CLAUDE.md, Skill, Agent, 메모리 등 tech 학습 | [`03_tech/03_tech.md`](03_tech/03_tech.md) |
+| AGENTS.md, Skill, Agent, 메모리 등 tech 학습 | [`03_tech/03_tech.md`](03_tech/03_tech.md) |
 | 퍼널, 카피, 가격, 채널 전략 | [`04_marketing/04_marketing.md`](04_marketing/04_marketing.md) |
 
 ---

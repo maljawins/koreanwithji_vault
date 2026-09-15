@@ -1,27 +1,37 @@
-09-14
-1. 커리큘럼맵에 Draft보유여부 칼럼 추가 완료
+09-15
 
-2. Ji Draft에도 Ref_No 칼럼 추가 완료
+1. 00_curriculum_and_index.md 신설
 
-3. 02_course_creation 내부 폴더 구조 변경
+2. 01_lesson_spec.md 신설
+
+위에 폴더명과 동일한 파일명으로 .md 만들었어.
+- 01_lesson_spec 내 각 단계별 subfolder에는 에는 커리큘럼맵과 동일하게 레벨-레슨 별로 폴더트리를 만들예정
+- 지금은 topic_copy 단계: 44개 레슨을 01_topic_copy 폴더 내 VSL, Hangul, Numbers, Level 1, Level 2 폴더 신설
+
+
+
+4. 02_course_creation 내부 폴더 구조 변경
  - 01_lesson_spec 및 하부 폴더 트리 신설에 따른 index 업데이트
-  > topic_copy, raw, shaped 단계 작업 할 폴더 신설
- - 02_concept폴더 신설
-  > 여기에 concept_index.xlsx 만들예정
- - brainstorm.md 4-2
- - Ji 레슨주제 → topic_copy
+  > 01_topic_copy, 02_topic_raw, 03_topic_shaped 폴더 신설
+  > spec_done 이전 각 단계별로 맞는 폴더로 작업 진행
+ - 02_concept 폴더 신설
+  > topic_shaped과 병행 / 여기에 concept_index.xlsx 만들예정
+  > brainstorm.md 4-2 참조
 
-4. course_plan 문서정비 D-3 조치완료
+5. 현재 상태로 새로운 git repo에다가 백업 완료
 
+6.  RAW_DIGEST를 spec_done 단계에서 남길지 지울지 결정해야 한다는데 이게 무슨 말인지 설명해줘
+ - 정확하게 RAW_DIGEST가 뭔지 그리고 어떤 형태로 남기려고 하는지 남겨야 하는지 VS 남기면 안 되는지 설명 및 비교해줘
 
+7. 조치사항 반영해서 conversation_log 업데이트하고 각 지침 업데이트해줘.
 
+7. 
 
 Later
 
 내 Koreanwithji 유튜브 채널에 있는 영상 md변환
  - korean_yt_md_guide.md 업데이트
  - korean_yt_md_pipeline.py 업데이트
-
 
 ---
 
@@ -41,17 +51,4 @@ Later
 9. `spec_done` — concept_index.xlsx 작성 후 나머지 필드 표준명으로 채움
 
 **C. 뒤로 미룬 것**
-10. `work_plan.md`를 `_archive`로 이동 (Ji 직접)
-11. Koreanwithji 유튜브 md 변환 + 파이프라인 경로 정비 (위 To do)
 
-## Q1. RAW_DIGEST를 spec_done에서 남길지 지울지
-
-**결론: 남긴다. 너무 길어지면 그때 뗀다.**
-
-- **정하는 것**: `topic_raw`에서 raw에서 뽑아온 원문 발췌를, 필드를 다 채운 뒤에도 spec 안에 계속 둘 것인가.
-- **남기면**: 검수할 때 "이 teaching point가 어디서 나왔나"를 바로 옆에서 대조한다. Draft 쓸 때 예문 원본을 raw 폴더에서 다시 안 찾는다.
-- **지우면**: spec이 짧아진다. 대신 근거를 다시 보려면 레슨당 중앙값 123KB짜리 raw를 다시 뒤져야 한다.
-- **결정적인 이유**: 조준 발췌는 판단이 들어간 작업이라 **재현이 안 된다.** 지우면 그 판단이 사라지고, 나중에 필요해지면 사람이 처음부터 다시 한다.
-- **치르는 값**: spec 1장이 2~3배 두꺼워진다. 발췌를 문서 맨 아래에 두면 위쪽 필드만 읽는 건 그대로 된다.
-- **비유**: 요리 끝났다고 장 봐온 영수증을 버리는 것과 같다. 당장은 깔끔한데 "이 재료 어디서 샀지" 할 때 못 찾는다.
-- **되돌릴 수 있는 방향이다**: 남겼다가 길면 떼면 된다. 지웠다가 되살리려면 발췌를 다시 해야 한다.

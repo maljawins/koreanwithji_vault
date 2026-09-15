@@ -4,7 +4,7 @@
 > 사업 전체 도구 스택(사이트 빌더, 이메일 도구, Skool Bot 등)은 `_about/Koreanwithji_기획서_v6_260902.md §3`에 있다. 여기서 다루지 않는다.
 > tech 개념 자체를 공부하거나 참고 문서가 필요하면 [`03_tech/03_tech.md`](../../03_tech/03_tech.md)를 본다.
 > 작업 절차와 STEP 정의는 [`course_plan.md`](course_plan.md)가 단일 출처다. 여기는 **도구**만 다룬다.
-> 최종 갱신: 2026-09-02
+> 최종 갱신: 2026-09-15
 
 ---
 
@@ -12,8 +12,8 @@
 
 | 용도 | 도구 | 결정 상태 | 비고 |
 |---|---|---|---|
-| 강의 Draft 작성 | Obsidian LLM Wiki + Claude Code | 확정 | 아래 §2 |
-| Vault와 Claude 연결 | Obsidian MCP + Skill | 확정 | DP-1 확정 완료 |
+| 강의 Draft 작성 | Obsidian LLM Wiki + Codex | 확정 | 아래 §2 |
+| Vault와 Codex 연결 | Obsidian MCP + Skill | 확정 | DP-1 확정 완료 |
 | 유튜브 자료 .md 변환 | 자체 파이프라인 (Whisper + LLM) | 운영 중 | 규칙서는 [`_vault_setup/01_md_convert/korean_yt_md_guide.md`](../../_vault_setup/01_md_convert/korean_yt_md_guide.md) |
 | 강사 등장 영상 | HeyGen (얼굴과 목소리 cloning) | 확정 방향 | 아래 §3 |
 | 한글 모션 그래픽 | Remotion 또는 HeyFrames | **둘 중 미정** | 코드 기반 합성이라는 방향만 확정 |
@@ -39,7 +39,7 @@
 
 ### 2-2. 역할 분담
 
-| Ji | Claude |
+| Ji | Codex |
 |---|---|
 | 자료 소싱하고 Vault에 반입 | 자료를 읽고 Wiki 페이지 생성 및 갱신 |
 | 방향 결정과 검수 | cross-reference 유지, 모순 발견 시 플래그 |
@@ -83,8 +83,8 @@ Python이 영상을 직접 그리지 않는다. API 호출, subprocess로 렌더
 **Phase 1에서 실제로 필요한 것만 적는다.**
 
 - Obsidian 설치와 설정, Vault 구조 이해, MCP 연결
-- Claude Code 운용: CLAUDE.md, Memory, Skills, Subagent
-- Claude API 호출과 Structured output (대량 스크립트 생성)
+- Codex 운용: AGENTS.md, Skills, Agent
+- OpenAI API 호출과 Structured output (대량 스크립트 생성)
 - 파일 입출력과 배치 처리 (200개 레슨 단위 처리)
 - HeyGen API 또는 UI, 음성 API 호출
 - subprocess로 모션 그래픽 렌더 연동

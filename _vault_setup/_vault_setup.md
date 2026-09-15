@@ -2,7 +2,7 @@
 
 > 이 폴더는 **obsidian vault를 만들고 운영하기 위한 도구와 규칙서**를 모아둔 곳이다.
 > 에이전트는 이 폴더 안의 작업을 시작하기 전에 이 파일을 먼저 읽는다.
-> 최종 갱신: 2026-09-03
+> 최종 갱신: 2026-09-15
 
 ---
 
@@ -45,7 +45,7 @@ _vault_setup\
 | [`_scripts\kor_yt_md_pipeline.py`](01_md_convert/_scripts/kor_yt_md_pipeline.py) / [`tech_yt_md_pipeline.py`](01_md_convert/_scripts/tech_yt_md_pipeline.py) | 각 트랙의 변환 파이프라인. 한국어 전용 지점과 영어 전용 지점이 코드 곳곳에 박혀 있어 서로 복사해서 고치지 않는다 (이유는 각 가이드 참고) |
 | [`_scripts\kor_monitor_server.py`](01_md_convert/_scripts/kor_monitor_server.py) / [`tech_monitor_server.py`](01_md_convert/_scripts/tech_monitor_server.py) | 각 트랙의 변환 진행상황 브라우저 대시보드 |
 | `_scripts\claude_gen\` | 파이프라인 실행 로그·실패 로그·재개 manifest |
-| `02_vault_ops\` | vault 구조 설계, Obsidian·Claude Code 세팅 등 **vault 운영 자체**에 관한 tech 참고자료를 모아두는 곳. 일반 tech 지식(03_tech로 가는 것)과 구분해서 여기 따로 둔다 |
+| `02_vault_ops\` | vault 구조 설계, Obsidian·Codex 세팅 등 **vault 운영 자체**에 관한 tech 참고자료를 모아두는 곳. 일반 tech 지식(03_tech로 가는 것)과 구분해서 여기 따로 둔다 |
 | `03_second_brain_info\` | Ji가 별도 관리하는 자료. 에이전트는 지시가 없으면 건드리지 않는다 |
 
 ---

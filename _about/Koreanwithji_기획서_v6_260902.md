@@ -1,6 +1,6 @@
 # Koreanwithji 사업 기획서 v6
 
-> 최종 수정일: 2026-09-02
+> 최종 수정일: 2026-09-15
 > 강사: Ji (Koreanwithji)
 > 이 문서의 용도: **Ji의 한국어 온라인 교육 사업 전체 운영 로드맵의 단일 출처.** Agent가 "지금 무엇을 먼저 해야 하는가"를 판단하는 근거.
 > 브랜드 정의는 [`01_brand.md`](01_brand.md), 퍼널과 가격은 [`04_marketing/marketing_plan.md`](../04_marketing/marketing_plan.md), 코스 제작 실행은 [`02_product/02_course_creation/02_course_creation.md`](../02_product/02_course_creation/02_course_creation.md)를 본다. 여기서 재설명하지 않는다.
@@ -119,7 +119,7 @@
 후보는 아래를 **모두** 만족해야 한다.
 
 1. **Multimodal 프롬프트 지원**: 손그림 UI 스케치 첨부 가능
-2. **Vibe coding 지원**: Claude Code 등 AI 코딩 에이전트와 호환
+2. **Vibe coding 지원**: Codex 등 AI 코딩 에이전트와 호환
 3. **Drag & Drop 빌더 동시 지원**: vibe coding 결과를 시각적으로 후처리
 4. **외부 결제 위젯 embedding 지원**: 강의 결제와 Digital Downloads 위젯 삽입
 5. **Hidden 페이지 지원**: 메뉴 노출 없이 URL 직접 접근 가능한 광고용 랜딩
@@ -127,7 +127,7 @@
 7. **반응형 UI 지원**: 모바일용 UI 지원이 되어야 함.
 8. **챗봇 지원**: Site Navigation, 환불 등 지원하는 Agent Chatbot 기능이 있어야 함.
 
-**후보군**: Webflow + Webflow AI / Framer + Framer AI / WordPress + Claude Code + Bricks·Elementor / Lovable·v0·Bolt
+**후보군**: Webflow + Webflow AI / Framer + Framer AI / WordPress + Codex + Bricks·Elementor / Lovable·v0·Bolt
 
 ---
 
@@ -135,7 +135,7 @@
 
 | Agent | 역할 | Phase | 도구 |
 |---|---|---|---|
-| 강의 Draft 생성 | Obsidian Wiki 기반 레슨별 Draft 작성 | Phase 1 (핵심) | Obsidian + Claude Code |
+| 강의 Draft 생성 | Obsidian Wiki 기반 레슨별 Draft 작성 | Phase 1 (핵심) | Obsidian + Codex |
 | 영상 합성 자동화 | 한글 모션 그래픽 + voiceover | Phase 1 (핵심) | HeyGen + Remotion(or HeyFrames) + Replicate + Python |
 | eBook 생성 | 완성 스크립트를 eBook으로 재구성 | Phase 2 | Obsidian Wiki 기반 |
 | 콘텐츠 Repurposing | 강의를 숏폼·롱폼·블로그 멀티포맷으로 | Phase 4 | Obsidian Wiki, LangChain |
@@ -182,7 +182,7 @@ Python이나 AI 학습 플랜을 짤 때 이 순서를 기준으로 삼는다.
 
 ### 5-2. 구체적으로 배워야 하는 것
 - Obsidian + LLM Wiki 설정 및 운영 (Phase 1 핵심)
-- Claude Code 심화: CLAUDE.md, Memory, Skills, MCP, Agent 설계 (참고자료는 `03_tech/`)
+- Codex 심화: AGENTS.md, Skills, MCP, Agent 설계 (참고자료는 `03_tech/`)
 - Remotion 사용법 (영상 모션 그래픽)
 - HeyGen API 또는 UI
 - Manychat, TikTok/Meta/YouTube API (Phase 4)

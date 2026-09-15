@@ -1,0 +1,32 @@
+{
+  "description": "Keep this vault's turn log complete and require an explicit daily-close workflow.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.codex/hooks/vault_logging.py\"",
+            "commandWindows": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"& py -3 (Join-Path (git rev-parse --show-toplevel) '.codex\\hooks\\vault_logging.py')\"",
+            "timeout": 5,
+            "statusMessage": "Preparing the vault work record",
+            "additionalContextLimit": 800
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"$(git rev-parse --show-toplevel)/.codex/hooks/vault_logging.py\"",
+            "commandWindows": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"& py -3 (Join-Path (git rev-parse --show-toplevel) '.codex\\hooks\\vault_logging.py')\"",
+            "timeout": 10,
+            "statusMessage": "Checking the vault work record"
+          }
+        ]
+      }
+    ]
+  }
+}

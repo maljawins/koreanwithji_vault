@@ -2,7 +2,7 @@
 
 > 이 폴더는 **판매할 상품을 실제로 만드는 곳**이다. 지금의 상품은 한국어 온라인 코스 하나다. (Phase 1)
 > 원본 자료를 쌓아두는 곳(`01_raw`)과 그 자료로 강의를 만드는 곳(`02_course_creation`)이 분리돼 있다.
-> 최종 갱신: 2026-09-13
+> 최종 갱신: 2026-09-15
 
 ---
 
@@ -20,8 +20,9 @@
     ├─ lesson_design_method.md      ← 레슨 상세 설계법 (outline, draft 단계)
     ├─ course_tech_stack.md         ← 코스 제작에 쓰는 도구와 기술
     ├─ 00_curriculum_and_index\     ← 커리큘럼 맵과 자료 index xlsx
-    ├─ 02_lesson_spec\              ← [층 2] lesson_spec 산출물 (STEP 2부터 생성)
-    └─ 01_course_outline_and_draft\ ← [층 3] OUTLINE + [층 4] DRAFT 산출물
+    ├─ 01_lesson_spec\              ← [층 2] lesson_spec 작업장. topic_copy·raw·shaped 하위 폴더 포함
+    ├─ 02_concept\                  ← concept_index.xlsx 작업장
+    └─ 03_course_outline_and_draft\ ← [층 3] OUTLINE + [층 4] DRAFT 산출물
 ```
 
 ---
@@ -38,7 +39,7 @@
 | [`lesson_design_method.md`](02_course_creation/lesson_design_method.md) | 레슨 **상세 설계법** 단일 출처. outline, draft 단계에서 쓴다. Skeleton, Flesh, Comprehensible Input, 줌인 반복, 실생활 예시, 4MAT |
 | [`course_tech_stack.md`](02_course_creation/course_tech_stack.md) | 코스 제작의 **도구** 단일 출처. Obsidian LLM Wiki, 영상 제작 자동화, 필요 역량 |
 | `00_curriculum_and_index\` | 커리큘럼 맵 정본([`Korean Course Curriculum Map_Final_V7.xlsx`](02_course_creation/00_curriculum_and_index/Korean%20Course%20Curriculum%20Map_Final_V7.xlsx))과 자료 트랙별 index xlsx 5종 |
-| `01_course_outline_and_draft\` | 레슨별 OUTLINE(층 3)과 DRAFT(층 4) 산출물이 쌓이는 곳. 한 레슨 폴더에 둘을 나란히 둔다 |
+| `03_course_outline_and_draft\` | 레슨별 OUTLINE(층 3)과 DRAFT(층 4) 산출물이 쌓이는 곳. 한 레슨 폴더에 둘을 나란히 둔다 |
 
 ---
 

@@ -1,9 +1,15 @@
-Korean Course Curriculum Map_Final_V7.xlsx 파일과 동일한 구조의 폴더트리로 구성
+# 03_course_outline_and_draft 인덱스
 
-각 레벨-레슨의 폴더 별로 outline 작업 선행.
+> 이 폴더는 [층 3] outline과 [층 4] draft를 같은 레슨 폴더에 저장하는 작업장이다.
+> 작업 순서와 파일명 확정 사항은 [`course_plan.md`](../course_plan.md)가 단일 출처다.
+> 최종 갱신: 2026-09-15
 
-outline 작업 이후 동일 폴더 내에 강의 draft 작성
- - 레벨-레슨-레슨명_outline.md / 레벨-레슨-레슨명_draft.md 로 파일명은 구분하되, 동일 레슨 폴더내에 같이 저장
+## 폴더 규칙
+
+- `Korean Course Curriculum Map_Final_V7.xlsx`와 같은 레벨·레슨 폴더 트리를 사용한다.
+- 한 레슨에서 outline을 먼저 만들고 Ji 검수를 통과한 뒤, 같은 폴더에 draft를 만든다.
+- outline과 draft는 파일명으로만 구분한다. 최종 파일명 규칙은 STEP 4 dry-run에서 확정한다.
+- 상세 교수 설계법은 [`lesson_design_method.md`](lesson_design_method.md)를 본다.
 
 
 
