@@ -1,0 +1,11 @@
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E22] 메모리 시스템 Auto memory, MEMORY.md, memory 명령, compact 재주입_260831.md** (`https://youtu.be/2RJWSWcomQU`): 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E22] 메모리 시스템 Auto memory, MEMORY.md, memory 명령, compact 재주입_260831.md** (`https://youtu.be/2RJWSWcomQU`): 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+- **tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 Minutes_260831.md** (`https://youtu.be/h7QJL2_gEXA`): 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+- **tech_bri_CLAUDE.md Complete Guide — The File That Makes Claude Code Actually Useful_260831.md** (`https://youtu.be/9DTqFPv0oak`): 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+- **tech_Greg Isenberg_Why Graph Engineering will 10x your Claude Codex_260831.md** (`https://youtu.be/JWhICz1QR8M`): 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E15] Agentic Loop 작동 원리 도구 실행 흐름과 컨텍스트 윈도우 관리_260902.md** (`https://youtu.be/6fiMMnrbfuY`): [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E21] CLAUDE.md 프로젝트 지침 위치, 작성 4원칙, @임포트, 팀 공유_260902.md** (`https://youtu.be/Lqeq8Rb1SSE`): [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E26] Claude Code 실전 스킬 만들기 PR 리뷰, 테스트 생성, 문서 생성 SKILL.md 예제_260902.md** (`https://youtu.be/eTXP2qPCYEI`): 재시도 후에도 검증 실패: ["섹션명에 타임스탬프 없음: ['`functionName(p1: T1, p2: T2): ReturnType`']"]
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E25] Claude Code 커스텀 스킬 작성 SKILL.md 구조부터 description 최적화까지_260902.md** (`https://youtu.be/_je6aq87I9c`): 재시도 후에도 검증 실패: ["섹션명에 타임스탬프 없음: ['Progress Checklist']"]
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E15] Agentic Loop 작동 원리 도구 실행 흐름과 컨텍스트 윈도우 관리_260902.md** (`https://youtu.be/6fiMMnrbfuY`): 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트', '컨텍스트 윈도우']"]
+- **tech_새로운 시작 (neosarchizo)_[Claude Code 입문 E21] CLAUDE.md 프로젝트 지침 위치, 작성 4원칙, @임포트, 팀 공유_260902.md** (`https://youtu.be/Lqeq8Rb1SSE`): 재시도 후에도 검증 실패: ['적용 지식이 산문보다 불릿 위주 (산문 규칙 위반 의심)']

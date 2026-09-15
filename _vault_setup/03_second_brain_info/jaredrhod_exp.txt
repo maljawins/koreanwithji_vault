@@ -1,0 +1,36 @@
+jaredrhod - Obsidian + Claude
+
+Claude Code Explained
+ - https://youtu.be/SRUQH37t-FQ?list=PLN7lTYpeRLOc
+
+AI priming
+ - Giving context to get AI to do things I want it to do
+
+How Claude Code Actually Works
+ - https://youtu.be/gmMsCu0JmcI?list=PLN7lTYpeRLOc
+
+MEMORY.md
+ - SSOC → 여기저기 흩어져서 관리되는게 아니라 Vault안 한공간에서 체계적인 시스템으로 memory 관리
+ - 기본 default 폴더 (.claude를 vault안으로 이동)
+
+
+
+How I Set Up Obsidian with Claude Code
+ - https://youtu.be/lTd3DwajYks?list=PLN7lTYpeRLOc
+
+00 inbox
+ - 00 inbox 폴더는 AI 메모리 볼트 시스템 내에서 파일이 최종 분류되기 전 거치는 일종의 '만능 임시 보관소(Catchall)'이자 사용자와 AI 간의 완충 지대 역할을 합니다
+.
+구체적인 역할과 기능은 다음과 같이 상세히 분석할 수 있습니다.
+1. 사용자가 AI에게 전달할 자료의 투입구 (Drop-off Zone)
+사용자가 AI 에이전트에게 읽히고 분석하도록 만들고 싶은 새로운 노트나 자료를 임시로 넣어두는 공간입니다
+.
+이를 통해 AI가 작업해야 할 새로운 콘텐트나 맥락 데이터를 혼선 없이 바로 파악하고 처리할 수 있게 합니다.
+2. AI의 작업 결과물을 검토하는 수신함 (Review Station)
+AI 에이전트가 사용자를 대신해 기존 노트를 편집(Edit)하거나 완전히 새로운 노트를 생성했을 때, 사용자가 이를 곧바로 최종 폴더에 넣지 않고 먼저 확인 및 검토(Review)할 수 있도록 AI에게 이 폴더에 결과물을 넣어두라고 지시합니다
+.
+즉, AI의 산출물이 사용자의 수동 검증을 거치는 안전장치 역할을 수행합니다.
+3. 최종 분류 전의 캐치올(Catchall) 폴더
+볼트 내의 정형화된 폴더(예: daily notes, company A, dev 등)로 최종 분류(File away)되거나 혹은 아카이브(Archive)되기 전, 모든 데이터가 일차적으로 모이는 대기 장소입니다
+.
+이를 통해 처음부터 파일 시스템이 지저분해지는 것을 방지하고 볼트 내부의 깔끔한 구조와 정돈 상태를 유지할 수 있습니다

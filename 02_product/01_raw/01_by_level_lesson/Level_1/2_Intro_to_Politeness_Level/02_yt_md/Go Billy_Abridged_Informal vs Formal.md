@@ -1,0 +1,110 @@
+# Go Billy | Informal vs Formal | Live Class Abridged
+
+## Metadata
+
+- **Channel:** Go Billy
+- **URL:** https://youtu.be/9J44iWny3io
+- **Duration:** 17:04
+- **Upload Date:** 2024-07-31
+
+---
+
+## Teaching Points
+
+### Overview
+
+The instructor provides a comprehensive guide to the social and linguistic foundations of Korean politeness levels, specifically focusing on the distinction between informal (요-form) and formal (니다-form) speech. The lesson moves from the sociological factors that dictate speech choice—such as age, relationship, and work hierarchy—to the specific grammatical mechanics of conjugation. By the end of the session, learners understand not just how to form these sentences, but the specific "feeling" each form conveys: the soft, respectful nature of informal speech versus the strong, official tone of formal speech.
+
+---
+
+### The Four Pillars of Korean Speech Levels
+
+The way a speaker addresses someone in Korean is governed by social hierarchy. The instructor identifies four primary factors that dictate which speech level to use. First and most critical is age, specifically the year of birth (연 나이). While one might speak casually to those of the same age or younger, this is only permissible once a close relationship is established; speaking casually to a stranger just because they are younger is considered very rude. Second is the relationship: family members, spouses, close friends, co-workers, and bosses all require different nuances. Third is work position, where professional rank can override age differences. Finally, the situation matters; a private conversation allows for different rules than a public speech or an official announcement.
+
+---
+
+### Informal Speech: The 요-Form
+
+Informal speech, commonly known as the 요-form, is the most frequent way verbs are conjugated in daily life. The instructor emphasizes that "informal" does not mean "impolite." Instead, the 요-form carries a soft and respectful feel. It is the standard polite choice for most situations, such as talking to older friends or acquaintances. However, the instructor notes a crucial nuance: the 요-form by itself shows respect to the person you are speaking to, but if you are talking *about* someone else (or asking a question to someone directly), you must often add honorific or humble speech elements to ensure the sentence is polite enough.
+
+---
+
+### Formal Speech: The 니다-Form
+
+Formal speech is characterized by the endings ~습니다 and ~ㅂ니다 for statements, and ~습니까 and ~ㅂ니까 for questions. Unlike the soft feel of the 요-form, formal speech carries a strong and respectful feel. This makes it the default choice for official announcements, business letters, military contexts, and first-time meetings with people you wish to impress, such as a new boss or parents-in-law.
+
+The instructor demonstrates the conjugation mechanics on screen. To form a statement, one takes the verb stem (the verb minus 다). If the stem ends in a vowel, ~ㅂ니다 is attached; if it ends in a consonant, ~습니다 is attached. For stems ending in the consonant ㄹ, the ㄹ is dropped before attaching ~ㅂ니다.
+- **하다 (to do)**: stem 하 ends in a vowel → 합니다 (statement) / 합니까? (question)
+- **먹다 (to eat)**: stem 먹 ends in a consonant → 먹습니다 (statement) / 먹습니까? (question)
+- **놀다 (to play/hang out)**: stem 놀 ends in ㄹ → ㄹ drops → 놉니다 (statement) / 놉니까? (question)
+
+---
+
+### Fixed Formal Expressions
+
+There are several common Korean expressions that are almost always used in their formal (니다) version, even in situations that aren't strictly "official." Using the informal 요-form for these can actually sound impolite unless you are already well-acquainted with the person. The instructor lists these on the board:
+- **감사합니다** / Thank you
+- **죄송합니다** / I am sorry
+- **만나서 반갑습니다** / Nice to meet you
+- **잘 먹었습니다** / I ate well (thank you for the meal)
+- **생일 축하합니다** / Happy birthday
+
+---
+
+### Tense and Mixing Levels
+
+The lesson concludes with formal conjugations for past and future tenses. For the future tense, speakers can use the ~ㄹ 겁니다 form (derived from 것이다) or the more formal ~겠습니다 ending. The ~겠다 ending is particularly common in formal speech to express intention or a future state. For the past tense, one simply takes the past tense verb stem (e.g., 했 from 하다) and attaches ~습니다 to create 했습니다.
+
+Finally, the instructor explains that it is common to mix informal and formal speech within a single conversation. Using only formal speech can make a conversation feel overly stiff and tense. Speakers often switch to the 요-form to soften the mood, or jump into the 니다-form to emphasize a point with extra strength and respect.
+
+---
+
+## Transcript
+
+**Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+I need to get something off my chest. I've been wearing the same outfit now for over 12 years. And I have to be honest, I am just so, so sick of wearing this shirt, this hat in every single video. So I'm not going to stand here and whine about it. I'm going to do something about it. We're just going to say goodbye to the shirt today. There we go. That was so easy. It's gone.
+
+I feel so much better already. And you know what? This hat too. This stupid hat. I'm so sick of this hat. Now everyone can stop bothering me about wearing the same outfit every single video. Now that we've taken care of business, we're going to be learning about formal speech and informal speech today.
+
+The way you talk to someone in Korean is based on social hierarchy. The way you talk to someone will depend on this. The most important thing to consider is a person's age. Now, that is actually based on Korean age. Or specifically, what's known as 연 나이, just the year that someone was born. If someone is the same age as you or younger, typically, if you're close with them, you can speak casually. You can't just introduce yourself to someone, find out they're the same age as you or younger, and start speaking casually to them. That could be very rude.
+
+An exception might be much older people who know that they're way older than you and they're in a regular casual everyday situation. They're just going to speak casually to you. But otherwise, you want to be polite. Until you know that you don't have to be. And if someone's one year older than you, even, you might never get to speak casually with them. Unless you agree that you're both going to speak casually to each other. And that can happen as a non-Korean with a Korean. It usually will not happen with two Korean people. So keep that in mind.
+
+The next thing you need to pay attention to is your relationship with them. Obviously, you're going to speak differently to someone who's your family member or someone who you're dating or you've married. Your friends, your really close friends. A co-worker, a stranger, your boss. All of these sort of different relationships will also dictate how you speak with someone. Typically, Koreans will speak casually to their own parents once they've reached about teenage years. But not everyone does that. Some people will still speak politely toward their parents. If you're dating someone, regardless of their age, you might have a different way that you speak. If you don't know how to talk with someone, ask.
+
+The next thing you need to pay attention to is work position. Is this an employee? Are you the boss? Let's say you're a little older than another co-worker. Because you're still co-workers, you're kind of on the same level. You still might speak politely with each other, even though you both work at the same company. These are other things you have to consider. And then finally, last but not least, is the situation you're in. Are you giving a speech? Are you just talking in private with someone? In which case, you can forget whatever rules you know, and you can just use whatever rules you and that person have. Like if a friend tells you, hey, speak casually to me. It actually means in private. It doesn't mean when you're in front of other people necessarily. So keep that in mind. And I have a whole course about this if you want to learn it in detail, master politeness level. So I'm not going to go into too much detail. That's enough for this.
+
+Okay, so what is informal speech? Well, informal speech is informal. It's not formal. In Korean, there is formal speech and there's informal speech. Now, there's also casual speech, but casual speech is technically informal because it's not formal. Typically, though, when someone says informal speech, they're not referring to casual speech. Usually you're referring to the speech that's still formal, but it's not formal. You're referring to the speech that's still formal, which is the 요-form, because it's not formal. It's not casual, but it's not formal. Before we talk about the 요-form, just because it's formal doesn't mean it's polite. And on the other hand, just because it's informal doesn't mean it's impolite.
+
+Even the 요-form can be very polite if it's used together with honorific speech, for example. If it's used in the right situations, it's very polite. Informal or formal speech is specifically about how much respect you're showing to the person that you are currently speaking to. It doesn't have to do with the person you're talking about. It's just how much respect is the speaker showing to the person that they are currently speaking to. That's formal versus informal. And that's different than honorific speech or humble speech. Humble speech and honorific speech are specifically showing more respect towards someone who you're talking about. It has no relation to who you're talking to. So these are for the person who you're speaking to.
+
+All right, so let's talk about using the 요-form. 요-form is the most common way that a verb is conjugated at the end of a sentence. It's the most common way you're going to see. And we're not going to be reviewing how to conjugate the 요-form in this lesson. The most important thing you can know about the 요-form is actually, besides its conjugation, is how it feels when someone uses the 요-form. Informal speech, so the 요-form, has a soft feel. It has a respectful feel. So when you use it, no matter what you're saying, the feeling that you're giving, is a soft and respectful feel. And this is important to know because it is different than the feeling when you use formal speech. Okay, we'll come back to this in a bit, but write this down. It has a soft, respectful feel. Because if you know this, you'll know when you should use it.
+
+The standard 요-form, so nothing else added to it. Just, 하다 becomes 해요. Just that, like just the regular 요-form. This form is going to be polite in most situations, but not all. But it is going to be polite in most situations. You're not going to use the 요-form when you're talking to friends, who are the same age as you or younger, because you're friends are close. But instead you will use the 요-form when you're talking to older friends. So even if you made a friend in Korea, if they're one year older than you in Korean age, that doesn't mean you can speak casually to them because you're friends. As a non-Korean, they might prefer that you just speak casually to them, because they want that, but you can't assume it. Not everyone's like that. I have some Korean friends who prefer I speak to them casually, and I've known other people who haven't mentioned that. They kind of feel like, no, no, no, it's cool. Like we're friends, but you can be like professional friends. You can have like a business friendship. You don't want to just assume you can speak casually with someone just because they're your friend. So ask them.
+
+Typically the younger friend will speak more politely and the older friend will speak more casually. In fact, even some couples might use the correct speech levels to each other. You know, the older person will speak casually and the younger person will speak politely. It's not the most common way it happens. So ask. And the regular 요-form, you might think that it's going to be polite since it has a soft and respectful feel. But there's also something called honorific speech and humble speech that if it's not added onto your sentence, if it's not correctly attached, your sentences actually won't sound polite enough unless you're also using honorifics and humble speech when you're talking about someone else. But it's also anytime you're asking a question about someone. So if you're asking someone where the convenience store is, you could say, do you know? This is a question, but technically talking about someone else by saying you know. So if you're asking a question to someone else directly, you would still use honorifics or humble speech or whatever, because you're not talking about yourself. You're asking someone a question.
+
+Typically when you're using questions, the standard 요-form might not be enough. It has a soft, respectful feel, but it doesn't show respect toward the person you're talking about. So you might still add, you should add, honorific speech whenever you're talking about someone else. We don't have time to talk about all this in this lesson. Watch my separate live stream about honorific speech, or even just watch my beginner course. I also go over it in there. You would say, 하세요, which is the honorific form, but it still is technically the 요-form. So if you're asking questions to other people or you're talking about someone else, including questions, just the 요-form might not be polite enough.
+
+Formal speech. What is formal speech? Well, formal speech typically is used to refer to someone else. So if you're talking about someone else, including questions, just the 요-form might not be polite enough. Formal speech, you can refer to the form, 니다. Or when you're asking a question like, 합니다, 합니까, 습니다, 습니까, like that. Now a common misconception is that formal speech is only used in formal or only in official situations. That's not true. It's used everywhere. Now, we're not going to talk about every conjugation rule for this form because you can learn it a lot of places online, but really briefly, you take a verb stem. That's just the verb minus the 다 at the end. So you take a verb stem, and if that verb stem ends with a vowel, you'll attach ㅂ, this letter, and 니다. And if it ends with a consonant, then you'll attach 습니다. Or if this consonant happens to be this letter, the L letter, the ㄹ, then you drop it and you attach this one. The other thing you need to know is that this is for statements. This is for saying something. If you want to make this into a question, instead of 니다, you use 니까. But the rules are the exact same.
+
+So 하다 becomes 합니다. And as a question, 합니까. 먹다, to eat. The verb stem is 먹. 먹 ends in a consonant, 먹습니다. Or a question, 먹습니까. 놀다, to hang out or to play, is 놀. It ends in a ㄹ, so you remove it. You attach this. 놉니다. 놉니까. That's all there is to it. So the 요-form had a soft, respectful feeling. Formal speech has a strong, respectful feeling. Is it softly being respectful? Or is it strongly being respectful? Because of this, these forms can sound as if you're speaking officially. But they don't have to. Just when someone's speaking officially, they want to sound strong and respectful. So because of that, it sounds like it's more respectful than the 요-form.
+
+So you're gonna hear this used whenever someone's making an official announcement or an official speech. That also includes if someone's writing a business letter. Like if you're writing a letter to your customer. Now, you're not going to use this if you're writing a letter to your friends and if you're giving an announcement to your friends, because you don't need to sound strong and respectful when you're talking to your friends. You would just speak normally. You're probably going to hear this when you're meeting your new boss or meeting a new teacher for the very first time, as well as if you're meeting parents-in-law for the very first time. Anyone that you want to impress. Another situation is in the Korean army. That's because of rules that they have in the Korean army that you have to speak formally because they just want to have everyone on the same page. And another common situation that many people forget, not just the army, but any sort of social worker, you might want to speak like this to them. Doesn't mean you have to. Strangers as well. You don't have to, but if you want to give that sort of strong, respectful feel when you're talking to someone, you might want to use it.
+
+There are a lot of expressions that are technically made with formal speech, but people don't consider them to be formal. They just consider them to be the basic level of polite. And in fact, if you don't use their formal versions, it sounds impolite if it's a situation where you should be polite. So these are expressions that, although, yeah, they're formal, they're not considered to be part of the regular formal speech. You use them anytime you want to be polite. And there are several of these. 감사합니다, 죄송합니다, 만나서 반갑습니다, 잘 먹었습니다. You would not use 생일 축하해요 unless you're already well acquainted. So anytime you need to be polite at all, use the full formal version of these expressions: 생일 축하합니다.
+
+I mentioned this briefly with the 요-form, but you can also add honorific speech to formal speech as well. Not only informal speech, like 하다. You could have like 하세요 for the 요-form, but you can also have it with formal speech. 하시다 is what you normally get. So you get the verb stem. It ends with a vowel, so you attach this. 하십니다 or 하십니까. Now you can have honorific speech added to your formal speech. If you're speaking to someone who you want to sound strong and respectful toward, but you're speaking about someone else who you want to show extra respect toward, then you could do this.
+
+Really quickly, I want to go over future tense and past tense formal speech. So there are two ways to make the future tense with formal speech. The first one is by using the standard 것이다, future tense form. Like 할 거야, 할 거예요. How do you do it? Well, this 이다, you just conjugate it to formal speech. So you get 입니다, right? Or this is commonly cut out when you're using it for conjugation. It's the same thing with 할 거야. It's not 할 것이야, but you can just do 할 거야. So the same thing here, 할 겁니다. 먹을, for 먹다, to eat. 먹을 겁니다. So, 겁니다 is a common future tense version of this form. But there's a second one, and that is the 겠다 ending. All you do is you take a verb stem. There are no exceptions to this. You just attach 겠다, and then you conjugate this. So this will be 겠습니다. When it's used with formal speech, it's 겠습니다 or 겠습니까 for a question. And that's all.
+
+So what's the difference between 겠다 and 것이다? Well, there are a few differences, but the main difference is that this 겠다 form is more formal sounding. When you're saying, I will do something. And you're using the 겠다 form, most of the time, it's going to become 겠습니다. You're not going to see 겠어요 with your form very much. If it's being used as the future tense. Now, there's another usage for this, which we're not going to cover today, to mean would, like it must be, or I'm sure it would be, that must have been difficult. That would be hard. If it's used for would, it can be used with any of these. But if you're using it for the future tense, not always, but almost always, it will be 겠습니다 or 겠습니까, as is.
+
+Past tense is really simple. You also have two options. If you're familiar with it, you can also use the past tense 것이다 form. For example, 하다 would become 한 거예요 or 한 거야, like that. You can say 한 것입니다 or just 한 겁니다, exactly the same. So 한 겁니다, past tense, formal speech. Or you get the past tense verb stem and you attach 습니다. 하다, the normal past tense, is 했다. As soon as you get to these letters, you have the past tense stem. So 했어요, for example, 했습니다, you're done. There are no rules you need to learn because when you have this, you've already applied any conjugation rules already. 했습니다, 했습니까? That's it.
+
+Now let's talk about one more thing, and that is mixing informal speech and formal speech, because you can commonly mix them. If you are in a situation where you're using formal speech, you don't need to constantly convey a strong, respectful feel the entire conversation, with exceptions, if you're giving like an official speech, you probably would always keep that feeling up. If you're writing an official business letter to your customers, you probably would keep it formal the whole way through. But if you're in a situation where you normally would speak formally with someone, you don't want to keep that tension high, that strong, respectful feel the entire conversation, right? Because it just sounds a little bit stiff.
+
+So often you'll hear people speaking, they'll drop their formality, for some parts, because they don't want the entire thing to sound really stiff. They want it to sound respectful and strong, but sometimes a little soft. And when someone's speaking just the 요-form, you might hear them break, and suddenly get a little bit more strong, because they want to be extra respectful when they say something. So if you hear them getting mixed, it only has to do with that feeling that I talked about. The 요-form is like a regular soft feeling, sounds soft. And the 니다 or 니까 endings have a strong feeling to them. So yeah, only using formal speech, if you're speaking formally, can sound a bit too stiff. So it's fine to mix formal and informal speech together at different amounts, depending on whatever feel you want. But again, if it's a very official situation, you probably wouldn't mix it.
+
+And if you want to learn more about politeness levels, all of the politeness levels, I have a full course called Master Politeness Levels, which is 24 episodes. It's free. It's on my channel. You can watch it right now. And that goes into detail about literally everything. Okay, so that is our lesson for today. Thank you, everyone, for coming. And I'll see you again next time. 그럼 다음에 또 봐!

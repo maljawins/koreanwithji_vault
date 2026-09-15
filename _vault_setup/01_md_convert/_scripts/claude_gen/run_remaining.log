@@ -1,0 +1,55 @@
+2026-08-31 19:39:21,886 INFO BASE_DIR = C:\vault\Koreanwithji_vault
+2026-08-31 19:39:21,887 INFO xlsx 파싱... (C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\tech_yt_md_convert.xlsx)
+2026-08-31 19:39:21,892 INFO xlsx 유튜브 행 전체 11개
+2026-08-31 19:39:21,892 INFO 변환 대상(X) 6개 | 공란 0개(대상 아님) | O 4개 | F 1개
+2026-08-31 19:39:21,892 INFO 변환 대상 고유 URL 6개
+2026-08-31 19:39:23,972 WARNING Tech exemplary 미지정 — 규칙만으로 생성합니다. 시범 변환 1개를 검수해 확정한 뒤 .env의 TECH_EXEMPLARY_MD에 경로를 넣으세요.
+2026-08-31 19:39:24,070 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 1.메타데이터
+2026-08-31 19:39:24,087 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 1.메타데이터
+2026-08-31 19:39:24,098 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 1.메타데이터
+2026-08-31 19:39:24,109 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 1.메타데이터
+2026-08-31 19:39:28,468 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 2.다운로드(1080p)
+2026-08-31 19:39:28,510 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 2.다운로드(1080p)
+2026-08-31 19:39:28,626 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 2.다운로드(1080p)
+2026-08-31 19:39:28,700 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 2.다운로드(1080p)
+2026-08-31 19:39:33,720 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 3.오디오/probe 프레임 분리
+2026-08-31 19:39:40,141 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] probe 프레임 797장
+2026-08-31 19:39:40,143 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 4.Whisper(VAD)
+2026-08-31 19:39:44,304 INFO faster-whisper large-v3 CUDA 로딩...
+2026-08-31 19:39:45,001 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 3.오디오/probe 프레임 분리
+2026-08-31 19:39:45,181 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+2026-08-31 19:40:01,729 INFO Processing audio with duration 06:38.733
+2026-08-31 19:40:05,160 INFO VAD filter removed 00:21.981 of audio
+2026-08-31 19:40:08,076 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] probe 프레임 2011장
+2026-08-31 19:40:08,077 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 4.Whisper(VAD)
+2026-08-31 19:40:08,591 INFO Detected language 'en' with probability 0.99
+2026-08-31 19:40:08,597 INFO Whisper 감지 언어: en (prob=0.99)
+2026-08-31 19:41:17,200 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 3.오디오/probe 프레임 분리
+2026-08-31 19:41:26,922 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 5.키프레임 선별
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:561: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return list(img.getdata())
+2026-08-31 19:41:27,717 INFO Processing audio with duration 16:45.413
+2026-08-31 19:41:30,910 INFO VAD filter removed 00:08.853 of audio
+2026-08-31 19:41:32,583 INFO Detected language 'en' with probability 1.00
+2026-08-31 19:41:32,601 INFO Whisper 감지 언어: en (prob=1.00)
+2026-08-31 19:41:38,914 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] distinct 프레임 60장 → OCR
+2026-08-31 19:41:49,289 INFO PaddleOCR(lang=korean, CPU) 로딩...
+����: ������ ���Ͽ� �ش�Ǵ� ������ ã�� ���߽��ϴ�.
+C:\vault\Koreanwithji_vault\.venv\Lib\site-packages\paddle\utils\cpp_extension\extension_utils.py:712: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+[32mCreating model: ('PP-LCNet_x1_0_doc_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-LCNet_x1_0_doc_ori`.[0m
+[32mCreating model: ('UVDoc', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\UVDoc`.[0m
+[32mCreating model: ('PP-LCNet_x1_0_textline_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-LCNet_x1_0_textline_ori`.[0m
+[32mCreating model: ('PP-OCRv5_server_det', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-OCRv5_server_det`.[0m
+[32mCreating model: ('korean_PP-OCRv5_mobile_rec', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\korean_PP-OCRv5_mobile_rec`.[0m
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:613: DeprecationWarning: Please use `predict` instead.
+  lambda: ocr.ocr(image_path, cls=True),
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:614: DeprecationWarning: Please use `predict` instead.
+  lambda: ocr.ocr(image_path),
+2026-08-31 19:42:59,631 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] probe 프레임 3177장
+2026-08-31 19:42:59,633 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 4.Whisper(VAD)

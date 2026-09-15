@@ -1,0 +1,75 @@
+# Go Billy | 조차 마저 "Even" | Live Class Abridged
+
+## Metadata
+- **Channel:** Go Billy
+- **Playlist:** Abridged
+- **URL:** https://youtu.be/QLryMaTrd4M
+- **Duration:** 14:40
+- **Upload Date:** 2025-10-08
+
+---
+
+## Teaching Points
+
+### Overview
+This lesson focuses on two intermediate-level particles that both translate to "even" in English: **조차** and **마저**. While they share a basic definition with the more common particle **도** (which can mean "also," "too," or "even"), these two particles provide specific nuances of emphasis, expectation, and inclusion. The instructor explains how to attach these particles to nouns and explores the distinct situational contexts where one is preferred over the other.
+
+The learning arc begins with **조차**, emphasizing its use in negative or surprising contexts where something is "on top of" an already difficult situation. The lesson then transitions to **마저**, which carries a nuance of "inclusion" and often represents the "last piece of the puzzle" in a group or sequence. Through various example sentences, the instructor demonstrates how these particles function in real-world Korean, including their interactions with other grammar forms like **커녕**.
+
+---
+
+### The Particle 조차: Surprising and Negative Emphasis
+The particle **조차** is used to mean "even" with a strong sense of emphasis. It is attached directly to a noun: **Noun + 조차**. While **도** is a neutral way to say "even," **조차** implies that the situation is unexpected, surprising, or undesirable. It carries the nuance of "not only all those other things, but surprisingly even this thing."
+
+Because of this "on top of everything else" feeling, **조차** is almost always used with negative verbs or verbs with a negative connotation. On-screen, the instructor lists common negative markers that pair with this particle: **안** (not), **못** (cannot), **~지 않다** (not), **없다** (to not exist/not have), and **아니다** (to not be). It also pairs with words expressing difficulty or annoyance, such as **힘들다** (to be difficult/hard), **죽겠다** (to be dying/exhausted), **귀찮다** (to be a nuisance), **싫다** (to hate), and **짜증나다** (to be annoyed).
+
+The instructor notes that **조차** can follow other particles, such as **에게조차** (even to/from a person), **에서조차** (even at/in), or **면서조차** (even while). A common combination is **조차도**, which adds even more emphasis but retains the same fundamental meaning. While usually negative, **조차** can occasionally be used with positive verbs if the situation is extremely surprising or unexpected, such as someone sleeping at a very loud concert.
+
+---
+
+### Using 조차 with 커녕
+A common grammar pattern used alongside **조차** is **은/는커녕**, which means "let alone," "forget about," or "don't even mention." This reinforces the "even" meaning by dismissing a more likely scenario to focus on an even more surprising one. For example, if you want to say you can't even see an ant, let alone a person, you would use **사람은커녕 개미 한 마리조차 안 보여요**.
+
+---
+
+### The Particle 마저: The Last Remaining Piece
+The particle **마저** also translates to "even," but its nuance differs from **조차**. It is more common in written or formal Korean than in casual speech. The core feeling of **마저** is "including" or "the last one left." It implies that something is the final part of a group or the last piece of a puzzle. If you say "Even Chul-soo didn't come," using **마저** implies that Chul-soo was the last person you expected to show up, and now that he hasn't, the group of people who didn't come is "complete."
+
+The instructor connects this to the adverb **마저**, which means "completely" or "without anything left over" (**남김없이**). Using the particle **마저** suggests that by including this final noun, the situation has reached its limit or total state. Unlike **조차**, **마저** is frequently used with positive verbs and in positive contexts, such as saying "Even the weather is on my side today." It can also be used in negative contexts, but the focus remains on that noun being the final, inclusive element. Like **조차**, it can be attached to other particles like **에게**, **에서**, or **면서**.
+
+---
+
+### Summary Comparison of 조차 and 마저
+The instructor provides a clear distinction between the two:
+- **조차**: Focuses on something being surprising, unexpected, or "on top of" other things. It is primarily used with negative meanings and negative verbs.
+- **마저**: Focuses on inclusion and the "last remaining" element of a group. It can be used with both positive and negative verbs and has a more formal/written tone.
+
+---
+
+## Transcript
+
+**Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+Hello. Our lesson today is going to be on two intermediate level particles. The first one we're going to be learning is 조차 and the way it works is you take a noun and you attach 조차 and that's all you got to do. See everyone. Okay. So this means even. Even Chul-soo. Even that. I'm so tired. I couldn't even pick up a pencil. Even. This meaning is similar to the particle 도 which means also or too like me too. This one also means even. But this one means even too. When then would you use this to mean even? This is used to mean even most of the time when you want to add emphasis to the meaning of even. So you're not just saying I am such a bad cook. I can't even boil ramen. You're not just saying that. You're saying I can't even... even. It has more emphasis than using 도 which also means even.
+
+My throat hurts so it's hard to drink even water. This is used when you want to express that something is a little bit unexpected or maybe a little bit surprising. Just a little bit. So you didn't expect it and in fact you might not even want it. It's just something like even that. And it also gives the nuance of something is on top of something. Like something is more than what's being talked about. So it's not just like saying man I'm so bad at cooking. I can't even cook ramen. But it's kind of like saying man I'm so bad at cooking and even more on top of that I can't even boil ramen. So it has kind of like a hey here's another thing sort of feeling to it. Like surprisingly even.
+
+Another way you can think of this is like saying not only all of those things I've already been talking about but also even this thing that I didn't expect or that I didn't want. Because this has the feeling of like saying you know not only all of those things but even this thing that I didn't expect or I didn't want it most often almost always gets used with negative verbs. You're going to see it used with verbs that start with like 안. So not 하다 but like 안 하다. Or maybe 못. Like can't. Or the form 지 않다. 없다. To not exist. 아니다. To not be. All of these negative verbs. Or it can also be used with negative meanings. For example verbs that have a not good meaning. Like something is so difficult. 힘들다. Like oh man my throat hurts so much that it's hard to even drink water. 힘들어요. Or 죽겠다. Like oh man something's like it's killing me its so hard. Like that sort of meaning. Or 귀찮다. Like if somethings really a nuisance. Oh man its so annoying I don't want to do the. Or 싫다. Like I hate it. Or 짜증나다. Some sort of negative meaning or some sort of negative verb.
+
+You can also attach 조차 after some other particles in grammar. Like you might see 에게 조차. 에게 is to a person. So even to or from a person. 에서 조차. Or 면서. While being or while doing. So even while. So just keep an eye out for it. And because it has this meaning of like even, it also is used commonly with other grammar forms that support that feeling. So one form you'll commonly use together with this form is the form 커녕. This can be 은커녕 or 는커녕. And I did a separate live stream about this if you want to learn. But it's kind of like saying like forget that. Or don't even mention that. I'm not even going to talk about that because let's focus on this.
+
+So let's do a few example sentences. 영희는. So 영희. 라면 조차. Like even ramen. 끓이다 is to boil. And if you're cooking ramen, you'll actually say in Korean to boil ramen. 라면 조차 끓이질 못해요. 영희 cannot boil even ramen. It has the nuance of saying in addition to everything else she can't already cook. You know what's surprising? On top of all of that, you know, even this thing I didn't expect. Funnily enough, surprisingly, she can't even cook ramen. 영희는 라면조차 끓이질 못해요. So 영희, she can't even cook ramen. 사람은커녕. So 커녕 is like forget that. Like don't even get that sort of meaning. 개미. An ant. 한 마리. So one ant. 조차. Even ant. 안 보이다. Literally is not visible. But this is how you say I can't even see. Don't even get me started on people. I can't even see one ant here. 사람은커녕 개미 한 마리조차 안 보여요.
+
+힘이 없다. 힘 is power or energy. So like I don't have any power. That's how you say like, oh, I feel really weak. I have no energy. 힘이 없어서. Because I don't have any energy now. 연필 is a pencil. 조차. So even a pencil. 들다 is to pick up, like to lift. 들 수가 없어요. I have no energy right now. I can't even pick up a pencil. 목이 아파서. Because my throat hurts. 물조차. Even water. Like there are other things, but surprisingly, can you believe it? Even water. 마시기 힘들어요. Is difficult. My throat hurts. So even drinking water. The emphasis again is on water. Is difficult. 목이 아파서 물조차 마시기 힘들어요.
+
+시끄럽다. To be loud. In this case, 시끄러운. Adjective. 콘서트장. So a concert hall. 콘서트장에서 조차도. So this is three particles stuck together into one. 에서. At. 조차. Even. 도. Also. And you get 조차도. You can see 조차 and 조차도 in the same sentences. 잠을 자는 사람 있네요. There's someone sleeping. Even at this noisy concert hall. Like even at this concert hall that's also even noisy. It just has a little bit added emphasis to 조차. It's the same meaning though. But adding both of them together just gives more of an even feeling to it. It's not that strong. But it does have a little more emphasis than just 조차 by itself. 시끄러운 콘서트장에서 조차도 잠을 자는 사람이 있네요.
+
+The next thing you may have noticed is that this is not a negative verb. 있네요, 있다, to exist. It's not 없어요, it's not 힘들어요. So what's going on, Billy? Did you lie to me, Billy? No, because remember what this form means. Not only all of those things, not only everything else, but surprisingly, this other thing I didn't even expect. Hey, man, I didn't expect it all, but there's even a person sleeping at this noisy concert hall. On top of everything else, on top of how noisy it is, can you believe it? There's even a person sleeping here. Nine times out of ten, most of the time, it's gonna be used with negative verbs and negative meanings, but I did not say always. So just keep that in mind. Most of the time, it's gonna be just used with negative verbs or negative meanings, but you might also see it when it's emphasizing something that's really surprising that does something.
+
+All right, there's one more particle we still gotta cover. And that also means even, and that particle is 마저. So here's what you do. You take a noun and you attach 마저 to the end of it like this. So what's the difference then in comparison with 조차? This one has more of a written or a formal feeling. So it's less common in speech, but usage-wise, it's pretty similar to 조차. In fact, you can also find it at the end of other particles in grammar forms, like we saw before, like 에게 or 에서 마저 or 면서 마저. This one has a slightly different nuance to it. So what is this nuance? This one also means even. So you could say something like, even Chul-soo, who I trusted, didn't come to my house. The nuance of this one is it feels like including, not just on top of something, but like something's being included into something, and it also has the nuance that the thing that's being included is the last piece of the puzzle. It's the last one that we needed. It's the last part of the group. So now, even Chul-soo, he was the last person. Like even he, I can't even believe he didn't come. Like that's sort of even feeling of something having been the last remaining part of a group.
+
+Another way you can think of this is even noun, and now that've got even noun, and now that's everything or everyone. So in the example with Chul-soo not coming to our birthday party, man, even Chul-soo, now that's everyone. 마저 is a particle, but there's another word, 마저, that you will see used in Korean, and that is the adverb 마저. 마저 is an adverb that means 남김 없이, without anything left over, completely implying all of it. When you say, I finished my pizza, you mean that you ate all of it, right? Without anything left, completely, 남김 없이, 마저 먹었다. And this is the same usage kind of as here. So it's like when you have the noun and you are 마저-ing it, it now makes whatever else you're doing complete. And then there's one more thing you need to know about. It can also be used with positive verbs. So even though it might be used in a negative context, like even Chul-soo didn't come to my party, it's negative, it can still be used with positive verbs.
+
+So let's look at a few examples. 오늘은 날씨마저 제 편이에요. So today, the 은 gives it that emphasis of today, instead of just today, 날씨, the weather, 마저, so like even the weather, and that was the last piece, the last thing I needed. And then on top of everything else, 편 is a side, literally and figuratively, 제 편, my side. So even the weather today is on my side, like everything else is going great and even the weather is on my side is what it means. 오늘은 날씨마저 제 편이에요. Even the weather is on my side today. 믿었던 철수마저 파티에 안 왔어요. So 믿다 is to believe or to trust, 던 is did for a period of time in the past but stopped. Chul-soo who I trusted. 마저. So even Chul-soo, implying that other people also were people that you trusted, I trusted he would be my friend until the end, but now even he has fallen, 파티에 안 왔어요. So even Chul-soo who I trusted didn't come to the party. 믿었던 철수마저 파티에 안 왔어요.
+
+이불도 없는데 베개마저 없으면 어떻게 자요? 이불 is a blanket. 이불도 없는데, so I don't even have a blanket. 베개 마저. 베개 is a pillow. So even a pillow, 없으면, so if I don't even have a pillow, we don't even have a blanket, 어떻게 자요? How do I sleep? If I don't even have even a pillow, 이불도 없는데 베개마저 없으면 어떻게 자요? So how do I sleep if I don't have a blanket or even, the last piece, even a pillow? 강아지가 숨겨둔 신발마저 찾아서 물어뜯었네요. 강아지가. The dog. 숨겨 두다. 숨기다 is to hide. So 숨겨두다 is to hide it and leave it there. So I had hidden it. What did I hide? 신발. The shoes that I had hidden. So even the shoes, 마저, that I had hidden, the dog 찾아서. 찾다 is to find. It could be to look for, but in the past tense, it's found. The dog even found the shoes that I had hidden. 물어뜯었네요. 물다 is to bite. 뜯다 is like to shred like to rip up. So the dog even found my hidden shoes, the shoes that I had hidden, and chewed them up. Like man they ripped up my gift cards, they ripped up my clothes, they ripped up my homework, the dog even after everything, the last thing is they even found my hidden shoes and chewed those up. 강아지가 숨겨둔 신발마저 찾아서 물어뜯었네요. Okay that is our lesson thank you for coming and i'll see you again next time 그럼 다음에 또 봐 see ya.

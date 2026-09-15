@@ -1,0 +1,108 @@
+# Go Billy | ~고 가다 ~고 오다 ~고 다니다 | Live Class Abridged
+
+## Metadata
+- **Channel:** Go Billy
+- **Playlist:** Abridged
+- **URL:** https://youtu.be/peutprCyXEk
+- **Duration:** 19:46
+- **Upload Date:** 2026-05-13
+
+---
+
+## Teaching Points
+
+### Overview
+This lesson explores the versatile usage of the connector ~고 when paired with motion verbs like 가다 (to go), 오다 (to come), and 다니다 (to go around/attend). While many learners first encounter ~고 as a simple way to say "and," its function expands significantly when describing sequences of movement. The instructor explains that in Korean, unlike in English, it is often necessary to explicitly state the movement that occurs after an action, rather than assuming the subject remains or returns.
+
+The learning arc begins with the basic structure of attaching ~고 to an action verb stem followed by a motion verb. It then moves into practical applications, such as expressing "before" and "after" nuances, describing methods of transportation, and using the idiomatic "go around doing" form with 다니다. Finally, the lesson covers specific common pairings like leaving items behind or bringing people/things along.
+
+---
+
+### Basic Structure and Sequential Meaning
+The fundamental construction involves taking an action verb stem and attaching 고, followed by a conjugated form of 가다 (to go) or 오다 (to come). The instructor emphasizes that the tense is only expressed at the very end of the sentence; the first verb remains in its plain stem form. For example, to say "I watched a movie and then took a nap," the sentence is:
+> **오늘은 영화를 보고 낮잠을 잤어요.** / Today I watched a movie and (then) took a nap.
+
+In this context, ~고 does not just mean "and," but specifically "and then." It establishes a strict chronological order. This logic applies directly to movement: doing an action and then going somewhere else (고 가다) or doing an action and then coming here (고 오다).
+
+---
+
+### Expressing "Before" and "After"
+A major takeaway of this lesson is that ~고 가다/오다 is a very common way to express the concepts of "before" and "after" without using the more formal 전 (before) or 후 (after) structures. By stating the order of events, the "before/after" relationship is implied. The instructor provides a comparison:
+- **점심을 먹었어요.** / I ate lunch. (Simple statement)
+- **점심을 먹고 갔어요.** / I ate lunch and then left. / I ate lunch before I left.
+
+This nuance is particularly useful for explaining one's current state. For instance, saying **밥 먹고 왔어요** (I ate and then came) implies "I am not hungry because I already ate before arriving here." Other examples include:
+> **숙제하고 가.** / Do your homework and (then) go. / Do your homework before you go.
+> **광고를 보고 왔어요.** / I saw the ad and (then) came. / I came here after seeing the ad.
+> **커피 마시고 갈래?** / Do you want to drink coffee and (then) go? / Do you want to get coffee before we go?
+
+A specific cultural application is found in restaurants. The phrase **드시고 가세요?** (Are you eating and then going?) is the standard way to ask "Is it for here?" If you are leaving after eating, you are eating "for here."
+
+---
+
+### Motion Verbs Beyond 가다 and 오다
+The same logic applies to other verbs that imply movement or departure, such as 출발하다 (to depart), 도착하다 (to arrive), 나가다 (to go out), and 들어오다 (to come in). The instructor demonstrates this with:
+> **숙제를 먼저 하고 나갔어요.** / I did my homework first and then went out.
+> **신발 신고 들어오세요.** / Wear your shoes and then come in. / Come in with your shoes on.
+
+---
+
+### The "Go Around Doing" Form with 다니다
+When ~고 is paired with 다니다 (to go around/roam/attend), it creates an idiomatic meaning of doing an action continually, often, or habitually while moving from place to place. The instructor notes that this is frequently used with verbs related to clothing or accessories.
+> **다들 이렇게 입고 다녀요.** / Everyone goes around dressing like this. / Everyone dresses like this these days.
+
+It can also describe behaviors or habits that cause concern or gossip:
+> **돈을 물처럼 쓰고 다녀서 걱정이에요.** / I'm worried because they go around spending money like water.
+> **철수가 저에 대해 말하고 다닌다고요?** / You're saying Chul-soo is going around talking about me?
+
+---
+
+### Transportation and Leaving Things Behind
+The instructor highlights two very specific and essential uses of this form. First, describing how one traveled is done by using 타다 (to ride/take) + 고 가다/오다.
+> **버스 타고 왔어요.** / I took the bus and came. / I took the bus here.
+> **지하철을 타고 가요.** / Take the subway and go. / Take the subway there.
+
+Second, the concept of "forgetting" an object (leaving it behind) is expressed using 놓다 or 두다 (to put down/place) + 고 가다/오다. This is distinct from 잊다, which means to forget information or the existence of something.
+> **집에 우산을 놓고 왔어요.** / I put my umbrella down at home and came. / I left my umbrella at home.
+
+Finally, the lesson touches on the common verbs for bringing and taking: 가지고 가다/오다 (to take/bring an object) and 데리고 가다/오다 (to take/bring a person). These are literal applications of "having/holding" or "accompanying" and then moving.
+
+---
+
+## Transcript
+
+> **Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+Hey! We're going to be learning a lot today about the verbs 가다 and 오다 which means to go somewhere or come here but specifically we're going to be using these verbs together with other action verbs. I'm going to first show you what the form looks like. You take an action verb stem so any verb where you're doing anything and you attach 고. You don't use any other tense. It's just the plain stem so 하다 is just 하고 and then 가다 or 오다 and you conjugate it. Let's just say the action is sleeping. 잠자다. 잠자고. So you sleep and then or and right? 고 means and or and then. So and then you 가다. You go somewhere or you 오다. Come here. 가다 is just to go somewhere else and 오다 is just someone comes to the location where the person who's speaking that is. Let me first give you a quick example of what I'm talking about.
+
+Movie. 영화를 보고. So I watch a movie today. 보고 and then 낮잠 자다. To take a nap. 낮잠을 잤어요. So today I watched a movie and then I took a nap. It's the same form 고 that we're using here with 가다 and 오다. This is a specific usage of this form but literally we're going to be doing the same thing. So in Korean when you do something it's not a assume that someone is going to leave somewhere after doing something or return somewhere after doing it in Korean unlike in English. For example I'm going to go buy groceries. In English it means so I'm going to go buy groceries right? But it also means without saying it it also means that you're coming back. If you say you're going to do something you also have to include in Korean that you're coming back or that you're going somewhere after you do it. That's not assumed in the Korean language unlike in English.
+
+And they also use 고 often to show the order that someone's doing something. In this sentence 영화를 보고 낮잠을 잤어요. Doesn't only mean that you did two things. Watch a movie and took a nap. It also means you did them in that order. So I watched a movie and then I took a nap. So it doesn't just mean and but it also means and then. Meaning this sentence could not mean that I took a nap and then I watched a movie. It has to mean I watched a movie and then I took a nap. So let's talk about our first form then. So when you take an action verb stem and you attach 고 and 가다. Let's just say the action is to eat pizza. 피자 먹다. 먹고 가다. So literally you're eating pizza and then after you eat pizza and then what happens next is you go somewhere. You're doing some sort of action and then you're going somewhere.
+
+So someone is going to leave somewhere or if you're talking about the past tense, they left somewhere after they do something, right? I'm going to do that and then I'm going to go also means I'm going to go but first I'm going to do this or I'm going to go after I do this. It's the same thing because as I said, this indicates the order of how something happened. This happens and then this happens. And it's the same with 오다. Someone does something and then they come here. Meaning someone is going to come here or maybe they already came here after they've done something. So I came here but first I did this or I came here after doing this or I did this before I came here. All of those are valid translations in English, right? It should make sense. You can translate it any of those ways because it's the same thing. 고 just indicates what order something happens.
+
+So here's where our forms come into play. These forms are really common ways of saying after and before. You thought that you're supposed to use the 전 or 후 form to say after or before. But these forms are also very commonly used to say that kind of thing, at least when you translate from English. Let me give you an example. Two sentences. The first one is standard. 점심을 먹었어요. 점심 is lunch. So I ate lunch. But our second sentence uses this form. In this case with 갔어요. So 가다 in the past tense. 점심을 먹고 갔어요. So literally, let's just take a look at this. I eat lunch. Notice that it's eat. You wouldn't do past tense except at the end of the sentence in Korean. That's not necessary. So I ate lunch and then I left. I ate lunch and then I left. You can also translate this sentence like this. I ate lunch before I left. Right? It's the same thing because 고 like I said, with actions can show that an action happens after another one. It shows the order.
+
+So 점심을 먹고 갔어요. Literally means I ate lunch and then I left. But more naturally, and it does sound natural in Korean. It also means I ate lunch before I left. So if someone asks you, hey, did Stewie eat his breakfast before he left today? Did Stewie eat breakfast? I don't know if Stewie got any food. Yeah. Stewie. 아침을 먹고 갔어요. Yeah. he ate before he left. He had breakfast before he left. So by stating the order that something happened, you're essentially saying that something already happened or already will happen. Like, don't worry about it. Yeah, they ate before they left is what you're saying. So if you want to tell someone, oh, don't worry, I ate lunch before I came here, you would use this form, either 고 가다 or 고 오다, whether you're trying to say that you go somewhere after or that you came here after doing something.
+
+Let's do another quick example. 학교에서 공부했어요. I studied at school. What did you do today? 학교에서 공부했어요. That just means you studied at school. 학교에서 공부하고 왔어요. I studied at school today. And then I came here. By that, you're saying I studied before I came here. Basically, right before I came here, I was studying at school. So if someone says, did you study today? You can say in English, yes, I studied today. Or, yeah, I studied before I came here. You can say it a bunch of different ways in English. Do you want to say that something happened before or after something? Or do you just want to say that it happened? What's a situation where you might say, I ate lunch before I came here? Or I studied before I came here? What's a situation you might say that in English? It's the same in Korean. If you say, 밥 먹었어요, it means just I ate. But if you say, 밥 먹고 왔어요, that means I'm not hungry right now because I ate before I came here. They're slightly different uses. It's just to express something happened or happens before or after something.
+
+Let me give you a few examples then. 밥 literally cooked rice, but that's how you say any meal. 밥 먹고 왔어요. So I ate a meal. And then I came here, meaning I ate before I came here. If your mom tells you, 숙제해. 숙제 is your homework. So do your homework. But you say you're going to go meet your friend. 숙제하고 가. Do your homework and then go. By that, she would be saying, do your homework first. Like go after you do your homework. So she's not just saying to do your homework, but do it and then go. By that, it means go after you do your homework. 숙제하고 가. Do your homework before you go. 광고를 보고 왔어요. 광고 is an ad. So I saw the ad and came here. Basically, the reason I'm here is because I saw the advertisement. I came here after seeing your ad. I looked at your ad and then I came here. 광고를 보고 왔어요. So I came here after seeing the ad.
+
+커피. Coffee. 마시다. To drink. 커피 마시고 갈래? So, do you want to go after you drink some coffee? You want to get a coffee before we go? Let's say we make an appointment to go see a movie together. But before we see the movie together, 커피 마실래? is like just a question. Do you want to drink coffee? But if you want to expressly make it clear that you mean before we go, it adds in that meaning of before we go. So you can make the sentence without it, but you just don't get that extra nuance. So it's optional, but it's a good nuance that you might want to have. 커피 마시고 갈래? So do you want to get some coffee before we go? 드시고 가세요? 드시다 is just the honorific version of 먹다. So it's polite to eat. 드시고 가세요? And 가세요 is just the honorific form of 가다, to go. So are you eating it or drinking it and then going? Basically, are you going to go after you drink it or eat it? Or are you eating it before you leave?
+
+This is how you say for here to go. So this is like saying, is it for here? Are you going to go after you eat it? And you can reply in a couple ways. You can say, 네, 여기서 먹을 거예요. Yes, I'll eat it here. Or you can reply, 포장해 주세요. 포장하다 is to wrap something up. So please wrap it up. Let me get it to go. There are other verbs that also can show motion that aren't 가다 and 오다. First of all, there are a lot of verbs that use 가다 and 오다 at the end. Like you might see 걸어 가다 is to walk somewhere or 걸어 오다 to walk here. 나가다 is to go out. 나오다 is to come in. There are a lot of verbs like this that use 가다 and 오다 at the end, but there are also some other verbs that don't use those that you can also use in the same way. 출발하다 is to depart, to leave. 도착하다 is to arrive. 출발하다 is to set out, like to leave. 출발하다 would be the opposite to 도착하다. 들르다 is to stop by somewhere. Yeah, I stopped by here after I did this. 출근 is to go to work. 퇴근 is to go home from work, to leave work.
+
+So I have a couple examples to show you of this. 숙제를 먼저 하고 나갔어요. Homework. 먼저, first, before doing anything else. So I did my homework first and then 나갔어요. 나가다 is to go out, like going outside. So before I went outside, I did my homework first. You're not just saying I did my homework first, but you're saying no, before I went outside, I did my homework first. 숙제를 먼저 하고 나갔어요. 신발 is shoes. Careful how you pronounce it. 신발. 신다 is to wear shoes. 들어오다 means somewhere. 들어가다 is to go in somewhere. So 들어오세요. Come in after you wear your shoes. 신발 신고 들어오세요. So come in wearing your shoes. You don't need to take off your shoes. 신발 신고 들어오세요. Come in with your shoes on. Again, the most important thing about this form is just to remember that 고 can mean and then. So when you translate that naturally, you get either after or before doing something.
+
+One more important verb that this is commonly used with that we have to talk about, and that is the verb 다니다. You take an action verb stem again, you attach 고 and then you attach 다니다. 다니다 is normally how you say to commute to work or to go to school or to attend something. But it also has another meaning of to go wander around somewhere, to roam around, to go around is also 다니다. That's where it gets its meaning of commuting. Like you're going and coming, basically. If you use an action verb with 다니다, basically you're saying that you do the action, like let's say eating. You eat and then you go around, you wander around, and then you attend something, you commute to work. So you're going around doing something. By that you mean someone's doing something continually or often. And there's an emphasis on moving around. But it's like they're doing it here and then they're doing it there and they're doing it there. They're kind of just doing it wherever they go, which emphasizes that they're doing it often. But literally, again, they're going around doing something.
+
+So this is more of an idiomatic expression. Again, it's the exact same form we're using, but now you don't need to translate it as before or after, since we can just use its literal meaning all by itself. So let me give you an example. 다들. Everyone. This is an informal way of saying everyone. 이렇게. Like this. 입다 is to wear something, like over your whole body or wear your pants. So everyone wears or dresses like this. 입고 다녀요. So everyone goes around dressing like this. Literally, they wear like this and they go around. So everyone's going around dressed like this. 다들 이렇게 입고 다녀요. Everyone's dressing up like this. So it's often used with verbs that mean to wear. You might see 입다 or maybe 쓰다, like if you're wearing something like on your head, because those are things that you would do and then go around after you've done them. But it can also be used with a lot of other verbs too.
+
+So let me give you a couple more examples. 돈을 물처럼 쓰고 다녀서 걱정이에요. 돈. Money. 물처럼. 처럼 is like. 물 is water. So 쓰다, in this case, is not to wear 쓰다, like on your head. This is use. So because 다녀서, because they're going around using money like water, which is an expression that just means to be throwing around your money, 걱정이에요. 걱정 is a concern. So I'm worried. It worries me that they're just throwing their money all around. 돈을 물처럼 쓰고 다녀서 걱정이에요. So I'm worried that they're just going around using money like water, literally. I'm worried that they're just going around throwing their money everywhere. 철수. So our friend 철수. 철수가 저에 대해. About me. 말하다. To talk about me. 말하고 다닌다고요. You say. This is just a quoting form. Someone says something. You're telling me that 철수's going around talking about me? 철수가 저에 대해 말하고 다닌다고요? You say 철수 is going around talking about me?
+
+There's one more common usage that you're going to see 고 가다 and 고 오다. And that is when you use the verb 타다. 타다 means to ride or take any sort of mode of transportation. Like if you're taking the bus, the subway, a taxi, a car. So if we use this verb with our form from before, we get 타고 가다 or 타고 오다, right? So you take something, any method of transportation, and then you go somewhere. Or you took something and then came here. This is how you express how you go somewhere or how someone came here. By literally saying they took that method of transportation and went or they took that method of transportation and came. You're describing what method of transportation someone used to go somewhere else or to come here. If you say 버스 타고 갈 거예요. Yeah, I'm going to take the bus there. It adds that extra word in English, like there. So you're not just saying I'm taking it or I took it, but you're saying I took it here or I took it there. Let me give you an example. 버스 타고 왔어요. So I took a bus and came here. So that's how I'm here. I took a bus here. You're not just saying I took a bus in general, like yesterday, today, or whatever. I got here by taking a bus. 지하철 is the subway. 지하철을 타고 가요. Take the subway. You can just tell someone 지하철 타요. Take the subway. That's fine. That just means get the heck on the subway. But if you want to say, that's how you're going to get there. In English, you can say, take the subway there. That's how you get there is by taking the subway. Take the subway to get there. 지하철 타고 가요. So take the subway there.
+
+There are two more verbs I need to talk about. 놓다 and 두다, which become 놓고 가다, 놓고 오다, or 두고 가다, 두고 오다. Both of these mean that you are putting something down. 놓다 means to put something down. 두다 also means to put something down. And then going somewhere or coming here. You're literally putting something, like I'm putting my pen down, and then I'm going somewhere. By that, it means you're forgetting something. In English, we use the word forget. But in Korean, this means a piece of information. If you say, 펜을 잊었어요. That means I forgot about my pen. It doesn't mean I forgot to bring it. It doesn't mean I left it at my house. It just means I forgot it exists, basically. Like maybe you're like Jason Bourne or something. I forgot my life. If you say, 놓고 왔어요. 집에 펜 놓고 왔어요. You're saying I put my pen down at my house and came here. I left my pen at home. And the same goes for 두다. 두고 가다. 놓다 and 두다 have the same translation, but 두다 means more long-term. So it's not just like I left it at my house for a second, but like I permanently, I put it there intending to leave it for a long time. But if you want the quick answer, just use 놓고 with 가다 or 놓고 with 오다. So if you forgot your umbrella, 우산을 놓고 왔어요. 우산 놓고 왔어. I left my umbrella. Literally, I put my umbrella down and I came here.
+
+If you're wondering how this form is different than this form, where you take a conjugated verb and then you attach 가다 or 오다, check out my live stream from April 5th, 2020. And finally, you also might recognize this form is used in the regular verbs 가지고 가다, 데리고 가다, or 가지고 오다, 데리고 오다. 가지다 means to have something, like holding it, basically. You have something and then you go. That's how you say to take something with you or 가지고 왔어요. I brought it. Literally, I took it and then I came here. 데리다 is the same thing, but with a person. So that's how you say to bring or to take something or someone. And if you want to learn more about this, I also give a lot of other versions because it's not just these two. Check out my live stream from December 8th, 2024, and I go over all of those and more. And that is the lesson for today. Thanks for coming, and I will see you again next time. Remember that I'm not going to be doing classes until I come back from Korea, so I'll see you again in August. 그럼 다음에 또 봐! Oh, and thanks to Lexica, Flow Pretty, and Cosmo!

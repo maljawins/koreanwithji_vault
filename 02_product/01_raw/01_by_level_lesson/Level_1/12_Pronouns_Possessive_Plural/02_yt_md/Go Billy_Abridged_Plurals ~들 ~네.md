@@ -1,0 +1,96 @@
+# Go Billy | Plurals ~들 ~네 | Live Class Abridged
+
+## Metadata
+
+- **Channel:** Go Billy
+- **URL:** https://youtu.be/WWWg6eDSgiE
+- **Duration:** 16:16
+- **Upload Date:** 2025-08-13
+
+---
+
+## Teaching Points
+
+### Overview
+
+This lesson covers the mechanics of plurality in Korean, focusing on the particles 들 and 네. The instructor frames the lesson as a progression from beginner to intermediate and even slightly advanced concepts. The primary goal is to understand that while Korean has markers for plurality, they are used much less frequently than in English, and their presence often adds specific pragmatic nuances rather than just grammatical count.
+
+---
+
+### The Basic Plural Marker 들
+
+The most basic way to make a noun plural in Korean is by attaching the particle 들 directly to the noun. Unlike English, which has complex pluralization rules (adding -s, changing vowels like mouse to mice, or having irregular forms like fish), Korean is consistent: you simply add 들. For example, 강아지 (dog) becomes 강아지들 (dogs), and 쥐 (mouse) becomes 쥐들 (mice).
+
+However, the instructor emphasizes that 들 is usually optional. In Korean, plurality is typically understood through context. If you say 강아지 좋아해요 (I like dogs), the plural meaning is clear without the marker. Using 들 when the context already implies plurality—such as when using numbers or words like 많다 (to be many)—can actually sound awkward. For instance, saying 펜 열 개 (ten pens) is natural, while 펜들 열 개 sounds redundant. Similarly, 펜이 많아요 (There are many pens) is preferred over 펜들이 많아요.
+
+---
+
+### When to Use 들 with Nouns
+
+While often unnecessary, 들 is used when a speaker wants to be explicitly clear that they are referring to multiple items, especially if the context might be vague. For example, in the sentence 이 도시에 편의점이 있어요 (There is a convenience store in this city), adding 들 to make it 편의점들이 있어요 clarifies that there are multiple stores.
+
+Another common usage is when speaking about a category of things in general without caring about a specific number. The instructor notes that adding 들 in these cases can imply "all of those things" or "those things in general." For example, 편의점들은 (convenience stores in general) signals that the speaker is talking about the whole class of stores rather than one specific location.
+
+A significant exception to the "optional" rule involves people. It is very common and natural to add 들 to nouns referring to people, such as 사람들 (people), 분들 (people - honorific), 선생님들 (teachers), 학생들 (students), and 친구들 (friends). While still not strictly required by grammar, it is the standard way to speak about groups of people.
+
+---
+
+### Advanced Usage: 들 After Adverbs and Phrases
+
+In spoken Korean, 들 can be attached to adverbs or even entire phrases. This is an intermediate-level concept and is strictly for speech, not formal writing. When 들 is used this way, it indicates that the subject of the sentence is plural, even if that subject isn't explicitly stated.
+
+The instructor demonstrates this with the greeting 안녕하세요 (hello). By saying 안녕하세요들, the speaker is signaling that the greeting is addressed to everyone in the room individually. It carries the nuance of "Hello to each of you." This can also be inserted into the middle of the phrase: 안녕들 하세요. Other examples include 안녕히 가세요들 (Goodbye to each of you) and 잘들 했어요 (Good job, everyone). In these cases, 들 acts as a "pluralizer" for the action or expression, pointing it toward multiple recipients.
+
+---
+
+### The Collective Marker 네
+
+The particle 네 is used after a person's name or a pronoun to indicate a group of people associated with that person, typically their family, group, or organization. For example, 철수 네 means "Chulsu and his family" or "Chulsu and his group."
+
+This particle often functions similarly to the possessive marker 의 (pronounced 에), but with a collective nuance. While 철수의 집 means "Chulsu's house" (implying he owns it), 철수 네 집 means "Chulsu's family's house" or "the house where Chulsu and his family live." This is particularly common when referring to buildings or entities where the person is a member rather than the sole owner, such as 마크 네 회사 (Mark's company/the company Mark works at) or 철수 네 학교 (Chulsu's school). It is also used for family pets, like 철수 네 고양이 (Chulsu's family cat).
+
+---
+
+### Casual Plurals with 네
+
+The instructor notes several casual and emphatic forms using 네. The word 너네 is a very casual way to say "you guys" or "you and your group/family." While 너희 is the standard plural "you," 너네 is common in informal speech. To add emphasis, speakers might say 너네들, which essentially means "all of you guys."
+
+Similarly, the demonstrative pronouns 얘 (this person), 걔 (that person), and 쟤 (that person over there) can combine with 네 to form 얘네, 걔네, and 쟤네. These mean "this group," "that group," and "that group over there." Like 너네, these are very casual and should not be used with strangers or in polite situations. They can also take the 들 marker (e.g., 얘네들) for extra emphasis on the plurality of the group.
+
+---
+
+## Transcript
+
+**Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+What a nice day. I feel like teaching some Korean today. If only there were someone I could teach Korean to. Eh, I don't see anyone. Oh, you're right there the whole time. So, the lesson we're doing today is beginner level but it's also at the same time going to be an intermediate level and kind of a little bit advanced. So, we're going to be going over two particles today and the first one is going to be very basic. And that is the particle 들. You take a noun and you directly attach 들 after it.
+
+A noun is just any person, place, or thing. And it makes that noun plural. It just means there are multiple subjects. So, there are many of something, right? English plurals are terrible. You might think you just add an S, right? So, dog is dogs. But a lot of plurals we have separate words for. City is cities, right? Person, people, right? And then other things like fish. Fish is just fish. Like, I'm not going to go on to all of this because we're not learning English. But I just want to make it clear that Korean, that's it. Now you have a plural. So, if you have dog, 강아지. Well, how do you say dogs? 강아지들. 쥐, mouse. Instead of going to mice, it's just 쥐들. Mice.
+
+Now, you might think this is really easy. But it gets easier because most of the time, you don't even need this. Most of the time, if you want to say dogs or mice or fish or people or cities, you can actually just say 강아지. Dogs. I like dogs. 강아지 좋아해요. It's not necessary to make something plural in Korean, unless it's necessary to make something plural in Korean. Most of the time, it can be understood by the context. Most of the time, you do not need to use 들 at all. Let's say you bought 10 pens. In English, you'd have to say pens. But 펜 열 개 means 10 pens. There is no plural because it can be understood easily from the context. Anytime there's a number involved or anything that indicates there's many of something, you would never want to use 들 to make it a plural because that would just sound awkward to say 펜들 열 개 샀어요. I bought 10 pens.
+
+Another example is, again, more than one. 많다 means to be many. So, if you were to say 펜이 많아요. There are lots of pens. You would never say 펜들이 많아요 because it just sounds awkward. You would just say 펜 많아요. There are lots of pens. Most of the time, it will be understood from the context. Whether you mean a plural or a singular noun. If you wanted to say you bought pens. I bought. 샀어요. Past tense of 사다. 펜을 샀어요. I bought pens. Or, 펜을 샀어요. I bought a pen. Both of these could work. So, if you needed to specify that I bought one pen, you could instead say, 펜 한 개를 샀어요. Literally, I bought one pen. Otherwise, if you just said 펜을 샀어요, it could mean I bought pens or I bought a pen and it'll probably be clear from the context.
+
+So I'll give you an example. If I hold up a pen and say 이 펜을 샀어요. I bought this pen. It doesn't mean these pens, but if I were to hold up a bunch of pens and say 이 펜을 샀어요. Then it means I bought these pens, right? You understand exactly what it is. So you don't need to add 들 to make something plural because most of the time it's understood. Specify with numbers. You don't need to specify by making it a plural. So most of the time you do not need to use this. We're not done. There's a little more to this.
+
+If we were to look at this example, there might be a reason why we might add 들. 이 도시에 편의점이 있어요. So if you're saying a convenience store exists in the city, if you say this, it could mean possibly like one, depending on the context. Maybe you're talking about a really small city and you say 이 도시에, or maybe in this village or something. 이 마을에 편의점이 있어요. That could sound like, well, there is a convenience store in this village or in this city. If you want it to be really clear that there are multiple, you could add 들. Now it's convenience stores. So now you have, there are convenience stores in this city. But unless you think it could be vague, you don't need it.
+
+So when would you even use this? You can use this when you're talking about any noun in general. If you don't care and you don't know how many of something there are. So you're talking about it just in general, like houses, you know, who cares how many houses I'm talking about? You know, those houses in the other neighborhood, all of them. I don't care if it's one or 50. That's when you can and you might want to add 들. Because it's normally unnecessary when you do add it, it kind of just makes it, without caring, a plural. In this situation, it can sound fine to add 들. If we're talking about convenience stores, 편의점은, you can say a convenience store is a convenient place to buy snacks. 편의점들은, you know, convenience stores in general. I don't really care how many I'm talking about. Just, you know, those stores. And then you can talk about convenience stores. You're not talking about every convenience store in the world. You're not talking about one specific store. It's just, you're talking about them in general. You're not talking about any specific number. That's when 들 can get used. Or you could just say it with 편의점은, so you don't need it. But if you add it, it implies like, no, I'm making this plural about multiple stores.
+
+If you're using this in general, it can kind of sound like saying, I'm talking about all of those. It can kind of have that sort of feeling. All of those things are like that. Or if you're talking about a person, then it could be like saying, for example, if you say, you all. Kind of like saying that. You all. Like, I don't know how many there are. It's just plural. So that's what it's used for. There is one exception to using 들. And this exception, I think, causes a lot of confusion for learners. Because you will see 들 used in this case. When you're talking about people, it is very common to add 들. Like 사람 or 분, if you're talking honorifically. 선생님, for a teacher. 학생, for a student. 친구. It is common to add 들 when you mean plural. So if you're talking about a person, you can use 사람. If you're talking about people, you could also use 사람. But it's okay and it's common to say 사람들, 분들, 친구들, 선생님들, 학생들. So that's the exception when this will sound very natural to use it. But again, it's not required.
+
+That was the beginner part of this lesson. Everything else we're going to be doing today, is more in the intermediate level. So I'm going to tell you about another special particle. It looks the same, but I promise you, it's different. It's actually the exact same thing. Not only can you use it after a noun, but you could also use it after an adverb or even after a whole phrase. Now, before you learn how to use 들 like this, just know this is only for speech. It's not supposed to be used like this in writing. It doesn't sound like formal and written. It sounds like a spoken usage of 들. That said, this is not slang. It's still polite, but it's only for speech. Also, I will say this usage is less common. You will not need to use this, but you will hear it sometimes. All 들 does is says that there is a plural subject. Pretty much anything that you would use the subject marker for could be a subject. But what if there is no noun at all? What if you're putting 들 after an adverb? I'll give you an example.
+
+안녕하세요. Everyone knows this, right? But what if we did something a little bit strange here? 안녕하세요들. You can actually do this. What is happening with this? Again, all 들 does is says that there is a plural subject, but there is no subject. No one's doing anything. What is the subject of the sentence? There is no subject here, but there is. The subject when it's not specified for a phrase is the person that this phrase is talking about. It basically duplicates whatever you're putting in front of it. So, 안녕하세요, 안녕하세요, 안녕하세요, 안녕하세요, 안녕하세요. So, what would that be used for? If I'm saying hello to my friend, 안녕하세요, I could not say 안녕하세요들, because that would be like this: 안녕하세요, 안녕하세요, 안녕하세요, 안녕하세요. But when could you use this then? If there are multiple people in the room. 안녕하세요, 안녕하세요, 안녕하세요. That's what this 들 does. It simply repeats whatever is before it. Or you could just say 안녕하세요 if you're giving a general speech like hello. You don't have to do this. Again, it's not a requirement when you're addressing multiple people. But if you do use it, it means that whatever you're doing, whatever you're saying, this expression is addressed to multiple people. So, it is just like pointing at each person and saying hello.
+
+What if we did this? 안녕들 하세요. It's the exact same meaning. 안녕들 하세요 is the exact same meaning as 안녕하세요들. So, you'll hear both. Let's do another one. 안녕히 가세요. So, that's how you say goodbye politely to someone who's leaving. 안녕히 가세요. Let's say you're saying goodbye to multiple people and you want the nuance of your saying it to them individually and not just as a group. Well, you could just say 안녕히 가세요들. Or 안녕히들 가세요. Goodbye, each of you. Like that. Let's do one more example. 잘했어요. Good job. 잘들 했어요. Yeah, good job, everyone. Or you could do it 잘했어요들. Good job, good job, good job, good job. That's the nuance that you get.
+
+Let's talk about some exceptions. 너희, you guys. 우리, us, or the more polite version 저희, us. This is plural, right? 너희 already makes it plural. Like you and you and you and you. Now, these are not standard, but I'm not going to go and say that they're wrong because you're going to see them. 우리들은, 저희들은, 너희들. It's just more emphasis. Now, 네 is used after a person. So that can be like in English, you might say, oh, he or she or 철수 or whoever we're talking about. So it includes names. And what this means is actually very simple. People of the same kind or people who are of the same class as each other. Again, people. So just by adding 네, this also makes whatever word you use it after plural. In this case, if we were to say 철수 네, it means people of the same kind and class as 철수, which obviously would therefore include 철수 himself. So it's like 철수 and other people that are in the same kind of class as he is or the same kind of people as 철수 is what it means.
+
+What this specifically means is people who are the same kind or the same class as 철수, for example, would be 철수's family. So 철수 네, 철수 and family. It doesn't have to only be family. It's any person that belongs to a group or an organization like maybe a company. So person and family. But the way that it works is actually more like the possessive marker, you know, like apostrophe s. It means, again, that person and their family or their group or companies, something. So something that is owned by or belongs to or is a part of that person and their family or their group or their organization or company. That's what this particle means. It shows that thing is owned by or is a part of a family or group or organization. And the reason you might want to use this is because it doesn't just show that it's owned by a person, but by that group or company.
+
+Let me give you an example. Again, the way this works is like the possessive marker 의, which is pronounced as 에 when it's used as the possessive marker. 철수의 집 is the normal way to say 철수's house. And it just means 철수 owns the house. But if something's not owned by one person, you're probably not going to say it's 철수's house unless he's living there by himself. 철수 lives there with his mom and dad and his pet goldfish and his younger brother. It's not 철수's house. It's 철수's family's house. 철수 네 집. So this is, again, 철수 and his family's house. It's not common to say the possessive marker with buildings. If you want to say, like, I went to my friend Mark's company. It's not his company. He didn't buy it. He doesn't own it. He's not the CEO. It's 마크 네 회사. 철수 네 집. 철수 네 학교. Obviously, it's not 철수's school, but it's the one that 철수 is a member of. He belongs to that group. So buildings are really common. Another common place you're going to see this is with pets because one person doesn't own the pet. It's the family's pet. Instead of saying, it's my cat, you might say, oh, it's my family's cat. Like 철수 네 고양이. Or you could even say 우리 집 고양이. That's another way you could do this, which emphasizes that it's the cat at my house.
+
+There are other ways you could do this, but we're not going to be talking about those today. Anything that's not just owned by one person, you're going to want to use 네 instead of 의 to show ownership of that. You're not going to see this a ton. One more thing we have to talk about. 너 for you, for talking about someone who's the same age as you or younger. There is the word 너네. However, note that it's very casual. So this is like, you know, you and your family like that. You and your group. It's not really like plural you, it's just you and the people around you and usually referring to, you know, you and your family, you know, you guys like that. Or you and your group, if you're talking to another group of people like you guys, as in you and the group you're currently in, like a group of friends. Again, very casual though. You might also see it used like this: 너네들. This is not necessary because 너네 already makes it you and the other people in your group. It doesn't change the meaning. It just makes it a little more emphatic. Like you guys, all you guys. Again, very casual. I don't recommend using it, but if you see it, it's the same thing.
+
+There is one more thing you can do with it. 얘. This dude, this girl, this person. 걔 is 그, that person. And 쟤 is also that person. So like this person, this dude, this girl, this dude here. Or 걔, that dude, that guy, that girl, whatever, that person. These can also be combined with 네. 얘네, 걔네, 쟤네. So like all yous and your group here, all you guys over there, your one group. So you might see these as well. Very casual though. You will not use these to strangers because it doesn't sound polite. And you also might hear 들 attached as well to these. Again, not necessary, but you might hear it. 얘네들. So that's pretty much it. That's everything that you need to know about using 네. And that is the entire lesson. Thank you everyone for coming and I will see you again next time. 그럼 다음에 또 봐.

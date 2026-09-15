@@ -1,0 +1,117 @@
+2026-08-31 14:24:08,103 INFO BASE_DIR = C:\vault\Koreanwithji_vault
+2026-08-31 14:24:08,103 INFO xlsx 파싱... (C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\tech_yt_md_convert.xlsx)
+2026-08-31 14:24:08,109 INFO xlsx 유튜브 행 전체 11개
+2026-08-31 14:24:08,109 INFO 변환 대상(X) 9개 | 공란 0개(대상 아님) | O 2개 | F 0개
+2026-08-31 14:24:08,110 INFO 변환 대상 고유 URL 4개
+2026-08-31 14:24:09,646 WARNING Tech exemplary 미지정 — 규칙만으로 생성합니다. 시범 변환 1개를 검수해 확정한 뒤 .env의 TECH_EXEMPLARY_MD에 경로를 넣으세요.
+2026-08-31 14:24:09,658 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 1.메타데이터
+2026-08-31 14:24:09,673 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 1.메타데이터
+2026-08-31 14:24:09,687 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 1.메타데이터
+2026-08-31 14:24:09,700 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 1.메타데이터
+2026-08-31 14:24:12,705 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 2.다운로드(1080p)
+2026-08-31 14:24:12,947 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 2.다운로드(1080p)
+2026-08-31 14:24:12,966 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 2.다운로드(1080p)
+2026-08-31 14:24:13,168 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 2.다운로드(1080p)
+2026-08-31 14:24:18,883 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 3.오디오/probe 프레임 분리
+2026-08-31 14:24:24,933 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 3.오디오/probe 프레임 분리
+2026-08-31 14:24:26,440 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] probe 프레임 797장
+2026-08-31 14:24:26,441 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 4.Whisper(VAD)
+2026-08-31 14:24:26,651 INFO faster-whisper large-v3 CUDA 로딩...
+2026-08-31 14:24:27,204 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+2026-08-31 14:24:32,081 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 3.오디오/probe 프레임 분리
+2026-08-31 14:24:33,428 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 3.오디오/probe 프레임 분리
+2026-08-31 14:24:55,311 INFO Processing audio with duration 06:38.733
+2026-08-31 14:25:01,412 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] probe 프레임 1347장
+2026-08-31 14:25:01,414 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 4.Whisper(VAD)
+2026-08-31 14:25:04,794 INFO VAD filter removed 00:21.981 of audio
+2026-08-31 14:25:08,801 INFO Detected language 'en' with probability 0.99
+2026-08-31 14:25:08,807 INFO Whisper 감지 언어: en (prob=0.99)
+2026-08-31 14:25:13,728 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] probe 프레임 2004장
+2026-08-31 14:25:13,731 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 4.Whisper(VAD)
+2026-08-31 14:25:15,453 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] probe 프레임 1786장
+2026-08-31 14:25:15,457 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 4.Whisper(VAD)
+2026-08-31 14:26:30,073 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 5.키프레임 선별
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:561: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return list(img.getdata())
+2026-08-31 14:26:30,390 INFO Processing audio with duration 11:13.533
+2026-08-31 14:26:31,793 INFO VAD filter removed 00:13.165 of audio
+2026-08-31 14:26:32,686 INFO Detected language 'en' with probability 1.00
+2026-08-31 14:26:32,692 INFO Whisper 감지 언어: en (prob=1.00)
+2026-08-31 14:26:39,848 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] distinct 프레임 60장 → OCR
+2026-08-31 14:26:41,349 INFO PaddleOCR(lang=korean, CPU) 로딩...
+����: ������ ���Ͽ� �ش�Ǵ� ������ ã�� ���߽��ϴ�.
+C:\vault\Koreanwithji_vault\.venv\Lib\site-packages\paddle\utils\cpp_extension\extension_utils.py:712: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+[32mCreating model: ('PP-LCNet_x1_0_doc_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-LCNet_x1_0_doc_ori`.[0m
+[32mCreating model: ('UVDoc', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\UVDoc`.[0m
+[32mCreating model: ('PP-LCNet_x1_0_textline_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-LCNet_x1_0_textline_ori`.[0m
+[32mCreating model: ('PP-OCRv5_server_det', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-OCRv5_server_det`.[0m
+[32mCreating model: ('korean_PP-OCRv5_mobile_rec', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\korean_PP-OCRv5_mobile_rec`.[0m
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:613: DeprecationWarning: Please use `predict` instead.
+  lambda: ocr.ocr(image_path, cls=True),
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:614: DeprecationWarning: Please use `predict` instead.
+  lambda: ocr.ocr(image_path),
+2026-08-31 14:35:11,231 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 5.키프레임 선별
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:561: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return list(img.getdata())
+2026-08-31 14:35:59,093 INFO Processing audio with duration 16:42.053
+2026-08-31 14:38:12,921 INFO VAD filter removed 00:44.704 of audio
+2026-08-31 14:38:55,098 INFO Detected language 'en' with probability 1.00
+2026-08-31 14:38:55,106 INFO Whisper 감지 언어: en (prob=1.00)
+2026-08-31 14:50:09,300 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] distinct 프레임 60장 → OCR
+2026-08-31 14:59:12,454 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 5.키프레임 선별
+2026-08-31 15:00:23,067 INFO Processing audio with duration 14:52.813
+2026-08-31 15:00:36,574 INFO VAD filter removed 00:11.232 of audio
+2026-08-31 15:02:31,536 INFO Detected language 'en' with probability 1.00
+2026-08-31 15:02:31,569 INFO Whisper 감지 언어: en (prob=1.00)
+2026-08-31 15:33:47,760 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 6.앵커 400개 (고신뢰 72개)
+2026-08-31 15:50:36,667 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 7.Gemini 합성 (이미지 60장)
+2026-08-31 15:50:36,708 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 15:50:36,710 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-08-31 15:50:40,276 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 503 Service Unavailable"
+2026-08-31 15:50:40,279 WARNING Gemini 503 → 15s 후 재시도 (1/5)
+2026-08-31 15:50:52,146 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 5.키프레임 선별
+2026-08-31 15:50:56,085 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 15:52:27,556 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 15:52:27,577 WARNING [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 검증 보정 재생성: These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: testing.md, security.md, code-style.md, v2.1.17, well-organized, your-project,
+2026-08-31 15:53:39,538 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 15:54:46,544 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 15:54:46,558 WARNING [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 검증 실패 → convert_F 보관: ["한글 음차 잔존: ['에이전트']"]
+2026-08-31 15:54:46,566 ERROR 실패 기록: tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 Minutes_260831.md — 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+2026-08-31 15:55:55,200 WARNING xlsx 상태 갱신 실패(row=5 → F): [Errno 13] Permission denied: 'C:\\vault\\Koreanwithji_vault\\_vault_setup\\01_md_convert\\tech_yt_md_convert.xlsx'
+2026-08-31 16:21:24,436 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] distinct 프레임 60장 → OCR
+2026-08-31 16:35:38,751 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] distinct 프레임 60장 → OCR
+2026-08-31 16:53:55,867 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 6.앵커 400개 (고신뢰 60개)
+2026-08-31 17:01:15,377 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 7.Gemini 합성 (이미지 60장)
+2026-08-31 17:01:15,379 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 17:01:57,335 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 17:01:57,337 WARNING [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 검증 보정 재생성: Rule violations to fix: 적용 지식이 산문보다 불릿 위주 (산문 규칙 위반 의심); 한글 음차 잔존: ['에이전트']. These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: R
+2026-08-31 17:02:34,719 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 17:03:12,670 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 17:03:12,678 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developers Installed in 1 Week (Full Breakdown)_260831.md
+2026-08-31 17:03:12,678 INFO [tech_Jay E_The Karpathy CLAUDE.md File That 43,000 Developer] 누적 비용 $0.144 (≈₩194) | 입력 240,453 (캐시 81,768) · 출력 6,526 토큰
+2026-08-31 17:36:34,881 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 6.앵커 400개 (고신뢰 60개)
+2026-08-31 17:44:03,848 INFO [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 7.Gemini 합성 (이미지 60장)
+2026-08-31 17:44:03,849 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 17:45:06,502 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 17:45:06,517 WARNING [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 검증 보정 재생성: Rule violations to fix: 적용 지식이 산문보다 불릿 위주 (산문 규칙 위반 의심). These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: .env.example, .gitign
+2026-08-31 17:45:12,087 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 17:46:10,118 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 17:46:10,130 WARNING [tech_bri_CLAUDE.md Complete Guide — The File That Makes Clau] 검증 실패 → convert_F 보관: ["한글 음차 잔존: ['에이전트']"]
+2026-08-31 17:46:10,133 ERROR 실패 기록: tech_bri_CLAUDE.md Complete Guide — The File That Makes Claude Code Actually Useful_260831.md — 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+2026-08-31 18:24:12,607 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 6.앵커 400개 (고신뢰 60개)
+2026-08-31 18:24:14,831 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 7.Gemini 합성 (이미지 60장)
+2026-08-31 18:24:14,834 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 18:24:43,631 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 18:24:43,631 WARNING [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 검증 보정 재생성: These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: G2i, 39s, USA, x.com/bcherny/status/2007179842928947333, g2i.co, g2i.co/why-g2
+2026-08-31 18:24:48,636 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 18:25:15,645 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 18:25:15,659 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md
+2026-08-31 18:25:15,659 INFO [tech_camelCase_Stop Writing Bad CLAUDE.md Files_260831.md] 누적 비용 $0.258 (≈₩349) | 입력 409,492 (캐시 228,932) · 출력 13,989 토큰
+2026-08-31 18:25:15,941 INFO 완료. OK=2 SKIP=0 FAIL=2
+2026-08-31 18:25:15,941 INFO 누적 비용 $0.258 (≈₩349) | 입력 409,492 (캐시 228,932) · 출력 13,989 토큰

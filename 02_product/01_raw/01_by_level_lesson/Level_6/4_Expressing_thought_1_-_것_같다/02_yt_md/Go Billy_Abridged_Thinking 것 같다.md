@@ -1,0 +1,79 @@
+# Go Billy | Thinking 것 같다 | Live Class Abridged
+
+## Metadata
+- **Channel:** Go Billy
+- **Playlist:** Abridged
+- **URL:** https://youtu.be/fjmfA2u5Nns
+- **Duration:** 12:38
+- **Upload Date:** 2023-10-04
+
+---
+
+## Teaching Points
+
+### Overview
+The instructor introduces the grammar form `것 같다` as the primary way to express thoughts, opinions, or impressions in Korean. While often translated as "I think," the literal meaning is closer to "it seems like" or "it is like a certain thing." This distinction is important because the form functions by turning a verb or adjective into a noun-modifying form (an adjective) and attaching it to the word `것` (thing), followed by the verb `같다` (to be like/same).
+
+The lesson covers the comprehensive conjugation rules required to use this form across different tenses (present, past, and future) and verb types (action and descriptive). The instructor emphasizes that because this form relies on noun modification, learners must be comfortable with changing verbs into adjective forms before they can master expressing their thoughts with `것 같다`.
+
+---
+
+### The Logic of 것 같다
+The instructor explains that the form is composed of three parts: a verb conjugated into an adjective form, the noun `것` (meaning "thing"), and the verb `같다` (meaning "to be like" or "to be the same"). In casual speech, `것` is frequently shortened to `거`. For example, taking the descriptive verb `작다 (to be small)`, one first creates the adjective form `작은 (small)`. Adding `것 같다` results in `작은 것 같다`, which literally means "it is like a small thing" or "it seems small." In Korean pragmatics, saying something "seems" a certain way is the standard method for expressing "I think."
+
+---
+
+### Conjugation Rules: Present Tense
+Conjugation depends on whether the word is a descriptive verb (adjective) or an action verb. For descriptive verbs in the present tense, you take the verb stem and attach `~은` if it ends in a consonant, or `~ㄴ` if it ends in a vowel. The instructor notes two major exceptions: for stems ending in `ㄹ`, the `ㄹ` is removed before adding `~ㄴ` (e.g., `길다` becomes `긴`); for stems ending in `ㅂ`, the `ㅂ` is removed and replaced with `우` before adding `~ㄴ` (e.g., `맵다` becomes `매운`).
+
+For action verbs in the present tense, the rule is simpler: attach `~는` to the verb stem regardless of whether it ends in a vowel or consonant. The `ㄹ` exception still applies here (e.g., `살다` becomes `사는`). Additionally, the verbs `있다 (to exist/be there)` and `없다 (to not exist/not be there)` always follow the action verb rule, becoming `있는` and `없는`.
+
+---
+
+### Conjugation Rules: Past Tense
+For descriptive verbs in the past tense, the instructor suggests a shortcut: conjugate the verb into its regular past tense form (ending in `~었/았/였`), drop the final `요` or `다`, and attach `~던`. For example, `하다` becomes `했던`. This also applies to the copula `이다`, which becomes `이었던` or `였던`.
+
+For action verbs in the past tense, the form actually looks identical to the present tense descriptive verb rule: attach `~은` (consonant) or `~ㄴ` (vowel) to the stem. This can be confusing for beginners as `찾은 것 같다` means "I think (someone) found (it)," whereas `작은 것 같다` means "I think (it) is small." The same `ㄹ` and `ㅂ` exceptions from the present tense descriptive rules apply here.
+
+---
+
+### Conjugation Rules: Future Tense
+The future tense is the most uniform. For both action and descriptive verbs, you take the stem and attach `~을` if it ends in a consonant or `~ㄹ` if it ends in a vowel. This expresses a thought about a future possibility or a current guess about something unknown.
+
+---
+
+### Sentence Examples and Nuance
+The instructor provides several examples to demonstrate the tenses:
+- **Present (Descriptive):** `좀 추운 것 같아요.` / I think it's a little cold.
+- **Present (Action):** `철수가 지금 자고 있는 것 같아요.` / I think Chul-soo is sleeping now.
+- **Past:** `철수가 피자를 먹은 것 같아요.` / I think Chul-soo ate pizza.
+- **Future:** `맛있을 것 같아요.` / I think it will be delicious.
+
+A key nuance discussed is how to say "I don't think..." While a beginner might try to make `같다` negative (e.g., `같지 않아요`), it is much more natural in Korean to make the preceding verb negative. Instead of saying "I don't think it's good," Koreans usually say "I think it's not good" (`안 좋은 것 같아요`). Using `같지 않아요` is reserved for moments of strong emphasis when specifically contradicting someone else's opinion.
+
+---
+
+### Usage Notes and Pronunciation
+The instructor concludes with two practical tips. First, while `것 같다` can be used in the past tense (`같았어요`) to say "It seemed like...", it should almost never be used in the future tense (`같을 거예요`), as it sounds nonsensical to say "It will seem like." Second, regarding pronunciation, although the word is written as `같아요`, it is very commonly pronounced as `같애요` in daily speech. This is a widespread habit/dialect, and while learners should continue to write `같아요`, they should not be confused when they hear `같애요`.
+
+---
+
+## Transcript
+
+**Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+Hey everyone. Today we're going to be learning how to think in Korean and we're going to be using a specific form known as 것 같아. Here's how it works. The basic way that this form works is you take a verb and you conjugate it to an adjective. That just means changing a verb so that you can modify another word. If you take the word cute you can have a cute cat. If you take the verb to be delicious you can have a delicious pizza. That's all you're doing. And then you attach 것 which means thing and 같아. Now the adjective that you make can be in any tense you want. Most of the time you're going to use the present tense. For example if you say a cute cat what you're saying is actually present tense a cat that is cute. Now there are adjectives in the past and future tense as well. You could say a cat that was cute or a cat that will be cute but depending on the situation you're probably not going to be using those for normal adjectives but you could use those other tenses when you're saying to think.
+
+Now 것 optionally can also be 거. It's the same thing. Let me give you a really quick example of just the conjugation so you can see what something looks like. Let's take the adjective small. To make the verb to be small into an adjective we're going to have to change it a little bit. And I'll go over these rules again really briefly during the live stream today. But let me just give you a quick example. So we have the descriptive verb 작다 to be small. How would you say a small house? 작은 집. Literally this is actually the present tense. So a house that is small. So that's the adjective form of 작다 to be small. 작은 것 같다. And then you would conjugate this however you'd like. So 같아요 for example. 같습니다. This verb 같다 means to be like something. As in it is like that. Or to be the same as something. So when you say 작은 것 같아요. What you're literally saying is it is the same thing as small. Or it is like it is small. So literally what you're saying, whatever you say I think using this form, isn't really that you think it. This form has nothing to do with your thought. It sounds like you're saying it seems like. Or it's like it's small. Or it's the same. Same as if it were small. But in Korean, when you say that something seems like something or something is like something, it feels like you're also expressing it as your thought.
+
+So let me do a quick review of how to conjugate this form. If you'd like a full review of how to conjugate verbs into adjectives, make sure to check out my live streams on conjugating descriptive verbs, which was November 24th, 2018, as well as my live stream on conjugating action verbs into adjectives, which was September 9th, 2018. So the way that you conjugate a verb into an adjective will actually depend on whether you're using an action verb or a descriptive verb. For the present tense, as in something that is something, you take the verb stem of the descriptive verb and you attach 은 if that verb stem ends with a consonant. Or you attach just this letter, which is known as 니은 if the verb stem ends with a vowel. There are a few exceptions. I'll just highlight two that are the most common. 리을. If the descriptive verb stem ends with this letter, you remove it and continue as usual. So if you have the verb 길다, meaning to be long, well, you get the verb stem. It ends in this letter. Now it ends in a vowel. So you're left with 긴 and you're done. Now you have the adjective form of 길다 to be long. So now you can say 긴 영화, a long movie like that. Another really common exception is if the descriptive verb ends with this letter, which is known as 피읍. For this one, you also remove it, but then you have to add something else. You add the syllable 우. 맵다 means to be spicy. You get the verb stem. It ends with this letter, so you remove it. Now we attach 우. And then you continue as usual. You add a 니은 because it ends with a vowel and you get 매운. 매운 음식, spicy food. 매운 김치, spicy kimchi. There are more exceptions, of course.
+
+That is how you conjugate a descriptive verb into an adjective as long as it's in the present tense. If you have an action verb, all you do is you take the stem and you attach 는. There is an exception if it ends with this letter, just like before you remove it. So if you have the verb 살다, to live, you get the stem, you remove it, you attach 는, and you have 사는. There are a couple verbs that are conjugated like action verbs that you might not think of as action verbs. The verb 살아 있다, to exist, and 없다, to not exist. These ones are also conjugated like action verbs. So you get 있는 and 없는. Let's go on to the past tense. For a descriptive verb, it's actually really simple if you already know how to conjugate verbs normally to make the 요 form. You conjugate the descriptive verb as if you're just getting the regular past tense. When you get the regular past tense, you'll know because it ends with these letters. Once you get there, chop everything else off. For example, the verb 하다 would become 했어요. We see these two letters. We chop everything else off and we're done. That's the stem. Then we attach 던 and we are done. So that's all you have to do for descriptive verbs for the past tense. Almost done with this. Okay. Normally when you conjugate 이다 to be into the past tense, you get one of these two. 이었어요 if it's after a consonant or 었어요 if it's after a vowel. Just like before you cut off the ends and you attach 던. So it's not an exception, but it's just something to keep an eye out for that it can become either of these. 였던 or 이었던.
+
+Here is where people mess up. For action verbs in the past tense to make it into an adjective, this looks like the present tense descriptive verb adjective form. It's the same form, but now it's past tense and that can be confusing to beginners. So you take an action verb stem. Let's take 하다 for example. So not the 하다 you might see in descriptive verbs at the end, but 하다 that you would see in action verbs meaning to do. It ends in a vowel, so you attach ㄴ. That's it. 한. Let's do a different action verb. 찾다 means to find something. You're looking for something. 찾은. Found. Also, just like with descriptive verbs, it has the same exception. If it ends with a 리을, you remove it first. So if you're using the verb 살다 to live, you get 산. And if you have this letter again, you remove it and attach 우. Just like before. Okay. For the future tense, it doesn't matter if it's an action verb or a descriptive verb. You just take the stem and you attach 을 if it ends with a consonant or just a ㄹ if it ends with a vowel. And then just like before, you have the same exceptions. If it ends with this letter, ㄹ, you remove it first, but since you add it back, it doesn't make a difference. So 살다 to live would just be 살. This letter as well, just like before, you remove it and you attach 우 and that's it. All right. I think that's it. I hope you enjoyed this video.
+
+I think we're ready for some sentences. 좀 추운 것 같아요. 좀. A little bit. A bit. 춥다. Cold. 추운. Present tense. 추운 것 같아요. Literally, it seems a little cold. But that's how you say I think it's a little cold is by saying it seems a certain way. It's like it's a little cold. 지금. Right now. 지금 자고 있는 것 같아요. So it seems or I think that is sleeping now. 철수가 지금 자고 있는 것 같아요. So I think 철수 is asleep now. 영화가 너무 긴 것 같아요. 영화. The movie is 너무. Too 길다. Long. Is too long. Present tense. 길다. So I think or it seems the movie is too long. 영화가 너무 긴 것 같아요. 철수가 피자를 먹은 것 같아요. So it seems or I think that 철수 ate, past tense, pizza. I think 철수 ate pizza. 이미. Already. 보다. To see. In this case, 본 is past tense. So the past tense form of to see, saw. 것 같아요. So it seems I already saw it. Or I think I already saw it. 이미 본 것 같아요. 철수. Our friend 철수. 하다. To do. Becomes 한. Did. Past tense. 것 같아요. I think or it seems that 철수 did it. 철수가 한 것 같아요. 괜찮을 것 같아요. 괜찮다. To be okay. It seems like or I think it will be. 괜찮을. Future tense. Okay. So I think it'll be okay. 맛있을 것 같아요. 맛있다. To be delicious. To be tasty. To taste good. To be good. Future tense. 맛있을 것 같아요.
+
+But there are a couple other things you should know. What if though you wanted to say that you don't think something is something. For example, what if you said, I don't think it's a bit cold. I don't think 철수 is sleeping. I don't think the movie's too long. How would you do that? The beginner might think you do this. Or even this. For example, 철수가 지금 자고 있는 거 같지 않아요. Or 자고 있는 거 안 같아요. This one is completely wrong. You might hear it becoming negative like this. 같지 않아요. 같지 않아요. But there is a more natural way of doing this. And that is making the verb before it negative. And then attaching 것 같다 as usual. Let me give you an example. I don't think it's good. 좋은 from 좋다 to be good. 좋은 것 같지 않아요. I don't think it's good. You could say this. But it's more common that Korean speakers will actually do this. 안 좋은 것 같아요. Literally, I think it's not good. So it's more natural to say I think something isn't than it is to say I don't think something is. However, this is not to say that you don't say I don't think with this form. You can. 좋은 것 같지 않아요. I don't think that it is good. You can make that sentence. It's not unnatural. However, it's less common. So when would you say 같지 않다? I don't think. The answer is any time you want to emphasize that you do not think a certain way.
+
+Let me give you an example. One person asks another person. 그런 것 같아요? 그렇다 to be so. So do you think so? 그런 것 같아요? Do you think it is? Do you think so? And you want to say, I don't think so. You could just say 안 그런 것 같아요. But you want to say, no, I do not think so. 그런 것 같지 않아요. Like, hey, do you think so? Nah, I do not think so. So it's for emphasis. So anytime it feels natural to say that's not what I would think, then use the negative form of 같다 like this. Also, all of the examples we had today were in the present tense. They were all just 같아요. Present tense. You could also use this in the past tense if you want. It could have a few different forms. One common way would be 같았어요. Most of the time you don't need it in the past tense, but you can use it in the past tense. It sounds okay. However, do not make this form into the future tense. It sounds extremely awkward. 같을 거예요. 같겠습니다. It will seem like it doesn't make sense. One more thing. While it is always written as 같아요 in the 요 form, you might also hear it as 같애요. But it is pronounced this way more often than it's pronounced this way. So this is kind of like a dialect, but it's so common you'll hear it everywhere. Feel free to say it like 같애요. It's much easier to say 같애요 than 같아요. But know that when you write it, it should still always be 같아요. And that is the lesson for today. Thank you everyone for coming, and I will see you next time. 그럼 다음에 또 봐!

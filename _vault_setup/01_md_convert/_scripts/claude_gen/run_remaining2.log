@@ -1,0 +1,154 @@
+2026-08-31 21:21:45,081 INFO BASE_DIR = C:\vault\Koreanwithji_vault
+2026-08-31 21:21:45,081 INFO xlsx 파싱... (C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\tech_yt_md_convert.xlsx)
+2026-08-31 21:21:45,091 INFO xlsx 유튜브 행 전체 11개
+2026-08-31 21:21:45,092 INFO 변환 대상(X) 6개 | 공란 0개(대상 아님) | O 4개 | F 1개
+2026-08-31 21:21:45,092 INFO 변환 대상 고유 URL 6개
+2026-08-31 21:21:46,615 WARNING Tech exemplary 미지정 — 규칙만으로 생성합니다. 시범 변환 1개를 검수해 확정한 뒤 .env의 TECH_EXEMPLARY_MD에 경로를 넣으세요.
+2026-08-31 21:21:46,630 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 1.메타데이터
+2026-08-31 21:21:46,640 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 1.메타데이터
+2026-08-31 21:21:46,655 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 1.메타데이터
+2026-08-31 21:21:46,666 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 1.메타데이터
+2026-08-31 21:21:49,540 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 2.다운로드(1080p)
+2026-08-31 21:21:49,786 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 2.다운로드(1080p)
+2026-08-31 21:21:49,975 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 2.다운로드(1080p)
+2026-08-31 21:21:50,135 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 2.다운로드(1080p)
+2026-08-31 21:21:56,520 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 3.오디오/probe 프레임 분리
+2026-08-31 21:22:02,909 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 3.오디오/probe 프레임 분리
+2026-08-31 21:22:04,037 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] probe 프레임 797장
+2026-08-31 21:22:04,038 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 4.Whisper(VAD)
+2026-08-31 21:22:04,287 INFO faster-whisper large-v3 CUDA 로딩...
+2026-08-31 21:22:04,954 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+2026-08-31 21:22:26,418 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] probe 프레임 2011장
+2026-08-31 21:22:26,419 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 4.Whisper(VAD)
+2026-08-31 21:22:26,676 INFO Processing audio with duration 06:38.733
+2026-08-31 21:22:27,509 INFO VAD filter removed 00:21.981 of audio
+2026-08-31 21:22:28,512 INFO Detected language 'en' with probability 0.99
+2026-08-31 21:22:28,513 INFO Whisper 감지 언어: en (prob=0.99)
+2026-08-31 21:23:27,016 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 5.키프레임 선별
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:561: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return list(img.getdata())
+2026-08-31 21:23:27,426 INFO Processing audio with duration 16:45.413
+2026-08-31 21:23:29,176 INFO VAD filter removed 00:08.853 of audio
+2026-08-31 21:23:30,460 INFO Detected language 'en' with probability 1.00
+2026-08-31 21:23:30,467 INFO Whisper 감지 언어: en (prob=1.00)
+2026-08-31 21:23:36,778 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] distinct 프레임 60장 → OCR
+2026-08-31 21:23:38,636 INFO PaddleOCR(lang=korean, CPU) 로딩...
+����: ������ ���Ͽ� �ش�Ǵ� ������ ã�� ���߽��ϴ�.
+C:\vault\Koreanwithji_vault\.venv\Lib\site-packages\paddle\utils\cpp_extension\extension_utils.py:712: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+[32mCreating model: ('PP-LCNet_x1_0_doc_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-LCNet_x1_0_doc_ori`.[0m
+[32mCreating model: ('UVDoc', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\UVDoc`.[0m
+[32mCreating model: ('PP-LCNet_x1_0_textline_ori', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-LCNet_x1_0_textline_ori`.[0m
+[32mCreating model: ('PP-OCRv5_server_det', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\PP-OCRv5_server_det`.[0m
+[32mCreating model: ('korean_PP-OCRv5_mobile_rec', None, None)[0m
+[32mModel files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\Donga\.paddlex\official_models\korean_PP-OCRv5_mobile_rec`.[0m
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:613: DeprecationWarning: Please use `predict` instead.
+  lambda: ocr.ocr(image_path, cls=True),
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:614: DeprecationWarning: Please use `predict` instead.
+  lambda: ocr.ocr(image_path),
+2026-08-31 21:27:01,101 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 3.오디오/probe 프레임 분리
+2026-08-31 21:28:44,160 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] probe 프레임 3177장
+2026-08-31 21:28:44,164 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 4.Whisper(VAD)
+2026-08-31 21:36:23,067 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 3.오디오/probe 프레임 분리
+2026-08-31 21:38:52,682 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] probe 프레임 7070장
+2026-08-31 21:38:52,685 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 4.Whisper(VAD)
+2026-08-31 21:48:19,687 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 5.키프레임 선별
+C:\vault\Koreanwithji_vault\_vault_setup\01_md_convert\_scripts\tech_yt_md_pipeline.py:561: DeprecationWarning: Image.Image.getdata is deprecated and will be removed in Pillow 14 (2027-10-15). Use get_flattened_data instead.
+  return list(img.getdata())
+2026-08-31 21:50:26,848 INFO Processing audio with duration 26:28.413
+2026-08-31 21:51:53,408 INFO VAD filter removed 00:09.920 of audio
+2026-08-31 21:53:10,987 INFO Detected language 'en' with probability 1.00
+2026-08-31 21:53:10,995 INFO Whisper 감지 언어: en (prob=1.00)
+2026-08-31 22:18:16,676 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 6.앵커 400개 (고신뢰 72개)
+2026-08-31 22:18:19,438 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 7.Gemini 합성 (이미지 60장)
+2026-08-31 22:18:19,453 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 22:18:19,453 WARNING Direct use of automatic function calling (AFC) in Models.generate_content is not recommended. Instead, we recommend to use AFC in Chat.send_message. Similarly, direct use of AFC in Models.generate_content_stream is not recommended. Instead, we recommend to use AFC in Chat.send_message_stream.
+2026-08-31 22:18:24,566 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 5.키프레임 선별
+2026-08-31 22:18:25,495 INFO Processing audio with duration 58:55.113
+2026-08-31 22:18:36,805 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] distinct 프레임 60장 → OCR
+2026-08-31 22:19:07,764 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 22:19:07,776 WARNING [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 검증 보정 재생성: These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: testing.md, security.md, code-style.md, v2.1.17, well-organized, your-project,
+2026-08-31 22:19:51,049 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 22:20:34,174 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 22:20:34,190 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 Minutes_260831.md
+2026-08-31 22:20:34,190 INFO [tech_GritAI Studio_How to Use CLAUDE.md in Claude Code in 5 ] 누적 비용 $0.052 (≈₩71) | 입력 80,751 (캐시 73,578) · 출력 2,767 토큰
+2026-08-31 22:20:34,489 WARNING xlsx 상태 갱신 실패(row=5 → O): [Errno 13] Permission denied: 'C:\\vault\\Koreanwithji_vault\\_vault_setup\\01_md_convert\\tech_yt_md_convert.xlsx'
+2026-08-31 22:20:34,493 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 1.메타데이터
+2026-08-31 22:20:39,622 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 2.다운로드(1080p)
+2026-08-31 22:27:36,258 INFO VAD filter removed 01:55.968 of audio
+2026-08-31 22:27:51,535 INFO Detected language 'en' with probability 0.99
+2026-08-31 22:27:51,563 INFO Whisper 감지 언어: en (prob=0.99)
+2026-08-31 22:41:46,637 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 3.오디오/probe 프레임 분리
+2026-08-31 22:43:56,437 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] probe 프레임 6807장
+2026-08-31 22:43:56,439 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 4.Whisper(VAD)
+2026-08-31 23:05:16,776 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 6.앵커 400개 (고신뢰 52개)
+2026-08-31 23:05:20,188 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 7.Gemini 합성 (이미지 60장)
+2026-08-31 23:05:20,189 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 23:05:30,331 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] distinct 프레임 60장 → OCR
+2026-08-31 23:06:13,809 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 23:06:13,816 WARNING [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 검증 보정 재생성: Rule violations to fix: 적용 지식이 산문보다 불릿 위주 (산문 규칙 위반 의심); 한글 음차 잔존: ['에이전트']. These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: a
+2026-08-31 23:06:49,588 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 23:07:22,098 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 23:07:22,108 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831.md
+2026-08-31 23:07:22,108 INFO [tech_jaredrhod_How I Set Up Obsidian with Claude Code_260831] 누적 비용 $0.114 (≈₩154) | 입력 167,916 (캐시 155,346) · 출력 7,409 토큰
+2026-08-31 23:08:51,971 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 1.메타데이터
+2026-08-31 23:09:23,367 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 2.다운로드(1080p)
+2026-08-31 23:11:26,303 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 5.키프레임 선별
+2026-08-31 23:14:35,477 INFO Processing audio with duration 56:43.713
+2026-08-31 23:25:05,483 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 3.오디오/probe 프레임 분리
+2026-08-31 23:26:33,860 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] probe 프레임 4251장
+2026-08-31 23:26:33,862 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 4.Whisper(VAD)
+2026-08-31 23:36:00,044 INFO VAD filter removed 01:20.481 of audio
+2026-08-31 23:36:12,170 INFO Detected language 'en' with probability 0.99
+2026-08-31 23:36:12,197 INFO Whisper 감지 언어: en (prob=0.99)
+2026-08-31 23:45:36,431 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 6.앵커 396개 (고신뢰 24개)
+2026-08-31 23:45:39,316 INFO [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 7.Gemini 합성 (이미지 60장)
+2026-08-31 23:45:39,318 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 23:45:49,705 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] distinct 프레임 60장 → OCR
+2026-08-31 23:46:30,522 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 23:46:30,527 WARNING [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 검증 보정 재생성: Rule violations to fix: 한글 음차 잔존: ['에이전트']. 
+2026-08-31 23:47:08,440 INFO AFC is enabled with max remote calls: 10.
+2026-08-31 23:47:51,250 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-08-31 23:47:51,258 WARNING [tech_Greg Isenberg_Why Graph Engineering will 10x your Claud] 검증 실패 → convert_F 보관: ["한글 음차 잔존: ['에이전트']"]
+2026-08-31 23:47:51,259 ERROR 실패 기록: tech_Greg Isenberg_Why Graph Engineering will 10x your Claude Codex_260831.md — 재시도 후에도 검증 실패: ["한글 음차 잔존: ['에이전트']"]
+2026-09-01 00:15:44,944 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 5.키프레임 선별
+2026-09-01 00:16:05,297 INFO Processing audio with duration 35:25.353
+2026-09-01 00:18:53,827 INFO VAD filter removed 00:28.057 of audio
+2026-09-01 00:19:42,649 INFO Detected language 'en' with probability 1.00
+2026-09-01 00:19:42,658 INFO Whisper 감지 언어: en (prob=1.00)
+2026-09-01 00:35:13,704 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] distinct 프레임 60장 → OCR
+2026-09-01 00:41:30,314 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 5.키프레임 선별
+2026-09-01 00:49:21,763 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 6.앵커 400개 (고신뢰 81개)
+2026-09-01 00:57:27,255 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 7.Gemini 합성 (이미지 60장)
+2026-09-01 00:57:27,257 INFO AFC is enabled with max remote calls: 10.
+2026-09-01 00:58:24,118 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-09-01 00:58:24,128 WARNING [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 검증 보정 재생성: Rule violations to fix: 한글 음차 잔존: ['에이전트']. These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: EXPLORER, OUTLINE, TIMELINE, meta-
+2026-09-01 00:58:29,276 INFO AFC is enabled with max remote calls: 10.
+2026-09-01 00:58:55,952 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-09-01 00:58:55,981 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_Greg Isenberg_Building AI Agents that actually work (Full Course)_260831.md
+2026-09-01 00:58:55,981 INFO [tech_Greg Isenberg_Building AI Agents that actually work (Fu] 누적 비용 $0.242 (≈₩326) | 입력 359,959 (캐시 331,173) · 출력 15,083 토큰
+2026-09-01 01:08:07,616 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] distinct 프레임 60장 → OCR
+2026-09-01 01:46:01,452 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 6.앵커 400개 (고신뢰 57개)
+2026-09-01 01:52:54,456 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 7.Gemini 합성 (이미지 60장)
+2026-09-01 01:52:54,458 INFO AFC is enabled with max remote calls: 10.
+2026-09-01 01:53:45,667 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-09-01 01:53:45,675 WARNING [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 검증 보정 재생성: Rule violations to fix: 한글 음차 잔존: ['에이전트']. These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: Al-Native, personal-brain/_demos/s
+2026-09-01 01:53:51,367 INFO AFC is enabled with max remote calls: 10.
+2026-09-01 01:54:41,966 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-09-01 01:54:41,970 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_Greg Isenberg_Become AI Native in less than 60 mins_260831.md
+2026-09-01 01:54:41,970 INFO [tech_Greg Isenberg_Become AI Native in less than 60 mins_260] 누적 비용 $0.307 (≈₩415) | 입력 461,193 (캐시 425,230) · 출력 18,403 토큰
+2026-09-01 02:38:09,293 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 6.앵커 400개 (고신뢰 83개)
+2026-09-01 02:38:11,601 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 7.Gemini 합성 (이미지 60장)
+2026-09-01 02:38:11,605 INFO AFC is enabled with max remote calls: 10.
+2026-09-01 02:38:34,518 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-09-01 02:38:34,521 WARNING [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 검증 보정 재생성: Rule violations to fix: 한글 음차 잔존: ['에이전트']. These on-screen English commands / file names / config keys are MISSING from your output and must be integrated verbatim: youtube.com, YouTube, MoreSidemen,
+2026-09-01 02:38:39,539 INFO AFC is enabled with max remote calls: 10.
+2026-09-01 02:39:00,302 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent "HTTP/1.1 200 OK"
+2026-09-01 02:39:00,306 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 저장 완료 → C:\vault\Koreanwithji_vault\01_inbox\result_check\convert_O\tech_Greg Isenberg_How AI agents & Claude skills work (Clearly Explained)_260831.md
+2026-09-01 02:39:00,307 INFO [tech_Greg Isenberg_How AI agents & Claude skills work (Clear] 누적 비용 $0.368 (≈₩496) | 입력 554,968 (캐시 507,004) · 출력 21,568 토큰
+2026-09-01 02:39:01,312 INFO 완료. OK=5 SKIP=0 FAIL=1
+2026-09-01 02:39:01,312 INFO 누적 비용 $0.368 (≈₩496) | 입력 554,968 (캐시 507,004) · 출력 21,568 토큰

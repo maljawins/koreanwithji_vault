@@ -1,0 +1,7 @@
+.venv/
+.env
+cookies.txt
+.obsidian/workspace*.json
+__pycache__/
+*.pyc
+.claude/

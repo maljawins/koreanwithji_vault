@@ -1,0 +1,111 @@
+# Go Billy | How to Conjugate the 요 Form (Present, Past, Future) | Live Class Abridged
+
+## Metadata
+- **Channel:** Go Billy
+- **URL:** https://youtu.be/KEthL6xRJG4
+- **Duration:** 18:30
+- **Upload Date:** 2019-10-29
+
+---
+
+## Teaching Points
+
+### Overview
+The instructor provides a comprehensive guide to conjugating Korean verbs and adjectives into the polite 요 form across present, past, and future tenses. The lesson is structured around a "base rule" approach, where a standard set of steps is established first, followed by a detailed exploration of various irregular patterns and phonetic contractions that occur in natural speech.
+
+The learning arc begins with the most common present tense rules, moves through specific consonant-based and vowel-based exceptions (such as 르, ㅂ, and ㅎ irregulars), and concludes with the mechanical steps for forming the past and future tenses. Throughout the video, the instructor emphasizes that many "irregular" forms actually arise from making the language easier to pronounce through sound blending and contractions.
+
+---
+
+### Basic Present Tense Conjugation
+The instructor outlines three fundamental steps for conjugating a dictionary-form verb into the polite present tense. First, remove the dictionary ending 다 to find the verb stem. Second, determine whether to attach 아 or 어 based on the last vowel of the stem: use 아 if the last vowel is 아 or 오, and use 어 for all other vowels. Third, attach 요 to the end.
+
+For example, the verb 있다 (to exist/to be) becomes 있어요. The stem is 있, and since the vowel is 이 (not 아 or 오), 어 is added followed by 요. Similarly, 안다 (to sit) has the vowel 아, so it becomes 앉아요. The instructor notes that while these rules are the foundation, they often involve further steps to make the words shorter or easier to say.
+
+---
+
+### Vowel Contractions and Shortening
+When a verb stem ends in a vowel, it often combines with the added 아 or 어 to form a diphthong or a single shortened syllable. The instructor demonstrates this with 오다 (to come). The stem 오 ends in the vowel 오, so we add 아 to get 오아요. In natural speech, this blends into 와요. Similarly, 주다 (to give) becomes 주어요, which commonly contracts to 줘요.
+
+If the verb stem already ends in the same vowel being added, one of the vowels is simply dropped to avoid repetition. For instance, 사다 (to buy) becomes 사요 rather than 사아요. Other common contractions include 이 + 어 becoming 여, such as 마시다 (to drink) becoming 마셔요 and 가르치다 (to teach) becoming 가르쳐요.
+
+---
+
+### The ㅡ and 르 Irregular Rules
+Verbs ending in the vowel ㅡ follow a specific deletion rule. First, remove the 다. Then, remove the ㅡ vowel itself. Look at the syllable immediately preceding it to determine whether to add 아 or 어. For 바쁘다 (to be busy), the syllable before 쁘 is 바 (containing 아), so it becomes 바빠요. For 예쁘다 (to be pretty), the preceding syllable is 예, so it becomes 예뻐요. If there is no preceding syllable, as in 크다 (to be big), default to 어 to get 커요.
+
+The 르 irregular is an extension of this rule. When a stem ends in 르, such as 모르다 (to not know), the ㅡ is removed and an extra ㄹ is added to the bottom of the preceding syllable. Since the vowel in 모 is 오, we add 아 to the end, resulting in 몰라요. Other examples include 부르다 (to sing/call) becoming 불러요 and 가르다 (to divide) becoming 갈라요.
+
+---
+
+### The ㅂ Irregular: Action vs. Descriptive Verbs
+The instructor highlights a crucial distinction for stems ending in ㅂ. Most action verbs, like 씹다 (to chew), are regular and simply add 어요 to become 씹어요. however, most descriptive verbs (adjectives) are irregular. For these, remove the ㅂ and attach 우. Then, conjugate as if the stem ends in 우 by adding 어요, which almost always contracts to 워요.
+
+Examples include 맵다 (spicy) becoming 매워요, 시끄럽다 (noisy) becoming 시끄러워요, and 덥다 (hot) becoming 더워요. There are notable exceptions: 굽다 (to bake) is an action verb that conjugates irregularly as 구워요, while 좁다 (narrow) is a descriptive verb that conjugates regularly as 좁아요. Additionally, 곱다 (lovely) conjugates to 고와요.
+
+---
+
+### Other Present Tense Irregulars: ㅐ, ㄷ, and ㅎ
+Stems ending in the vowel ㅐ, such as 내다 (to finish/pay) or 보내다 (to send), are the simplest to conjugate: just attach 요 directly to the stem (e.g., 보내요). For ㄷ irregulars like 듣다 (to listen) and 걷다 (to walk), the ㄷ changes to ㄹ before adding 어요, resulting in 들어요 and 걸어요. Regular ㄷ verbs like 믿다 (to believe) and 받다 (to receive) keep the ㄷ (믿어요, 받아요).
+
+The ㅎ irregular primarily affects colors and words like 그렇다 (to be so). The rule involves removing the ㅎ and changing the final vowel to ㅐ or ㅒ. For example, 그렇다 becomes 그래요, 빨갛다 (red) becomes 빨개요, and 노랗다 (yellow) becomes 노래요. Words with the vowel ㅑ, like 하얗다 (white), change to ㅒ, resulting in 하얘요.
+
+---
+
+### Special Verbs: 하다, 되다, 이다, and 아니다
+Certain high-frequency verbs have unique forms that should be memorized. 하다 (to do) always becomes 해요. 되다 (to become) becomes 돼요. The copula 이다 (to be) changes based on whether the preceding word ends in a consonant (이에요) or a vowel (예요). The instructor notes that while written as 예요, it is often pronounced as 에요. 아니다 (to not be) is always 아니에요 regardless of the preceding sound.
+
+---
+
+### Past and Future Tense Mechanics
+To form the past tense, the instructor explains a three-step process: conjugate the verb to its present form (without the 요), attach ㅆ to the bottom of the last syllable, and then add 어요. For example, 가르치다 becomes 가르쳐, then 가르쳤, and finally 가르쳤어요 (taught). The only major irregular is 이다, which becomes 이었어요 after a consonant and 였어요 after a vowel. 아니다 becomes 아니었어요.
+
+The future tense is formed using the structure [Verb Stem] + (으)ㄹ 거예요. Attach ㄹ if the stem ends in a vowel and 을 if it ends in a consonant, followed by 거예요. For example, 하다 becomes 할 거예요 and 먹다 becomes 먹을 거예요. The instructor notes that this is a shortened, more natural version of the formal structure ~(으)ㄹ 것이다. Irregular rules from the present tense, such as the ㅂ irregular (추워요 -> 추울 거예요) and the ㅎ irregular (어때요 -> 어떨 거예요), still apply here.
+
+---
+
+## Transcript
+
+> **Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+Welcome to the weekly live stream. Generally, just this 요 form, the form ending with 요, you will use this anytime you are not speaking formally or casually. However, you will still use this conjugation rule just without the 요 when you're speaking casually. So let's do a basic verb. Let's do 있다. Now, 있다 is a basic verb that just means to exist, like something is. There is a box over there or there is a whiteboard here. It exists, right?
+
+So the first step is you remove the 다 at the end of the basic unconjugated, untouched verb. So this will be the form that you find in the dictionary. The next step you do is you attach one of two things, either 아 or 어. You'll attach 아 if the last vowel in this verb stem, if this is 아 or 오, if it's anything else, you attach 어. And then step three, 요 at the end. 있, 어, 요. And that's it. These are the basic three steps. However, it doesn't apply to every verb as we're going to be learning.
+
+Before we go on though, I want to give one more example so that you can kind of see how this works. So, 앉다. 앉다 means to sit down. How would we conjugate this into the 요 form? First, remove the 다, just like before. If we look at the last vowel, it's 아. Since it's 아, we add an 아. 앉아, 요. That's the basic three rules for making the 요 form, but that doesn't cover every verb. Let's take an example, 오다, to come. You might think, okay, 오 is this one, right? So, we should add 아, and then we attach 요.
+
+This is actually correct. Other verbs also actually conjugate according to those basic three rules we learned, but there are some other steps to make them easier to say or even sometimes shorter. So, let's take a look at this one. 오다, 와요. What if you were to say this really quickly? 오아요, 오아요, 오아요, 오아요. This 오 and 아, they can kind of flow nicely into each other. You get an 와, 와, 와. There is the diphthong, 와. And that's what happens with this conjugation. When you get 오, 아, you get this combination sound of 와. In many cases, the conjugation that you get will combine into the rest of the verb in order to make it easier to say. But let's talk about the rules so that you can remember this more easily. So, anytime you have a verb stem that ends in a vowel, you will combine that 아, 어 into that vowel.
+
+Let's take a look at another example. 주다. 주다 means to give. We first get the verb stem. So, now we have 주. Well, this ends in an 우, which is not 아 or 오. So, we're going to be adding an 어, remember? So, we get 주어요. If you were to say 주어, 주어, 주어요, it becomes 줘, 줘. Anyway, because of how you would say it. 주어요, 주어요, 주어요, 주어요. There are some situations where you actually might also see this form written in some older texts, but you don't need to worry about it. Anytime you have a conjugation whose sound seems like it would combine really nicely with the previous letter, do it.
+
+Let's do a different kind. So, now we have 사다. 사다 means to buy, to purchase something, if you're going to buy something. We remove the 다. What do we have? Well, it ends in an 아, so that means we're going to add an 아 sound. 사아 요, 사아 요, 사아 요. Isn't that a bit repetitive? 사 doesn't need to be that long. Yes, it doesn't. In this case, you simply remove it. Because it doesn't add anything to the sound. 사요, 사요. Another example, what you get is, it ends in 오, so you attach 아. So we get 보아요, 보아요, 보아요, 보아요. Well there is a diphthong, 와, 보아요, 봐요. This ends up getting just pronounced as 봐요, 봐요.
+
+Let's do another example. 마시다 means to drink. So we remove the 다. We get 마시, well this ends in 이. It's not 아 or 오, so we're going to add 어. So 마시어요. Well, 마시어요. 마시어요. 마시어요. 마시어요. 마시어요. 마시어요. 마시어요. 마셔. 마셔요. To drink conjugates as 마셔요. 마셔요. 가르치다. So let's do a little bit of a longer one. 가르치다 means to teach. So I'm teaching you all Korean. Remove the 다. 가르치. It ends in 이. So we're going to add an 어. 가르쳐. 가르쳐. 가르쳐. 가르쳐. 요. 가르쳐요. If you say something really quickly, you can kind of start to feel what the shortened version should be.
+
+Next rule. It's really similar to this exception that we just learned about. So you first remove the 다. Now if the verb stem ends with this vowel, ㅡ, then what you do is you look at the syllable before it. So let's just take this verb 바쁘다. 바쁘다 means to be busy. Let's remove the 다 first. Now we have 바쁘. This ends in a vowel. You first remove this vowel. Then you look at the syllable before it. The syllable before it is 바. Now we can add whatever sound we need to add. In this case, it's 바. So we have an 아 ending, which means we're going to add an 아. So we have 바빠요. Like that. This doesn't have a vowel with it. It's kind of floating here. So let's just make this part of the 아. 바빠요.
+
+Again, you first remove this. Then you look at the syllable before it. Then you add the syllable that would be added based on that syllable. So in this case, it's 아. 바빠요. But let's look at another one. 예쁘다. 예쁘다 means to be pretty. Then we remove the ㅡ. Now we look at the syllable before it. Well, 예 is the vowel, which is not 아 or 오. So we're going to be adding 어. 예뻐. 예뻐요. 기쁘다. To be happy. 기 ends in an 이. So we're going to be attaching 어. So we get the same result. 기뻐요. 기뻐요. Let's do another one. 슬프다. 슬프다 means to be sad. Remove the 다. 슬프. Well, let's get rid of this. It's an 어. We're going to attach an 어. So we get 슬퍼요. 슬퍼요. 슬퍼. 슬퍼요. 슬퍼요. Let's do 크다. 크다 means to be big. 크다. Uh-oh. It's only one syllable left. Well, there is no 아 or 오 because there is no syllable prior, so you just add 어. 커요. It's big.
+
+Let's go on to the next rule. Verb stem that ends in 르. Here is an extension of the rule that we just did. 모르다. This means to not know. Like saying, I don't know. You would use 모르다. First we remove the 다. Now we see that it ends in this combination. Well, just like before, we're going to remove this vowel. This ㄹ will make an extra copy of itself right before itself. 몰라요. 몰라요. This letter copies itself and places it right before itself. Let's do 가르다. So 가르다. Again, remove the 다. 르. So we're going to remove this. The syllable before it, it ends in 아. We're going to be attaching an 아. 아 요. And now it has the 르 combination, so we're going to duplicate this one. 갈라요. 갈라요. 부르다. 부르다 means to sing. First we remove the 다. It's got this combination, so we're going to remove here. Look at the syllable before it. It's an 우. So we're going to be attaching an 어 sound. So 어요. Since it is 르, we're going to duplicate this letter down here. 불러요. 불러요. 불러요.
+
+Let's move on to the next one. What you have to look at is whether the verb you're conjugating is an action verb or a descriptive verb. An action verb is any verb that's doing anything. Eating, running, cleaning. Descriptive verbs are any other verbs like pretty, blue, big, small, green, funny. All of those things are not doing anything. If you're using an action verb that ends with this letter ㅂ in the verb stem, you do not need this rule. Let's take a look at an example of that. 씹다. 씹다 is just to chew. Like you're chewing gum. But it's an action verb. So you just remove the 다. You look at the last syllable. It's an 이. So we add an 어. 요. 씹어요. You're done. Now there aren't too many action verbs that end with this letter though in the first place. So you just don't really have to worry about it.
+
+Descriptive verbs though. There are a lot of descriptive verbs that end in this letter. It's super common. 맵다. To be spicy. So how do we conjugate this? First, remove the 다. The next thing is you remove this letter ㅂ completely. Then you add this syllable. 우. We finish conjugation as if this was the verb stem. And now how would you conjugate this if it were the verb stem? You look at the last syllable. So we add 어. 요. So now we have 매우어요. However, remembering our very first rule if you can say things together and they sound better together. You combine them so 우 어 becomes 워. 매워요. 시끄럽다. We see that this ends in a ㅂ. Remove it. Now we attach 우. Well, it ends in 우, so it's going to be again 어요. So 시끄러워요. Let's do some more. 덥다. 덥다 means to be hot. Hot weather. Not hot coffee or hot drink. So we get the 다. Remove the ㅂ. Attach 우. Okay, it ends in 우, so we go 어요. 더워요. Let's do another one. 새롭다 means to be new. So first remove the 다. So we remove the ㅂ and then attach 우. It ends in 우, so 어 요. 새로워요.
+
+However, there are exceptions. 굽다 means to bake. This is an action verb. 좁다 means to be narrow. 곱다 means to be nice or lovely. So it can seem a bit chaotic, but actually the majority of descriptive verbs do follow this rule. Even though 굽다 is an action verb, it conjugates as if it were a descriptive verb. So it conjugates the same as this. So 구, 우, 워, 요. 구워요. And then 좁다 and 곱다 are actually descriptive verbs that conjugate as if they were action verbs. You do not do any special thing to them. You just remove the 다. 오, so you attach 아, 좁아, and then 요. 좁아요. 곱다, I'm just going to tell you. 고와요.
+
+But let's move on. If the verb stem ends with this letter, ㅐ, all you got to do is attach 요 to the verb stem and you're done. So there's 내다, 보내다, to send, 끝내다, to finish, or you might just see 내다 by itself or something like that. You remove the 다. Just add 요 when you're done. 힘내다. 힘내다 means to like cheer up. You might also see it for like when you ask someone. 잘 지내요. 잘 지내다. To be going well. Like, how are you? 잘 지내요. 잘 지내요. 힘내. Cheer up. 힘내요. That's it.
+
+Okay, next one. Half the time, you'll use this rule. Half the time, you won't. This letter ㄷ will change to become ㄹ. There are not that many verb stems that end with this letter. 듣다. 듣다 means to listen. Remove the 다. Then, oh, it ends in this. So let's just change it to ㄹ. So now we have 들. Okay, look at the vowel. It's an 으. So we're going to add an 어. And then a 요. 들어요. 들어요. Let's do another one. 걷다. 걷다 means to walk. Remove the 다. Change the ㄷ to a ㄹ. So now we have 걸. Look at the vowel, 어. So we're going to attach 어. 요. 걸어요. 걸어요. Let's do another one. 묻다 means to ask. Usually, you'll see 물어보다. Which literally, means to ask and then see how it goes. To try asking. So you remove the 다. Change the letter here. And then 물어. Like that. 물어요. But you'll see it used as 물어보다 most of the time. Other verbs that do not do this would be really common ones like 믿다, to believe. Just becomes 믿어요. It ends in this letter. So 믿어요. 받다, to receive. Just becomes 받. Look at the vowel. 아. So we're going to be attaching 아. 요. 받아요. 받아요. 받아요. You don't really need to work too much with verbs like this.
+
+The next rule is if it ends in this letter ㅎ. Anytime you see this, what you do is you remove it. I would say this is the most vague of the rules that I'm going to tell you today. And then you attach this vowel sound ㅐ. So sometimes it might actually just be this. Or other times it might be this ㅒ sound. You're adding the sound 에. Keep that in mind. Let's just do an example. 그렇다. So we're going to remove the 다. Now we have ㅎ at the bottom. Remove that. We're not just adding this to the end. This sound will replace whatever is currently there. Whatever vowel is currently at the end of this last syllable will be replaced by the ㅐ vowel. So let's just remove it. Instead of 그렇다, we get 그래요. You'll find a lot of colors end with this. The basic rule is remove the ㅎ. Replace the last vowel with this sound.
+
+Let's look at an example. I'll try to see if I can figure out a better way to explain it in the future. 하얗다. 하얗다. This is a color. So this is to be white. So remove the 다. 하얗. I know this is going to sound very complicated. ㅑ is actually a combination of the sounds 이 and 아. So you've got 이 and 아 together. Make ㅑ. ㅑ actually becomes ㅒ in this case. Sometimes you get vowels that end with a sound that plays nicely with this ㅐ sound. And other times you don't. 하얗다 conjugates as 하얘요. 하얘요. But let's do some more examples. 빨갛다. To be red. 빨갛다. Remove the 다. Remove the ㅎ. 빨가. 빨가에. 빨개. 빨개요. Because what you have is an 아 plus an 에 sound. Just kind of cancels it out. Just becomes an ㅐ. 빨개요. Whereas here you have the ㅑ. Which kind of cancels it out. Which kind of makes it ㅒ. So you get a ㅒ when it combines. I apologize that this rule does not follow a more simplistic way of conjugating it. Let's see if we can look at another example. 노랗다. To be yellow. Remove the 다. Remove this. 노랗에. 노래. Anyone that ends in 어 like that, just know that it's going to change into ㅐ and then 요. Anyone's that have an 아, most of the colors, you're going to get the same thing. ㅐ. Most of the time. It's going to simply replace the last vowel, no matter what it is, with ㅐ. With white, however, or anyone that has like ㅑ, you're going to get this ㅒ sound here.
+
+The next one is 하다 and 되다. You just memorize how to conjugate them. 하다 becomes 해요. 되다 becomes 돼요. Like that. You can just memorize this as is. The next ones are 이다 and 아니다. 이다 meaning to be, like something is, like I am Billy. Or I am not, 아니다, to not be. 이다, after a consonant, becomes 이에요. The end. After a vowel, it conjugates to 예요. This pronunciation, however, it is written as 예요. No one says 예요. Everyone says 에요. Just know that. 아니다 is 아니에요. You don't have to memorize if it's after a consonant or a vowel. Spelled and pronounced this way. 아니에요. That's it.
+
+All of this has been present tense. You can easily take our form and make past tense with any verb. You first conjugate the verb, but you don't add the 요. Then you attach ㅆ to the bottom. Then you can finish it to the 요 form by attaching specifically 어요. If you're doing slang, you just need to attach 어. That's all you have to do. So instead of saying 한국어를 가르쳐요, now you've got 가르쳤어요. I taught Korean. 저는 한국어를 가르쳤어요. There are no irregulars except one. That is the 이다 verb that we just learned. 이다 becomes 이었 and then 어요. So 이었어요 or 였어요. So this is after a consonant 이었어요 and after a vowel 였어요. That's it. So if you're going to say I was Billy, 빌리였어요 because Billy ends in a vowel or 존, John, 존이었어요. It was John or he was John like that. 아니다. In the past tense, it becomes 아니었. So then you get 아니었어요. It doesn't change depending on a vowel or a consonant. It's just 아니었어요.
+
+But what about future? What if you want to say I will teach something? So we're only going to need to conjugate one verb, 이다. Before that, we stick 것 means thing. We take the verb stem and we attach 을 if it ends in a consonant or we just attach a ㄹ if it ends in a vowel. So first of all, let's just do 하다. Well, 하다 ends with 하 which is a vowel. So we're going to attach ㄹ. Let's do another one. 먹다 to eat. Well, this one ends in a consonant. So we're going to attach 을. 먹을. Then we attach this what I showed you before. 것 and then conjugate 이다 to be. So let's do 가르치다. So 가르치. And then officially it is 것 이다. It is most often not conjugated as this full form. Now this form looks quite formal and like bookish. What they actually do is they shorten this 것 to 거 and then 이다 gets shortened to just 다. Then we conjugate this. We'll conjugate this 이다 shortened. 이다 after a consonant becomes 이에요. But 이다 after a vowel just becomes 예요. And since 거 ends in a vowel, we get 거예요. 가르칠 거예요.
+
+For some verbs, you have to actually do a basic conjugation of them first. If the verb already ends in ㄹ, you don't have to do anything extra. So if you have the verb 살다 like I'm going to live somewhere or 알다, all you do is after you remove the 다, you just leave it like this. 알. So 살다 also. 살 거예요. Verbs that are descriptive verbs and end in this letter ㅂ. You got to remove this letter and you got to add the 우. Just like before. So the weather is cold. 춥다. So we do the same thing as before. 추우. And now we can finish. So 추우. Well, it ends in a vowel. So we attach this ㄹ and then 거예요. 추울 거예요. This rule is so common that I would specifically go out of my way to practice this one to make sure you feel really good about how you can do this. Another exception would be this one. Verbs that end with this ㅎ. All you do is you remove this. 어떻다. First, get the verb stem. Then you remove it. 어떨 거예요. Like that. 그럼 다음에 또 봐.

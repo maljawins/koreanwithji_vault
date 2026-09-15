@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#system  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "path:02_Wiki/concepts  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"01_Raw/01_md_files/02 보유자료/02 1 on 1 lesson materials/01 Student #1 - Amira\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5425632
+      }
+    },
+    {
+      "query": "path:\"01_Raw/01_md_files/03 Drafts\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    },
+    {
+      "query": "path:\"01_Raw/01_md_files/04 yt_to_md_converse\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"01_Raw/01_md_files/02 보유자료/01 Howtostudykorean.com\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65297
+      }
+    },
+    {
+      "query": "path:03_Schema  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    },
+    {
+      "query": "path:04_audit  ",
+      "color": {
+        "a": 1,
+        "rgb": 31743
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0534979423867883,
+  "close": true
+}

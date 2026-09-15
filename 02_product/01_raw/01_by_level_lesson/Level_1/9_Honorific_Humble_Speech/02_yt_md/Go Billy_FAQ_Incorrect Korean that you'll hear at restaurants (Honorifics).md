@@ -1,0 +1,61 @@
+# Go Billy | Incorrect Korean that you’ll hear at restaurants (Honorifics) | Korean FAQ
+
+## Metadata
+- **Channel:** Go Billy
+- **URL:** https://youtu.be/sm4u0CNpyCs
+- **Duration:** 08:06
+- **Upload Date:** 2021-12-27
+
+---
+
+## Teaching Points
+
+### Overview
+The instructor introduces a common phenomenon in Korea: the use of grammatically incorrect honorifics in service industries, particularly restaurants and cafes. While learners are taught strict rules for honorifics, real-world service workers often prioritize sounding extremely polite over following perfect grammar. This results in "over-honorification," where respect is accidentally applied to inanimate objects like money, coffee, or time.
+
+The lesson serves as a guide to recognizing these common "mistakes" so that learners aren't confused when they hear them in the wild. The instructor frames these as "incorrect but better-sounding" expressions that have become social norms in the Korean service sector. By understanding the logic behind these errors—the desire to show maximum respect to the customer by honoring everything associated with them—learners can better navigate daily interactions in Korea.
+
+---
+
+### The Basics of Honorifics
+Before diving into the restaurant examples, the instructor provides a brief refresher on how honorifics work. Honorifics are used to show extra politeness or respect toward the person being spoken about. This is a crucial distinction: you use honorifics based on the subject of the sentence, not necessarily the person you are talking to. For example, if you are talking to a friend about your grandmother or a teacher, you would use honorific verbs even if the overall speech level with your friend is casual (반말).
+
+The instructor demonstrates this by writing common pairs on the screen. For nouns, one might use **댁** instead of **집 (house)** when referring to a respected person's home. For verbs, one uses **드시다** instead of **먹다 (to eat)**. The fundamental rule is that honorifics are reserved for people. You do not use them for animals, inanimate objects, or yourself. Using honorifics for yourself would sound awkward and boastful, as if you are demanding extra respect for your own actions.
+
+---
+
+### Honorifics Applied to Objects (Over-Honorification)
+In restaurants, workers often break the rule against honoring objects to maximize the "politeness feel" for the customer. The instructor highlights three common examples. First is the phrase **만원이세요**, used when telling a customer the price is 10,000 won. The worker uses **이시다** (the honorific form of the copula **이다**) instead of the standard **이에요**. This technically shows respect to the money itself—the "honorable 10,000 won"—which is grammatically wrong but socially accepted as a way to be soft and polite.
+
+A second example involves the word for time. A worker might ask **시간 있으세요? (Do you have time?)**. While **있으시다** is the honorific of **있다 (to have/exist)**, the proper honorific for a person's existence is **계시다**. However, since the subject is "time" (an object), **있으시다** is used to honor the customer's time. The instructor notes this is a "passable" error because it indirectly honors the customer.
+
+The third and very common example is heard at cafes: **주문하신 커피 나오셨습니다 (The coffee you ordered has come out)**. The first part, **주문하신 (that you ordered)**, is correct because it honors the customer's action of ordering. However, **나오셨습니다** applies the honorific suffix **-시-** to the verb "to come out," effectively treating the coffee as an honorable person. While strictly incorrect, it is ubiquitous because it sounds more professional and attentive than the plain **나왔습니다**.
+
+---
+
+### The Misuse of the -ㄹ게요 Ending
+The instructor identifies the most grammatically "wrong" expression commonly heard in restaurants: **이쪽으로 앉으실게요 (Please sit this way)**. This phrase combines the honorific verb **앉으시다 (to sit)** with the ending **-ㄹ게요**. The instructor explains that the **-ㄹ게요** ending is strictly a first-person future tense form used to indicate the speaker's intention or a promise to do a favor (e.g., **갈게요** / I will go).
+
+By using **앉으실게요**, the worker is technically saying "I will honorably sit you," or "You will sit (as a favor I am doing)." Because **-ㄹ게요** cannot be used for the second person (the person you are talking to), the sentence is a grammatical impossibility. Despite this, it is used constantly because it carries a nuance of "Let me take care of you by having you sit here," which feels softer and more service-oriented than a direct command like **앉으세요 (Please sit)**.
+
+---
+
+## Transcript
+
+> **Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+Just because you're in Korea, you can't expect everyone around you to use perfect Korean, of course. And in fact, in some cases you might not want to hear perfect Korean. And this is really common in service businesses such as restaurants. So in this lesson we're going to be talking about some incorrect but actually better sounding Korean that you'll probably hear the next time you visit a Korean restaurant. But first, if this topic interests you, if you'd like to see more videos like this, please leave a comment and like this video and subscribe.
+
+Okay, let's get started. Now the incorrect Korean we're going to be learning about today has to do with honorifics. You don't have to master honorifics in order to learn about these, but I would hope that you're already a bit familiar with how they work. For a really quick summary, honorifics show extra politeness or respect or honor to someone who you're speaking about. Notice that I said speaking about and not speaking to necessarily. You might be speaking currently to your best friend or family member about your grandmother or about your teacher, in which case you would still show extra respect. You use honorifics when talking about them. So any verbs that are related to things that your grandmother or your teacher did, well those verbs would be honorifics. Even if every sentence you're making with your friend is filled with slang and ends with casual endings. Yes, so you can have honorific verbs that end with casual endings.
+
+And it's not just verbs, it's also words. So you might have the word 택 for someone's house, it means 집, if you're talking about the house of someone you want to show extra respect towards. So your grandmother's 택, instead of just saying your grandmother's 집. Now it is your 집, but someone else's who you want to show extra respect, someone else's 택. Another common one would be using the verb 드시다 for to eat, instead of the more common regular verb 먹다. Now they have the same meaning, but 드시다 is an honorific verb. And again, honorifics show extra respect toward a person who you're talking about. You're not going to use honorifics to talk about animals. You're also not going to use honorifics to talk about regular things. For example, you wouldn't say my honorific car won't start. Or there's an honorific fly in your kitchen. And in the same way, you wouldn't use honorifics when talking about yourself, because you wouldn't want to add extra respect about yourself. It would sound really awkward, like you're giving yourself extra respect while talking about yourself, so don't do it.
+
+Now these are the official rules, and if you were to use honorifics when talking about yourself, or talking about an object, it can sound very awkward. Except in restaurants, I guess they get to break the rules a little bit, because their goal is to sound as polite as possible toward the customer. So let me give you an example. 만원. So 10,000 won. That'll be 10,000 won. 만원이세요. Notice that it's not 만원이에요 but 만원이세요. The honorific version of 이다. If a restaurant worker says this, they're essentially adding extra respect toward your money. And this kind of makes sense though, because although you're not really supposed to use honorifics on objects, in this case, it's still kind of about someone else, right? It's about the customer's money. But it's also technically not proper. And the reason is, it's not very direct. You're speaking about the money instead of directly about the customer. But you know what? Let's give this one a pass, because it's pretty easy to understand why they might do that, since yeah, it is the customer's money. So it is about the customer.
+
+In the same way, you might also see 있으시다 used instead of 있다. Now, normally, the honorific version of 있다 is a different verb entirely, 계시다. But 있으시다 would only be appropriate for objects, I suppose, because 계시다 would have to be for a person, right? But then you're adding honorifics to an object, or in this case, 시간, time. 시간 있으세요? Again, you can kind of understand this one because you're talking about someone else's time. So I guess, yeah, indirectly, it's about someone else. So we can also give this one a pass. But you might also see honorifics used like this, since they're referring to something that belongs to someone else. So here, though, it's showing extra respect toward time, since the honorific is talking about time. So like, your honorable time, I guess.
+
+Okay, so let's go into a cafe, and you order a coffee, and you go to sit down to wait, and the barista calls out 주문하신 커피 나오셨습니다. So 주문하신 honorific. It makes sense because the coffee that you ordered. Here, 주문하신. Perfect. But then 나오셨습니다. Not just 나왔습니다. It came out. It's done. But your coffee has honorifically came out. So it's kind of unnecessary here, and it sounds awkward if you think about it. Obviously, you don't need to show extra respect toward coffee, but this sort of usage is so common because even though, yeah, it's wrong, it sounds much more polite. And restaurant workers are always doing their best to sound as polite as possible, even at the expense of correct Korean.
+
+Okay, but there's one more, even more wrong example that I want to go over. 이쪽으로 앉으실게요. This one's really strange. Okay, so 앉다 is to sit down, and 앉으시다 is the honorific for sit down. So if you're telling someone else to sit down, this is the one you're going to use. For example, you might hear someone say 앉으세요. Please sit down. It's honorific. It's very polite. Why do you need to do this? Because what's wrong with this one isn't using honorifics here. It's this ending here, ㄹ게요. Now, if you haven't learned this ending ㄹ게요, it would be something like 갈게요, 할게요. It's used by attaching it to the verb stem after typically adding ㄹ. And this form is only used in the first person. You can't tell someone else to do something when this is a future tense form for the first person. This means I will do something. It doesn't make any sense. And often this form is used to say you're going to do something in response to something else. So because of that, I'm going to do this. Or when you want to say like you're going to do a favor for someone, like I'll take care of that. Again, only for the first person. So you're saying I will, you will sit over here. And because this ㄹ게요 form is used when you're saying you're gonna do something, often like as a favor, that feeling of like, hey, I'm gonna do something as a favor and you're gonna sit down over here, like here, let me have you sit over here is kind of the feeling this gives. But grammatically, if you look at it, it's completely wrong. The problem is this sounds so much more polite than saying 앉으세요. It's wrong, but it's right. And not only this, but it's kind of common to see this ㄹ게요 ending attached onto honorifics when a restaurant worker or someone like that is trying to tell you to do something in as much of a polite way as they can possibly do it. In fact, so polite that it's wrong.
+
+So have you heard any other incorrect Korean at restaurants? Let me know in the comments. I couldn't think of any other ones, but you know, maybe there's something else out there. Please let me know. I do check all of the comments. Thank you for watching again, and I'll see you next time. Then, see you next time.

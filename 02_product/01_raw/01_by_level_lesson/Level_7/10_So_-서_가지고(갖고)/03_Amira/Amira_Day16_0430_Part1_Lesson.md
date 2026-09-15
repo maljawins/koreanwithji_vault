@@ -1,0 +1,139 @@
+# Korean With Ji — Amira 1-on-1 Day 16 · Part 1 (04-30)
+
+## Metadata
+- **Student:** Amira
+- **Session:** Day 16
+- **Part:** 1
+- **Date:** 04-30
+- **Recording length:** 37:40
+- **Source mp4:** Amira Day 16 - Part 1 Zoom Recording_0430.mp4
+- **Reference Script:** (없음)
+- **Model:** gemini-3-flash-preview
+- **Converted:** 2026-06-07
+
+---
+
+## Lesson Overview
+
+This recording covers the first part of a lesson focused on expressing reasons and causes in Korean. Ji introduces four primary forms: **~서**, **~가지고/갖고**, **~(으)니까**, and **~때문에**. The session primarily focuses on a deep dive into **~서**, which Ji describes as an abstract concept representing "continuity" or a "long arrow" connecting two ideas, rather than a simple translation of "because" or "so."
+
+Ji's teaching approach is conceptual and comparative. He explains the fundamental difference in sentence structure between English and Korean, noting that in Korean, the cause always precedes the effect. He uses visual aids and analogies—such as comparing the location markers **에** (stillness) and **에서** (action/flow)—to help Amira grasp the nuance of **~서**. Amira remains in a receptive state throughout this part, listening to the detailed explanations and repeating example sentences to practice pronunciation and intonation.
+
+## Teaching Points
+
+### 1. Sentence Structure for Reasons
+In Korean, the cause/reason must come before the effect.
+*   **Structure:** Cause (A) + Connector $\rightarrow$ Effect (B).
+*   **Reverse Explanation:** To give a reason after the effect (similar to English), start the second sentence with **왜냐하면** (If you ask me why/Because).
+*   **Context Marker:** **~거든(요)** is often used at the end of a sentence starting with **왜냐하면** to provide background information.
+    > **저희 공부 진짜 열심히 했어요. 왜냐하면 다음 주에 시험이 있거든요.** / We studied really hard. Because (if you ask why) we have an exam next week, you know.
+
+### 2. The Connector ~서
+Ji emphasizes that **~서** represents "continuity" and has three core functions:
+*   **Cause & Effect:** One event naturally leads to another.
+    > **집까지 걸어가서 다리가 아팠어요.** / I walked home, so my legs hurt.
+*   **Sequential Actions:** Two closely related actions where the first leads into the second (often occurring in the same location).
+    > **가게에 가서 우유를 샀어요.** / I went to the store and bought milk (at that store).
+*   **Means & Method:** How the second action was achieved.
+    > **앱을 사용해서 주문했어요.** / I ordered it using the app.
+
+### 3. Conjugation and Tense Rules for ~서
+*   **Formation:** Verb/Adjective Stem + **아/어/여** + **서**.
+*   **Tense Restriction:** **~서** cannot be attached to a past tense stem (e.g., **했어서** is grammatically incorrect, though sometimes heard in modern slang). The past tense is expressed only in the final verb of the sentence.
+*   **Usage Restriction:** **~서** cannot be used with suggestions (**~자**) or commands (**~세요**). For these, **~(으)니까** must be used.
+
+### 4. ~서 with 이다 (To be) and 아니다 (Not to be)
+There are two common ways to conjugate these:
+*   **~(이)라서:** Most common in conversation. **서** can be dropped (e.g., **봄이라**).
+*   **~이어서 / 여서:** **서** cannot be dropped.
+    > **지금 봄이라서 날씨가 건조해요.** / It's spring now, so the weather is dry.
+
+### 5. Special Usage: 있어서 (Perspective)
+When used with **에게/한테/께**, **있어서** shifts from "existence" to "perspective."
+*   **Meaning:** "To me," "In my eyes," or "As far as [person] is concerned."
+    > **내게 있어서 너는 소중한 친구야.** / To me, you are a precious friend.
+
+### 6. The Connector 가지고 (갖고)
+A colloquial alternative to **~서**, used only in spoken Korean.
+*   **Formation:** Stem + **아/어/여** + **가지고**.
+*   **Nuance:** Feels friendlier; often used by females.
+*   **Restrictions:** Cannot be used for emotions or greetings (e.g., **만나가지고 반갑습니다** is wrong). For "Means & Method," it must be used with a noun (**카드 갖고**) rather than a verb.
+
+## Lesson Flow
+
+The lesson begins with Ji outlining the four ways to say "because" in Korean. He immediately establishes a "Ground Rule": in Korean, the cause always comes first. He explains **왜냐하면** as a tool for those who want to speak more like the English "Effect because Cause" structure, but notes it is used purposefully for emphasis.
+
+Ji then moves into a detailed breakdown of **~서**. He spends significant time explaining the "Continuity" concept to prevent Amira from simply memorizing it as "so." He uses the comparison of **집에 있어요** vs. **집에서 운동해요** to show how **서** adds a sense of action and flow. 
+
+When teaching the conjugation, Ji points out the common mistake of using past tense with **~서**. He explains that while Amira might hear younger Koreans say **했어서**, she should stick to the standard rule of using the present stem. He then guides her through the specific conjugations for **이다** and **아니다**, highlighting that **라서** is the preferred conversational form.
+
+In the "Usage #1: Cause & Effect" section, Ji introduces a critical restriction: **~서** cannot be used for commands or suggestions. He explains the logic—that a natural flow (cause) cannot "cause" a conscious human decision (suggestion). He has Amira repeat sentences like **음식이 너무 매워서 못 먹겠어요** to practice the soft nuance of **~겠다**.
+
+For "Usage #2: Sequential Actions," Ji compares **~고** and **~서**. He explains that **친구를 만나고 카페에 갔어요** implies two separate events, whereas **친구를 만나서 카페에 갔어요** implies meeting the friend and going to the cafe *together*. 
+
+Finally, Ji introduces **가지고** as a spoken-only version of **~서**. He explains its friendly nuance and its specific limitations regarding emotions and greetings before concluding this segment of the lesson.
+
+## Student Notes
+
+*   **Current Level:** Amira is at an intermediate-beginner stage. She is familiar with basic verb endings and location markers but is now moving into complex sentence connectors.
+*   **Strengths:** She has a good ear for pronunciation and follows Ji's intonation well during repetition exercises. Ji notes that she has already used **~서** correctly in previous assignments.
+*   **Areas for Improvement:**
+    *   **Tense Consistency:** She needs to be careful not to apply past tense markers to the first clause when using **~서**.
+    *   **Nuance Differentiation:** Understanding the subtle difference between **~고** (listing) and **~서** (connected flow) will be key for her to sound more natural.
+    *   **Social Context:** She must remember that **가지고** is strictly for spoken conversation and should be avoided in formal writing.
+
+## Transcript
+
+> **Note:** Transcript reconstructed from this Zoom recording via local Whisper (large-v3) with VAD; speakers separated by context. May contain minor recognition or attribution errors.
+
+**Ji:** Press record and then share my screen. Press record and then share my screen. So yeah, because in Korean, sort of, because more clearly things that feel similar to because in English. As you probably know by now, not everything translates word for word in Korean. But we'll focus on how Korean actually expresses reasons or causes in natural ways. So we have four forms to cover today. Each one has its own style and use. We have, we first have 서. I'm sorry, 서. You actually used this really well in one of your sentences last time. Yeah, that one makes sense. And this form is super common in daily conversation, writing, everywhere. So, and it has three major uses. We're going to learn all about them in detail. And then we have 가지고 or 갖고, shortened. And it's really similar to 서. So once you understand 서, this form will, you know, click naturally. And then we have 니까 or 으니까. And 때문에, which are the closest to the English meaning of because. So we'll go through each one, step by step, how to make it, when to use it. And, you know, and some, you know, example sentences. So we are going to get started.
+
+**Ji:** Okay, so before we begin, here's one important thing to understand when it comes to expressing reasons in Korean. And in Korean, the cause always comes first, before the effect. And I don't even think I have to explain why that is, because this is just a universal fact, right? Cause by, you know, cause causes the effect. But in English, strangely enough, it's the opposite, right? We usually say the effect first, and then give the reason afterwards, right? So like, I was late because I missed the bus, right? So, but in Korean, it's flipped. It's the opposite. So we say, because something, because A, and then, you know, the effect. So keep this in mind, because, and then B, cause, and then effect. So it's the opposite to English. And this rule applies to every form we're going to learn today. And so with each of them, the cause always comes first, before the effect. 
+
+**Ji:** But sometimes when you want to explain the reason afterwards, especially if it flows better that way in the conversation, or when you, or when you want to communicate, in a way that is more effective to give the reason afterwards, things like that. And in that, in that case, we, you can start the next sentence with 왜냐하면. 왜냐하면, which literally means, if you ask me why. So we have an example here. 저희 공부 진짜 열심히 했어요. We studied really hard. 저희 공부 진짜 열심히 했어요. 왜냐하면, if you ask me why. If you ask why. 다음 주에, 다음 주에, next week 시험이 있거든요, 있거든요. And 거든, 거든, or 거든요 at the end is a context marker. And it's like saying, hey, here's a background, or the reason for what I just said. That's the sort of nuance it has. So it's kind of like saying, we have an exam next week, you know. It's sort of have the same, you know, similar feeling to it. So a little something to note before we move on to the forms we are going to learn. So, so yeah, you can, you can write this down in your notes. 왜냐하면, because it's really not that common to use, but it's used very purposely to give the reason afterwards. If that makes sense to you, okay. 
+
+**Ji:** Okay, we're going to move on to 서, 서. This one is one of the most essential connectors in Korean. And it's one that a lot of learners misunderstand at first. So I really want you to get this. 서 is not the same as because or so. So if you look at this word, 그래서, 그래서, which does translate, which does translate to so, but it actually comes from 그렇다 and 서. So it's just, and this is, it's just one of the many usages of 서, which is cause and effect. So a lot of learners memorize 서 as because or so. And yes, it sometimes works like that, but that's just one of the ways 서 is used. So it's not the full picture. And 서, what 서 is, it's actually an abstract concept. There's no direct translation in English. So I want you to think of 서 this way. It's, you know, the first thing that should come to mind when you think of 서 is this big, long arrow. It shows the kind of flow, continuity between two events or, you know, states or actions. There's some kind of connection between A and B. That's what 서 expresses. 
+
+**Ji:** Another way to help you get this is thinking about these two particles, 에 and 에서, right? Remember, 에 and 에서, location marker? So if you say 집에 있어요, I'm at home, that's just a state. Nothing is happening. It's just stillness. I'm just at home, right? I just am there. But if you say 집에서 운동해요, I work out at home, now there's action, flow. Or movement. And 서 in 에서 is doing exactly that. It shows that something is happening in that space. So this is what 서 does. It connects one thing to another. Now, with that in mind, 서 as a sentence connector can be used in three main uses. Cause and effect, sequential actions. Cause and effect as in I was tired, so I went home. Sequential actions, I went to the store and bought milk. Means and method, like I made something using glue. You know, using stickers, using papers, things like that. So we'll go through each one of these one by one. And there's also a bonus usage that we'll touch on later. So again, don't just memorize 서 as because or so. So the key word that I want you to keep in mind is continuity. That's like the, that's the essence of 서. Okay? 
+
+**Ji:** All right, let's make it, let's look at how to make the 서 form first before we get into each usage. The way you make this form is really simple. First, stem plus 아, 어, 여, plus 서. 아, 어, plus 서. So for example, 보다, to see, becomes 봐서. 먹다, 먹어서. 하다, becomes 해서. So, 운동을 해서 배가 고팠어요. 운동을 해서 배가 고팠어요. I worked out, so I was hungry. So, quick side note, what does 다 doing here? 배고프다, right? And 배 means stomach. And 고프다 is a descriptive verb, to be hungry. But you can be hungry for something else, right? Things that are not actually food. You can be hungry for success. You can be hungry for abstract things, right? So, that's what 고프다 means. So, 배고프다. Oh, no, I'm sorry. 배가 고프다. In 배가 고프다, 가 is just marking 배, the stomach, as a subject. Literally, the stomach is hungry. Okay, so, yeah. So, this is really common. You know, 배가 고프다. 배가 고프다. 
+
+**Ji:** Okay, so, let's talk about the tense you can use with 서. So, it can be present tense, like 해서, or 먹어서, because 아오, you know, stem plus 아오, and then to make it into 요 form, without the 요, that's a present tense. And it can also be used in the future tense. 할 거라서, 할 거라서. So, now you might be wondering, what is this 라? You know, something, something out of place, right? So, it only, this 라, only shows up with 이다 and 아니다. So, 할 것이다, right? 할 것이다. 할 거다 comes from 할 것이다, right? So, that's what, that's what it is. And we're going to look at how to change 이다, using 서, in the next slide. But, you cannot use the past tense. You can't stem directly with 서. So, you can't say something like 했어서. That's, that's technically wrong. But, you might hear it sometimes, although it's wrong. So, since around 2010, some Koreans have started using things like 했어서, 먹었어서, so, to put, to put emphasis on the past. But, according to, under grammar rules, this is incorrect. You know, this is still incorrect. So, to keep things nice and clean, stick with present and future forms when using 서. That's, that's the official rule. But, just know that you might hear this sometimes. Some Koreans do say this. 
+
+**Ji:** All right. So, let's talk about how to use 서 with 이다 and 아니다. To be and not to be. There are two ways to do this. 이라서, or 아니라서. Using 라. 이어서, and 아니어서. So, both versions are correct. But, in daily conversation, you will hear 라서 a lot more often. So, when, so, when do you use 이라서 and when do you use 라서? Depends on the word that ends in, whether the word, whether the word ends in a 받침 or not. So, after 받침, you add 이라서. 이라서. So, 지금 봄이라서. It's spring now, so the weather is dry. 날씨가 건조해요. 이라서. Or you could also say 지금 봄이라. Without the 서 part. It's more, it's actually more common to just drop, to omit 서 in 이라서. So, we just say 지금 봄이라. Without 서, 날씨가 건조해요. And after a vowel, you just add 라서. 내일 파티에 갈 거라서 기대돼요. 내일 파티에 갈 거라서 기대돼요. I'm going to the party tomorrow, so I'm excited. Just a quick note, 기대 means expectation, but it's not used in the same way as the English word expectation. It's more so, it's more to do with looking forward to something. So, 기대되다 means, 기대돼요 means I'm excited or I'm looking forward to it. Okay. 
+
+**Ji:** So, with 라서, 서 part can be dropped in casual or shortened speech. So, you can just, you can just say 봄이라 or 갈 거라. But, with 이어서, you can't drop the 서 at the end. 이어서, 여서. You have to keep the 서 in there. So, 이어서 is added after 받침. So, 이건 펜이어서. This is a pen, so 지우개로 못 지워요. You can't erase it with an eraser. 이건 펜이어서 지우개로 못 지워요. 지루한 영화여서. After a vowel, you add 여서. So, 영화 ends in a vowel. So, 지루한 영화여서 잠들었어요. It was a boring movie, so I fell asleep. Okay. Okay, so, yeah. To wrap it up, both versions are fine. 라서 is more common, and you can drop 서 in 라서. But 이어서 can't. Okay? 
+
+**Ji:** Alright, let's take a closer look at the usages now. The first usage, cause and effect. This is, I think this is the most standard and common use of 서. And we just used 서 in these examples with this usage. Meaning, so, cause and effect. Where A causes B. So, 집까지 걸어가서 I walked home. 다리가 아팠어요. So, my legs hurt. Can you repeat after the second one? After I say it. 음식이 너무 매워서. 
+
+**Amira:** 음식이 너무 매워서. 
+
+**Ji:** So, 못 먹겠어요. 
+
+**Amira:** 못 먹겠어요. 
+
+**Ji:** 못 먹겠어요. That's right. So, the food is too spicy, so I don't think I can eat it. You can also translate this as therefore. You know, therefore, I don't think I can eat it. Oh, by the way, this 겠어요 part, you know, we learned 겠다. So, 겠다 adds a softer tone to 못 plus verb. So, 못 먹어요 sounds very direct. But 못 먹겠어요 sounds more softer and more nuanced. Okay. There is one important restriction here. You can't use 서 with suggestions or commands. Like, let's do it because or do that because. So, for that, you need to use a different form, which is 니까. 니까. We're going to learn this later today. But just know that. This can't be used. So, why not? Because a cause can't cause a suggestion or command. Suggestions and commands are a conscious decision, not a natural result. So, they come from someone's intent, not automatic flow, if you know what I mean. So, it sounds awkward in these examples. 더워서, because it's hot, 바다에 가자. This sounds totally wrong, you know. Let's go to the beach because it's hot. So, you say 더우니까 instead. 비가 와서 이 우산을 가져가세요. Because it's raining, 이 우산을 가져가세요. Sounds wrong. 비가 오니까 이 우산을 가져가세요. So, yeah. So, again, this big arrow, continuity, right? It shows a flow. Cause flows to the effect. But because suggestions and commands are not, they do not come from the flow, per se. You can't wrong, you can't use cause for suggestions and commands. 
+
+**Ji:** Okay. Here are some more dialogues, you know, for you to review after today's lesson. So, to get a better feel for how things work. In real life situations. So, you can review them in your own time. But, yeah. Oh, one more thing to note. You can just, you can just answer a question with 서요. Like, 갑자기 생겨서요. Oh, that's because, that's, or it's like, it's like saying something, something so in English. Sometimes we do that in English, right? We, we say so, and then we never really end our sentence there. We just leave, sort of like, leave the rest or to be assumed by the listener. So, it's sort of like that. Okay. So, you can end your sentence with 서요. Or 서. 
+
+**Ji:** Let's look at the second use of 서. This time, 서 is used to connect two actions that happens one after another. Where the first action naturally leads into the second. A leads into second. You can think about this in English. Go do it. Go do it. And 가서 해. Notice that 서 here, 서 here. So, 가서 해. Go do it. In go do it, you're not just saying go and then do it as two separate things, right? You mean go somewhere. And once you're there, do it there. That's what it means, right? Go do it. It's the same in Korean, 가서 해. So, it means go to a place and then wherever you go, do it there. So, going and doing, 가다 and 하다 are linked here. Very connected actions. So, let's look at some examples here. 버스 정류장까지. Until the bus stop or more naturally to the bus stop. 걸어가서 I walked and then took the bus. 걸어가서 버스를 탔어요. These two are two closely related actions here. Walking to the bus stop and then taking the bus there. It's not separated, but it's connected. 가게에 가서 I went to the store and then bought milk. And then? At the store. You bought the milk at the store, right? Not anywhere else. So, at the store is assumed. 
+
+**Ji:** So, if you compare that with 고 and 서, 친구를 만나고 카페에 갔어요. Here, 고 is simply listing action A and action B. So, not necessarily there is a connection between meeting the friend and going to the store. So, it sounds like I met my friend, finished meeting her, we parted ways, and then I went to the cafe by myself or alone. So, there's no flow implied. But the second sentence, 친구를 만나서 카페에 갔어요. Now, this means I met my friend and together I went to the cafe with her. So, now there is a natural sequence. There is a flow between the two actions here. Meeting my friend, going to the cafe, connected, sequence. So, let's look at some more dialogues with this form because I feel that there needs to be more context here. So, 어제 뭐 했어? What did you do yesterday? 운동 끝나고 I finished working out. 운동이 끝나다. Literally, working out, finished. 집에 가서 I went home and then watched Netflix. In this case, 서 can be translated to and or and then, right? And where did I watch Netflix? Obviously, at home because 서 is used here. Make sense? 
+
+**Amira:** Yeah. 
+
+**Ji:** 주말에 가족이랑 보통 뭐 하세요? What do you usually do with your family on the weekend? 주말, weekend, 가족, family, 보통, usually 뭐 하세요? What do you do? So, 저희는 as for us, 매주 일요일에, every Sunday, every week Sunday, 같이, together 요리를 해서, 요리를 해서, cook, 먹어요. We normally cook and eat together every Sunday. You cook something, connecting, you cook something and then you eat whatever you cook. There's a strong sense of connectivity here. So, it connects, it's very, two closely related actions. Yeah. So, that's the second usage of 서. Okay. 
+
+**Ji:** All right. The third usage of 서. This is the third major usage of 서. The first, the first action shows how the second action happened. So, we're talking about methods, means, tool, you know, basically, by doing A, by doing A, you achieve B. That's what it means. Examples. 고기를 소스에 찍어서 먹었어요. 찍다 means to dip. 먹었어요. So, I, by dipping the meat in the sauce, that's how I ate the meat, is what it means. So, I dipped the meat in the sauce and ate it. Dipping is the method I use for eating the meat. That's what it means. 앱을 사용해서, 사용하다 means to use or to utilize. 앱을 사용해서 주문했어요. I ordered it. Using the app. 앱을 사용하다 means to use the app. So, I ordered it using the app. 나는 걸어서, 걸어서 학교에 가요. I go to school by walking. So, I walk to school. I go to school by walking. 벽에, to the wall, 그림을 걸어서, 걸어서 집을 꾸몄어요. So, I decorated the house. 집을 꾸미다. By hanging a painting on the wall. Side note, 걸어서, these two 걸어서 come from two different verbs. 걷다 is an irregular verb and 걸다 is a regular verb. So, both become 걸어서. You can clearly see the context here. You know? So, you wouldn't. You wouldn't walk a painting, obviously. So, you know? So, the context really matter here. So, the key idea you should take is this. A big arrow, again. First action is how the second action happened. OK? 
+
+**Ji:** So, again, here's a couple of dialogues for you to... For you, so you can see how this usage works in conversation. 이 옷 어디서 샀어요? Where did you buy this outfit or clothes? Where did you buy this outfit? 인터넷으로 주문해서 받았어요. 인터넷으로 주문해서 Actually, one of your assignment for you today will be studying this particle. 으로. It's a direction marker or it could be used as using or with. Using something or with something. Very simple, fairly straightforward. You can self-study 으로 and I'm going to send you some videos on it. It's really not that hard of a concept to understand. 인터넷으로 Using the internet or with the internet. 주문해서 받았어요. By ordering it online. 
+
+**Ji:** Let's wrap up a quick summary of the three major uses of 서. First, cause and effect. Where one event naturally causes the next event to happen. 저는 한국 사람이라서 한국말을 잘해요. I'm Korean so I speak Korean well. Me being Korean causes me to be a fluent Korean speaker. It's a natural cause, right? And then we have sequential actions. Two connected actions happening one after another. 친구를 만나서 I met a friend. And then had lunch. Together is implied. I ate together. We ate together. This together is part of the same flow. A flows or leads into B. Means and method describes how something was done. 앱을 사용해서 음식을 주문했어요. I ordered food by using the app. The key idea to remember is continuity. You can visualize 서 as a long arrow. Can you see how each use shows a continuous flow? Where one thing leads to another? 
+
+**Ji:** Now that you've seen all three, let's move on to the special usage of 서. And that is 있어서. Coming from 있다. To exist or to have. First, normal usage. 새는 날개가 있어서 날 수 있어요. Birds have wings so they can fly. 돈이 있어서 여행을 갔어요. I had money. You don't ever say 있었어서. This is wrong. Even though the second part is in a past tense, you always have to use this part as a present tense. So you can't say something like 있었어서. It's always 있어서. I had money. 돈이 있어서. So I went on a trip. Sorry about that. This is the normal usage. These two are typical cause and effect sentences. Having something A allows you to do something B. These are typical, normal usage. 
+
+**Ji:** But there is one special usage with 에게, 한테, 께 있어서. And the noun that you follow here is a person. 에게, 한테, 께 있어서. This is not about having or existing anymore. It's about perspective. So to me, in their eyes, as far as someone is concerned, is what it means. And in this case, 서 is often dropped in speech. So if you look at this example, 내게 있어서. 내게 있어서 or 내게 있어. That means to me. 너는 소중한 친구야. You are a precious friend. 내게 있어서. To me, you are a precious friend. 그 사람한테 있어서. To her or him. Whichever gender. SNS가 전부예요. Social media is everything. SNS is an acronym. Social network service. And it's a conglish word. For social media. But korean say SNS. SNS. Like that. So SNS가 전부예요. So in these cases, 있어서 doesn't mean it exists. Or I have. So instead it shows value or importance from someone's personal perspective. So a person. A should be person. Oh, I'm sorry. Yeah. Whatever that is. Whatever that follows. It should be like that. Yeah. Sorry about that. Okay. So to a person, something is valuable. That's the usage. And it's a very special usage. 있어서. You can just memorize 있어서 or 있어. Okay. Any questions on 서 so far? Because we're going to move on to our next one. 
+
+**Ji:** Okay. Now let's take a look at another connector then. 가지고. 가지고. Often shortened to 갖고. 갖고. This form is super common in spoken Korean. In fact, this is only used in conversation. So you wouldn't want to write an essay using this form. Or you know, you can't see this form in written context. Like in a book or in a news article. So it's only used in spoken Korean. And it's very similar to 서. So most of the time you can, you can sort of substitute 서 with 가지고. Even the way you make it is really similar to 서. So it's 아어 and then 가지고. 아어 and then 가지고. So 먹다 becomes 먹어가지고. 사다 becomes 사가지고. And this comes from the verb 가지다. 가지다, which means to have or to hold or to carry. So literally 가지고 means have and then. So just like 서, it shows one action. You know, you are having something. And then, and then, right? So it's a very, it shows a very similar idea to 서. One action leads to, leads into the next. So it used to, it's used to mean so and then, or sometimes with a noun. So almost the same idea as 서. 
+
+**Ji:** But yeah, you can't use 가지고 with emotions. Emotions or greetings. That's the main difference with 서 and 가지고. So 만나가지고 반갑습니다 is wrong. It's just, it just sounds wrong. You, you'd have to say 만나서 반갑습니다. Nice to meet you. 만나서 반갑습니다. So 가지고 can replace 서 in two specific usages. Cause and effect and sequence, sequential action. So 길이 막혀 가지고 늦었어요. The road was jammed. So I was late. 돈을 찾아가지고 밥을 먹었어요. I withdrew the money and then ate. Using that money, I paid for the meal. Is what it means. Sequential actions. So just remember that. 가지고 is awkward for emotions or greetings. And if you wanted to use 가지고 for means and method, which was the third usage of 서. 가지고 should always be used with a noun, not verbs. 카드 갖고 계산했어요. 카드 is a card, right? 카드 갖고 계산했어요. I paid with the card. It's correct. But you can, you can't ever really say verb 갖고 계산했어요 to express the means of the second action. So that's the difference between 서 and 가지고. So, yeah, and 갖고 and 가지고, they are almost like 50, 50 in terms of how commonly it's used. But 가지고 is slightly more common. 가지고 is slightly more common. And, uh, typically in Korea, Korean girls use this form really often. Not as much, uh, boys don't really use this form as much. They tend to stick with 서 more, but 가지고 has that sort of a friendly tone to it. It, it, it just feels friendly. 가지고, and then, you know, so a lot of girls use this form.

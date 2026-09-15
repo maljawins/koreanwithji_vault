@@ -1,0 +1,97 @@
+# Go Billy | 만큼 "As Much As" & "Because" | Live Class Abridged
+
+## Metadata
+- **Channel:** Go Billy
+- **URL:** https://youtu.be/qn6U3dmyDgQ
+- **Duration:** 17:37
+- **Upload Date:** 2024-12-25
+
+---
+
+## Teaching Points
+
+### Overview
+The instructor introduces the particle 만큼, which primarily denotes an amount, quantity, or volume. While often translated as "as much as" in English, its literal meaning is more rooted in the concept of a specific "amount." The lesson covers how to use 만큼 with nouns, demonstratives, and adjectives (verb forms), highlighting its versatility in expressing comparisons and extents.
+
+A significant portion of the lesson is dedicated to a secondary, more advanced usage: 만큼 as a reason marker meaning "because." The instructor explains how this form functions similarly to (으)니까 but carries a more formal or "fancy" nuance, often found in speeches or professional contexts. The lesson concludes with the emphatic reason marker (으)니만큼, used for expressing personal opinions on the cause of a situation.
+
+---
+
+### Basic Usage with Nouns
+When attached directly to a noun, 만큼 indicates that the subject possesses a quality or performs an action to the same "amount" as that noun. The instructor provides a comparison example: `저는 철수 씨만큼 똑똑하지 않아요`. While naturally translated as "I am not as smart as Chul-soo," the instructor warns that this can be vague in Korean. It could mean Chul-soo is smart and the speaker is not, or it could imply that Chul-soo is also not smart and the speaker is at that same low level.
+
+To avoid ambiguity, positive sentences are clearer. `저는 철수 씨만큼 똑똑해요` explicitly means "I am smart to the amount of Chul-soo," indicating both are smart. Another example shown is `저는 제 친구만큼 한국어를 잘해요 (I speak Korean as well as my friend)`. The instructor also demonstrates comparing objects: `튤립은 장미꽃만큼 인기가 많아요 (Tulips are as popular as roses)`.
+
+---
+
+### Usage with Demonstratives
+만큼 can be combined with the demonstratives 이 (this), 그 (that), and 저 (that over there) to create words for "this much" or "that much." The instructor writes an example on the board: `저는 공부를 이만큼 했어요`. This literally means "I did studying this amount" or "I studied this much," often accompanied by a gesture to indicate the volume of work.
+
+---
+
+### Usage with Adjectives and Verbs
+만큼 can follow a verb or descriptive verb turned into an adjective form. In this context, it often translates to "to the extent that" or "so much that." The meaning changes based on the tense of the adjective:
+- **Past:** `한 만큼` (the amount that I did)
+- **Present:** `하는 만큼` (the amount that I do)
+- **Future:** `할 만큼` (the amount that I will do)
+
+The instructor provides a practical example for the present tense: `먹을 수 있는 만큼만 가져가세요`. This translates to "Take only as much as you can eat," or more literally, "Take only the amount that you are able to eat." For the future tense, the instructor uses the sentence `죽지 않을 만큼만 먹었어요`. This means "I only ate enough so that I wouldn't die," where the "amount" is defined by the future-oriented extent of not dying. A past tense example is also provided: `저는 인터넷을 쓴 만큼 돈을 내요 (I pay money for the amount of internet I used)`.
+
+---
+
+### 만큼 as a Reason Marker (Because)
+The instructor reveals that 만큼 can function as a synonym for (으)니까 (because) when used after an adjective. This usage sounds more formal and is common in public speaking. For example, `피망은 아이들이 싫어하는 채소인 만큼 더 맛있게 요리했어요` means "Because bell peppers are a vegetable that children dislike, I cooked them more deliciously." Here, `인 만큼` (from 이다) provides the reason for the extra effort in cooking.
+
+Other examples of this "fancy" because include:
+- `올해 준비한 만큼 멋진 무대를 보여드릴게요` (Because we prepared for a long time, we will show you a cool stage performance).
+- `그 브랜드는 20대를 타겟으로 하고 있는 만큼 변화에 빠르게 반응해요` (Because that brand is targeting people in their 20s, they react quickly to change).
+
+---
+
+### Comparison with 정도(로)
+The instructor briefly compares 만큼 with 정도로. Both can mean "to the extent that" or "as much as." However, 정도로 cannot be used to mean "because." Additionally, 만큼 can take other particles like 만 (only) to form `만큼만`, whereas `정도만` is not used in the same grammatical way. 정도 can also stand alone as a noun, while 만큼 must be attached to a noun or adjective form.
+
+---
+
+### Emphatic Reason: (으)니만큼
+The final form discussed is (으)니만큼, a combination of (으)니 (because) and 만큼. This is an even more formal and emphatic way to say "because." It is specifically used to express the speaker's opinion on the reason for something. It is not used to answer a direct "why" question but rather to provide a supporting reason for a general statement or advice.
+
+Example provided: `아직 젊으니만큼 금방 다른 일을 할 수 있을 거예요`. The instructor explains this as: "In my opinion, because you are still young, you will be able to find another job soon." The use of `젊으니만큼` emphasizes the speaker's perspective on why the listener will be successful.
+
+---
+
+## Transcript
+
+> **Note:** Transcript reconstructed via local Whisper (large-v3) with VAD. May contain minor recognition errors.
+
+Now we can start our lesson. We're going to be learning a lot of things today. So this is a long lesson. I recommend taking notes. We're going to be learning about 만큼. 만큼 means an amount or a quantity or a volume of something. How much? How many? How much is in there? Whatever amount of something is 만큼. Often you're going to see it translated as something like as much as depending on how it's being used. So let me just give you a really quick example of how this works.
+
+저는, I, 철수 씨, so our friend 철수, Mr. 철수, 만큼, an amount. 똑똑하다, to be smart. In this case 똑똑하지 않아요. So I am not smart the amount of 철수. Or I am not smart as much as 철수. I am not as smart as 철수. As in I am not smart as much as 철수 is smart. Is how you can interpret this because literally 만큼 is an amount. So here it is the amount of 철수. So you can look at the sentence without 만큼 and whatever it comes after first to help you understand it. So if we look at this part 저는 똑똑하지 않아요. I am not smart. How not smart am I? How unsmart am I? Well, the amount that I am not smart, the amount is 철수's amount implying that 철수 is smarter.
+
+What do you think? What do you think about this? What does this mean? Does this mean that 철수 is smart or does that mean that 철수 is not smart? What do you think? This particle 만큼 is really commonly misused because we translate this as I am not as smart as 철수 or I'm not smart as much as 철수. Implying 철수 is smart and I'm not that smart, right? However, the literal meaning of 만큼 was never as much as. It is only amount or quantity or volume. So if 만큼 just means the amount of 철수's amount the amount that 철수 is this could mean both. I am not as smart as 철수 implying that 철수 is smarter than me. I'm not at his level or 철수's level is here. He's unsmart and I am also at that amount. It can mean both that 철수 and I are both dumb or 철수 is smarter than me and I'm not at his level. It can mean either.
+
+So what does this mean? It means that when you use 만큼 it's really easy to make a sentence that has both meanings, especially when you're using negatives. It can easily have the meaning of that person is also not whatever I'm saying that I'm not or that I don't. So be careful because it's really easy to make a sentence that's vague. Do not translate this literally as as much as or you're going to have these types of questions. Types of sentences instead think of it as the amount that or the amount of like that. So we could also make this sentence. 저는 철수 씨만큼 똑똑해요. So now 저는 똑똑해요. I am smart as much as 철수. Literally 철수's amount I am smart. So now 철수's smart and I'm smart. This sentence is not vague because I am smart the amount of 철수. We are both smart. I am that. But when you're using it with negatives, it's easy to have a sentence that can be vague. So just be careful about that. That you might need to be extra clear when you make your sentences so that it doesn't sound like I am not and someone else is also not or I can't and someone else can't.
+
+So let's do another example. 저는 제 친구만큼 한국어를 잘해요. So I speak Korean well. As much as my friend or literally the amount of my friend. So I speak Korean well the amount of my friend literally and that's naturally though you probably say as much as my friend. So in this case, I speak Korean well and my friend speaks Korean well and we both speak Korean the same amount. But if you were to change the sentence into 잘 못해요. That doesn't mean I don't speak Korean as well as my friend. It could mean but it could also mean that my friend doesn't speak Korean and I don't speak Korean either.
+
+장미꽃. 장미 is rose so the rose flowers. 만큼 the amount of roses. 인기 is popularity. 인기가 많다. Literally to have a lot of popularity or to be popular. So we can look at it again remove whatever 만큼 is used with just to understand the sentence. 튤립은 인기가 많아요. So tulips are popular. How popular are they? They are the amount of roses. Popular. Tulips are as popular as roses is a natural translation but tulips are popular. The amount of roses is a more literal translation that might help you to understand it better. 튤립은 장미꽃만큼 인기가 많아요. So tulips are as popular as much as roses.
+
+저는 공부를... Let's remove this for a second. 공부를 했어요. So I studied. 저는 공부를 했어요. How much did I study? 이만큼. Amount. 이. This. This amount. This much. And you can use 만큼 with 이, 그, and 저. For this much, that much. How much did I study? 저는 공부를 이만큼 했어요. So I did studying this much. I did this much studying. You're also going to see it commonly used after an adjective. Now this adjective can come from any verb. An action verb. Descriptive verb. And in any tense. But you have any adjective and then you attach 만큼 after that. So it's the same word, but now it's with a verb. So let me give you an example. If you have 하다, you could have in the past tense 한, in the present tense 하는, or in the future tense 할. So you'd have 한 만큼, 하는 만큼, 할 만큼. The amount that I, future tense, will. The amount that I, present tense, the amount that I do, or past tense, the amount that I did. And that's how the meaning will change. What is this one then? It still just means amount. But a better way to think of it in that context is an extent. Like up to that amount. It'll translate naturally as maybe so much that. Or as much as. So you can translate it several different ways, but it still has the exact same meaning.
+
+So let me just give you an example sentence really quick. 먹을 수 있어요. 먹다, to eat. 먹을 수 있어요. I can eat. So I can eat it. So let's make this into the present tense. So now it's an adjective. 있는 만큼. Literally the amount that I can eat. Present tense. Not that I could eat in the past or I will be able to eat in the future. But the amount that I can, present tense, eat. 만, only 가져가세요. So take only the amount that you can eat. Only take as much as you can eat. So sometimes you'll translate this 만큼 as, as much as. But literally, you can also understand how it means only take the amount that you can eat. That's fine, right? It's just not as natural as saying only take as much as you can eat. Only take the amount that you can eat. 먹을 수 있는 만큼만 가져가세요. So take only the amount that you can eat or only take as much as you can eat.
+
+죽지 않아요. 죽다 is to die. So 죽지 않아요. I'm not going to die. I'm not dying. 죽지 않을. Future tense. 만큼. The amount that I will not die. Again, future tense. Not 않는, present. Not 아는, past. But 아는, future. The amount that I will not die. So we can just look at the verb at the end first. 먹었어요. So I ate. Well, how much did I eat? The amount that I will not or would not, because future tense can mean will or would, die. Only the amount that I wouldn't die. Literally, I only ate the amount that I wouldn't die. Or I only ate enough so I wouldn't die. So I didn't eat too much. I only ate the amount that I will not die at that amount. So I only ate a tiny bit. 죽지 않을 만큼만 먹었어요. So I only ate so much so that I wouldn't die.
+
+So let's look at this first. Just at this part. 저는 돈을 내요. 돈을 내다. Is to pay money. I pay money. I pay. How much do I pay? 인터넷. The internet. 인터넷을 쓰다. 쓰다 meaning to use. In this case, it is 쓴, past tense. So the amount that I used the internet, I pay. That's the sentence. If you can understand the sentence like that, you don't need to stress about translating it into English. And you can get that, right? I use the internet this amount. So the amount that I used it, I paid for. So I only pay for the internet that I used is how you can translate it naturally. But if you couldn't come up with this sort of natural translation right away, if you understand it literally, you've got it. So I pay money for the amount of internet that I used. 저는 인터넷을 쓴 만큼. So the amount that I use the internet. 돈을 내요. I pay money. So I pay money for the amount of internet that I used. Again, 쓴, past tense. The amount that I used.
+
+We've just spent like half an hour talking about how 만큼 means about. But what if I told you that 만큼 can also mean because? Specifically, 만큼 can also mean a reason when it's used after an adjective. So just like before, it can also translate into English as because. You can swap this form in your head for 은니까. 은니까 means because. So if you see a sentence that has 만큼, you just can't understand how this possibly means an amount, just swap it for 은니까. It'll make sense. Using 만큼 instead of 은니까, while it has the same meaning, 만큼 has more of a fancy feel to it. So you'll hear people give speeches or announcements using 만큼 to mean because. It sounds a little bit fancy. But that's not to say it's uncommon. I hear this form all the time. It's only in those situations though that I hear it.
+
+So here's our first sentence, 피망. 피망 is bell pepper. 아이들이, so children, 싫어하다, dislike. 싫어하는 채소. Let's just look at this part so far. 싫어하는 채소. 채소 is a vegetable. So it's a vegetable that children 싫어하는, present tense, dislike. So if we just look at this and say 입니다 at the end, then 피망은, bell peppers, are a vegetable that children hate or children dislike. 인 만큼. Here 인 is from 이다, to be. 이다 in the present tense becomes 인. 인 만큼. So because bell peppers are a vegetable that children hate, 더 맛있게, 맛있다 is to be delicious, more deliciously, 요리하다 is to cook. So I cooked it better tasting because it's a vegetable that children hate. So because kids hate bell peppers, I worked hard to make sure that they tasted good. So I did a good job cooking them to make them taste good because bell peppers are a vegetable that kids hate. So because bell peppers are vegetables that children dislike, I cooked them so that they taste better.
+
+올해 준비한 만큼 멋진 무대를 보여드릴게요. 올해, for a long time. 준비하다, to prepare. 준비한, past tense. 한 만큼. 멋진, 멋지다, to be cool. 무대 means stage, but it also means stage performance. 보여드리다, or 보여주다, to show. 보여드릴게요. So I'm going to show you or we will show you a awesome performance. 준비한 만큼 멋진 무대를 보여드릴게요. So because we prepared for a long time, we'll show you a cool stage performance. 그 브랜드는, that brand. 이십대, 대 is used for generation. So this is people in their 20s. 타겟으로 하다, 타겟으로 하다 is to target. So 타겟으로 하고 있어요. So they are targeting people in their 20s. 하고 있는 만큼, again 있는, present tense, are targeting. So because 하고 있으니까, 변화, change, 에, to, 빠르게 반응하다. 반응하다 is to react. So they react quickly, rapidly to 변화, to change. So because that brand is targeting people in their 20s, they react quickly to change, right? If you're targeting younger people, you got to react to the trends really quickly, right? 그 브랜드는 이십대를 타겟으로 하고 있는 만큼, 변화에 빠르게 반응해요.
+
+But there's one more form that can also be used with verbs that can mean the same thing as, as much as. And that is 정도, specifically 정도로. I've done a live stream about this, December 17th, 2018. If you want to learn about 정도로, I give lots of examples. We're not going to be covering that form again. Both 만큼 and 정도로 can be used to say as much as, or so much that, to the amount that. Now 정도로 is not going to be used to mean because, but if you're actually saying, the amount of something, you can use 정도로 in the same way. Some other things you should know about it are 정도로 or 정도 are just as is. 만큼, however, we already saw that you could add other particles to the end. Like we saw, for example, 만큼만, only the amount. You can't do 정도로만 or anything like that. Another difference, 만큼 is only used in grammar forms. We saw 만큼 used with nouns or with adjectives. 정도 can be used as its own noun by itself. 만큼 must be used in these grammar forms as you're seeing. And finally, if you want to say something like 할 만큼 했어요. So 하다, to do. So I did the amount that I would do or I could do. So I did all I could. 하다 before and 하다 after. You can't say 할 정도로 했어요 or anything like that. But besides these really small differences, 정도로 can also be used just like 만큼 with those few exceptions.
+
+Okay, there's one more usage of 만큼 we have to talk about. (으)니만큼. (으)니만큼 goes after a verb stem. So if you have 하다, the verb stem is 하, you attach 니만큼. If you use the verb 먹다, 먹 ends with a consonant, so you do 먹으니만큼 like that. If you're using the verb 이다, it's just 이니만큼. So this form is a combination of (으)니, meaning because, and 만큼, which we learn means an amount but can also be used to mean because. So this form means because. Only because, it doesn't mean amount anymore. It's more like an extra emphatic way of saying because. First of all, I need to let you know that this form sounds even more fancy. It's also less common. This form is specifically used for one thing. It's used for expressing the speaker's opinion on the reason for something. So how did that happen? Well, it happened because, I think, of this. What do you think about that? Well, I think that because of this, now, I should note, this is not used in sentences where you're answering someone's question about why. It's not used when they ask about the reason for something, strangely. If someone says, what do you think is the reason for this? Why do you think this happened? This is not the one you're going to be using. This is more of just expressing your general opinion on something. So you're already talking about something else, and then you just want to bring up your opinion about the reason for something. But it's not for answering the reason, because the nuance would seem a bit weird in Korean, because how this one has extra nuance to mean because. It's not used when you're answering someone's why question, but it is used when you're answering a general question about something. Most commonly, this will be to express just what you think about something. My opinion is, this something, something because of this.
+
+So let me give you an example. 아직, still or yet, 젊다 is to be young. So because 젊으니까, because you're still young, 젊으니만큼. My opinion is, well, what I think is because you're still young, 금방, soon, right away. 다른, 다르다, to be different. So 다른 일, a different job or another job. 할 수 있다, you can, 할 수 있어요, you can do it. 할 수 있을, future tense, will be able to, 거예요. So you will be able to do another job right away or soon because you're still young. 아직 젊으니만큼 금방 다른 일을 할 수 있을 거예요. So because you're still young, you'll be able to do another job right away. That is our lesson. So I will see you again next time. 그럼 다음에 또 봐!
