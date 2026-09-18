@@ -47,3 +47,9 @@
 - 이해: 원본 Markdown은 수정하지 않고 `01_Ji_Draft_index.xlsx`와 `lesson_spec_tracking.xlsx`의 파일 목록만 보완한다.
 - 이행: 두 workbook에 `Ji-1-6-1` 행과 실제 경로를 추가하고 tracking 수식 범위를 새 행까지 확장했다. 개념 조사 파일은 수정하지 않았다.
 <!-- codex-turn:01a0b297-2b10-7262-b32d-dfa7439db184 -->
+
+### #260918_13:00
+- Ji 요청: 현재 workspace를 GitHub `koreanwithji_vault`의 `pre-concept` 브랜치에 커밋·push.
+- 이해: 기존 unrelated 변경은 포함하지 않고 이번 Ref_No 보완과 관련 로그만 커밋한다.
+- 이행: `pre-concept` 브랜치를 만들고 3개 파일을 커밋(`982b610f`)한 뒤 `origin/pre-concept`로 push 완료. Pull request 주소도 생성됨.
+<!-- codex-turn:01a0b29b-80a0-7123-95c9-0d64d522d19e -->
