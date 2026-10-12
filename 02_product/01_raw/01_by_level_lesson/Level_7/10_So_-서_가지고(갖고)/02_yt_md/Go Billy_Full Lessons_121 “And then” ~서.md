@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-10-5"
+---
 # Go Billy | Learn Korean Ep. 121: “And then” ~서
 
 ## Metadata

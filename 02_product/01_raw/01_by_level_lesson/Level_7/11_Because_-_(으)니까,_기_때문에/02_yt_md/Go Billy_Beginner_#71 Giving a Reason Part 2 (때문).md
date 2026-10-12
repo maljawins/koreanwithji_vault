@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-11-6"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #71: Giving a Reason Part 2
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-9-4"
+---
 Lesson 59: Difficult words: 어쩌면, 아무래도, 가꾸다, 연세, 뵈다, 차림, 즉
 
 Introduction

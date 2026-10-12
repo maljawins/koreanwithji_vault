@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-1-1"
+---
 # Go Billy | You SHOULD Know About Transitive and Intransitive Verbs - 타동사 & 자동사 | Korean FAQ
 
 ## Metadata

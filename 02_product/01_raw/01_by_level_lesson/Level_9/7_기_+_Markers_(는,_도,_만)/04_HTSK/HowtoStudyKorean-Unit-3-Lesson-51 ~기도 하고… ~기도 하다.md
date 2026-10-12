@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-9-7-1"
+---
 Lesson 51: ~기도 하고… ~기도 하다
 
 Introduction

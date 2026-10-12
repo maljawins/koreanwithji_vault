@@ -2,7 +2,7 @@
 
 > 이 폴더는 **날짜별 작업 로그를 저장하고, 과거 작업을 빠르고 정확하게 추적하기 위한 색인**이다.
 > 에이전트는 하루 작업을 마칠 때 이 파일의 인덱스 표와 해당 날짜 로그를 함께 갱신한다.
-> 최종 갱신: 2026-09-15
+> 최종 갱신: 2026-10-08 (10월 7일 작업 마감)
 
 ---
 
@@ -56,6 +56,28 @@
 | [260911](260911_log/260911_log.md) | Fable 세션용 vault 점검 + L2-01 관통 테스트 prompt 계획 수립(점검 3개+테스트 7개) | 완료 (계획만, 실행 대기) | 점검으로 심각 2건(git 미추적, `kor_yt_md_pipeline.py` 실행 시 죽음) + 문서 정합성 8건 발견. vault 파일 변경 없음. Ji 결정 대기 6건(Q-A~Q-F). 로그는 2026-09-14 소급 작성 |
 | [260913](260913_log/260913_log.md) | `course_plan.md`를 강의 제작 계획의 유일한 출처로 재편(`brainstorm.md` 내용 흡수, 244→472줄), 문서 구조를 3층에서 outline·draft 분리한 4층으로 개정. STEP 순서 재편(재료 모으기 → 개념 indexing+`topic_shaped` 병행 → Schema+`spec_done` → OUTLINE/DRAFT → 확장, STEP 1~5를 1~6으로) | 완료 (`to_do.md` 동기화 대기) | `to_do.md`가 옛 STEP 순서 그대로라 새 계획과 어긋난 채 하루 마감. 남은 결정은 J-1(spec 작성 전 git 정리 여부) 하나. 실 산출물은 여전히 0장 |
 | [260914](260914_log/260914_log.md) | `to_do.md`를 STEP 2 재료 모으기 기준으로 재작성하고, 누락된 260908·260910·260911 날짜 로그를 소급 작성. 2026-09-04~13 conversation 기록 18건을 날짜 로그로 이관·정리 | 완료 | J-1(Git 정리)은 당시 대기였으나 2026-09-15 GitHub 첫 백업으로 완료. 변환 파이프라인 보류 2건만 conversation_log에 남김 |
+| [260915](260915_log/260915_log.md) | GitHub 첫 백업, lesson_spec 생산라인 재설계, 5종 index 파일별 Ref_No 정비, tracking 구성, 파일럿 기준 확정 | 완료 | `01_by_level_lesson` 1,706개 파일 등록. 파일럿은 44개 레슨·533개 raw 파일이며 VSL·Intro는 제외. 다음은 Ref_No frontmatter 반영과 개념 조사 |
+| [260916](260916_log/260916_log.md) | Ref_No 최종 대조·raw frontmatter 반영, 파일럿 개념 전수조사용 `01_concept_index.xlsx` 빈 구조 생성 | 완료 | 1,706개 Markdown의 Ref_No 확인·반영 완료. 다음은 44개 레슨·533개 raw 파일의 개념 조사와 Ji 범위 검수 |
+| [260917](260917_log/260917_log.md) | 개념 조사·`range_set` 규칙 정비, Hangul 외부자료 4개를 레슨별 복사본·Ref_No 기준으로 편입 | 완료 | `01_by_level_lesson` 1,711개, 파일럿 538개로 갱신. Hangul 1·3·4·6의 `06_ext_sources` 복사본 4개는 별도 index·tracking 시트에서 관리 |
+| [260918](260918_log/260918_log.md) | `Ji-1-6-1` 매핑 보완, `pre-concept` push, 개념 정의·등록 규칙 교정, Hangul 1 매핑 자료 전체 재조사 | 검토용 결과 완료, 확인 8건 대기 | Hangul 1 자료 17개 검토. 개념 31개·근거 82개·이름 근거 42개 기록. 레슨 범위는 미확정 |
+| [260923](260923_log/260923_log.md) | concept index 제외 workflow 적용, 중복 자료 선별표 구축, DMS-0001~0010 샘플 발췌 | 완료, Ji 검토 대기 | 중복 후보 266묶음·888개 사본. DMS-0001은 Ji 작성, DMS-0002~0010 39행 Agent 제안 완료. JSON 구조는 xlsx 검토 뒤 결정 |
+| [260925](260925_log/260925_log.md) | `course_plan_update.md` 기준 작업지시서·tracking 갱신, 기존 계획·backup archive 이동, DMS-0001~0010 선별표 표현 정리 | 완료, Ji 검토 대기 | concept index는 제외. 확정된 레슨만 `range_set`으로 진행. `course_plan.md`와 tracking backup 2개는 `_archive`에 보관 |
+| [260926](260926_log/260926_log.md) | 영상 중심 `range_set` 기준으로 코스 계획 통합, DMS를 중복 매핑 확인용으로 변경, 44개 파일럿 레슨에 검토 카드·Ref_No 구간표 적용 | 검토 초안 완료 | 538개 Ref_No·993개 구간 후보. 사용 후보 422·보류 78·제외 후보 38. 원문 내용 적합성·Ji 경계 검토 전이라 44개 status는 `raw_mapped` |
+| [260927](260927_log/260927_log.md) | 44개 `range_set` 카드의 raw 링크·Ji 질문·전체 매핑 근거 정비, Hangul 피드백 확인과 Hangul-5 `topic_raw` 시범 | Hangul-5 시범 완료, 나머지 검증 진행 중 | 마감 시 538개 Ref_No·930개 구간. 44개 중 Hangul-5만 `topic_raw`. Hangul-6 피드백 확인 대기 |
+| [260928](260928_log/260928_log.md) | Hangul 1~4·6 `topic_raw`, 출처별 설명 보존 규칙과 skill 2종 정리, Numbers 1~7·Level 1·2 자료 판정 | Hangul 6개 `topic_raw` 완료, 38개 레슨 잠정 판정·Ji 경계 검토 대기 | 파일럿 44개, Ref_No 539개, 선택 구간 714곳. Numbers-6·Level 2-8 자료 부족과 Hangul-4 발음 충돌 검토 필요 |
+| [260929](260929_log/260929_log.md) | Numbers 피드백 반영 준비와 Hangul `topic_shaped` 방법 설명 | Ji 요청으로 Numbers 작업 중단. 산출물 수정 없음 | Numbers 피드백 7개와 기존 자료를 읽은 단계에서 중단 |
+| [260930](260930_log/260930_log.md) | Raw 이동·복사 6건 정본 반영, Hangul·Numbers 원문 발췌 갱신, Level 3~12의 1차 `range_set` | 9개 레슨 발췌 갱신으로 `topic_raw` 전체 12개. Level 3~12 카드 149개는 잠정 판정 | 전체 카드 193개·Ref_No 1,677개. Numbers-6 근거 보강, Level 1~12 경계 검토 대기 |
+| [261003](261003_log/261003_log.md) | Level 1-1~4 피드백 반영과 `topic_raw` 원문 발췌, 1-5 피드백 확인 | 1-1~1-4 완료. 전체 `topic_raw` 16개, `raw_mapped` 180개 | 1-5의 YT-1-5-2 `60~52줄` 확인 대기 |
+| [261007](261007_log/261007_log.md) | vault 내부 Superpowers·Taskmaster 준비, Level 1-5~1-11 `topic_raw`, Draft까지의 제작 과정 검토 | 1-5~1-11 완료. 전체 `topic_raw` 23개, `raw_mapped` 173개. 개선 계획은 채팅 제안 | Ji의 지정에 따라 10월 8일 새벽 작업 포함. 보고서 파일과 정식 `topic_shaped` 산출물은 아직 없음 |
+
+<!-- codex-day-close:260918 -->
+
+<!-- codex-day-close:01a0d6c0-dc8c-71e3-a91a-b36be92da50e -->
+
+<!-- codex-day-close:01a0dc8b-eb6a-7d90-9e8a-157345254efc -->
+
+<!-- codex-day-close:01a0dea0-b071-7222-9446-de4c5111d9fe -->
+<!-- codex-day-close:01a0e2d4-c935-7272-9b21-08844b544c3c -->
 
 ---
 
@@ -63,3 +85,8 @@
 
 - 새 날짜 로그를 시작하기 전에 인덱스 표의 최근 행을 훑어 직전 작업 맥락을 파악한다.
 - 상세 판단 근거나 코드 위치까지 필요하면 인덱스 표가 아니라 해당 `YYMMDD_log.md`를 연다.
+
+<!-- codex-day-close:01a0e876-afd0-7c01-9e8b-52f0c68894f2 -->
+<!-- codex-day-close:01a0f5d3-4063-74f2-bc37-ef7333a5f6e4 -->
+<!-- codex-day-close:01a11030-1291-7230-abf7-b5f6e29b33e6 -->
+<!-- codex-day-close:01a11a0c-08d3-74c0-926a-44daa1ed2fec -->

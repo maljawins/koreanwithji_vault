@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-9-9-2"
+---
 # Go Billy | Learn Korean Ep. 104: “To End up Doing” 게 되다
 
 ## Metadata

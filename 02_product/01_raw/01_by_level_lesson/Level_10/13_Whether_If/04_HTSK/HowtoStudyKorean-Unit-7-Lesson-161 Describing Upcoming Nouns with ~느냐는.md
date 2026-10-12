@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-13-6"
+---
 Lesson 161: Describing Upcoming Nouns with ~느냐는
 
 Introduction

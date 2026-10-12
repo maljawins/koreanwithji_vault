@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-9-1-1"
+---
 Lesson 26: ~는 것 Describing Nouns with Verbs
 
 Introduction

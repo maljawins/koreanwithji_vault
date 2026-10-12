@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-2-2"
+---
 Lesson 28: Anomalies with ~는 것
 
 Irregulars with ~는 것

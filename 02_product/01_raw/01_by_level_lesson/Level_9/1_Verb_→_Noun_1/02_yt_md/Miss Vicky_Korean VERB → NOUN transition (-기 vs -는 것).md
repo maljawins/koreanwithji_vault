@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-9-1-7"
+---
 # Miss Vicky | Korean VERB → NOUN transition (-기 vs -는 것)
 
 ## Metadata

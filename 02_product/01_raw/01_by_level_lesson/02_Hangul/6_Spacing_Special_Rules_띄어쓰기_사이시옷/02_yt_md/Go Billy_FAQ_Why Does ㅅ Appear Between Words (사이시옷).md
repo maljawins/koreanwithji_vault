@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-6-2"
+---
 # Go Billy | Why Does ㅅ Appear Between Words? (사이시옷) | Korean FAQ
 
 ## Metadata

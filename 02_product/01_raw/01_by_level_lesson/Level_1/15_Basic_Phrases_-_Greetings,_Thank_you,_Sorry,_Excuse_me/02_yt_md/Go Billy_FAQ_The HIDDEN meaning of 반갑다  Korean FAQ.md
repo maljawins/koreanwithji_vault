@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-15-4"
+---
 # Go Billy | The HIDDEN meaning of 반갑다 | Korean FAQ
 
 ## Metadata

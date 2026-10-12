@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-14-2"
+---
 Lesson 176: ~아/어 봤자 – To be Pointless to do
 
 Introduction

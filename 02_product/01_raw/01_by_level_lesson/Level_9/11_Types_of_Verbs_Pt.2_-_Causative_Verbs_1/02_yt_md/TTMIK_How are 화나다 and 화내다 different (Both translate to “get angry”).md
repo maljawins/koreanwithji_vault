@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-9-11-5"
+---
 # TTMIK | How are 화나다 and 화내다 different? (Both translate to “get angry”)
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-10-4"
+---
 # Miss Vicky | All about "이다" verb (이에요, 예요 / 이었어요, 였어요 / 일 거예요)
 
 ## Metadata

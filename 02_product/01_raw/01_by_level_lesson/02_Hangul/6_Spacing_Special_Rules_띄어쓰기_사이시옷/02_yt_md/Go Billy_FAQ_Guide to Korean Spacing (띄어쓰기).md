@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-6-1"
+---
 # Go Billy | Guide to Korean Spacing (띄어쓰기) | Korean FAQ
 
 ## Metadata

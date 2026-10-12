@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-9-10-7"
+---
 # Miss Vicky | Saying your Intention in Korean [(으)려고, (으)러, -게, -도록]
 
 ## Metadata

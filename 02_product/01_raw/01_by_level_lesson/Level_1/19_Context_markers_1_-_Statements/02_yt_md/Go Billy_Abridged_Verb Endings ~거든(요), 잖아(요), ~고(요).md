@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-4"
+---
 # Go Billy | Verb Endings ~거든(요), 잖아(요), ~고(요) | Live Class Abridged
 
 ## Metadata

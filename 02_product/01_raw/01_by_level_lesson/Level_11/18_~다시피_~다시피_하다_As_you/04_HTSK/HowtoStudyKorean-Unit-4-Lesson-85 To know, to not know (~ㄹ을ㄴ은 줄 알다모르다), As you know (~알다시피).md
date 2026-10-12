@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-18-1"
+---
 Lesson 85: To know, to not know (~ㄹ/을/ㄴ/은 줄 알다/모르다), As you know (~알다시피)
 
 Introduction

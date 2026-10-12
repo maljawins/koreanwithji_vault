@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-5-9-3"
+---
 Lesson 183: ~롭다: To Possess a Quality or Characteristic Fully
 
 Introduction

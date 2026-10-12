@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-20-2"
+---
 # Go Billy | Learn Korean Ep. 124: ~커녕 “Let alone”
 
 ## Metadata

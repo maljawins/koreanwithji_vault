@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-2-3"
+---
 # Go Billy | 좋다 vs 좋아하다 | Korean FAQ
 
 ## Metadata

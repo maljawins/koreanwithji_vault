@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-9-2-1"
+---
 # Go Billy | 힘들다 vs 어렵다 | Korean FAQ
 
 ## Metadata

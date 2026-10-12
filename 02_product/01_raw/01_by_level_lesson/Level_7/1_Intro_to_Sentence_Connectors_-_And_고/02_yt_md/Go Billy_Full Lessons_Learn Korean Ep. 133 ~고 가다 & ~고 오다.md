@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-1-6"
+---
 # Go Billy | Learn Korean Ep. 133: ~고 가다 & ~고 오다
 
 ## Metadata

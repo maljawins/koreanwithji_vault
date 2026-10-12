@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-1-5"
+---
 # Go Billy | The Difference Between Korean and English Adjectives | Korean FAQ
 
 ## Metadata

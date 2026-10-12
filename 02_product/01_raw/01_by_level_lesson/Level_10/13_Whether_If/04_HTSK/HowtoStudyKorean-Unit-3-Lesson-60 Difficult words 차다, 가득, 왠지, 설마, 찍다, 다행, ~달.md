@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-13-3"
+---
 Lesson 60: Difficult words: 차다, 가득, 왠지, 설마, 찍다, 다행, ~달
 
 Introduction

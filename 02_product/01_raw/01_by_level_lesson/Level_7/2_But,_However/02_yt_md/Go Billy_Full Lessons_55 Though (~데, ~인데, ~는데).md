@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-2-6"
+---
 # Go Billy | Learn Korean Ep. 55: "Though" (~데, ~인데, ~는데)
 
 ## Metadata

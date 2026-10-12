@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-1-8"
+---
 # Go Billy | Important Hanja Pairs: 전 (前) and 후 (後) (한자) | Korean FAQ
 
 ## Metadata

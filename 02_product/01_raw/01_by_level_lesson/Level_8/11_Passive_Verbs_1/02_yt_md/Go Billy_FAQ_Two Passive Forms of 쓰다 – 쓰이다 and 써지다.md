@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-11-7"
+---
 # Go Billy | Two Passive Forms of 쓰다 – 쓰이다 and 써지다 | Korean FAQ
 
 ## Metadata

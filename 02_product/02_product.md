@@ -17,12 +17,14 @@
     ├─ 02_course_creation.md        ← 폴더 index (지도만)
     ├─ course_plan.md               ← 강의 제작 로드맵·계획의 유일한 출처
     ├─ glossary.md                  ← 코스 제작 용어 사전
-    ├─ lesson_design_method.md      ← 레슨 상세 설계법 (outline, draft 단계)
     ├─ course_tech_stack.md         ← 코스 제작에 쓰는 도구와 기술
     ├─ 00_curriculum_and_index\     ← 커리큘럼 맵과 자료 index xlsx
-    ├─ 01_lesson_spec\              ← [층 2] lesson_spec 작업장. topic_copy·raw·shaped 하위 폴더 포함
-    ├─ 02_concept\                  ← concept_index.xlsx 작업장
-    └─ 03_course_outline_and_draft\ ← [층 3] OUTLINE + [층 4] DRAFT 산출물
+    └─ 01_lesson_spec\              ← lesson_spec와 단계별 산출물 작업장
+        ├─ 01_range_set\            ← 원본 자료 사용 범위 확정
+        ├─ 02_topic_raw\             ← 원문 발췌 spec
+        ├─ 03_topic_shaped\          ← 범위·순서 구성 spec
+        ├─ 04_spec_done\             ← 검증 완료 lesson_spec
+        └─ 05_outline_and_draft\     ← OUTLINE·DRAFT와 상세 설계법
 ```
 
 ---
@@ -34,12 +36,13 @@
 | `01_raw\` | **입력.** 강의를 만들 재료가 되는 원본 .md가 전부 여기 있다 (1,747개). 에이전트는 여기서 읽기만 하고, 작업 산출물을 여기에 쓰지 않는다. 자료 배치 규칙은 [`01_raw.md`](01_raw/01_raw.md) 참조 |
 | `02_course_creation\` | **작업장과 출력.** 원본을 근거로 개념을 정리하고 OUTLINE과 DRAFT를 만드는 모든 작업이 여기서 일어난다 |
 | [`02_course_creation.md`](02_course_creation/02_course_creation.md) | 폴더 **지도**. 무엇이 어디 있는지와 단일 출처 규칙만 |
-| [`course_plan.md`](02_course_creation/course_plan.md) | **강의 제작 로드맵과 계획의 유일한 출처.** 실시/미실시 사항, 현황 수치, 4층 구조, 작업 규칙, STEP 정의, 결정 기록, 리스크 |
+| [`course_plan.md`](02_course_creation/course_plan.md) | **강의 제작 로드맵과 계획의 유일한 출처.** 현재 위치, 원본 사용 기준, 단계별 완료 조건, 결정 기록 |
 | [`glossary.md`](02_course_creation/glossary.md) | 코스 제작 **용어** 단일 출처 |
-| [`lesson_design_method.md`](02_course_creation/lesson_design_method.md) | 레슨 **상세 설계법** 단일 출처. outline, draft 단계에서 쓴다. Skeleton, Flesh, Comprehensible Input, 줌인 반복, 실생활 예시, 4MAT |
+| [`lesson_design_method.md`](02_course_creation/01_lesson_spec/05_outline_and_draft/lesson_design_method.md) | 레슨 **상세 설계법** 단일 출처. outline, draft 단계에서 쓴다. Skeleton, Flesh, Comprehensible Input, 줌인 반복, 실생활 예시, 4MAT |
 | [`course_tech_stack.md`](02_course_creation/course_tech_stack.md) | 코스 제작의 **도구** 단일 출처. Obsidian LLM Wiki, 영상 제작 자동화, 필요 역량 |
 | `00_curriculum_and_index\` | 커리큘럼 맵 정본([`Korean Course Curriculum Map_Final_V7.xlsx`](02_course_creation/00_curriculum_and_index/Korean%20Course%20Curriculum%20Map_Final_V7.xlsx))과 자료 트랙별 index xlsx 5종 |
-| `03_course_outline_and_draft\` | 레슨별 OUTLINE(층 3)과 DRAFT(층 4) 산출물이 쌓이는 곳. 한 레슨 폴더에 둘을 나란히 둔다 |
+| `01_lesson_spec/01_range_set\` | 중복 자료 작업표를 참고해 레슨별 원본 자료 사용 범위를 확정하는 곳 |
+| `01_lesson_spec/05_outline_and_draft\` | 레슨별 OUTLINE(층 3)과 DRAFT(층 4) 산출물이 쌓이는 곳. 한 레슨 폴더에 둘을 나란히 둔다 |
 
 ---
 

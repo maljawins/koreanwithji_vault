@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-9-7-5"
+---
 # Go Billy | Learn Korean Ep. 126: ~기는 하다 & ~기도 하다
 
 ## Metadata

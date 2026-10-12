@@ -87,7 +87,7 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 | 사업 순서, 우선순위, 기술 스택, 미정 사항 | [`_about/Koreanwithji_기획서_v6_260902.md`](_about/Koreanwithji_기획서_v6_260902.md) |
 | 강의 제작 로드맵, 계획, 작업 규칙, 결정 사항, 실시/미실시 사항 | [`02_product/02_course_creation/course_plan.md`](02_product/02_course_creation/course_plan.md) |
 | 코스 제작 용어 | [`02_product/02_course_creation/glossary.md`](02_product/02_course_creation/glossary.md) |
-| 레슨 상세 설계법 (outline, draft 단계) | [`02_product/02_course_creation/03_course_outline_and_draft/lesson_design_method.md`](02_product/02_course_creation/03_course_outline_and_draft/lesson_design_method.md) |
+| 레슨 상세 설계법 (outline, draft 단계) | [`02_product/02_course_creation/01_lesson_spec/05_outline_and_draft/lesson_design_method.md`](02_product/02_course_creation/01_lesson_spec/05_outline_and_draft/lesson_design_method.md) |
 | 코스 제작 도구 (Wiki, 영상, 음성) | [`02_product/02_course_creation/course_tech_stack.md`](02_product/02_course_creation/course_tech_stack.md) |
 | 원본 자료 찾기, 트랙 구조 | [`02_product/01_raw/01_raw.md`](02_product/01_raw/01_raw.md) |
 | vault 구조, 자료 .md 변환, 파이프라인 | [`_vault_setup/_vault_setup.md`](_vault_setup/_vault_setup.md) |

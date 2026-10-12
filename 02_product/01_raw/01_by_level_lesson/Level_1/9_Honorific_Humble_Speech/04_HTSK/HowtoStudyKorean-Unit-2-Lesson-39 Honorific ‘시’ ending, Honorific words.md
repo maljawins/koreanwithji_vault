@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-9-2"
+---
 Lesson 39: Honorific ‘시’ ending, Honorific words
 
 Introduction

@@ -1,38 +1,25 @@
 # to_do — 지금 할 일
 
-> **지금 착수할 것만 담는다.** 전체 로드맵, 작업 규칙, 남은 일 전체는 [`course_plan.md`](../../02_product/02_course_creation/course_plan.md).
-> 작성 요령과 갱신 시점은 [`01_inbox.md`](../01_inbox.md).
-> 기준일: 2026-09-15.
+> 지금 착수할 것만 담는다. 전체 workflow는 [[course_plan]]을 따른다.
+> 기준일: 2026-10-07 (10월 8일 새벽 작업 포함)
 
 ---
 
 ## 현재 위치
 
-**STEP 2 · 재료 모으기: 파일럿 44개 `topic_copy` + `topic_raw`** ([`course_plan.md`](../../02_product/02_course_creation/course_plan.md) §3-2).
-2026-09-13에 STEP 순서가 바뀌었다: template을 먼저 만들지 않고, 재료(발췌)와 개념부터 모은다. 산출물 0장.
-
----
+진행표의 196개 레슨 중 Hangul 1~6, Numbers 1~5·7, Level 1-1~1-11의 23개는 `topic_raw`, 나머지 173개는 `raw_mapped`다. Level 1~12의 169개는 설명 경계와 원문 후보 문맥을 더 확인해야 한다. Hangul-1 `topic_shaped` 시범과 나머지 레슨의 경계 검토를 이어간다.
 
 ## 지금 할 일
 
-```
-44개 topic_copy → 44개 topic_raw 발췌 → 문자열 대조 검증 → STEP 2 게이트
-```
-
-GitHub 첫 백업이 2026-09-15에 완료돼 Git 정리 결정과 실행 항목은 끝났다.
-
-### 실행 (`course_plan.md` §3-2 STEP 2 표 2-1~2-5)
-
 | # | 할 일 | 완료 조건 |
 |---|---|---|
-| N-1 | `topic_copy` 스크립트: V7 4번 컬럼을 레슨당 spec 1장으로 펴서 `01_lesson_spec/01_topic_copy/`에 저장 + 파일명 규칙 적용 | 44장 생성 확인 |
-| N-2 | `topic_raw` 조준 발췌 후 `01_lesson_spec/02_topic_raw/`로 이동. 규칙 5개 준수, Ref_No는 index xlsx로 매칭 | 44장 전부 `RAW_DIGEST` 채워짐 |
-| N-3 | 발췌문 문자열 대조 검증 스크립트 실행 | 불일치 0. **STEP 2 게이트** |
+| J-1 | Numbers-6 자료 보강 또는 레슨 설명 범위 결정 | 사칙연산 한국어 명칭의 직접 근거가 될 자료를 지정하거나, 현재 자료로 가르칠 범위를 정함 |
+| J-3 | Level 1~12의 나머지 설명 경계 검토 | 남은 169개 검토 카드의 직접 설명·복습·이월 범위를 확인하고, Level 2-3·2-8의 미해결 범위를 결정함 |
+| J-4 | Hangul-4 발음 충돌 판단 | `닭이`의 Ji Draft `[다기]`와 표준 발음 `[달기]`를 영상에서 어떻게 다룰지 결정함 |
+| A-1 | Hangul-1 `topic_shaped` 시범 | 출처별 설명을 비교하고 채택 이유·영상 설명 순서·원문 근거를 한 편에 기록해 Ji가 검토할 수 있게 함 |
+| A-2 | Level 1~12 후보 구간 재검증 및 경계 반영 | 남은 169개 레슨의 후보 원문 문맥을 확인해 XLSX 정본과 카드를 맞추고, 완료 조건을 충족한 레슨만 `topic_raw`로 올림 |
 
-이번 STEP에서는 template을 만들지 않는다. spec은 최소 뼈대(frontmatter + `TOPIC` + `TEACHING_POINTS` + `RAW_DIGEST`)로만 쓴다 ([`course_plan.md`](../../02_product/02_course_creation/course_plan.md) §6).
-
----
-
-## 끝나면
-
-N-3가 끝나면 이 목록을 비우고 **STEP 3(개념 indexing + `topic_shaped` 병행, `course_plan.md` §3-2)** 을 가져온다. 끝난 항목은 `course_plan.md` §3-1 실시 사항으로 옮긴다.
+<!-- codex-day-close:01a0e876-afd0-7c01-9e8b-52f0c68894f2 -->
+<!-- codex-day-close:01a0f5d3-4063-74f2-bc37-ef7333a5f6e4 -->
+<!-- codex-day-close:01a11030-1291-7230-abf7-b5f6e29b33e6 -->
+<!-- codex-day-close:01a11a0c-08d3-74c0-926a-44daa1ed2fec -->

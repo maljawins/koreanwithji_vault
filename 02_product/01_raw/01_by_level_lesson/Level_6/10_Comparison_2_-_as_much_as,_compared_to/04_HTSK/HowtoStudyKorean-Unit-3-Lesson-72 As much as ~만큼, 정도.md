@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-10-1"
+---
 Lesson 72: As much as: ~만큼, 정도
 
 Introduction

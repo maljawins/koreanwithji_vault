@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-1-13-1"
+---
 1. 간단한 인사 & 저번 레슨 Recap
 
 Hi, Amira! How are you?

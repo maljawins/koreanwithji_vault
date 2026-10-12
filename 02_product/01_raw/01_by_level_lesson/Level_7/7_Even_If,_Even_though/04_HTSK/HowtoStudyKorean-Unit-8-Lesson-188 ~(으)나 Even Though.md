@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-7-4"
+---
 Lesson 188: ~(으)나: Even Though
 
 Introduction

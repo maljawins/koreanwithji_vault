@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-19-1"
+---
 Lesson 132: ~ㄹ/을수록 – As One Situation Changes, Another Situation Changes
 
 Introduction

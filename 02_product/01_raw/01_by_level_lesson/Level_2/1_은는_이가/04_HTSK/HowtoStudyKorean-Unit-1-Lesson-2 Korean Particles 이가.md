@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-2-1-4"
+---
 Nouns:
 나라 = country
 가방 = bag, backpack

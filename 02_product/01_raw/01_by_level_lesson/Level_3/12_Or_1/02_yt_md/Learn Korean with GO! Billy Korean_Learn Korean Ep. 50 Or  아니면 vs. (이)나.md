@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-12-3"
+---
 # Learn Korean with GO! Billy Korean | Learn Korean Ep. 50: Or | 아니면 vs. (이)나
 
 ## Metadata

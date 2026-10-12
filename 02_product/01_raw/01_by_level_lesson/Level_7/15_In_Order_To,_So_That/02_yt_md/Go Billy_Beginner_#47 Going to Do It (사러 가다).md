@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-15-3"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #47: Going to Do It
 
 ## Metadata

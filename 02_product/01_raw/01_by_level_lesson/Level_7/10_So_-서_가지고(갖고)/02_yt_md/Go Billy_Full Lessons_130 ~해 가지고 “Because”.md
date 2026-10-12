@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-10-6"
+---
 # Go Billy | Learn Korean Ep. 130: ~해 가지고 “Because”
 
 ## Metadata

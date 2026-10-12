@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-5-2"
+---
 Lesson 147: ~는 바람에 – A negative result occurred because of an unexpected or unpreventable event
 
 Introduction

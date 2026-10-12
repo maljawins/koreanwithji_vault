@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-18-4"
+---
 Lesson 122: ~다 보니(까)
 
 Introduction

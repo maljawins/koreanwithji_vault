@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-11-11"
+---
 # Korean with Miss Vicky 빅키쌤 | Korean Passive Verbs #3 | Vocab Class (-히, -기)
 
 ## Metadata

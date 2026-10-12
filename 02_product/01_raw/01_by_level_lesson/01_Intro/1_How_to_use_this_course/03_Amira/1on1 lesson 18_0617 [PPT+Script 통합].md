@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-Intro-1-2"
+---
 # KOREAN WITH JI — Amira 1-on-1 #18 (0617)
 
 ## Metadata

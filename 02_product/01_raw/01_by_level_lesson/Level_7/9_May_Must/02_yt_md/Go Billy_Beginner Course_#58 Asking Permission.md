@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-9-2"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #58: Asking Permission
 
 ## Metadata

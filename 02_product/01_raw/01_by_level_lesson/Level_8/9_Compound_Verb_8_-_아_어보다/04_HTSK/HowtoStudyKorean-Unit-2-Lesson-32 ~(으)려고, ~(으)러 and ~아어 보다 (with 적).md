@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-8-9-1"
+---
 Lesson 32: ~(으)려고, ~(으)러 and ~아/어 보다 (with 적)
 
 Introduction

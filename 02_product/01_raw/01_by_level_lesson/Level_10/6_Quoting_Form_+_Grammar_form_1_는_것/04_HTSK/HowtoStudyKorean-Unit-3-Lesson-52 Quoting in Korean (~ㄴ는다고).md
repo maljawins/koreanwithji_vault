@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-6-1"
+---
 Lesson 52: Quoting in Korean (~ㄴ/는다고)
 
 Introduction

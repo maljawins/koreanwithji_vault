@@ -1,491 +1,139 @@
 # 코스 제작 계획
 
-> **강의 제작 로드맵과 계획은 이 문서 하나에서만 본다.** 전체 계획, 작업 규칙, 결정 기록, 실시·미실시 사항이 전부 여기 있다.
-> **지금 당장 할 일**만 [`to_do.md`](../../01_inbox/conversation_log/to_do.md)에 있다.
-> 용어는 [`glossary.md`](glossary.md), 레슨 상세 설계법은 [`03_course_outline_and_draft/lesson_design_method.md`](03_course_outline_and_draft/lesson_design_method.md), 도구는 [`course_tech_stack.md`](course_tech_stack.md)가 단일 출처다.
-> 사업 로드맵(Phase 1~5)은 [`_about/Koreanwithji_기획서_v6_260902.md`](../../_about/Koreanwithji_기획서_v6_260902.md) §2.
-> 최종 갱신: 2026-09-15 (Codex 전환, 폴더 구조·index xlsx 갱신)
+> 강의 영상의 lesson_spec, OUTLINE, DRAFT 제작 순서와 판단 기준의 단일 출처다.
+> 지금 할 일은 [[to_do]], 용어는 [[glossary]], 영상 설계법은 [[lesson_design_method]]를 따른다.
+> 최종 갱신: 2026-09-28
 
----
+## 1. 목적과 현재 위치
 
-## 1. 목적과 성패 기준
+목적은 이미 정한 커리큘럼과 레슨별 raw 자료를 종합해, Ji의 설명 방식으로 강의 영상 DRAFT를 만드는 것이다. 지금은 영상 내용을 정하는 단계다. worksheet와 assignment는 영상 제작 후에 설계한다.
 
-제1원칙: **코스가 모든 것의 축이다.** Draft가 완성돼야 영상이 나오고, 거기서 숏폼, 롱폼, eBook, 블로그, 마케팅이 파생된다. Draft가 비면 사업 전체가 빈다.
+`Korean Course Curriculum Map_Final_V7.xlsx`에는 196개 항목이 있고, `lesson_spec_tracking.xlsx`의 196개 레슨은 모두 `raw_mapped`에서 시작한다. 파일관리 1,707개와 Hangul 외부자료 4개가 Ref_No로 관리된다. Hangul·Numbers·Level 1·Level 2의 44개 정식 레슨을 파일럿으로 쓴다. VSL 1개와 Intro 2개는 영상 목적이 달라 표준 lesson_spec 파일럿에서 제외하고 별도로 설계한다.
 
-성패는 하나로 측정한다: **"Ji가 손으로 안 써도 Draft가 안정적으로 쌓이는 시스템이 도는가."**
+다음 순서는 `range_set → topic_raw → topic_shaped → lesson_spec → OUTLINE → DRAFT`다. 전 자료의 개념을 추출·표준화하는 concept index는 사용하지 않는다. Structured Output JSON도 `topic_raw` 진입의 필수 조건이 아니다.
 
-산출물의 정체는 **사람도 읽고 AI도 읽는 영상 설계서**다.
-- AI 입장: VISUAL/VOICEOVER 필드를 그대로 영상·음성 생성 AI 프롬프트로 넣는다
-- Ji 입장: 읽고 바로 이해·수정하고, 필요하면 보고 직접 촬영·편집도 한다
+## 2. 판단에 쓰는 정본
 
----
-
-## 2. 전체 흐름도
-
-```mermaid
-flowchart TD
-    START(["커리큘럼 V7 확정 · raw 1,727개 레슨별 배치 완료"])
-
-    P1["STEP 1 · 전략 planning<br/>문서 구조 · lesson_spec 스키마 · 개념 정책"]
-    G1{"결정 11건 Ji 승인"}
-    P2["STEP 2 · 재료 모으기<br/>파일럿 44개 topic_copy + topic_raw"]
-    G2{"44개 topic_raw + 문자열 대조 통과?"}
-    P3["STEP 3 · 개념 indexing + topic_shaped 병행<br/>concept_index.xlsx"]
-    G3{"Ji 검수 통과?"}
-    P4["STEP 4 · Schema 파일 구성 + spec_done<br/>template 3종 · L2-01 dry-run"]
-    G4{"44개 spec_done?"}
-    P5["STEP 5 · OUTLINE → DRAFT<br/>파일럿 44개"]
-    G5{"Ji 검수 통과?"}
-    P6["STEP 6 · 확장<br/>나머지 152개"]
-    GOAL(["196개 레슨 spec + outline + draft"])
-
-    START --> P1 --> G1 --> P2 --> G2 --> P3 --> G3 --> P4 --> G4 --> P5 --> G5 --> P6 --> GOAL
-
-    classDef done fill:#065f46,color:#ffffff,stroke:#064e3b;
-    classDef now fill:#b45309,color:#ffffff,stroke:#78350f;
-    classDef phase fill:#1d4ed8,color:#ffffff,stroke:#1e3a8a;
-    classDef gate fill:#fde68a,color:#111111,stroke:#d97706;
-    classDef term fill:#374151,color:#ffffff,stroke:#111827;
-
-    class P1,G1 done;
-    class P2 now;
-    class P3,P4,P5,P6 phase;
-    class G2,G3,G4,G5 gate;
-    class START,GOAL term;
-```
-
-> 읽는 법: 초록 = 완료, 주황 = 지금 여기, 파랑 = 예정, 노랑 마름모 = 완료 조건(통과해야 다음).
-
----
-
-## 3. 실시 사항과 미실시 사항
-
-### 3-1. 실시 사항 (끝난 것)
-
-| 날짜 | 한 것 |
+| 정보 | 정본과 쓰임 |
 |---|---|
-| 2026-09-03 | `01_raw` 대청소(빈 폴더 275개·중복 44개·orphan 2개 삭제). 생산 라인 재설계 착수 |
-| 2026-09-04 | **STEP 1 완료.** 결정 11건(§10). 문서 3분할(`course_plan`·`brainstorm`·`glossary`). `02_lesson_spec/` 폴더 신설 |
-| 2026-09-07 | raw 848개 파일의 구 번호 `Mapped Ji Lesson` 필드 삭제 (매핑 정본은 index xlsx와 폴더 경로). 발췌 규칙 5번(Transcript 제외) 추가. RAW_DIGEST 존치 확정. 트랙 밖 .md 1개 Ji가 삭제 |
-| 2026-09-11 | 관통 테스트 계획 수립(L2-01 은/는 & 이/가, Ji 승인). 실행은 아직. 2026-09-13 순서 개정으로 STEP 4 dry-run이 됨 |
-| 2026-09-13 | 문서 구조를 3층에서 **4층**으로 개정(DP-2). `brainstorm.md` 내용을 이 문서로 흡수. **STEP 순서 개정(DP-6)**: 재료 모으기 → 개념 indexing + `topic_shaped` 병행 → Schema 순으로 바꿈 |
-| 2026-09-15 | 코딩 agent를 Claude Code에서 **Codex**로 전환. `01_lesson_spec/`에 `01_topic_copy`·`02_topic_raw`·`03_topic_shaped`·`04_spec_done` 작업 폴더를 만들고, `02_concept/`을 신설. 커리큘럼 맵에 `Draft 보유여부`, Ji Draft index에 `Ref_No`·`Draft 보유여부` 컬럼을 추가. 현재 vault를 새 GitHub 저장소에 첫 백업 완료 |
+| 레슨 순서·번호·제목 | `00_curriculum_and_index/Korean Course Curriculum Map_Final_V7.xlsx`의 `Ji 레슨 Title` |
+| Ji가 메모한 주제 | V7의 `Ji 레슨 주제 (brainstorm)`. Ji가 직접 적은 구상 메모이므로 의도 파악에만 참고하고 확정된 강의 범위로 취급하지 않는다 |
+| Ji의 기존 설명 | 해당 레슨의 `01_Ji_draft`. 있는 경우 설명 방향과 고유한 비유의 우선 근거다 |
+| 레슨별 raw 매핑·Ref_No·경로 | `00_curriculum_and_index/`의 트랙별 index xlsx와 Hangul `06_ext_sources_index.xlsx` |
+| 원문 내용 | `../01_raw/01_by_level_lesson/`의 실제 Markdown 파일. 읽기 전용이다 |
+| 중복 매핑 확인 | `01_lesson_spec/01_range_set/duplicate_material_selection.xlsx`의 원본자료 묶음 ID·레슨·Ref_No. 여러 레슨에 같은 원본이 연결됐는지 찾는 목록이다 |
+| 레슨별 최종 사용 범위 | `01_lesson_spec/01_range_set/range_set_source_spans.xlsx`가 Ref_No 판정·원문 구간의 정본이다. 레슨별 `<레슨 ID>_range_set_review.md`는 이를 전부 보여 주고 설명 경계와 Ji 답변을 담는다. §3-4의 완료 조건을 통과해야 확정된다 |
+| 제작 status·검토 이력 | `01_lesson_spec/lesson_spec_tracking.xlsx` |
 
-### 3-2. 미실시 사항 (남은 것)
+xlsx는 열 번호가 아닌 헤더명으로 읽는다. 필수 헤더가 없거나 중복되면 임의로 열을 짐작하지 않는다. Ref_No는 특정 레슨 폴더의 실제 파일 하나를 가리키므로, 같은 원본의 다른 레슨 사본에도 각각의 Ref_No를 유지한다.
 
-STEP 순서대로 적는다. 지금 착수한 것은 [`to_do.md`](../../01_inbox/conversation_log/to_do.md)로 옮겨 관리한다.
+`duplicate_material_selection.xlsx`의 발췌·제외 내용과 검토 의견은 Ji가 삭제했다. 이 파일은 **중복 매핑된 원본과 연결 레슨을 찾을 때만** 사용한다. 사용 여부·발췌 구간·설명 경계는 V7과 매핑된 raw 원문을 다시 읽어 별도로 결정한다. 중복 여부도 파일명만 믿지 않고 실제 원문과 대조한다.
 
-**STEP 2 · 재료 모으기: 파일럿 44개 `topic_copy` + `topic_raw`**
+## 3. `range_set`: 레슨별로 가져올 원문 결정
 
-| # | 할 일 | 비고 |
+### 3-1. 이번 영상이 직접 설명할 내용부터 정하기
+
+Agent는 아래 순서로 레슨의 중심 설명을 **잠정** 정한다. 앞뒤 레슨과의 경계부터 정하거나 자료 한 개의 목차를 레슨 범위로 삼지 않는다.
+
+1. V7의 `Ji 레슨 Title`로 중심 주제를 1차 유추한다.
+2. V7의 `Ji 레슨 주제 (brainstorm)`를 읽어 Ji의 의도를 파악한다. 구상 메모이므로 제목이나 원문에 앞서는 확정 지시로 보지 않는다.
+3. 해당 레슨의 `01_Ji_draft`가 있으면 읽고 Ji가 실제로 다루려던 주제와 설명 방향을 확인한다.
+4. 그 레슨에 매핑된 **모든** raw(Ji Draft, yt_md, Amira, HTSK, web, 매핑된 외부자료)의 본문을 Ref_No별로 살펴본다. 각각 여러 주제를 다뤄도, 다른 매핑 자료와 **공통으로 다루는 주제**를 찾아 이번 영상의 직접 설명 후보로 좁힌다. V7의 레슨 정보와 `자료형태-레벨-레슨-순번` 구조의 Ref_No로 자료와 레슨의 연결을 계속 확인한다.
+
+공통 주제는 문장이나 예문이 똑같은 부분만 뜻하지 않는다. 서로 다른 출처가 같은 설명 대상을 다루는지를 본다. 이번 레슨 범위에 해당하는 같은 주제를 여러 매핑 자료가 다루면 설명 방식·원인 해석이 달라도 각 자료의 관련 구간을 모두 남긴다. 특정 설명을 채택할지 혹은 여러 방식의 설명을 어떻게 조합할지는 `topic_shaped`에서 판단한다. 일부 자료에만 있는 조건·예외·좋은 예문은 직접 설명을 완성하는 데 필요하면 보조 후보로 남긴다. 매핑 자료가 하나뿐이면 V7 제목·brainstorm·Ji Draft와 그 자료를 대조해 범위를 제안한다. 공통 주제가 없거나 Ji Draft·제목과 충돌하면 억지로 교집합을 만들지 않고 근거와 함께 Ji의 판단을 받는다. 이 단계는 개념을 전수 조사하거나 공통 이름으로 등록하는 작업이 아니다.
+
+**직접 설명할 내용을 정한 다음**, V7의 앞선·이후 레슨과 중복 매핑 자료를 확인해 `앞에서 배운 내용의 짧은 복습`과 `다른 레슨에서 자세히 설명할 내용`을 1차로 나눈다. Ji에게 레슨별로 **직접 설명 / 앞선 내용의 복습 / 다른 레슨으로 넘길 상세 내용**과 근거를 보여주고 경계를 검토받는다. Ji는 이 설명 경계를 확인하며, 명확한 원문 구간마다 일일이 승인하지 않는다.
+
+### 3-2. 중복 매핑 자료와 단독 매핑 자료
+
+**중복 매핑 자료:** §3-1에서 레슨의 직접 설명 후보를 정한 뒤, `duplicate_material_selection.xlsx`의 묶음 ID·레슨·Ref_No로 같은 원본의 다른 매핑을 찾는다. 트랙별 index의 경로와 실제 원문으로 이 연결을 확인한다. 같은 본문은 한 번 읽어 제목·소제목·문단별로 나누고, 이번 레슨과 다른 레슨에서 각 대목이 `직접 설명 / 보조 근거 / 짧은 복습 / 다른 레슨의 상세 내용` 중 무엇인지 다시 검증한다. 실제 본문이 다르면 같은 파일명이라는 이유만으로 하나로 취급하지 않는다. 한 대목을 두 레슨에서 모두 직접 설명하려는 충돌은 Ji에게 보여준다. 중복자료 표의 묶음 ID는 연결 단서일 뿐 사용 범위의 승인 근거가 아니다.
+
+**단독 매핑 자료:** 그 레슨을 위한 자료라는 매핑을 우선 단서로 삼는다. Ji Draft를 제외한 자료는 전체를 자동 포함하지 않는다. 제목·소제목과 설명 본문을 확인해 이번 레슨에 직접 맞는 구간만 선택한다. 관련 대목이 없으면 `사용 안 함`과 구체적인 이유를 기록한다.
+
+동일 레슨의 다른 자료나 Ji Draft에 같은 주제가 이미 있다는 이유만으로 관련 구간을 제외하지 않는다. 각 자료에서 이번 레슨 범위에 맞는 대목을 확인해 별도의 Ref_No·구간으로 기록한다.
+
+중복자료 표의 비어 있는 발췌·제외 칼럼을 다시 채우지 않는다. 모든 자료의 사용·제외 판단은 §3-4의 레슨별 결정 기록에서 관리한다.
+
+### 3-3. 출처별 읽기 범위
+
+- Ji Draft: Ji가 해당 레슨을 구상하며 직접 쓴 자료이므로, 매핑된 파일 전체를 `사용`으로 판정하고 `1~마지막 줄`의 **사용구간 한 개**로 기록한다. 일부만 잘라서 선택하거나 제외하지 않는다. 전체를 읽어 설명 의도·비유·강의 흐름을 확인하되, 완성 대본으로 간주해 최종 대본에 그대로 복사하지 않는다. 파일 안의 내용이 §3-1에서 유추한 레슨 설명 범위와 어긋나 보이면 원문을 자르지 말고 해당 레슨의 `<레슨 ID>_range_set_review.md`에 불일치 대목과 Ji 확인 요청을 별도로 적는다.
+- YouTube: `Teaching Points`를 우선 읽는다. 그것만으로 공통 주제나 사용 구간을 판정할 수 없으면 관련 `Transcript`를 확인한다. `Transcript` 전체를 일괄 발췌하지 않는다.
+- Amira: 같은 수업의 자료는 `Amira_DayXX_XXXX_PartX_Lesson.md`(실제 녹화 레슨) → `1on1 lesson XX_XXXX [PPT+Script 통합].md` → `Lesson script.md` 순서로 확인한다. 상위 자료에서 빠진 설명을 하위 자료로 보완하되 서로 다른 수업의 독립 근거처럼 세지 않는다. 녹화본의 Teaching Points·Lesson Flow·Student Notes와 통합본의 슬라이드 설명을 우선 읽고, 실제 발화 확인이 필요할 때만 해당 Transcript를 본다. Day 20 AI 생성 Script는 Ji의 실제 말투 근거로 쓰지 않는다.
+- HTSK·web: 본문의 설명·조건·예문을 읽고 탐색 메뉴 등은 제외한다.
+- `02_ext_sources`와 `03_original_PDF`: Ji가 레슨과 범위를 지정했을 때만 사용한다. 이미 매핑된 Hangul `06_ext_sources` 복사본은 해당 index를 따른다.
+
+### 3-4. 최종 범위 기록과 진입 조건
+
+`range_set`의 저장 형식은 **레슨별 Markdown 검토 카드 + 파일럿 공통 Ref_No 구간 XLSX**다. `range_set_source_spans.xlsx`의 `파일판정`·`사용구간`이 모든 Ref_No의 사용 여부·원문 구간·판정 이유를 관리하는 정본이다. 44개 `<레슨 ID>_range_set_review.md`에는 그 레슨에 매핑된 **모든 Ref_No**의 현재 값을 읽기 쉬운 표로 반영하고, 영상의 설명 경계와 Ji의 답변을 둔다. 카드의 자료표는 XLSX를 보여 주는 화면이며 독립된 판정 기록이 아니다. 수정할 때는 원문을 확인해 XLSX를 먼저 고치고 표를 다시 맞춘다. Ji가 카드에 적은 답변·검토 의견은 동기화할 때 보존한다. 원문 본문은 이 단계에서 복사하지 않는다.
+
+현재 44개 카드는 **Agent 설명 범위 제안**이다. Ji Draft는 파일 전체가 `사용`으로 정해졌지만, 카드에 남긴 설명 범위 불일치 의심은 Ji 검토 대상이다. 다른 자료의 `사용 후보`와 줄 범위는 원문 탐색으로 찾은 **검증 전 후보**이며 `보류`와 `제외 후보`도 확정 판정이 아니다. Agent가 문맥과 빠진 조건·예외를 원문에서 재검증하고, `사용 / 사용 안 함`으로 확정해야 한다. Ji는 레슨 설명 경계와 자료 부족·충돌을 검토한다. 그 전에는 tracking을 `range_set`으로 올리거나 `topic_raw`로 발췌하지 않는다. 특히 Level 2-8은 현재 매핑 자료만으로 제목의 핵심 설명을 뒷받침하지 못해 자료 보강이나 범위 수정이 필요하다.
+
+| 항목 | 기록 내용 | 저장 위치 |
 |---|---|---|
-| 2-1 | `topic_copy` 스크립트: V7 4번 컬럼을 레슨당 spec 1장으로 펴서 `01_lesson_spec/01_topic_copy/`에 둔다 | 판단 없음, 검수 불필요 (§6-1) |
-| 2-2 | 파일명 규칙 적용 (§7) | 44장 생성 확인 |
-| 2-3 | `topic_raw` 조준 발췌 후 `01_lesson_spec/02_topic_raw/`로 옮긴다 | 규칙 5개 준수 (§6-2) |
-| 2-4 | Ref_No 매칭: index xlsx를 열어 파일명으로 붙인다 | `01_Ji_draft`도 index의 Ref_No를 쓴다 (DP-10) |
-| 2-5 | 발췌문 문자열 대조 검증 스크립트 | 환각 차단 장치. **STEP 2 게이트** |
+| 레슨 기준 | V7 레슨 번호·제목, brainstorm 참고 내용, Ji Draft 반영 여부 | Markdown 검토 카드 |
+| 설명 경계 | 이번 영상의 직접 설명, 앞선 내용의 짧은 복습, 다른 레슨으로 넘길 상세 내용과 해당 레슨 | Markdown 검토 카드 |
+| Ji 결정 | 설명 경계 승인·수정 의견·미해결 항목 | Markdown 검토 카드 |
+| 파일별 판정 | 매핑된 각 Ref_No의 `사용` 또는 이유가 있는 `사용 안 함`. 현재 후보 상태와 최종 판정을 구분 | XLSX `파일판정` |
+| 사용 범위 | 해당 Ref_No의 상대경로, 기존 제목·소제목, 시작·끝 줄 번호. 떨어진 대목은 별도 구간으로 기록 | XLSX `파일판정`·`사용구간` |
+| 쓰임 | 직접 설명·보조 근거·짧은 복습 중 무엇인지. Ji Draft 전체 구간은 `Ji 구상 원문`으로 표시하고 직접 설명 범위는 카드에서 검토 | XLSX `사용구간` |
+| Ji 검토용 자료표 | 매핑된 모든 Ref_No의 클릭 가능한 원문 링크, 현재 `사용여부`, 모든 선택 줄, 줄별 주제, 파일별 `판정 이유`. 구간이 없으면 `선택 구간 없음`으로 명시 | Markdown 검토 카드에 XLSX 현재값 반영 |
 
-**STEP 3 · 개념 indexing + `topic_shaped` 병행**
+자료표 아래에는 **Ji에게 필요한 답변**을 질문별로 적고, 각 질문마다 `Ji가 정할 내용`·`Ji 판단이 필요한 이유`·빈 `Ji 답변`을 둔다. 질문은 직접 설명 범위, 다른 레슨과의 경계, 자료 부족·출처 충돌, Ji Draft와 추론한 범위의 불일치처럼 Ji의 방향 결정이 필요한 경우에만 만든다. 어느 Ref_No·어느 대목에서 문제가 생겼는지 이유에 적는다. 원문 재독, 사용 후보의 적합성 확인, 정확한 줄 번호 수정은 `Agent가 확인할 사항`으로 분리한다. Ji는 모든 줄을 승인하는 역할이 아니다.
 
-| # | 할 일 | 비고 |
-|---|---|---|
-| 3-1 | `02_concept/concept_index.xlsx` 신설 (§9) | `별칭` 컬럼이 핵심 |
-| 3-2 | 레슨마다 매핑된 raw 파일에서 **가르치는 개념을 뽑아 index에 올린다** | 레슨 순서대로. 이미 있는 개념이면 새로 만들지 않고 `별칭`·`등장레슨`에 추가 |
-| 3-3 | 개념 polish: 44개를 훑어 표준명 통일, 중복 병합, `최초레슨` 1개로 확정 | 같은 개념이 여러 이름으로 쪼개지는 것을 여기서 막는다 |
-| 3-4 | polish된 표준명을 기준으로 `topic_shaped`: V7 복사본과 발췌를 대조해 `TEACHING_POINTS` 순서·범위를 확정하고 `01_lesson_spec/03_topic_shaped/`에 둔다 | §6-3 |
-| 3-5 | Ji 검수 (레벨 단위 4묶음). 개념 index와 TEACHING_POINTS를 같이 본다 | **STEP 3 게이트** |
+자료표의 Ref_No 링크는 해당 레슨에 매핑된 실제 raw 사본을 열어야 한다. 줄이 여러 구간이면 줄 번호와 주제를 같은 순서로 모두 보여 준다. `원문 위치`가 단순한 섹션명·긴 문장·URL이라 주제를 알 수 없으면 그 줄을 읽고 짧고 구체적인 주제로 표시한다. 읽지 않은 원문의 주제를 추측하지 않는다. Ji Draft는 `1~마지막 줄` 한 구간과 파일 전체의 주제 개요를 표시한다. 후보 상태와 최종 판정을 섞지 않으며, 표의 행 수·링크·상태·구간·이유가 XLSX와 일치하는지 확인한다.
 
-**STEP 4 · Schema 파일 구성 + `spec_done`**
+사용 구간은 `레슨 ID + Ref_No + 구간 순번`으로 구별한다. Ji Draft 외 자료에서는 선택한 제목만 넣고 본문이 빠진 구간, 선택 목록이 줄 범위 밖에 있는 구간, 무관한 다음 절이 섞인 구간은 통과시키지 않는다. Ji Draft는 예외 없이 전체 파일 한 구간으로 둔다. 줄 번호는 **해당 Ref_No의 실제 사본**에서 확인한다. 필요한 설명의 조건·예외·부정 예문은 잘라내지 않는다. 출처 간 설명 방식이나 원인 해석의 차이만으로 `OPEN`을 만들거나 발췌를 막지 않는다. 그 차이는 출처와 함께 `topic_shaped`로 넘긴다. 자료만으로 이번 레슨과 다른 레슨의 설명 경계를 정할 수 없으면 `OPEN`에 적어 Ji에게 보인다.
 
-| # | 할 일 | 완료 조건 |
-|---|---|---|
-| 4-1 | `lesson_spec_template.md` 작성. frontmatter + 필드 10개 + `RAW_DIGEST` | 필드 누락 0 |
-| 4-2 | `outline_template.md` 작성. BEAT/CHECK 단위와 [`lesson_design_method.md`](03_course_outline_and_draft/lesson_design_method.md) 교수 순서 반영 | dry-run으로 검증 |
-| 4-3 | `draft_template.md` 작성 + Draft 머리말 필드 이름 확정 (spec 필드와 겹치면 안 된다, §11) | 이름 목록 확정 |
-| 4-4 | **dry-run: L2-01.** template에 `spec_done`까지 채우고 OUTLINE을 뽑아 Ji 친작 draft와 대조 | 손실 목록 + 결함 목록 문서화 → template 수정 |
-| 4-5 | 44개 `spec_done`: 기존 spec을 template 형식으로 옮기고 필드 10개 채움. `NEW`/`PREREQ`/`THROUGH_LINE`은 표준명만 | **STEP 4 게이트** |
+그 레슨의 모든 매핑 Ref_No가 `사용` 또는 이유가 있는 `사용 안 함`으로 판정되고, 사용할 구간이 원문과 일치하며, **Ji가 직접 설명·복습·다른 레슨으로 넘길 내용의 경계를 검토**하고, 진행을 막는 `OPEN`이 없을 때만 `range_set`으로 올린다. 명확한 개별 구간의 승인까지 Ji에게 요구하지 않는다.
 
-**STEP 5 · OUTLINE → DRAFT (파일럿 44개)**
+## 4. `topic_raw`: 확정 구간의 원문 발췌
 
-| # | 할 일 | 비고 |
-|---|---|---|
-| 5-1 | `03_course_outline_and_draft/` 안에 V7 구조와 같은 레슨 폴더 트리 생성 | 지금은 index .md와 `lesson_design_method.md`만 있음 |
-| 5-2 | **DP-12 결정**: Ji와 같이 보며 생성 vs batch | 권장은 초반 같이 → 안정 후 batch |
-| 5-3 | 44개 outline 생성 → Ji 검수 | 층 3 |
-| 5-4 | BUDGET 기계 검사. 예문이 안 배운 문법을 썼는지 대조 | `concept_index` 완성 후 가능 |
-| 5-5 | 44개 draft 생성 → Ji 검수 | 층 4. **STEP 5 게이트** |
+확정된 `range_set` 결정 기록의 사용 구간만 `01_lesson_spec/02_topic_raw/`의 레슨 파일로 가져온다. `RAW_DIGEST`에는 Ref_No·상대경로·제목·줄 번호·원문을 함께 둔다. 이 단계에서 자료를 요약하거나 Ji의 말투로 고쳐 쓰거나 출처 여러 개를 한 문장으로 섞지 않는다.
 
-**STEP 6 · 확장**
+같은 주제를 다루는 여러 자료의 구간은 설명 방식이 달라도 각각 발췌한다. 예를 들어 Hangul-1의 ㄴ·ㅁ 발음 팁에서 Go Billy와 Korean Linguist의 설명을 모두 가져오고, Hangul-3의 Palatalization도 Ji Draft에 있다는 이유로 YT 자료의 해당 구간을 빼지 않는다. 설명 선택과 조화·polish는 `topic_shaped`에서 한다.
 
-나머지 **152개** 레슨(196 - 44)을 같은 라인에 올린다. VSL 1개와 Intro 2개도 여기 포함된다.
+원문 파일의 지정 구간과 발췌문을 문자 그대로 대조한다. 제목·본문 누락, 줄 밀림, 범위 밖 문장 혼입, 출처 누락이 있으면 `topic_raw`로 올리지 않고 `range_set`의 구간부터 고친다. 발췌할 관련 구간이 하나도 없는 레슨은 Ji에게 자료·매핑을 확인받는다.
 
-**Draft 안정화 이후로 미룬 것**
+## 5. `topic_shaped`에서 DRAFT까지
 
-| # | 할 일 | 시점 |
-|---|---|---|
-| L-1 | 영상 PoC. 레슨 1개를 draft에서 실제 영상까지 끝까지 | draft 안정 후 |
-| L-2 | **DP-13**: 영상 도구와 Replicate 모델 | PoC 시점 |
-| L-3 | **DP-14**: Skool 무료 공개 범위 | 영상 나온 뒤 |
-| L-4 | Koreanwithji 유튜브 영상 .md 변환 + `kor_yt_md_pipeline.py` 경로 수정 (실행하면 죽는 상태) | 변환 필요할 때 |
+- `topic_shaped`: 여러 출처의 발췌에서 같은 주제를 어떻게 설명하는지 비교한다. 이 단계에서 정확성, 큰 그림에서 세부로 내려가는 순서, 비유·예문의 명료함, Ji Draft의 고유한 설명을 기준으로 영상에 채택할 요소를 고르고 이유를 적으며 설명을 조화롭게 polish한다. 그 뒤 Ji 영상의 설명 순서와 경계를 만든다. 서로 다른 설명은 근거를 붙여 비교하고, 무리하게 합의된 것처럼 쓰지 않는다.
+- `lesson_spec`: `SKELETON`, `TEACHING_POINTS`, `NEW`, `PREREQ`, `BUDGET`, `OUT_OF_SCOPE`, `SOURCES`, `RAW_DIGEST`, `OPEN` 등 필요한 필드를 채워 검증한다. `GOAL`은 이 영상이 전달할 핵심 설명을 뜻하며 worksheet의 수행 목표가 아니다. 기존 concept index의 표준명을 요구하지 않는다.
+- `OUTLINE`: [[lesson_design_method]]에 따라 Ji의 설명 논리와 영상 흐름을 설계한다. Ji 검수 뒤 DRAFT로 간다.
+- `DRAFT`: OUTLINE에 BEAT와 실제 설명을 채운 영상 설계서다. 예문은 앞 레슨과 이번 영상의 해당 시점까지 가르친 문법 범위인 `BUDGET`을 넘지 않는지 확인한다. 톤의 정본은 [[01_brand#8. Brand Tone (학생에게 말할 때의 대본 톤)]]이다.
 
-**문서 정비**
+자료를 종합하는 목적은 여러 소스를 나열하는 것이 아니라 Ji만의 설명으로 더 정확하고 이해하기 쉬운 한 편의 영상을 만드는 것이다. 원문 발췌는 근거이고, 최종 표현은 Ji의 방식으로 새로 설계한다.
 
-| # | 할 일 |
+## 6. 파일럿과 확장
+
+파일럿은 Hangul 6, Numbers 7, Level 1 21, Level 2 10의 44개 레슨이다. 매핑 자료는 파일관리 534개와 Hangul 외부자료 4개로 총 538개다. 44개 검토 카드와 538개 Ref_No의 구간 작업표를 만들었다. 다음은 Agent의 후보 구간 원문 재검증, Ji의 설명 경계 검토, 진행을 막는 `OPEN` 해결이다. 통과한 레슨부터 개별적으로 `range_set → topic_raw`로 진행한다. 모든 중복 자료의 검토가 끝날 때까지 이미 범위가 확정된 레슨을 묶어 두지 않는다.
+
+Level 2-1은 Ji Draft와 대조할 관통 사례로 사용한다. 파일럿에서 `lesson_spec → OUTLINE → DRAFT`까지 검증한 뒤 다른 정식 레슨에 같은 규칙을 적용한다. VSL과 Intro는 별도 영상 목적에 맞는 설계법을 정한다.
+
+## 7. status와 검증
+
+| status | 진입 조건 |
 |---|---|
-| D-2 | `00_curriculum_and_index/`에 폴더 index .md가 없다 |
-| D-3 | 트랙 폴더명 `05_Reddit`과 index 파일명 `05_web_index.xlsx` 불일치 |
+| `raw_mapped` | V7 레슨과 실제 raw 파일의 Ref_No·경로 연결 완료 |
+| `range_set` | 모든 매핑 파일의 사용 여부와 정확한 구간이 기록되고, Ji의 레슨 설명 경계 검토와 진행을 막는 판단이 끝남 |
+| `topic_raw` | 선택 원문 발췌와 Ref_No·경로·줄 번호의 문자 대조 통과 |
+| `topic_shaped` | 출처별 설명을 비교해 영상의 설명 범위·순서를 구성 |
+| `lesson_spec` | 필수 필드, 출처, 범위, 예문과 BUDGET 검증 완료 |
+| `outline` | lesson_spec을 근거로 OUTLINE 작성 및 Ji 검수 완료 |
+| `draft` | 승인 OUTLINE을 근거로 DRAFT 작성 및 검증 완료 |
 
----
+tracking의 status는 레슨별로만 올린다. 파일별 `검토 상태`와 `발췌 대상`은 레슨 status와 별개다. status 변경과 예외는 tracking의 `작업이력`에 기록한다. 작업 폴더는 raw의 레벨·레슨 폴더명과 철자까지 일치시킨다. raw는 수정하지 않는다.
 
-## 4. 현황 (2026-09-15 실측)
+## 8. 결정 기록
 
-### 가진 것
-
-| 자원 | 수치 | 비고 |
-|---|---|---|
-| 커리큘럼 맵 V7 | 196개 레슨, 16개 레벨 | [정본 xlsx](00_curriculum_and_index/Korean%20Course%20Curriculum%20Map_Final_V7.xlsx). `Draft 보유여부` 컬럼 포함 |
-| `01_raw` 전체 .md | 1,746개 | 그중 레슨별 배치분 1,727개 |
-| 레슨 폴더 | **196개. V7과 정확히 일치** | 폴더 구조 자체가 "레슨 ↔ raw" 매핑이다 |
-| 트랙별 파일 | Ji_draft 97 / yt_md 849 / Amira 438 / HTSK 339 / Reddit 4 | 트랙 폴더 보유 레슨 수는 각각 72 / 185 / 90 / 150 / 4 |
-| 트랙별 index xlsx | 5종 | 파일별 메타(채널, HTSK 유닛, Amira Day, Ref_No). `01_Ji_Draft_index.xlsx`에도 Ref_No와 Draft 보유여부 포함 |
-| Ji 친작 90% Draft | 3개 | `1-01 How Korean works`(352줄), `2-01 은는 & 이가`(372줄), `2-02 Rule of Three`(141줄). **Ji 고유 스타일의 본보기** |
-| 파일럿 44개의 `01_Ji_draft` | **39개 레슨**에 있음. 그중 100줄 이상 파일이 있는 레슨 32개 | 없는 5개: `Hangul-6 띄어쓰기/사이시옷`, `Numbers-6 Doing Math`, `L1-18 Plain Form`, `L1-21 Mixing Speech Levels`, `L2-8 Context markers #3` |
-
-### 아직 없는 것
-
-`01_lesson_spec/04_spec_done/`에는 아직 spec 0장 · `03_course_outline_and_draft/`에는 outline·draft 0장 · `02_concept/concept_index.xlsx` 없음 · template 3종 없음 · 영상 PoC 미실시.
-
-### V7 4번 컬럼 "Ji 레슨 주제"의 실제 분량
-
-| 분량 | 전체 196 | 파일럿 44 | 성격 |
-|---|---|---|---|
-| 빈칸 | 15 | 0 | 전부 Level 12 + 11-22. 레슨 제목 자체가 주제라 따로 안 적었다 |
-| 30자 이하 | 59 | 6 | 키워드뿐. 예: 2-10 Only = `만, 밖에, 뿐` |
-| 31~120자 | 79 | 21 | 한 줄 요약에서 항목 2~3개 |
-| 121자 이상 | 43 | 17 | teaching point 목록에 가깝다 |
-
-**그래서 spec 작업이 두 갈래다.**
-
-| 갈래 | 레슨 | 무엇이 기준인가 |
-|---|---|---|
-| 두꺼운 쪽 (121자 이상) | V7에 teaching point가 이미 있다 | **Ji가 쓴 것이 기준.** 발췌는 보강 재료 |
-| 얇은 쪽 (30자 이하 + 빈칸) | V7에 키워드뿐이거나 비어 있다 | **발췌가 기준.** 여기서 사실상 새로 쓴다 |
-
-얇은 쪽이 곧 어려운 쪽은 아니다. Level 12는 raw도 레슨당 1개 4~7KB라 양쪽 다 얇아 빨리 끝난다. 파일럿에서 가장 어려운 경로는 **Ji_draft가 없는 5개**다.
-
----
-
-## 5. 문서 구조: 4층 (DP-2, 2026-09-13 개정)
-
-```
-[층 1] raw           02_product/01_raw/01_by_level_lesson/            읽기 전용, 링크 없음, 1,727개
-[층 2] lesson_spec   02_course_creation/01_lesson_spec/               레슨당 1장, 196장
-                     "이 레슨이 무엇을 가르치는가"의 단일 출처
-[층 3] outline       02_course_creation/03_course_outline_and_draft/  spec에서 파생, 레슨당 1장
-                     "어떤 순서와 뼈대로 가르치는가"
-[층 4] draft         02_course_creation/03_course_outline_and_draft/  outline에서 파생, 레슨당 1장
-                     BEAT 단위 영상 설계서
-```
-
-**층 3과 층 4는 폴더를 나누지 않는다.** 한 레슨 폴더 안에 `_outline.md`와 `_draft.md`를 나란히 둔다. 같은 레슨의 두 층을 한 곳에서 대조하기 위해서다.
-
-**왜 outline과 draft를 층으로 나누는가.** 둘은 검수하는 질문이 다르다. outline은 "순서와 범위가 맞는가", draft는 "BEAT와 톤이 맞는가"다. 한 층으로 묶으면 outline이 틀린 채로 draft 살까지 붙은 뒤에 발견되고, 그러면 draft를 통째로 다시 쓴다. 층을 나누면 outline에서 먼저 막는다.
-
-> **링크는 위에서 아래로만 흐른다. raw는 아무것도 링크하지 않고, 아무것도 raw를 링크하지 않는다.**
-
-**spec이 raw를 가리킬 때는 링크가 아니라 경로로 적는다.**
-
-```
-[X] SOURCES: [[02-02 TSV Sentence Structure #1...]]     ← 그래프에 엣지 생김
-[O] SOURCES: 01_Ji_draft/02-02 TSV Sentence Structure #1 - The rule of three_lesson script.md
-```
-
-에이전트는 경로만 있으면 파일을 읽는다. Obsidian 그래프는 `[[ ]]`만 엣지로 세니, 경로로 적으면 에이전트는 다 읽는데 그래프는 깨끗하다.
-
-결과: 노드 spec 196 + outline 196 + draft 196 + concept 0. 털뭉치가 아니라 거의 나무가 된다.
-
-이 규칙은 새 부담이 아니다. [`AGENTS.md`](../../AGENTS.md) §2-3 "01_raw는 읽기 전용"이 이미 강제하고 있다.
-
----
-
-## 6. lesson_spec 작업 4단계 (DP-7, DP-8, DP-6 개정)
-
-spec 1장이 4단계를 거치며 자란다. **복사본을 여러 장 만들지 않고 같은 파일을 다음 작업 폴더로 옮긴다.** 각 단계가 frontmatter의 `status` 값과 1:1로 대응한다.
-
-```
-01_topic_copy → 02_topic_raw → 03_topic_shaped → 04_spec_done
-    └── STEP 2 ──┘    └──── STEP 3 ────┘     └ STEP 4 ┘
-                   (+ 개념 indexing 병행)
-```
-
-**개념 indexing은 spec을 쓰는 동안 같이 한다 (2026-09-13 개정).** spec을 다 쓴 뒤에 개념을 따로 정리하면 레슨마다 제각각 붙은 이름을 사후에 맞추느라 spec을 다시 고친다. `topic_shaped`와 병행하면 TEACHING_POINTS를 확정하는 순간 이미 통일된 표준명을 쓴다.
-
-**template은 STEP 4에서 만든다.** 그 전까지 spec은 최소 뼈대로 둔다: frontmatter(`lesson_id`/`level`/`lesson_no`/`title`/`status`) + `## TOPIC`(V7 복사) + `## TEACHING_POINTS` + `## RAW_DIGEST`. 나머지 필드는 `spec_done`에서 template 형식으로 옮기며 채운다.
-
-### 6-1. V7 복사 (`topic_copy`)
-
-V7 4번 컬럼을 레슨당 spec 1장으로 펴서 `01_lesson_spec/01_topic_copy/`에 둔다. **스크립트 일괄. 판단이 안 들어가므로 검수 불필요.**
-
-- 슬래시로 뭉친 것을 불릿으로 편다
-- 빈칸 레슨은 "raw에서 채워야 함"으로 표시한다. **빈 파일로 두지 않는다**
-
-**이 단계를 왜 먼저 하는가.** 여기서 나오는 게 조준점이다. "2-10은 만/밖에/뿐만 본다"는 한 줄이 있어야 다음 단계에서 raw를 골라 읽을 수 있다. 이건 raw 없이 만들 수 있어서 비용이 0이다.
-
-### 6-2. 조준 발췌 (`topic_raw`)
-
-조준점을 들고 레슨 폴더의 raw를 읽어 **해당 주제 대목만** 뽑아 spec의 `RAW_DIGEST` 섹션에 넣은 뒤, 파일을 `01_lesson_spec/02_topic_raw/`로 옮긴다.
-
-**raw를 한 장으로 합치지 않는 이유.** 폴더가 이미 취합본이다. 다중 매핑 자료는 레슨 폴더마다 사본이 따로 있다(Miss Vicky `6 Essential Particles`는 7개 폴더에 7개 사본). 합치면 Level 2-02가 588KB 한 장이 되는데, 한국어 md 588KB는 대략 20만 토큰이라 에이전트가 한 번에 못 읽는다. **합치면 지금보다 나빠진다.**
-
-**Ji가 정확도를 최우선으로 지정했다. 규칙 5개다.**
-
-| 규칙 | 이유 |
+| 날짜 | 결정 |
 |---|---|
-| 원문 그대로 인용. 요약 금지 | 요약하면 뉘앙스가 날아간다. 예문은 특히 그렇다 |
-| 출처 3종 표기: Ref_No + 파일명 + 섹션 제목 | 어느 자료 어디서 왔는지 되짚을 수 있어야 한다 |
-| 발췌문이 원문에 실제로 있는지 문자열 대조 | 에이전트가 지어내는 것을 사람 눈이 아니라 기계로 막는다 |
-| 버릴지 애매하면 남긴다 | 원본은 폴더에 그대로 있다. 발췌는 버리는 게 아니라 골라내는 작업이다 |
-| `02_yt_md`의 `## Transcript` 섹션(영상 원문 대사)은 가져오지 않는다 | 원본에 이미 있어 필요하면 SOURCES 경로로 되짚을 수 있다. `## Teaching Points`가 이미 구조화된 핵심이다 |
-
-**Ref_No 사용법**
-
-- Ref_No가 무엇인지는 [`glossary.md`](glossary.md) §3. 실무상 중요한 건 **레슨마다 번호가 다르다**는 점이다. 같은 Miss Vicky 영상이 `YT-2-10-3`, `YT-3-11-9`, `YT-4-14-8`로 각각 잡힌다. 다중 매핑 혼선 방지에 정확히 맞는 도구다
-- **raw .md 안에는 Ref_No가 적혀 있지 않다.** 에이전트가 index xlsx를 열어 파일명으로 매칭해야 한다
-- **`01_Ji_draft` 트랙도 Ref_No를 쓴다 (DP-10, 2026-09-15 개정).** `01_Ji_Draft_index.xlsx`의 Ref_No를 파일명 매칭으로 붙이고, 경로도 함께 적는다
-
-### 6-3. 개념 indexing + 대조와 확정 (`topic_shaped`)
-
-두 작업을 한 흐름으로 돈다.
-
-1. **개념 indexing.** 레슨마다 매핑된 raw 파일에서 가르치는 개념을 뽑아 `02_concept/concept_index.xlsx`에 올린다. 이미 있는 개념이면 새 행을 만들지 않고 `별칭`과 `등장레슨`에 더한다. 컬럼은 §9
-2. **개념 polish.** 44개 전체를 훑어 표준명을 통일하고 중복을 합치고 `최초레슨`을 1개로 확정한다
-3. **`topic_shaped`.** polish된 표준명으로 V7 복사본과 발췌를 대조해 `TEACHING_POINTS`의 **순서와 범위**를 확정한 뒤, 파일을 `01_lesson_spec/03_topic_shaped/`에 둔다
-
-**여기가 Ji의 검수 지점이다.** 개념 index와 TEACHING_POINTS를 같이 본다. 두 갈래(§4)에 따라 무엇을 기준으로 삼을지 달라진다.
-
-### 6-4. 필드 채우기 (`spec_done`)
-
-STEP 4에서 만든 `lesson_spec_template.md` 형식으로 spec을 옮기고 나머지 필드를 채운 뒤, 완료 파일은 `01_lesson_spec/04_spec_done/`에 둔다. `NEW`/`PREREQ`/`THROUGH_LINE`은 STEP 3에서 확정한 표준명만 쓴다.
-
-`RAW_DIGEST`는 `spec_done` 이후에도 **남긴다** (2026-09-07 확정). 조준 발췌는 판단이 들어간 작업이라 지우면 재현이 안 된다. `Ref_No · 파일명 · 섹션 제목 · 원문 발췌`만 두고, spec이 너무 길어질 때만 별도 결정으로 뗀다.
-
----
-
-## 7. 파일명 규칙 (DP-9)
-
-`레벨-레슨_lesson_spec_레슨제목.md` 형태. 예: `02-02_lesson_spec_The Rule of Three.md`
-
-| 항목 | 규칙 |
-|---|---|
-| 비숫자 레벨 4개 | 레벨명을 그대로 쓴다. `Hangul-01_...`, `Numbers-01_...`, `Intro-01_...`, `VSL-01_...` |
-| 자릿수 | 두 자리로 통일. `02-02`, `10-01`. Level 10~12가 있어 정렬이 깨지는 걸 막는다 |
-| 금지 문자 | 폴더가 이미 쓰는 치환 규칙을 따른다. `과/와` → `과_와`. Windows에서 `/ \ : * ? " < >` 와 세로줄을 못 쓴다 |
-
-outline과 draft의 파일명은 아직 미정이다 (§11).
-
----
-
-## 8. lesson_spec 뼈대와 작성 규칙 (DP-3)
-
-필드 10개로 시작한다. **작업하다 필요하면 고친다.** 필드의 뜻은 [`glossary.md`](glossary.md) §2.
-
-```
-GOAL · SKELETON · TEACHING_POINTS · NEW · PREREQ · BUDGET
-THROUGH_LINE · OUT_OF_SCOPE · SOURCES · OPEN
-```
-
-| 필드 | 작성 규칙 |
-|---|---|
-| `GOAL` | 한 문장. "~를 안다"가 아니라 "~를 할 수 있다"로 쓴다. 이게 없으면 Draft가 어디서 끝날지 모른다 |
-| `SKELETON` | 한 줄. [`lesson_design_method.md`](03_course_outline_and_draft/lesson_design_method.md) §1의 뼈대 |
-| `TEACHING_POINTS` | 번호 매긴 목록. **순서가 곧 강의 순서다** |
-| `NEW` / `PREREQ` / `THROUGH_LINE` | `concept_index.xlsx`의 **표준명만** 쓴다. 임의로 새 이름을 만들지 않는다 |
-| `PREREQ` | 레슨 번호를 함께 적는다 (`L1-07 SOV`). 어느 레슨을 딛는지 추적 가능해야 한다 |
-| `BUDGET` | 직접 쓰지 않는다. 앞 레슨들의 `NEW` 합산으로 계산한다 |
-| `OUT_OF_SCOPE` | 안 다루는 것 + **어느 레슨으로 미루는지**까지 적는다. 레슨 번호가 없으면 그냥 누락이다 |
-| `SOURCES` | 우선순위 순. `01_Ji_draft`가 톤 기준, 나머지는 내용 재료 |
-| `OPEN` | 막혔을 때 멈추지 말고 여기 적고 넘어간다 |
-
-### BUDGET이 이 스키마의 핵심이다
-
-[`_about/01_brand.md`](../../_about/01_brand.md) §10에 이미 규칙이 있다. **"한국어 예문은 이전 레슨까지 다룬 문법만 사용해 작성한다."** 문제는 지금 이걸 사람 눈으로만 확인할 수 있다는 것이다. 196개 Draft를 Ji가 매번 대조할 수는 없다.
-
-레슨마다 `NEW`를 적어두면 BUDGET은 **앞 레슨들의 NEW 합산으로 자동으로 나온다.** 그러면 Draft 예문이 아직 안 배운 문법을 썼는지 **기계로 검사**할 수 있다.
-
-> **비유**: 요리사에게 "지금까지 산 재료로만 만들어라"라고 말하는 것과, 냉장고 재료 목록을 손에 쥐여주는 것의 차이다. 목록이 있으면 없는 재료를 쓴 순간 걸린다.
-
-### 실물 예시 (Level 2-02)
-
-```yaml
----
-lesson_id: L2-02
-level: 2
-lesson_no: 2
-title: TSV Sentence Structure #1 - The Rule of Three
-status: spec_done
----
-
-## GOAL
-"저는 피자가 좋아요"와 "지수는 피자를 좋아해요"를 언제 어느 쪽으로 쓰는지
-스스로 판단해서 말할 수 있다.
-
-## SKELETON
-한국어는 남의 마음속을 직접 서술하지 못한다. 그래서 문장 구조가 갈라진다.
-
-## TEACHING_POINTS
-1. TSV 구조 복습 (이 사람은 제 친구가 아니에요)
-2. 이/가 좋다 - 서술 대상이 "피자"인 이유
-3. The Rule of Three - 1인칭만 감정 직접 서술 가능
-4. 이/가 좋다 vs 을/를 좋아하다 - 언제 갈라지는가
-5. 아/어하다 compound verb 도출
-6. 아요/어요 평서문도 Rule of Three 적용 대상
-
-## NEW
-- Rule of Three
-- 이/가 + descriptive verb (좋다)
-- 아/어하다 compound verb
-
-## PREREQ
-- L2-01 은/는 vs 이/가
-- L1-07 SOV, 목적어 을/를, "descriptive verb는 목적어를 못 가진다"
-- L1-05 아/어 활용
-- L1-11 아니다
-
-## BUDGET
-L1-01 ~ L2-01의 NEW 누적 (자동 계산)
-
-## THROUGH_LINE
-Rule of Three (코스 전체 관통), TSV (Level 2 관통)
-
-## OUT_OF_SCOPE
-- 다른 compound verb 전반 → Level 3 (prerequisite 미충족)
-- 번역 안 되는 감정 어휘 (밉다, 억울하다) → L2-03
-
-## SOURCES (우선순위 순)
-1. 01_Ji_draft/02-02 TSV Sentence Structure #1 - The rule of three_lesson script.md   [톤 기준, 90% 완성]
-2. 02_yt_md/Go Billy_FAQ_좋다 vs 좋아하다.md
-3. 02_yt_md/Miss Vicky_영상 전체_좋아요 vs 좋아해요  What's the Difference.md
-   (나머지 23개는 참고. 전체 목록은 폴더 참조)
-
-## RAW_DIGEST
-(§6-2의 발췌. 출처 3종 표기)
-
-## OPEN
-- 6번 항목(아요/어요 평서문)을 이 레슨에 넣을지 L2-08 Context markers로 미룰지
-```
-
----
-
-## 9. 개념 정책: 페이지 안 만든다 (DP-4)
-
-개념은 spec의 `NEW`/`PREREQ`/`THROUGH_LINE`에 **이름으로만** 존재하고, 목록은 `concept_index.xlsx`가 갖는다. **별도 .md 페이지는 만들지 않는다.**
-
-1. 브랜드 관통 개념(Language Core, Translation Trap, Rule of Three, TSV, STLOHV)은 이미 [`_about/01_brand.md`](../../_about/01_brand.md)에 정의돼 있다. 페이지가 필요한 자리는 이미 차 있고, 남는 건 문법 항목인데 그 설명은 레슨 자체다.
-2. 레슨당 NEW 2~4개면 400~800장이다. spec 196장보다 많고 이전 vault의 실패와 같은 규모다.
-3. 되돌릴 수 있는 방향이다. 안 만들고 시작해도 나중에 만들 수 있지만 반대는 안 된다.
-
-### concept_index.xlsx 컬럼
-
-| 컬럼 | 용도 |
-|---|---|
-| `concept_id` | 통일 ID. 이름이 바뀌어도 이건 안 바뀐다 |
-| `표준명` | 유일한 정식 이름. spec에는 이것만 쓴다 |
-| `별칭` | 소스마다 다르게 부르는 이름들 (예: 은/는 = topic marker = 주제격 조사) |
-| `최초레슨` | 이 개념을 `NEW`로 가르치는 레슨. 반드시 1개 |
-| `등장레슨` | `NEW`/`PREREQ`에 나오는 레슨 목록 |
-| `등장레슨수` | 나중에 개념 페이지가 필요해지면 필터 기준이 된다 |
-| `종류` | through_line / 문법 / 어휘 |
-
-**`별칭` 컬럼이 핵심이다.** 196개를 순서대로 작업하면 같은 개념에 다른 이름이 붙는다. 별칭을 한 곳에 모아야 중복이 안 생긴다. 이전 vault에서 개념이 잘게 쪼개진 원인이 정확히 이것이다.
-
----
-
-## 10. STEP 정의와 결정 기록
-
-### 10-1. STEP 정의와 완료 조건 (DP-6)
-
-> 원칙: 앞 STEP의 **완료 조건**을 못 채우면 다음으로 안 넘어간다 (Linear Scaffolding).
-
-| STEP | 목적 | 산출물 | 완료 조건 |
-|---|---|---|---|
-| **1 · 전략 planning** <br>**완료 (2026-09-04)** | 무엇을 만들지 정하기 전에 문서 구조와 스키마를 먼저 정한다 | 결정 11건 (§10-2) | Ji 승인 완료 |
-| **2 · 재료 모으기** | 파일럿 44개의 조준점과 발췌를 먼저 확보한다 | `01_lesson_spec/02_topic_raw/` 44장 (`topic_raw`) | 44개 전부 `topic_raw` + 문자열 대조 불일치 0 |
-| **3 · 개념 indexing + `topic_shaped`** | 레슨별 raw에서 개념을 뽑아 통일하면서, 그 표준명으로 TEACHING_POINTS를 확정한다 | `concept_index.xlsx` + spec 44장 (`topic_shaped`) | 개념 polish 완료 + Ji 검수 통과 |
-| **4 · Schema 파일 구성 + `spec_done`** | 확정된 내용 위에 template을 만들고 spec을 완성한다 | `lesson_spec_template.md`, `outline_template.md`, `draft_template.md` + `01_lesson_spec/04_spec_done/` spec 44장 | L2-01 dry-run 결함 반영 + 44개 전부 `spec_done` |
-| **5 · OUTLINE → DRAFT** | spec에서 outline(층 3)을 뽑고, 검수 후 draft(층 4)로 살을 붙인다 | 레슨당 outline 1장 + draft 1장 | outline, draft 각각 Ji 검수 통과 |
-| **6 · 확장** | 나머지 152개 레슨을 같은 라인에 올린다 | 196개 완주 | - |
-
-**왜 template보다 재료와 개념을 먼저 하는가 (2026-09-13 개정).** template을 먼저 만들면 실제 44개 레슨을 보기 전에 필드를 추측해서 짜게 된다. 재료와 개념을 먼저 모으면 template은 **이미 확인된 내용을 담는 틀**이 되어 빠진 필드가 적다. 개념을 spec과 같이 정리해야 하는 이유는 §6 참조.
-
-**왜 파일럿이 44개(Hangul 6 + Numbers 7 + Level 1 21 + Level 2 10)인가 (DP-5).**
-Level 2에 Ji 친작 90% Draft 2개가 있다. 에이전트 산출물을 Ji가 직접 쓴 것과 대조할 수 있는 **정답지가 있는 구간**이다. Level 1의 NEW가 먼저 있어야 Level 2의 BUDGET이 채워지고, Hangul과 Numbers는 그보다 앞선다.
-
-**왜 STEP 4 dry-run이 L2-01인가 (2026-09-11 Ji 선택).** 정답지(Ji 친작 draft 372줄)와 대조해야 template의 결함과 **"Ji가 쓴 것이 outline까지 오는 동안 얼마나 새는가"** 가 보인다. 2-01은 2-02보다 앞 레슨이라 PREREQ 사슬이 Level 1로만 뻗어 단순하다. 발췌만으로 레슨을 만드는 경로(Ji_draft 없는 5개)는 STEP 2에서 44개 전부를 발췌하며 함께 시험된다.
-
-### 10-2. 결정 기록
-
-> 번호를 2026-09-04에 한 체계로 다시 매겼다.
-
-| 번호 | 결정한 것 | 결과 | 날짜 |
-|---|---|---|---|
-| DP-1 | Obsidian ↔ Claude 연결 방식 | Obsidian MCP + Skill. 근거 [`course_tech_stack.md`](course_tech_stack.md) §1 | 완료 |
-| DP-2 | 문서 구조 | **4층(raw / spec / outline / draft) + 단방향 링크** (§5). outline과 draft는 한 폴더 | 2026-09-04 3층 → **2026-09-13 4층 개정** |
-| DP-3 | lesson_spec 필드 | **10개로 시작. 작업 중 수정 가능** (§8) | 2026-09-04 |
-| DP-4 | 개념 페이지 | **안 만든다. `concept_index.xlsx`로 대체** (§9) | 2026-09-04 |
-| DP-5 | 파일럿 범위 | **Hangul + Numbers + Level 1 + Level 2 = 44개** (§10-1) | 2026-09-04 |
-| DP-6 | STEP 번호와 게이트 | **STEP 1~6.** 재료 모으기 → 개념 indexing + `topic_shaped` 병행 → Schema + `spec_done` → OUTLINE/DRAFT → 확장 (§10-1) | 2026-09-04 STEP 1~5 → **2026-09-13 순서 개정** |
-| DP-7 | raw 취합 방식 | **전량 취합 안 한다. 조준 발췌. 정확도 최우선** (§6-2) | 2026-09-04 |
-| DP-8 | 중간 산출물 파일 | **안 만든다. spec 1장의 status 4단계로 관리** (§6) | 2026-09-04 |
-| DP-9 | 파일명 규칙 | **확정** (§7) | 2026-09-04 |
-| DP-10 | Ji_draft 트랙의 Ref_No | **`01_Ji_Draft_index.xlsx`의 Ref_No와 경로를 함께 표기** (§6-2) | 2026-09-04 미사용 → **2026-09-15 개정** |
-| DP-11 | spec 저장 위치 | **`02_course_creation/01_lesson_spec/`**. `topic_copy`·`topic_raw`·`topic_shaped`·`spec_done`은 각 하위 폴더이며, 완료본은 `04_spec_done/`에 둔다 | 2026-09-04 → **2026-09-15 개정** |
-
----
-
-## 11. 아직 안 정한 것
-
-| 번호 | 정할 것 | 시점 | 권장 / 근거 |
-|---|---|---|---|
-| DP-12 | 생성 방식: Ji와 같이 보며 vs batch | STEP 5 진입 전 | 권장: 초반 같이 보며 → 안정 후 batch |
-| DP-13 | 영상 도구 (Remotion vs HyperFrames) + Replicate 모델 | DRAFT 이후 | [`course_tech_stack.md`](course_tech_stack.md) §5 |
-| DP-14 | Skool 무료 공개 범위 | 영상 나온 뒤 | [`_about/Koreanwithji_기획서_v6_260902.md`](../../_about/Koreanwithji_기획서_v6_260902.md) §6 |
-| - | template 저장 위치 | STEP 4 착수 시 | 권장(2026-09-11): `02_course_creation/_templates/` 신설. spec 폴더에 섞으면 스크립트가 template까지 센다 |
-| - | outline / draft 파일명 | STEP 4 dry-run 시 | 권장(2026-09-11): DP-9와 같은 꼴 `02-01_lesson_outline_레슨제목.md`. 현 폴더 메모의 `레벨-레슨-레슨명_outline.md`는 spec 규칙과 어긋난다 |
-| - | Draft 머리말 필드 이름 | draft_template 작성 시 | spec 필드와 이름이 겹치면 안 된다. **개념 이름의 원본은 spec 하나다** |
-
----
-
-## 12. 리스크
-
-| 위험 | 영향 | 막는 법 |
-|---|---|---|
-| raw에 링크 삽입 재발 | 엣지 폭발, 그래프 무용화 | `01_raw`는 읽기 전용. spec은 raw를 **경로**로 가리킨다 (§5) |
-| 게이트가 너무 뒤에 있음 | Draft 한 장 못 보고 몇 주 소모. template 없이 모은 재료가 형식이 제각각이라 STEP 4에서 다시 손봄 | STEP 2~3은 최소 뼈대(§6)로 통일하고, STEP 4에서 L2-01을 OUTLINE까지 먼저 관통시켜 결함을 잡은 뒤 44개에 적용 |
-| 개념 정리 시 AI 환각 | 잘못된 개념, 없는 예문 | 닫힌 소스 + 원문 인용 강제 + 문자열 대조 + Ji 게이트 |
-| 개념 이름이 레슨마다 달라짐 | 같은 개념이 여러 이름으로 쪼개짐 (이전 vault의 실패 원인) | `concept_index.xlsx`의 `별칭` 컬럼으로 통일 |
-| 옛 concept 링크를 근거로 씀 | 틀린 개념 연결이 새 문서로 전파 | `concept_` 흔적은 오염 자료로 취급하고 참고조차 하지 않는다 |
-| 커리큘럼이 생산 중 흔들림 | Draft 순서·내용 붕괴 | V7 고정. 변경은 정식 절차로만 |
-| Ji 색깔(톤) 흔들림 | 브랜드 소멸 | [`_about/01_brand.md`](../../_about/01_brand.md) §8 + Ji 친작 Draft 3개를 본보기로 고정. 관통 테스트에서 정답지 대조로 측정 |
-| Ji 검수 병목 | 라인 정체 | 층마다 검수(spec → outline → draft), 레벨 단위 묶음 검수 |
-
----
-
-## 13. 최종 목표 상태와 병행 작업 줄기
-
-**목표 상태**
-
-1. Vault가 돌아가고 AGENTS.md가 Codex를 규율 있는 사서로 유지한다
-2. 레슨 196개마다 spec + outline + draft가 한 세트로 쌓인다
-3. 문서 연결이 위에서 아래로만 흘러 에이전트가 레슨 하나를 쓸 때 읽을 파일을 즉시 찾는다
-4. 강의 1개를 Draft에서 실제 영상까지 끝까지 만드는 PoC 성공
-5. 나머지 레슨은 같은 라인에 올리기만 하면 되는 상태
-
-**병행 작업 줄기 (LOE)**
-
-```
-줄기 1  커리큘럼   : V7로 확정 완료 → 변동 시 그때 수정
-줄기 2  Schema    : STEP 1 결정 완료 → STEP 4에서 template 제작 → 각 STEP 진입 전 정비
-줄기 3  레슨 내용  : STEP 2부터 spec(+ concept_index) → outline → draft 누적 → 운영 내내 성장
-줄기 4  도구/AI    : STEP 2에서 발췌·대조 스크립트 → STEP 4 이후 운용·개선
-줄기 5  영상 생산  : Draft 안정화 이후 별도 확장 (영상 제작 PoC)
-```
+| 2026-09-13 | raw / spec / outline / draft의 4층 구조, 승인 범위만 발췌하는 방식 확정 |
+| 2026-09-15~16 | 트랙별 index·Ref_No와 tracking을 정비하고 raw 파일에 Ref_No 반영 완료 |
+| 2026-09-23 | 전수 개념 조사와 concept index를 제작 workflow에서 제외. 중복 매핑 자료를 별도 목록화 |
+| 2026-09-26 | 레슨 제목·주제·자료 매핑을 기준으로 중복자료의 설명 경계를 먼저 판단하고, 레슨별 `range_set`을 `topic_raw`의 직접 입력으로 사용. JSON 결정은 발췌의 선행 조건에서 제외 |
+| 2026-09-27 | V7 제목 → brainstorm 참고 → Ji Draft → 모든 매핑 raw의 공통 주제로 직접 설명을 먼저 정하고, 그다음 복습·다른 레슨의 상세 내용을 나눠 Ji 검토. Amira는 녹화본 → PPT+Script 통합본 → Script 순서. 중복자료 표는 `01_range_set`의 중복 매핑 확인 목록으로만 사용하고, Markdown 검토 카드 + 구간 XLSX를 시범 작성해 저장 형식을 검토 |
+| 2026-09-27 | Hangul 2 시범 양식을 파일럿 44개 레슨에 적용. 44개 설명 경계 카드와 538개 Ref_No의 단일 구간 작업표를 생성. 자동 탐색 구간은 후보로 표시하며 원문 재검증·Ji 경계 검토 전에는 `range_set` status로 올리지 않음 |
+| 2026-09-27 | Ji Draft는 Ji가 레슨 구상을 위해 직접 쓴 자료이므로 파일 전체를 사용구간 한 개로 기록. 유추한 레슨 설명 범위와 어긋나 보이는 부분은 원문을 자르지 않고 레슨 검토 카드에서 Ji에게 확인 |
+| 2026-09-28 | 동일 레슨에서 같은 주제를 다룬 여러 자료의 관련 구간은 설명이 달라도 모두 `range_set`에 남겨 `topic_raw`로 발췌. 설명의 채택·조화·polish는 `topic_shaped`에서 결정 |
+
+이전 계획의 보관본은 [[course_plan_pre_merge_260926]]과 [[course_plan_update_pre_merge_260926]]이다. 보관본의 concept index 절차와 이전 상태 정의는 현행 작업 지시가 아니다.

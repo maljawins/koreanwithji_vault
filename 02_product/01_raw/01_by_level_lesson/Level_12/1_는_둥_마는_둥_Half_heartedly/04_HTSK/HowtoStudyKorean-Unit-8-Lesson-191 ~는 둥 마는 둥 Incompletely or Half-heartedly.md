@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-12-1-1"
+---
 Lesson 191: ~는 둥 마는 둥: Incompletely or Half-heartedly
 
 Introduction

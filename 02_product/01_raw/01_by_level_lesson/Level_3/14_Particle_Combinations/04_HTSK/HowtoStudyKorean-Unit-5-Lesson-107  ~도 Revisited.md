@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-3-14-2"
+---
 **Lesson 107: ~도 Revisited**
 
 Introduction

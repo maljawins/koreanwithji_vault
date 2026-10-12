@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-4-8-6"
+---
 Lesson 110: 어쩔 수 없다
 
 Introduction

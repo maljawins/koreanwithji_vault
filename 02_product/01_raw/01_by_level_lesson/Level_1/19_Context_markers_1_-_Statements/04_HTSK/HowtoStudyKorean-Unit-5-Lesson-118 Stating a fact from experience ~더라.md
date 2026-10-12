@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-19-7"
+---
 Lesson 118: Stating a fact from experience: ~더라
 
 Introduction

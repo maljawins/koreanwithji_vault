@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-9-4"
+---
 # Go Billy | Learn Korean Ep. 132: 만에 “After”
 
 ## Metadata

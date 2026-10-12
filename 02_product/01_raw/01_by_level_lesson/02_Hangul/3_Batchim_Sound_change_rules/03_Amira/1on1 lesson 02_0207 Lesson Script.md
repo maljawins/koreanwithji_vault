@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-Hangul-3-3"
+---
 **Slide 1**
 
 1. 간단한 인사 & 과제 점검

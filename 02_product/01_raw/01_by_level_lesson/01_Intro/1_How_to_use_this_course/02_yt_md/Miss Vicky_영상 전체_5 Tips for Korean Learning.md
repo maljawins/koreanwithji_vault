@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Intro-1-8"
+---
 # Miss Vicky | 5 Tips for Korean Learning (is it difficult? yes...)
 
 ## Metadata

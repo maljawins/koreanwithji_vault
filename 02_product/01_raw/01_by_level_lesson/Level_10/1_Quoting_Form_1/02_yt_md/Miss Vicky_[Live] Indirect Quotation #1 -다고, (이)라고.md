@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-8"
+---
 # Miss Vicky | [Live] Indirect Quotation #1 "-다고, (이)라고"
 
 ## Metadata

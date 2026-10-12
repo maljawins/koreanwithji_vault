@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-3-6"
+---
 # Korean with Miss Vicky 빅키쌤 | V/A-던 & V/A-았/었던 | Intermediate Korean Grammar
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-2-1"
+---
 Lesson 47: Even though: ~지만
 
 Introduction

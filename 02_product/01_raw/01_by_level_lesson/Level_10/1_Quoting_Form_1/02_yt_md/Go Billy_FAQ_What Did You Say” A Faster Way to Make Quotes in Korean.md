@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-6"
+---
 # Go Billy | "What Did You Say?” A Faster Way to Make Quotes in Korean | Korean FAQ
 
 ## Metadata

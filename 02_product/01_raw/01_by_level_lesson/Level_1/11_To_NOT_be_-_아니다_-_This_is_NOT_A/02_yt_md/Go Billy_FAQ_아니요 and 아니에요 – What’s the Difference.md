@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-11-1"
+---
 # Go Billy | 아니요 and 아니에요 – What’s the Difference? | Korean FAQ
 
 ## Metadata

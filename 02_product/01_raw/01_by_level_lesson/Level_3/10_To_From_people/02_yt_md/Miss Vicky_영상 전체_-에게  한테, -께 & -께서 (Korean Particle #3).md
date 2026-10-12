@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-10-4"
+---
 # Miss Vicky | -에게 / 한테, -께 & -께서 (Korean Particle #3)
 
 ## Metadata

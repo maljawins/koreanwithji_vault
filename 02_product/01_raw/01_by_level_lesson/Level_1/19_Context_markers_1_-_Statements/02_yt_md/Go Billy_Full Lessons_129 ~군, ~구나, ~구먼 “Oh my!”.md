@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-7"
+---
 # Go Billy | Learn Korean Ep. 129: ~군, ~구나, ~구먼 “Oh my!”
 
 ## Metadata

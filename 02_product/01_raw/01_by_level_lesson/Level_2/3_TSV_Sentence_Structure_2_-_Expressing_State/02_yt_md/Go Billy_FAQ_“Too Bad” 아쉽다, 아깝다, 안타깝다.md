@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-3-3"
+---
 # Go Billy | “Too Bad” 아쉽다, 아깝다, 안타깝다 | Korean FAQ
 
 ## Metadata

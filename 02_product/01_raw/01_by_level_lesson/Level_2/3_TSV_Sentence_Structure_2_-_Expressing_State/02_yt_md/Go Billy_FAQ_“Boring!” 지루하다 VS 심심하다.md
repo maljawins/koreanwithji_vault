@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-3-2"
+---
 # Go Billy | “Boring!” 지루하다 VS 심심하다 | Korean FAQ
 
 ## Metadata

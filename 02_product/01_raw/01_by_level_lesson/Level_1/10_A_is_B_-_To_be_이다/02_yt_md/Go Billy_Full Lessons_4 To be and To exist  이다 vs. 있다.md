@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-10-3"
+---
 # Go Billy | Learn Korean Ep. 4: "To be" and "To exist" | 이다 vs. 있다
 
 ## Metadata

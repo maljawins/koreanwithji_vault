@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-1-12"
+---
 # Korean Linguist | The real reason why 뭐 and 네 sound like [bwo] and [de] in Korean
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-2-3"
+---
 Lesson 196: 겸 and 겸사겸사
 
 Introduction

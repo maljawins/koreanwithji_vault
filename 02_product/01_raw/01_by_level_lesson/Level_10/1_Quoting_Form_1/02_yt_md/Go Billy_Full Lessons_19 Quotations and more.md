@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-7"
+---
 # Go Billy | Learn Korean Ep. 19: Quotations and more
 
 ## Metadata

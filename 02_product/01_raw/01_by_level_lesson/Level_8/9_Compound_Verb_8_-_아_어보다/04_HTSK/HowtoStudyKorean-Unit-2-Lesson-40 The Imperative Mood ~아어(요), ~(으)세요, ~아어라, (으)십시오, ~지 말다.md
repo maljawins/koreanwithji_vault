@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-8-9-2"
+---
 Lesson 40: The Imperative Mood: ~아/어(요), ~(으)세요, ~아/어라, (으)십시오, ~지 말다
 
 Introduction

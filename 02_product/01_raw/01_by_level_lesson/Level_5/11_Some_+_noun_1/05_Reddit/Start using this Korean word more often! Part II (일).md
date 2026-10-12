@@ -1,4 +1,5 @@
 ---
+Ref_No: "Reddit-5-11-1"
 title: "Start using this Korean word more often! Part II (일)"
 source: "https://www.reddit.com/r/Korean/comments/130khvc/start_using_this_korean_word_more_often_part_ii_%EC%9D%BC/"
 author:

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-14-3"
+---
 # Go Billy | 무슨 vs 어느 vs 어떤 – Which is Which? | Korean FAQ
 
 ## Metadata

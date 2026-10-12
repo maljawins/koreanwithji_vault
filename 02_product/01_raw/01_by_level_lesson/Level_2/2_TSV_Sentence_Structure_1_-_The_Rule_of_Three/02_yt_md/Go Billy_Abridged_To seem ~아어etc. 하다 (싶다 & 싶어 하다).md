@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-2-1"
+---
 # Go Billy | "To seem" ~아/어/etc. 하다 (싶다 & 싶어 하다) | Live Class Abridged
 
 ## Metadata

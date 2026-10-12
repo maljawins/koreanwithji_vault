@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-8-3"
+---
 # Korean Studio | Different uses of the verb 들다
 
 ## Metadata

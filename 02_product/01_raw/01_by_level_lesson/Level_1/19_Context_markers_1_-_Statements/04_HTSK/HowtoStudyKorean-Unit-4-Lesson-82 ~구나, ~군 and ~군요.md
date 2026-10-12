@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-19-1"
+---
 Lesson 82: ~구나, ~군 and ~군요
 
 Introduction

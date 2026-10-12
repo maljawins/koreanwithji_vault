@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-13-4"
+---
 Lesson 150: 어쩐지 – One doesn’t know the reason and/or only now realizes
 
 Introduction

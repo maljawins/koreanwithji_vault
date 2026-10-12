@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-10-2"
+---
 Lesson 37: Because: ~아/어서
 
 Introduction

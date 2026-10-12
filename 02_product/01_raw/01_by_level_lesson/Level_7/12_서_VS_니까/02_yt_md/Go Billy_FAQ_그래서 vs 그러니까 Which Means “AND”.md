@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-12-1"
+---
 # Go Billy | 그래서 vs 그러니까 Which Means “AND?” | Korean FAQ
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-8-1-4"
+---
 Lesson 128: Leaving an action in its completed state with 놓다, and an organization of 나다
 
 Introduction

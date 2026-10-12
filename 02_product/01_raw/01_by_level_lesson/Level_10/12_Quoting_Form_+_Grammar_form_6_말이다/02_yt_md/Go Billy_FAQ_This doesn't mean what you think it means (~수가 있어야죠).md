@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-12-1"
+---
 # Go Billy | This doesn't mean what you think it means (~수가 있어야죠) | Korean FAQ
 
 ## Metadata

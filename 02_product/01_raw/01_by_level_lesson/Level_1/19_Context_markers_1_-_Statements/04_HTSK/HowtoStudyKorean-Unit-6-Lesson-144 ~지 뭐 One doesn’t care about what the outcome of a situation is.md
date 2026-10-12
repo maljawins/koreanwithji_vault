@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-19-8"
+---
 Lesson 144: ~지 뭐: One doesn’t care about what the outcome of a situation is
 
 Introduction

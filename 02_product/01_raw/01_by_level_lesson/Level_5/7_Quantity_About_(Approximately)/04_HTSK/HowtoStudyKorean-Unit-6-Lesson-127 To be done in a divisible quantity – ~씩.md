@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-5-7-2"
+---
 Lesson 127: To be done in a divisible quantity – ~씩
 
 Introduction

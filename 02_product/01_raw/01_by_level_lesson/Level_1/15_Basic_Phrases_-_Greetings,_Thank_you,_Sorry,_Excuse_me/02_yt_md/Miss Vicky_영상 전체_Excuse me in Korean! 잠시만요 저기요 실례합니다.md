@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-15-8"
+---
 # Miss Vicky | "Excuse me" in Korean! 잠시만요? 저기요? 실례합니다?
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-5-5"
+---
 # World Wide Korean | 한국어 중급 [문법] 80. -고 해서
 
 ## Metadata

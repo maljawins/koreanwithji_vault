@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-9-8"
+---
 # Miss Vicky | (Live) Present Verb + 보다, 보이다 [Korean Auxiliary Verb #2]
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-2-1"
+---
 # Go Billy | ~아/어/etc. 있다 Verb States | Live Class Abridged
 
 ## Metadata

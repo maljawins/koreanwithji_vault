@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-14-8"
+---
 # Miss Vicky | How to ask "Which one do you like better?" in Korean
 
 ## Metadata

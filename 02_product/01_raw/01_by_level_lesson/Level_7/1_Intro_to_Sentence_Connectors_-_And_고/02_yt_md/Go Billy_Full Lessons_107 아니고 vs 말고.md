@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-1-5"
+---
 # Go Billy | Learn Korean Ep. 107: 아니고 vs 말고
 
 ## Metadata

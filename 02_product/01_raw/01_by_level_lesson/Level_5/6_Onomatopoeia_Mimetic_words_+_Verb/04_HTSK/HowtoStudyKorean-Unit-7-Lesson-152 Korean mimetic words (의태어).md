@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-5-6-3"
+---
 Lesson 152: Korean mimetic words (의태어)
 
 Introduction

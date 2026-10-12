@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-9-7"
+---
 # Miss Vicky | Giving & Asking Permission / Prohibition in Korean (verb-도 돼요, -(으)면 돼요/안 돼요)
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-3-8"
+---
 # Miss Vicky | [Vocabulary Class] Hard-to-Translate Emotion Words in Korean
 
 ## Metadata

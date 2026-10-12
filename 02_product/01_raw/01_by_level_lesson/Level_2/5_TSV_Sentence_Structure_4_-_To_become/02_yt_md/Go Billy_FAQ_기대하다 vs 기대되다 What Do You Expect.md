@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-5-1"
+---
 # Go Billy | 기대하다 vs 기대되다 What Do You Expect?
 
 ## Metadata

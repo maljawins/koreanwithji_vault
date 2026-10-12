@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-6-4"
+---
 # Miss Vicky | Korean Grammar & Speaking Practice: -ㄹ/을 텐데, 테니까 (What's this "테"?)
 
 ## Metadata

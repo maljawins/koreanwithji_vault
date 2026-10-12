@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-5-1"
+---
 Lesson 42: When one does: ~ㄹ/을 때
 
 Introduction

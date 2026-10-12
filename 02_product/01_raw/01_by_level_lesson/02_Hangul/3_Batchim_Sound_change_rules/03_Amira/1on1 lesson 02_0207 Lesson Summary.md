@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-Hangul-3-7"
+---
 **KOREAN LESSON NOTE #2 Feb. 7rd**
 
 * **Objective**: 받침 Rule, Consonant Assimilation

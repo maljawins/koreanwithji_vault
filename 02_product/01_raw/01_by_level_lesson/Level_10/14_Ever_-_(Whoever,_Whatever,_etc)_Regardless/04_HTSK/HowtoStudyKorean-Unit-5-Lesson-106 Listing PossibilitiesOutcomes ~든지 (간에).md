@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-14-2"
+---
 Lesson 106: Listing Possibilities/Outcomes: ~든지 (간에)
 
 Introduction

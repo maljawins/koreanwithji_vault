@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-12-1"
+---
 # Miss Vicky | Korean Passive Verbs #1 | Introduction -이, -리, -히, -기, -아/어지다, -되다, -받다, -당하다 (+Live Class Schedule)
 
 ## Metadata

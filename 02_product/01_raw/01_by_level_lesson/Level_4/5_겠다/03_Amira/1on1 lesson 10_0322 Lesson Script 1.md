@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-4-5-1"
+---
 한국어의 Future tense는 여러가지가 있다. 미래라는 것 자체가 본질적으로 불확실성이라는 성격을 내포하고 있기 때문에 상황에 따라 쓰는 말도 달라지기 때문이다. 그렇기 때문에 상황에 따라서 쓰이는 ending들도 여러가지가 있고 and the same ending can mean something different depending on the context.
 
 이것은 영어도 마찬가지이다. 영어의 예를 들자면,

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-13-2"
+---
 # Go Billy | Learn Korean Ep. 85: Common Korean Contractions
 
 ## Metadata

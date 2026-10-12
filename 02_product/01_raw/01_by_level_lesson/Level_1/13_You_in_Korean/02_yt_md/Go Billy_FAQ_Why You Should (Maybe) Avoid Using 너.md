@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-13-6"
+---
 # Go Billy | Why You Should (Maybe) Avoid Using 너 | Korean FAQ
 
 ## Metadata

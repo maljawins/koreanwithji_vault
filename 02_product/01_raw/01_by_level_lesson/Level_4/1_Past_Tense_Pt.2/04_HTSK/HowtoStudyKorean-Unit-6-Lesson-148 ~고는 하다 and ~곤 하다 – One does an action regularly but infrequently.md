@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-4-1-2"
+---
 Lesson 148: ~고는 하다 and ~곤 하다 – One does an action regularly but infrequently
 
 Introduction

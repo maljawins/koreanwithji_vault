@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-8-2"
+---
 # Go Billy | Action Verb Stem + 아/어/etc. 가다 and 오다 | Live Class Abridged
 
 ## Metadata

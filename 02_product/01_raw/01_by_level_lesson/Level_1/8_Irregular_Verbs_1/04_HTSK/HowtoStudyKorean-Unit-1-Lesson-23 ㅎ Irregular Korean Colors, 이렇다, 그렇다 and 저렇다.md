@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-8-1"
+---
 Lesson 23: ㅎ Irregular: Korean Colors, 이렇다, 그렇다 and 저렇다
 
 Introduction

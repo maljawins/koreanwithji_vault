@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-9"
+---
 # Miss Vicky | Indirect Quotation #2 -냐고, -(으)라고, -자고
 
 ## Metadata

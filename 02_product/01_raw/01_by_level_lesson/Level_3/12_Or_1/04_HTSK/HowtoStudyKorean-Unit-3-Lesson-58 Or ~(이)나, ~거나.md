@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-3-12-1"
+---
 Lesson 58: Or: ~(이)나, ~거나
 
 Introduction

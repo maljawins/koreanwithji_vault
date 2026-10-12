@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-11-9"
+---
 # Miss Vicky | Korean Conjunction #2 그래서 vs 그러니까, -아/어/해서 vs -(으)니까
 
 ## Metadata

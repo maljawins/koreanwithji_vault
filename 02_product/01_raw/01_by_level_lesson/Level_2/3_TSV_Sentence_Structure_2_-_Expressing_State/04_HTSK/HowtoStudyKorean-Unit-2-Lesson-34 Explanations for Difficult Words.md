@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-2-3-2"
+---
 Lesson 34: Explanations for Difficult Words
 
 Introduction

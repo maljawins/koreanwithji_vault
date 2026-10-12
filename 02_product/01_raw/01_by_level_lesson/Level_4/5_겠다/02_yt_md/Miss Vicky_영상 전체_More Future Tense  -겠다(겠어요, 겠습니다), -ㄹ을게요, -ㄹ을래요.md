@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-5-7"
+---
 # Miss Vicky | More Future Tense : -겠다(겠어요, 겠습니다), -ㄹ/을게요, -ㄹ/을래요
 
 ## Metadata

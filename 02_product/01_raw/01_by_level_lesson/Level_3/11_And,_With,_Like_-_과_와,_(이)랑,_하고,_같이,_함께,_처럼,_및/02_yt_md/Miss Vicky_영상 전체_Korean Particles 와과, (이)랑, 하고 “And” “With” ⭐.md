@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-11-10"
+---
 # Miss Vicky | Korean Particles 와/과, (이)랑, 하고: “And”? “With”? ⭐
 
 ## Metadata

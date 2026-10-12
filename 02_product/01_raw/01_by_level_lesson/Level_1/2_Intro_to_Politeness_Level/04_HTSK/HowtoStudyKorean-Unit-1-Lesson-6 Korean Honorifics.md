@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-2-1"
+---
 Verbs:
 노력하다 = to try
 앉다 = to sit

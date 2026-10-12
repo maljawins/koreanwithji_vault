@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-14-8"
+---
 # Learn Korean with GO! Billy Korean | Learn Korean Ep. 6: "Already" | 이미 & 벌써
 
 ## Metadata

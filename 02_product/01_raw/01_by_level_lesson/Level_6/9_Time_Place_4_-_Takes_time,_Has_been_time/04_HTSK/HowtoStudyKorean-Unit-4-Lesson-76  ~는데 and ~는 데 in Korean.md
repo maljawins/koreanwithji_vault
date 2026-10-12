@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-9-2"
+---
 Lesson 76: ~는데 and ~는 데 in Korean
 
 Introduction

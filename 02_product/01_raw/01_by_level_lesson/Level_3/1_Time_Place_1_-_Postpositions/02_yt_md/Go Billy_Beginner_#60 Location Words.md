@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-1-3"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #60: Location Words
 
 ## Metadata

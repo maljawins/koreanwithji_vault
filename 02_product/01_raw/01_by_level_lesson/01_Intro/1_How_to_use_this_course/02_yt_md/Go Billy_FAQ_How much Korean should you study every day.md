@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Intro-1-1"
+---
 # Go Billy | How much Korean should you study every day? | Korean FAQ
 
 ## Metadata

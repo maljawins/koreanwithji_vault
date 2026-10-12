@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-8-1"
+---
 Lesson 95: 뿐: Just, Only (~ㄹ/을 뿐이다, ~ㄹ/을 뿐만 아니라)
 
 Introduction

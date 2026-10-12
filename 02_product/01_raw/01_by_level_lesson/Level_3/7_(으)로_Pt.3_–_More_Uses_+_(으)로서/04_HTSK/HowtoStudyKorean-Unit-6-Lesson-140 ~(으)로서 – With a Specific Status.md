@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-3-7-2"
+---
 Lesson 140: ~(으)로서 – With a Specific Status
 
 Introduction

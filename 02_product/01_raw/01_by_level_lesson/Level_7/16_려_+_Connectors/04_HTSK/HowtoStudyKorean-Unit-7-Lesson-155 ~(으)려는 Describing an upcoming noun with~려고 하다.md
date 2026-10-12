@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-16-5"
+---
 Lesson 155: ~(으)려는 Describing an upcoming noun with~려고 하다
 
 Introduction

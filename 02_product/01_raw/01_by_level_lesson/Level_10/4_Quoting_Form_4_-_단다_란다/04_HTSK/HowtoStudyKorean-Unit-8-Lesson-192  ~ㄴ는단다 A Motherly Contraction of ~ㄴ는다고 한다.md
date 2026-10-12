@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-4-1"
+---
 Lesson 192: ~ㄴ/는단다: A Motherly Contraction of ~ㄴ/는다고 한다
 
 Introduction

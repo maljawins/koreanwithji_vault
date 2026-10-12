@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-8-2"
+---
 # Go Billy | Learn Korean Ep. 66: 버리다
 
 ## Metadata

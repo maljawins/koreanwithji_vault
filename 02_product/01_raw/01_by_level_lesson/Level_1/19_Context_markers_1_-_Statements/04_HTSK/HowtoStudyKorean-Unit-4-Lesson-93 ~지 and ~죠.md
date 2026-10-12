@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-19-5"
+---
 Lesson 93: ~지 and ~죠
 
 Introduction

@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-Intro-1-8"
+---
 # Korean With Ji — Amira 1-on-1 Day 25 · Part 1 (08-19)
 
 ## Metadata
