@@ -156,3 +156,11 @@
 - 의도·근거: 원격 저장소에 쓰기 전에 현재 변경 상태와 이름의 의미를 확인해 기존 작업을 덮어쓰거나 잘못된 형태로 백업하지 않도록 한다.
 
 <!-- codex-turn:01a12fa8-b58f-79e1-bdf9-d13e0750874c -->
+
+### #261012_range_set-1-12_branch_backup
+
+- Ji 요청: `range_set-1-12`를 별도 branch로 만들어 현재 vault를 commit하고 GitHub에 push.
+- 이해·이행: 기존 tag 해석을 branch로 수정하고, 현재 변경 전체를 `range_set-1-12` branch의 `d592996` commit으로 저장한 뒤 `origin/range_set-1-12`에 push했다.
+- 의도·근거: 복구 가능한 독립 작업 줄기를 만들어 현재 vault 상태를 GitHub에 보존했다. 원격 push 응답에서 새 branch 생성과 tracking 설정을 확인했다.
+
+<!-- codex-turn:01a12faa-c876-7153-ac21-5e86eb17a57b -->
