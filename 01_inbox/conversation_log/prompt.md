@@ -1,50 +1,41 @@
 코스 제작 시스템 수정
-range_set에서 outline_and_draft 까지 가는 프로세스 Streamline
- - range_set_review.xlsx 파일 1개만 사용
- - 나머지 excel 파일에서 가져올 내용
-  > range_set_source_spans.xlsx: 처음 Agent의 파일과 사용구간 채택이유 / reasoning background만 보존하면 됨
-  > 굳이 2개의 sheet로 따로 구분해서 관리할 필요 없음
-  > 사용구간은 range_set_review.xlsx에서 관리할 것임
 
-duplicate_material_selection.xlsx
- - 어떤 raw 파일들이 여러 레슨에 걸쳐 다중 매핑되었는지 필요할 때 확인용
+1. range_set 프로세스 Streamline
+- 굳이 여러개 엑셀 파일로 관리할 필요 없음: range_set_review.xlsx 파일 1개만 사용 / 나머지 span 엑셀 파일 삭제
+ - duplicate_material_selection.xlsx은 보존 - 여러 레슨에 걸쳐 다중 매핑된 raw파일 필요할 때를 대비해 남겨 놓기.
+
+- 보존항목
+ 1) 처음 Agent의 파일과 사용구간 채택이유 / reasoning background만 보존
+ 2) Ji 검토 여부 및 feedback
+  - Ji 피드백도 feedback.md로 하지않고 range_set_review.xlsx 파일 1개에서만 진행할 것
+   > 내가 직접 Ji 검토 칼럼 O표시와 Ji feedback 칸에 피드백 작성 예정
+
+2. range_set_review.xlsx 수정 내용
+ 1) 자료명 칼럼에 하이퍼링크 걸고 클릭하면 바로 해당 raw파일이 열리게 하기
+
+위 사항 반영해서 코스제작 관련 작업지시서 업데이트해줘.
+
+
+3. 파일럿 범위 수정 44개 레슨 → 1개 레슨 먼저 실행
+ - 1-1 How Korean works로 최종 draft 결과물까지 만들어 보는 것 진행할 것.
+ - 레슨 1개로 range_set → topic_raw  (현재 여기까지 진행됐음)
+→ topic_shaped → lesson_spec_ → outline → draft 까지 일련의 과정들을 documenting 해가면서 develop 해나갈거야.
+ - lesson_spec_pilot_instruction.md 업데이트
 
 
 
 
 
 
-레벨 1 커리큘럼 순서 변경
-
-코스 제작 과정 수정 계획 검토 및 finalize
+5. 코스 제작 과정 수정 계획 검토 및 finalize
  - i-have-adhd 스킬써서 course_plan.md 수정
  - 영상까지 만들어보기
 
-range_set_review.xlsx 편집
 
+6. 레벨 1 커리큘럼 순서 변경
 
-Numbers, Hangul, 1-1부터 1-11까지는 review.md가 아닌 feedback.md 파일의 내용을 가져와줘.
-그리고 방금 Numbers-6에 관한 내용도 적용해서 업데이트해줘
-
-
-
-
-이전 버전 vault에서 아래 항목이 정확하게 무엇인지 찾기
-
-GOAL - 한 문장. "~를 안다"가 아니라 "~를 할 수 있다"로 쓴다. 이게 없으면 Draft가 어디서 끝날지 모른다
-SKELETON - 한 줄. lesson_design_method.md §1의 뼈대
-TEACHING_POINTS - 번호 매긴 목록. 순서가 곧 강의 순서다
- - 
-NEW
-PREREQ
-BUDGET
-OUT_OF_SCOPE
-SOURCES
-RAW_DIGEST
-OPEN
-
-
-
+========================
+메모
 
 Github repos to download
 
@@ -53,8 +44,6 @@ Github repos to download
 3. Task Master
 4. I Have ADHD
 5. Awesome Agent
-
-내가 위에서 말해준 원본 자료 이동 및 복사 사유를 적용해서 Hangul과 Numbers 섹션의 range_set과 topic_raw작업을 업데이트해줘
 
 이동
  - YT-Hangul-1-7 → YT-Hangul-2-2
@@ -66,63 +55,10 @@ Github repos to download
  - YT-Numbers-1-5 → YT-Numbers-2-4
  - YT-Numbers-1-5 → YT-Numbers-3-4
 
-to_do.md
-
-J-1 Numbers range_set 검토
- - Numbers-1
-
-
-
-  - 이 레슨은 기본 베이스를 Ji_draft로 하지 않고 Olleh rebelz의 YT-Numbers-1-5에서 나온 설명을 베이스로 한다.
-   - 단, 이 자료는 한국어 숫자에 대해 거의 모든 것을 다루기 때문에 아래 구간을 발췌한다.
-    - 
-
-
-
-
-
-
-J-3 topic_raw 결과 검토
- - Hangul-1: OK
- - Hangul-2: OK
- - Hangul-3: OK
- - Hangul-4: OK
-  - `닭이` 관련: 엄밀히 말하자면 `달기`로 발음해야 하지만 실제 한국인들은 `다기`로 발음한다.
- - Hangul-5: OK
- - Hangul-6: 띄어쓰기 설명 깊이 조정 필요
-  - Hangul 섹션은 아직 한글조차 읽지 못하는 완전 쌩초보 learner들을 위한 섹션임.
-  - 그러나 띄어쓰기 규칙을 정확하게 그리고 상세하게 알려면 문법에 대한 기초지식이 필요함.
-   - 예: YT-Hangul-6-1에서 marker(subject, object, topic) 는 띄어쓰지 않는다는 규칙
-   - 해결책: 문법 지식이 필요한 띄어쓰기 룰은 제외한다. 띄어쓰기의 기초 개념과 사이시옷을 간략하게만 설명하고 한국어를 더 배우다 보면 자연스럽게 띄어쓰기의 *패턴*을 자연스럽게 익힐 것이라고 설명한다. YT-Hangul-6-3에 나오는 것처럼
-
-
-
- 
-
-
-
-
-
-topic_shaped로 넘어갈 때 
-
-
-
-
-
-
-
-
-
-course_plan.md와 Hangul 섹션의 range_set, topic_raw 결과물을 보고나서
-range_set, topic_raw 각각 skill로 만들어줘
-
-
-
-
 range_set, topic_raw 관련 clarify
 
- - 특정 주제를 여러개 자료에서 다른 설명 방식으로 다루더라도 "채택"하지 않고 일단은 다 가져온다
-  > 어떤 설명을 "채택"하고 설명을 어떻게 polish시킬지는 topic_shaped 단계에서 할 일
+ - 한 주제를 여러개 자료에서 다른 설명 방식으로 다루더라도 "채택"하지 않고 일단은 다 가져온다
+  > 어떤 방식을 "채택"하고 내 레슨에서 설명 방식을 어떻게 polish시킬지는 topic_shaped → lesson_spec 단계에서 할 일
    > 예: Hangul 레벨 topic_raw 작업 중 Agent 질문
     > Hangul-1의 ㄴ·ㅁ가 왜 ㄷ·ㅂ 소리처럼 들리는지 발음 팁에서 두 매핑 자료가 이유를 다르게 설명해. Go Billy는 혀·입술 위치와 약한 비음에, Korean Linguist는 어두 비음 약화를 주된 원인으로 설명함. 영상 설명의 기준은 어느 쪽으로 잡을까?
     > 내 답변: 일단 두 설명을 모두 가져오라고 함.
@@ -132,15 +68,6 @@ range_set, topic_raw 관련 clarify
   > 이유: 1개 자료의 해당 주제 (구개음화)에 대한 설명방식과 타자료의 설명방식이 다르면 두 가지 다른 설명을 일단 가져와서 topic_shaped에서 조화롭게 polish하기 위함.
 
 위 지침 course_plan.md에 업데이트시켜줘
-
-
-
-1개 자료에서 다뤘다고 해서 
-
-
-
-
-range_set 지침
 
 
 
@@ -159,44 +86,6 @@ range_set 지침
 
 파일럿 범위에 대한 range_set_review.md업데이트 해줘
 
-
-
-
-
-
-
-Hangul-1 range_set_review.md 검토
-
-Amira-Hangul-1-2
- - 사용구간: line 51 ~ 85
-  > ㅡ 발음에 이어 외래어 표기
-  > 같은 소리 합성모음 영어 비교 (ㅚ,ㅙ,ㅞ / ㅐ,ㅔ / ㅒ,ㅖ) - 한국어가 더 일관성 있음
-
-YT-Hangul-1-6
- - 사용구간: line 21 ~ 25만 사용
-  > ㄹ 발음 팁은 내가 직접 설명 추가 예정
-
-
-
-
-
-
-
-
-
-
-
-- 수정의견
- 1) Ji Draft Double Consonants: 쌍자음이라는게 있다는 것 짧게 예고만
- 2) 
-
-
-
-
-
-- 검토일: 260927
-
-
 range_set_source_spans
 - 원문 소스가 Ji_draft이면 사용구간은 전체이다.
  > 내가 레슨을 구상하면서 직접 작성한 내용이기 때문에 사용구간을 따로 지정하지 않는다. 
@@ -206,17 +95,12 @@ range_set_review.md 파일명 수정
  - 레벨-레슨_range_set_review.md로
   > Agent가 이 range_set_review가 어느 레슨에 해당하는지 파일명만 보고 알 수있게 해줘 (예: Hangul-1_range_set_review.md)
   
-
-
-
-
 course_plan.md 피드백
 
 1. range_set 판단 방식 피드백
-
 - 1차 V7의 Ji 레슨 타이틀로 1차 유추
 - 2차 V7의 레슨주제 (brainstorm) 칼럼에서 의도 파악
- > 내가(Ji) 직접 brainstorm으로만 써놓은 내용이기 때문에 의도를 파악하는데 "참고"만 할 것
+ > 내가(Ji) 직접 brainstorm으로만 써놓은 내용이기 때문에 의도를 파악하는데 "참고"만 할 것. Vague한 부분이 있으면 Ji에게 필히 확인 요청
 - 3차 내가 작성해놓은 Ji_draft를 보고 (있다면) 어떤 주제를 다루는지 3차 파악
 - 4차 1개 레슨에 매핑된 모든 raw자료 (Ji_draft, yt_md, Amira, HTSK) 들이 **공통**으로 다루는 주제가 무엇인지 본다.
  > 일부 raw자료에서 여러 개의 주제를 다루더라도 동일 레슨에 매핑된 타자료들을 검토해보면 "교집합"을 파악
@@ -237,13 +121,6 @@ course_plan.md 피드백
   > xlsx를 쓸 건지 md를 쓸 건지, 범위확정을 어떤 형태로 시키고 topic_raw로 넘어갈건지 최소 5개 방법 제안해줘.
   > 현재 duplicate_material_selection.xlsx는 _archive로 옮겼어 (이 양식 그대로 못 써. 레슨 범위 다 꼬인다.)
   > range_set.md 방법은 조금 허술한 것 같아.
-
-
-
-
-
-
-1
 
 
 
@@ -335,9 +212,6 @@ duplicate_material_selection.xlsx 표시 방법
 4. structured output을 사용한다.
 
 이와 같이 새로운 코스 제작 작업 플랜을 세워줘. 다만 전부 뒤집어 엎기보다는 현재 상태의 기존 규칙서 및 작업 지시서에서 쓸만한 것들은 가져와서 course_plan_update.md를 02_course_creation 폴더 내에 생성해줘.
-
-
-기존 workflow에서 concept index만 제외한다. (range_set - 원본 자료 범위확정, topic_raw - 확정된 범위 발췌, topic_shaped - 발췌된 내용 정리는 유지)
 
 
 로컬 모델 사용

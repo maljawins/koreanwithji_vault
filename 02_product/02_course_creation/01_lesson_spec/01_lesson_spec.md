@@ -4,7 +4,7 @@
 
 ```text
 01_lesson_spec/
-├─ 01_range_set/              중복 매핑 목록, 레슨별 범위 검토 카드, Ref_No 구간표
+├─ 01_range_set/              중복 매핑 목록, 단일 range_set 검토 workbook
 ├─ 02_topic_raw/              승인 범위의 원문 발췌 spec
 ├─ 03_topic_shaped/           설명 범위·순서를 구성한 spec
 ├─ 04_spec_done/              검증 완료 lesson_spec
@@ -21,4 +21,4 @@ tracking의 목적과 칼럼별 사용법은 [[lesson_spec_tracking]]에서 관�
 
 `raw_mapped`·`range_set`·`topic_raw`·`topic_shaped`·`lesson_spec`·`outline`·`draft`는 tracking에서 쓰는 status다. 모든 산출물 폴더는 [`01_raw/01_by_level_lesson/`](../../01_raw/01_by_level_lesson/)의 레벨·레슨 폴더명과 정확히 같아야 한다.
 
-중복 매핑은 [`duplicate_material_selection.xlsx`](01_range_set/duplicate_material_selection.xlsx)에서 찾는다. 설명 경계는 레슨별 `<레슨 ID>_range_set_review.md`, Ref_No 판정·원문 줄은 [`range_set_source_spans.xlsx`](01_range_set/range_set_source_spans.xlsx)에 둔다. 실행 순서는 [[lesson_spec_pilot_instruction]], status와 검토표 사용법은 [[lesson_spec_tracking]]을 본다. Hangul 외부자료 복사본의 Ref_No는 [`06_ext_sources_index.xlsx`](../00_curriculum_and_index/06_ext_sources_index.xlsx)가 정본이다.
+중복 매핑은 [`duplicate_material_selection.xlsx`](01_range_set/duplicate_material_selection.xlsx)에서 찾는다. 설명 경계·Ref_No 판정·원문 줄·Ji 검토는 [`range_set_review.xlsx`](01_range_set/range_set_review.xlsx)의 `Sheet1`에서 관리한다. 실행 순서는 [[lesson_spec_pilot_instruction]], status와 검토표 사용법은 [[lesson_spec_tracking]]을 본다. Hangul 외부자료 복사본의 Ref_No는 [`06_ext_sources_index.xlsx`](../00_curriculum_and_index/06_ext_sources_index.xlsx)가 정본이다.

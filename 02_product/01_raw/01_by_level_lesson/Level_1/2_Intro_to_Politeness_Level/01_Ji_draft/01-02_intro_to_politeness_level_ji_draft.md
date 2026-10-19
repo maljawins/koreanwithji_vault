@@ -1,7 +1,7 @@
 ﻿---
 Ref_No: "Ji-1-2-1"
 ---
-**Introduction to Speech level**
+**Introduction to politeness level**
 
 When you learn a new language, the very first thing you learn after the alphabet tends to be basic phrases like "hello," "bye," or "thank you".
 
@@ -16,7 +16,9 @@ Before we get started, you might have noticed some inconsistency in the terms be
 
 This can be confusing, so we’re going to standardize our terminology and clear things out once and for all.
 
-Now, there are 7 speech levels in Korean. I know. It’s a lot.
+
+Let's first talk about "speech levels". This is something that changes depending on who you're speaking TO.
+And there are 7 speech levels in Korean. I know. It’s a lot.
 But the good news is, you can completely forget about 3 of them because they are “old” Korean which you can only hear in historical TV-shows called “사극”.
 
 Insert 사극 clips

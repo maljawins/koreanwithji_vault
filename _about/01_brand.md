@@ -12,7 +12,7 @@
 - **브랜드명**: Korean With Ji (koreanwithji.com)
 - **슬로건**: ~~Learn Korean like a baby~~ → **"Learn Korean like a grown-up"**
   - baby를 의도적으로 지우고 grown-up으로 대체하는 비주얼 자체가 브랜드 핵심 메시지다.
-- **카테고리**: 성인 학습자를 위한 **Active learning** 기반 프리미엄 한국어 학습 플랫폼 (셀프 스터디 + AI 튜터)
+- **카테고리**: 성인 학습자를 위한 **Active learning**, **Structural Learning** 기반 한국어 학습 프로그램 (셀프 스터디 + AI 튜터)
 - **티칭 페르소나**: Ji는 teacher이지만 **coach / guide** 색깔이 짙다. "한국어만 가르치는 사람"이 아니라 "한국어를 효과적으로 배우는 법을 설계하고 그 방식으로 한국어를 가르치는 사람"이다.
 
 ---
