@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-12-1"
+---
 Lesson 163: ~ㄴ/은/는/을/ㄹ 말이다: Stressing or Checking
 
 Introduction

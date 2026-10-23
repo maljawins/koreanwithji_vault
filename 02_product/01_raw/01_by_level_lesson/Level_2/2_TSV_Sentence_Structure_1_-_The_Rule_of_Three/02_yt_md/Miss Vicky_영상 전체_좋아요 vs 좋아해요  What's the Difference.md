@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-2-6"
+---
 # Miss Vicky | 좋아요 vs 좋아해요 : What's the Difference?
 
 ## Metadata

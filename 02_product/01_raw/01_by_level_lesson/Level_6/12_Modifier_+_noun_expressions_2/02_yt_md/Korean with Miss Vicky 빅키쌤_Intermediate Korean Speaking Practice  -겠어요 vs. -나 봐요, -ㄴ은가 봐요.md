@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-12-6"
+---
 # Korean with Miss Vicky 빅키쌤 | Intermediate Korean Speaking Practice | -겠어요 vs. -나 봐요, -ㄴ/은가 봐요
 
 ## Metadata

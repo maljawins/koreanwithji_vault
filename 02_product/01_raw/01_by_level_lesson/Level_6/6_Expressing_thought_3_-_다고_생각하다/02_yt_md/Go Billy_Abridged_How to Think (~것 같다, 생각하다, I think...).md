@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-6-1"
+---
 # Go Billy | How to Think (~것 같다, 생각하다, "I think...") | Live Class Abridged
 
 ## Metadata

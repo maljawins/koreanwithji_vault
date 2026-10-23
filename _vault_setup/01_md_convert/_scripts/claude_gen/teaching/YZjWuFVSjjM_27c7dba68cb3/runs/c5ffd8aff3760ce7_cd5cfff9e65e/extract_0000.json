@@ -1,0 +1,70 @@
+{
+  "request_fingerprint": "70044f4a0601a8389f9909a82a6e2b3320956e1bc60194c69bcb648d8e4eefe2",
+  "result": {
+    "observations": [
+      {
+        "kind": "method",
+        "title": "4단계 설명 프레임워크(4MAT)의 4가지 핵심 질문 구조",
+        "content": "어떤 내용이든 횡설수설하거나 청중의 집중을 잃지 않고 경청하게 만들기 위한 4단계 설명 프레임워크(화면상 '4MAT')를 소개한다. 화이트보드와 메모지에 네 가지 질문이 순서대로 제시된다: 1단계 'Why does this matter?'(이것이 왜 중요한가?), 2단계 'What is this?'(이것은 무엇인가?), 3단계 'How do we use it?'(이것을 어떻게 사용하는가?), 4단계 'And what if I apply this?'(이것을 적용하면 어떻게 되는가?). 발표자는 이 네 가지 질문에 답하는 방식으로 프레젠테이션 설명을 구성해야 한다고 주장한다.",
+        "basis": "speaker_claim",
+        "time": 0.0,
+        "audio_ids": [
+          "A00000",
+          "A00001",
+          "A00002",
+          "A00003",
+          "A00004",
+          "A00008"
+        ],
+        "quote": "There's a four-step framework that helps you explain anything, and I mean anything, so people actually listen to you.",
+        "frame_ids": [
+          "V00000002",
+          "V00000004",
+          "V00000020",
+          "V00000025",
+          "V00000038"
+        ]
+      },
+      {
+        "kind": "condition",
+        "title": "4MAT 프레임워크의 적용 상황 및 전제",
+        "content": "발표자는 프레젠테이션을 할 때(whenever you're presenting) 횡설수설하지 않고 청중의 주의를 유지하기 위해 이 네 가지 질문을 올바른 방식으로 적용해야 한다고 전제한다.",
+        "basis": "speaker_claim",
+        "time": 5.18,
+        "audio_ids": [
+          "A00001",
+          "A00003",
+          "A00004"
+        ],
+        "quote": "No more rambling, no more losing the room, just four simple questions you need to answer.",
+        "frame_ids": [
+          "V00000010",
+          "V00000012",
+          "V00000014"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 548,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 47807,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 3807
+      }
+    ],
+    "thoughts_token_count": null,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 48355,
+    "traffic_type": null
+  }
+}

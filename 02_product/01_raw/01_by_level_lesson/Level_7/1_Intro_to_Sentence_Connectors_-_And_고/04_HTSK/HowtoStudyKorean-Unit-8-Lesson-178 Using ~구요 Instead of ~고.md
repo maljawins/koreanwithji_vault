@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-1-5"
+---
 Lesson 178: Using ~구요 Instead of ~고
 
 Introduction

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-1"
+---
 # Go Billy | More Quoting (약속하다, 믿다, 부르다, etc.) | Live Class Abridged
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-12-6"
+---
 # Go Billy | How to Pronounce 의 | Korean FAQ
 
 ## Metadata

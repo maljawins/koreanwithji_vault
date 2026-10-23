@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-1-7"
+---
 # Go Billy | Learn Korean Ep. 91: Changing Action Verbs to Adjectives (Part 1 of 2)
 
 ## Metadata

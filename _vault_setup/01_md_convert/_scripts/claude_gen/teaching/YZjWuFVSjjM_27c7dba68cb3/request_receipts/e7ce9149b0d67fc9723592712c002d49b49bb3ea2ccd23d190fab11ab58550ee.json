@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "e7ce9149b0d67fc9723592712c002d49b49bb3ea2ccd23d190fab11ab58550ee",
+  "raw": "{\n  \"observations\": [\n    {\n      \"kind\": \"example\",\n      \"title\": \"사분면 1(Quadrant 1 - WHY)의 실제 질문 시범\",\n      \"content\": \"발표자는 과거 임원진을 대상으로 전략적 파트너십 추진 여부를 보고할 때 사분면 1(Quadrant 1 - WHY)을 시작한 방식을 시범 보인다. 청중에게 무엇을 생각해야 할지 일방적으로 강요하지 않고 '이 계획에 대해 얼마나 알고 계신지 모르겠지만, 현재 단계에서 이 파트너와 협력하는 것이 얼마나 중요하다고 보시는지 의견을 듣고 싶습니다'라는 구체적인 질문을 던져 청중의 생각을 먼저 묻고 참여시킨 뒤, 중요하다고 볼 경우 사내 관계를 활용해 접근 기회를 마련해야 할 것이라는 흐름으로 연결한다.\",\n      \"basis\": \"demonstration\",\n      \"time\": 307.5,\n      \"audio_ids\": [\n        \"A00051\",\n        \"A00052\",\n        \"A00053\",\n        \"A00054\",\n        \"A00055\",\n        \"A00056\"\n      ],\n      \"quote\": \"how important do you think it is for us to engage with this partner at the stage that we're at and if it is important to you i think we'll need to leverage\",\n      \"frame_ids\": [\n        \"V00000614\",\n        \"V00000615\",\n        \"V00000617\",\n        \"V00000634\",\n        \"V00000640\",\n        \"V00000643\",\n        \"V00000648\",\n        \"V00000652\",\n        \"V00000656\",\n        \"V00000660\",\n        \"V00000666\"\n      ]\n    },\n    {\n      \"kind\": \"method\",\n      \"title\": \"사분면 1(Quadrant 1)의 원리: 청중 참여 유도 및 청중 중심 질문\",\n      \"content\": \"사분면 1(Quadrant 1) 단계에서는 발표자가 먼저 청중을 참여(engage)시키고, 청중에게 일방적으로 생각을 주입하지 않고 청중의 생각을 묻는다. 핵심은 발표자 자신이 아니라 청중 중심(make it about them not me)으로 만들고, 청중이 반응하여 논의를 시작할 수 있는 구체적인 질문을 제시하는 것이다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 336.5,\n      \"audio_ids\": [\n        \"A00056\",\n        \"A00057\",\n        \"A00058\"\n      ],\n      \"quote\": \"notice what i did there i engaged them first i didn't tell them what to think i asked what they thought that's quadrant one i make it about them not me\",\n      \"frame_ids\": [\n        \"V00000673\",\n        \"V00000675\",\n        \"V00000676\",\n        \"V00000677\",\n        \"V00000680\",\n        \"V00000681\"\n      ]\n    }\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 817,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48608,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 4608
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      }
+    ],
+    "thoughts_token_count": 3305,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 52730,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:20:07.977811+09:00"
+}

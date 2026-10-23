@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-5-3"
+---
 # Go Billy | Three Meanings of 되다 | Korean FAQ
 
 ## Metadata

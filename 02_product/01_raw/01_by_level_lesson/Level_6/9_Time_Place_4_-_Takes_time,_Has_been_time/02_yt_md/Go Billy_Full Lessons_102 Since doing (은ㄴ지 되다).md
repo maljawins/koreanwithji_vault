@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-9-3"
+---
 # Go Billy | Learn Korean Ep. 102: Since doing (은/ㄴ지 되다)
 
 ## Metadata

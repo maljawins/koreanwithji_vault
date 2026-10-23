@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-19-2"
+---
 # Go Billy | Learn Korean Ep. 116: 반면에 “On the Other Hand”
 
 ## Metadata

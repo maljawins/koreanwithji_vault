@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-7-2"
+---
 Lesson 74: It doesn’t matter/ Regardless of (상관없다/상관없이)
 
  Introduction

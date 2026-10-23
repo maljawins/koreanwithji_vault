@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "c594f664e4963f0ee2839159daadf07ecc57ec080ae01bad24016117d093495b",
+  "raw": "{\n  \"passed\": false,\n  \"issues\": [\n    \"E0005_0000은 화자의 유료 강좌(Impromptu Speakers Academy) 및 등록 링크 홍보(A00044~A00048: 'links in the description to sign up' 등) 멘트를 프레임워크의 적용 조건으로 정리한 것으로, 자체 홍보(self-promotion) 및 광고 내용을 제외하도록 한 규칙에 위배됩니다.\",\n    \"E0005_0001은 화자가 다룰 사례의 배경 맥락을 구두로 소개하는 도입부일 뿐 아직 구체적인 시범이나 프레임워크 적용 시연이 진행되지 않았음에도 basis를 'demonstration'으로 잘못 분류했습니다.\",\n    \"E0005_0001 본문에 'whether we should engage with a strategic partner'라고 서술되었으나, 제공된 구간의 A00051 발화는 'whether we should engage with a strategic'에서 끊기므로 제공된 오디오 범위를 넘어서 서술되었습니다.\"\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 245,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48528,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 4528
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      }
+    ],
+    "thoughts_token_count": 3808,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 52581,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:18:08.650521+09:00"
+}

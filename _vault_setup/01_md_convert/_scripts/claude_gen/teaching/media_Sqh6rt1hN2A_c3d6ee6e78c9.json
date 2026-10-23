@@ -1,0 +1,13 @@
+{
+  "key": "c3d6ee6e78c9ad69cec158f013a0d8f40117624f3b2b4bdbc7b7ce8756df8277",
+  "folder": "Sqh6rt1hN2A_ed9082725cec",
+  "settings": {
+    "whisper_model": "large-v3",
+    "language": null,
+    "device": "auto",
+    "sample_fps": 2,
+    "change_threshold": 6,
+    "max_frame_gap": 8
+  },
+  "video_id": "Sqh6rt1hN2A"
+}

@@ -1,0 +1,57 @@
+---
+lesson_id: "11-2"
+review_status: "1차 후보 작성·Agent 원문 재검증 및 Ji 설명 경계 검토 대기"
+range_workbook: "02_product/02_course_creation/01_lesson_spec/01_range_set/range_set_source_spans.xlsx"
+---
+
+# 11-2 · While #2 - While you're at it · 설명 범위 검토
+
+> 원문에서 찾은 구간은 1차 후보이며, 최종 사용 판정이나 발췌 허가가 아니다. Ji Draft만 파일 전체 사용 규칙을 적용했다. tracking은 raw_mapped다.
+
+## 판단 출발점
+
+- **V7 제목:** While #2 - While you're at it.
+- **V7 brainstorm 참고:** Modifier + 김에 (While you're at it)<br> - 기왕이면 & 이왕이면<br><br>ㄹ/을 겸<br> - 겸사겸사<br><br>이다 → 이자 (A이자 B / 학생이자 청년)<br> > While at the same time
+- **Ji Draft:** 매핑 없음.
+- **매핑 원문:** 6개 Ref_No. Ji Draft 전체 사용 0개, 사용 후보 5개, 보류 1개, 후보 포함 선택 구간 7곳. [[range_set_source_spans.xlsx]]가 자료 판정의 정본이다.
+
+## Ji가 검토할 설명 경계
+
+| 구분 | 1차 제안 |
+|---|---|
+| 이번 영상에서 직접 설명 | V7 제목 「While #2 - While you're at it」을 중심으로 한다. 세부 설명 후보는 Ji가 적은 「Modifier + 김에 (While you're at it)<br> - 기왕이면 & 이왕이면<br><br>ㄹ/을 겸<br> - 겸사겸사<br><br>이다 → 이자 (A이자 B / 학생이자 청년)<br> > While at the same time」다. 후보별 깊이는 원문 재검증 후 조정한다. |
+| 앞에서 배운 내용의 짧은 복습 | 별도 복습 후보를 아직 확인하지 못했다. 앞 레슨 11-1 「Hypothetical Past」과 겹치는 대목을 확인한다. |
+| 다른 레슨에서 자세히 설명 | 다른 레슨으로 넘길 상세 범위는 원문 대조 후 정한다. 다음 레슨 11-3 「More 싶다」과 경계를 확인한다. |
+
+## 매핑 자료 전체 · XLSX 판정 현황
+
+**6개 Ref_No** · Ji Draft 전체 사용 0 · 사용 후보 5 · 보류 1 · 구간 7곳.
+
+| 원문 Ref_No · 자료명 | 사용여부 | 줄 | 선택된 줄의 주제 | 판정 이유 |
+|---|---|---|---|---|
+| [YT-11-2-1](../../../../../01_raw/01_by_level_lesson/Level_11/2_While_2_-_While_youre_at_it/02_yt_md/Go%20Billy_Abridged_%EA%B2%B8%2C%20%EA%B2%B8%EC%82%AC%EA%B2%B8%EC%82%AC.md)<br>YouTube · Go Billy_Abridged_겸, 겸사겸사 | **사용 후보** | 23–75 | Using 겸 with Nouns / Using 겸 with Action Verbs / Idiomatic Usage and "While You're At It" … | 원문에 V7 제목·brainstorm과 겹치는 설명 대목이 있어 후보로 기록했다. 문맥과 레슨 경계 재검증 필요. |
+| [YT-11-2-2](../../../../../01_raw/01_by_level_lesson/Level_11/2_While_2_-_While_youre_at_it/02_yt_md/Go%20Billy_Abridged_%EA%B9%80%EC%97%90%20While.md)<br>YouTube · Go Billy_Abridged_김에 While | **사용 후보** | 24–81 | Construction and Literal Meaning / Conceptual Logic: Action A and Action B / Usage in the … | 원문에 V7 제목·brainstorm과 겹치는 설명 대목이 있어 후보로 기록했다. 문맥과 레슨 경계 재검증 필요. |
+| [YT-11-2-3](../../../../../01_raw/01_by_level_lesson/Level_11/2_While_2_-_While_youre_at_it/02_yt_md/Go%20Billy_Sentence%20Connectors_%233%20And.md)<br>YouTube · Go Billy_Sentence Connectors_#3 And | **사용 후보** | 24–31<br>53–60 | Basic Sentence Connection: 고 and 그리고<br>Dual Purpose and Extra Benefits: 겸 and 겸사겸사 | 원문에 V7 제목·brainstorm과 겹치는 설명 대목이 있어 후보로 기록했다. 문맥과 레슨 경계 재검증 필요. |
+| [HTSK-11-2-1](../../../../../01_raw/01_by_level_lesson/Level_11/2_While_2_-_While_youre_at_it/04_HTSK/HowtoStudyKorean-Unit-4-Lesson-84%20As%20soon%20as%20%28~%EC%9E%90%EB%A7%88%EC%9E%90%2C%20~%EB%8A%94%20%EB%8C%80%EB%A1%9C%2C%20~%EC%9E%90%29.md)<br>HTSK · HowtoStudyKorean-Unit-4-Lesson-84 As soon as (~자마자, ~는 대로, ~자) | **보류** | — | 선택 구간 없음 | 자동 탐색에서 이번 레슨에 직접 쓰일 구간을 확인하지 못했다. 원문 재독 뒤 판정한다. |
+| [HTSK-11-2-2](../../../../../01_raw/01_by_level_lesson/Level_11/2_While_2_-_While_youre_at_it/04_HTSK/HowtoStudyKorean-Unit-5-Lesson-114%20~%EB%8A%94%20%EA%B9%80%EC%97%90.md)<br>HTSK · HowtoStudyKorean-Unit-5-Lesson-114 ~는 김에 | **사용 후보** | 6–29<br>70–77 | In this lesson, you will learn another noun that is often described by ~는. / While one is …<br>In a similar sense, the speaker can take the opportunity to do an action as | 원문에 V7 제목·brainstorm과 겹치는 설명 대목이 있어 후보로 기록했다. 문맥과 레슨 경계 재검증 필요. |
+| [HTSK-11-2-3](../../../../../01_raw/01_by_level_lesson/Level_11/2_While_2_-_While_youre_at_it/04_HTSK/HowtoStudyKorean-Unit-8-Lesson-196%20%EA%B2%B8%20and%20%EA%B2%B8%EC%82%AC%EA%B2%B8%EC%82%AC.md)<br>HTSK · HowtoStudyKorean-Unit-8-Lesson-196 겸 and 겸사겸사 | **사용 후보** | 88–95 | In this sentence, the speaker killed two birds with one stone, in a sense. | 원문에 V7 제목·brainstorm과 겹치는 설명 대목이 있어 후보로 기록했다. 문맥과 레슨 경계 재검증 필요. |
+
+## Ji가 정할 내용
+
+- **설명 경계:** V7 제목과 brainstorm을 기준으로 한 이번 영상의 직접 설명 범위를 승인하거나 수정한다. 원문 후보를 모두 영상에 넣는다는 뜻은 아니다.
+- **Ji 판단이 필요한 이유:** 직접 설명·복습·후속 레슨의 경계가 정해져야 관련 구간을 최종 판정할 수 있다.
+- **Ji 답변:**
+
+## Agent가 확인할 사항
+
+- 사용 후보 5개의 앞뒤 문맥·조건·예문과 이 레슨의 7개 줄 범위를 다시 읽는다.
+- 보류 1개: HTSK-11-2-1. 원문을 재독해 사용 또는 사용 안 함으로 판정하고, 필요한 구간을 보완한다.
+- 중복 묶음은 같은 원본의 다른 레슨 사본과 대조한다. 파일명만으로 설명 경계를 확정하지 않는다.
+
+## Ji 검토
+
+- 결정: `승인 / 수정 요청 / 자료 보강`
+- 수정 의견:
+- 검토일:
+
+Ji의 설명 경계 검토와 Agent의 원문 재검증이 끝나기 전에는 `range_set` status로 올리거나 `topic_raw`를 작성하지 않는다.

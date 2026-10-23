@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-11-1"
+---
 Lesson 67: Like: ~처럼, As if: ~는 듯이, ~듯이
 
 Introduction

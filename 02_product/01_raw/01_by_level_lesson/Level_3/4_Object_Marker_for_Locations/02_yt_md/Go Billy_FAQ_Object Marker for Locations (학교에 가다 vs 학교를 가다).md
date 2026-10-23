@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-4-1"
+---
 # Go Billy | Object Marker for Locations (학교에 가다 vs 학교를 가다) | Korean FAQ
 
 ## Metadata

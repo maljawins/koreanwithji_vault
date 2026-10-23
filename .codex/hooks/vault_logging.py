@@ -23,7 +23,6 @@ STATE_FILE = (
 )
 CONVERSATION_LOG = ROOT / "01_inbox" / "conversation_log" / "conversation_log.md"
 DAILY_INDEX = ROOT / "00_daily_worklog" / "00_daily_worklog.md"
-TODO = ROOT / "01_inbox" / "conversation_log" / "to_do.md"
 SEOUL = ZoneInfo("Asia/Seoul")
 DAY_CLOSE_WORDS = (
     "오늘 마감",
@@ -123,8 +122,8 @@ def on_prompt(event: dict[str, Any]) -> None:
     )
     if state["turns"][turn_id]["daily_close"]:
         context += (
-            " Ji explicitly requested a daily close. Invoke `$vault-day-close` and complete "
-            "that workflow before the final answer."
+            " Ji explicitly requested a daily close. Follow AGENTS.md and "
+            "01_inbox/01_inbox.md for the daily log and index before the final answer."
         )
     write_json(
         {
@@ -161,7 +160,6 @@ def on_stop(event: dict[str, Any]) -> None:
         for label, path in (
             ("the daily log", daily_log),
             ("the daily-worklog index", DAILY_INDEX),
-            ("the to_do update", TODO),
         ):
             if not contains(path, close_marker):
                 missing.append(label)
@@ -189,7 +187,7 @@ def on_stop(event: dict[str, Any]) -> None:
             "decision": "block",
             "reason": (
                 f"Before ending, complete {details}. Use the exact turn marker `{marker(turn_id)}`. "
-                "If this is a daily close, also use the exact codex-day-close marker in all three required files."
+                "If this is a daily close, also use the exact codex-day-close marker in both required daily-close files."
             ),
         }
     )

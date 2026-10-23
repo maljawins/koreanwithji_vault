@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-1-3"
+---
 Lesson 53: Quoting Different Endings: ~자고, ~(으/느)냐고
 
 Introduction

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-5-6"
+---
 # Go Billy | 어릴 때 vs 어렸을 때 | Korean FAQ
 
 ## Metadata

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "SCREEN_000",
+    "time": 0.0,
+    "file": "frames\\000.jpg",
+    "ocr": "STADE"
+  },
+  {
+    "id": "SCREEN_001",
+    "time": 12.0,
+    "file": "frames\\001.jpg",
+    "ocr": "SADE"
+  },
+  {
+    "id": "SCREEN_002",
+    "time": 14.5,
+    "file": "frames\\002.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_003",
+    "time": 40.5,
+    "file": "frames\\003.jpg",
+    "ocr": "EA\nr"
+  },
+  {
+    "id": "SCREEN_004",
+    "time": 43.0,
+    "file": "frames\\004.jpg",
+    "ocr": "JEAR"
+  },
+  {
+    "id": "SCREEN_005",
+    "time": 63.5,
+    "file": "frames\\005.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_006",
+    "time": 83.0,
+    "file": "frames\\006.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_007",
+    "time": 94.0,
+    "file": "frames\\007.jpg",
+    "ocr": "Based on your accessible\nincome and carried forward\ndeductions,will maximize\nyour concessional\ncontributions and apply\nthe available offsets to\nminimize your taxable\nincome."
+  },
+  {
+    "id": "SCREEN_008",
+    "time": 111.5,
+    "file": "frames\\008.jpg",
+    "ocr": "CTAN\nTANDE"
+  },
+  {
+    "id": "SCREEN_009",
+    "time": 115.5,
+    "file": "frames\\009.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_010",
+    "time": 129.0,
+    "file": "frames\\010.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_011",
+    "time": 150.5,
+    "file": "frames\\011.jpg",
+    "ocr": "CTNN"
+  },
+  {
+    "id": "SCREEN_012",
+    "time": 156.0,
+    "file": "frames\\012.jpg",
+    "ocr": "CTAN"
+  },
+  {
+    "id": "SCREEN_013",
+    "time": 180.0,
+    "file": "frames\\013.jpg",
+    "ocr": "C\nALFBRATE\nR"
+  },
+  {
+    "id": "SCREEN_014",
+    "time": 192.5,
+    "file": "frames\\014.jpg",
+    "ocr": "EANDE"
+  },
+  {
+    "id": "SCREEN_015",
+    "time": 200.5,
+    "file": "frames\\015.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_016",
+    "time": 210.0,
+    "file": "frames\\016.jpg",
+    "ocr": "QUALIFYING QUESTIONS TOKNOWYOUR\nAUDIENCE'SLEVELOFUNDERSTANDING\n1 to 1: \"Before I go any further, how familiar are you with this topic?'\nSpeaking Event:\nGroup session:"
+  },
+  {
+    "id": "SCREEN_017",
+    "time": 235.5,
+    "file": "frames\\017.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_018",
+    "time": 245.5,
+    "file": "frames\\018.jpg",
+    "ocr": "SEADE"
+  },
+  {
+    "id": "SCREEN_019",
+    "time": 255.0,
+    "file": "frames\\019.jpg",
+    "ocr": "ALFBRATE\nR"
+  },
+  {
+    "id": "SCREEN_020",
+    "time": 273.0,
+    "file": "frames\\020.jpg",
+    "ocr": "Michelle Thaller\nA12 languages\nMicie\nTalk\nEdit Viow history Tools\n Wbedia the free encyclopedia\nMlchileThaller isan American astronomer,research scientist, and science\ncommurncator.Thaller is formerly the Assistant Director for Science Communication at\nMichelle Thaller\nDr\nNASA Goddard Space Flight Center.She retired in 2024 after 27 years al NASA.4\nFrom 1998 to 2009 she was a staff scientist at the Infrared Processing and Analysis\nCenter, and later Manager ol the Education and Public Outreach program for the Spilzer\nSpace Telescope,at the Calitomia Institute of Technology. Sne is a frequent on-\ncamera contributor to programming on the History Channel and Science Channel.\nBackground a\nA native of Wisconsin,i Thaller graduated rom Waukesha South High School in\n1988.7 She attended Harvard University, where she majored in astrophysics and\nworked on precision measurement of binary stars,receiving a bachelor's degree in\n1992.Al Georgia State University Thaller worked on colliding winds in ciose massive\nbinary systems.She received a PhDin 1998.\nBorn\nWaukesha.Wisconsin.U.S\nnco Monitor.to\nEducation.\nBS 1992,PhD 1998\nThaller is.a regular contnbutor to the online edition of the Chnstia\nwhich she writes a monthy science column and appears onstory Channel\nAlma mater Harvard University\nGeorgia State University\nshow, The Universe,and the Science Channel series How the Universe Works, Strip the\nSpouse\nAndrew B00th 2000-2020\nCosmos.and The Planets and Beyond.In 2016 and 2017 Thaller authored and hosted\ne PRX/Sky & Telescope Orbital Path Podcasts series and in 2008 contribueu to and apooerext tns NASA Spitzer Space\nIescope's award-winning video podcast series /Rrelevant Astronomy."
+  },
+  {
+    "id": "SCREEN_021",
+    "time": 290.0,
+    "file": "frames\\021.jpg",
+    "ocr": "TANZE"
+  },
+  {
+    "id": "SCREEN_022",
+    "time": 302.5,
+    "file": "frames\\022.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_023",
+    "time": 311.5,
+    "file": "frames\\023.jpg",
+    "ocr": "\"When we talk about how limited our perception is,I'm basically saying:imagine the\nuniverse as this gigantic state space X with some underlying dynamics TX ->X that\nmight only be cleanly expressible in very abstract structures like Hilbert spaces, operator\nalgebras, or differentiable manifolds; our brain is just a particular information-processing\ndevice that implements a low-bandwidth map f :X -> Y,where Y is a tiny, species-specific\nrepresentation space tuned by evolution to mid-scale, low-energy problems.So everything\nyou and I call the world'is actually the image of f,a heavily compressed quotient space\nY=X/~,where the equivalence relation~identifies microstates our nervous system can't\ndistinguish, and there's no reason to think Y has the dimensionality or structure needed to\nfaithfully embed the full ontology of X.From that point of view, saying 'we understand the\nuniverse'is like a grasshopper claiming it understands quantum mechanics: its neural\ndynamics live in some small configuration space Sg that simply cannot realize the kinds of\nsymbolic objects and operations you need for something like a Hamiltonian H acting on a\nHilbert space H; and there's a decent chance our own cognitive state space Sh is just as\nstructurally inadequate for whatever the true Huniverse and its dynamics actually are.So the\nhumility piece is acknowledging that what feels to us like direct contact with reality is really\njust one particular factor map from the underlying dynamics into a narrow representational\nchannel,and that whole pipeline-from sensory transduction to high-level concepts is more\nlike a lossy encoder than a transparent window into how things are."
+  },
+  {
+    "id": "SCREEN_024",
+    "time": 329.0,
+    "file": "frames\\024.jpg",
+    "ocr": "STARZET"
+  },
+  {
+    "id": "SCREEN_025",
+    "time": 337.0,
+    "file": "frames\\025.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_026",
+    "time": 363.0,
+    "file": "frames\\026.jpg",
+    "ocr": "WITHOUTLINKING\nWITH LINKING"
+  },
+  {
+    "id": "SCREEN_027",
+    "time": 375.0,
+    "file": "frames\\027.jpg",
+    "ocr": "STADE"
+  },
+  {
+    "id": "SCREEN_028",
+    "time": 391.0,
+    "file": "frames\\028.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_029",
+    "time": 395.5,
+    "file": "frames\\029.jpg",
+    "ocr": "WITHOUTLINKING\nWITH LINKING"
+  },
+  {
+    "id": "SCREEN_030",
+    "time": 407.5,
+    "file": "frames\\030.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_031",
+    "time": 430.0,
+    "file": "frames\\031.jpg",
+    "ocr": "SEAGE"
+  },
+  {
+    "id": "SCREEN_032",
+    "time": 442.5,
+    "file": "frames\\032.jpg",
+    "ocr": "HEAMDE\nScan the QR code or click the link in the description\nfor myFREE training on communication frameworks"
+  },
+  {
+    "id": "SCREEN_033",
+    "time": 452.0,
+    "file": "frames\\033.jpg",
+    "ocr": "STADE"
+  },
+  {
+    "id": "SCREEN_034",
+    "time": 461.5,
+    "file": "frames\\034.jpg",
+    "ocr": "ALFBRATE\nANE\nNVISION\nA\nr"
+  },
+  {
+    "id": "SCREEN_035",
+    "time": 484.0,
+    "file": "frames\\035.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_036",
+    "time": 489.5,
+    "file": "frames\\036.jpg",
+    "ocr": "CT\nANZE"
+  },
+  {
+    "id": "SCREEN_037",
+    "time": 509.0,
+    "file": "frames\\037.jpg",
+    "ocr": "WITHOUT (E + A)\nWITH (E + A)"
+  },
+  {
+    "id": "SCREEN_038",
+    "time": 526.5,
+    "file": "frames\\038.jpg",
+    "ocr": "WITHOUT (E + A)\nWITH (E+ A)"
+  },
+  {
+    "id": "SCREEN_039",
+    "time": 531.5,
+    "file": "frames\\039.jpg",
+    "ocr": "WITHOUT (E + A)\nWITH (E + A)"
+  },
+  {
+    "id": "SCREEN_040",
+    "time": 554.0,
+    "file": "frames\\040.jpg",
+    "ocr": "Onconscious\nUnconscioys\nIncompetnce\nCampetnce\nDon't bou wA+ you\ndon ko\nConscious\nConscious\ncompetnce\nIn com pet<ncee"
+  },
+  {
+    "id": "SCREEN_041",
+    "time": 563.0,
+    "file": "frames\\041.jpg",
+    "ocr": "-"
+  },
+  {
+    "id": "SCREEN_042",
+    "time": 576.5,
+    "file": "frames\\042.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_043",
+    "time": 588.0,
+    "file": "frames\\043.jpg",
+    "ocr": "CTAY\nTANDE"
+  },
+  {
+    "id": "SCREEN_044",
+    "time": 614.0,
+    "file": "frames\\044.jpg",
+    "ocr": "onconscious\nUnconscioys\nCampetnce\nIncompetnce\nDon't kou wAt you\ndon kou\nConscious\nConscious\nIn competence\nCompetnce\nYour doing\nYouknou Wht you\n+Lot...\nyou s+PWe b\ndon \nMink abot it"
+  },
+  {
+    "id": "SCREEN_045",
+    "time": 627.5,
+    "file": "frames\\045.jpg",
+    "ocr": "EANDE"
+  },
+  {
+    "id": "SCREEN_046",
+    "time": 640.5,
+    "file": "frames\\046.jpg",
+    "ocr": "onconscious\nUnconscioys\nIncompetnce\nCampetnce\nDon't kou wA+ you\nAwtomatic\ndon ko\nConscious\nConscious\nIn competence\nCompetnce\nYouknou Wht you\nYour doing\n+Lt...\nyou s+PWe b\ndon\nMink abot iti"
+  },
+  {
+    "id": "SCREEN_047",
+    "time": 647.5,
+    "file": "frames\\047.jpg",
+    "ocr": "STADE"
+  },
+  {
+    "id": "SCREEN_048",
+    "time": 658.0,
+    "file": "frames\\048.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_049",
+    "time": 676.5,
+    "file": "frames\\049.jpg",
+    "ocr": "AOE"
+  },
+  {
+    "id": "SCREEN_050",
+    "time": 695.5,
+    "file": "frames\\050.jpg",
+    "ocr": "STADE"
+  },
+  {
+    "id": "SCREEN_051",
+    "time": 710.0,
+    "file": "frames\\051.jpg",
+    "ocr": "If you can't explain it\nto a dog then you\ndon't understand it!"
+  },
+  {
+    "id": "SCREEN_052",
+    "time": 717.5,
+    "file": "frames\\052.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_053",
+    "time": 734.5,
+    "file": "frames\\053.jpg",
+    "ocr": "ALFBRATE\nNOISInN\nA\nBSTRACTION\nr"
+  },
+  {
+    "id": "SCREEN_054",
+    "time": 747.5,
+    "file": "frames\\054.jpg",
+    "ocr": "ALBRATE\nE\nNUISION\nA\nBSTRACTION\nR\nEPEAT"
+  },
+  {
+    "id": "SCREEN_055",
+    "time": 760.5,
+    "file": "frames\\055.jpg",
+    "ocr": "ALBRATE\nE\nNOISInN\nA\nBSTRACTION\nR\nEPEAT"
+  },
+  {
+    "id": "SCREEN_056",
+    "time": 781.5,
+    "file": "frames\\056.jpg",
+    "ocr": "ALFBRATE\nE\nNOISInN\nA\nBSTRACTION\nr\nEPEAT"
+  },
+  {
+    "id": "SCREEN_057",
+    "time": 793.5,
+    "file": "frames\\057.jpg",
+    "ocr": "SEADE"
+  },
+  {
+    "id": "SCREEN_058",
+    "time": 800.5,
+    "file": "frames\\058.jpg",
+    "ocr": "STADE"
+  },
+  {
+    "id": "SCREEN_059",
+    "time": 810.5,
+    "file": "frames\\059.jpg",
+    "ocr": "Scan the QR code or click the link in\nthe description for myFREE training\noncommunication frameworks"
+  }
+]

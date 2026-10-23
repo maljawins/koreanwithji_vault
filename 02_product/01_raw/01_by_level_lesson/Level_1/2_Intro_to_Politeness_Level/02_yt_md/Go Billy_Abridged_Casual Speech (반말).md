@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-2-1"
+---
 # Go Billy | Casual Speech (반말) | Live Class Abridged
 
 ## Metadata

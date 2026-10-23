@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-17-2"
+---
 Lesson 197: 바 – Referring to a Past Notice and Taking an Opportunity
 
 Introduction

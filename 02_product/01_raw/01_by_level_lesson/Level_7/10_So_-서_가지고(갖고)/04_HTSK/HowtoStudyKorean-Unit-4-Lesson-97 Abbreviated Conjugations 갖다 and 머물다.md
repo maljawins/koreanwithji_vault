@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-10-5"
+---
 Lesson 97: Abbreviated Conjugations: 갖다 and 머물다
 
 Introduction

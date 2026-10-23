@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-17-7"
+---
 # Go Billy | Learn Korean Ep. 29: "Let's"
 
 ## Metadata

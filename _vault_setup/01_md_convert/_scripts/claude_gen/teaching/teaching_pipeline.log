@@ -1,0 +1,114 @@
+2026-10-20 18:33:12,238 INFO 영상 다운로드: How To Explain Anything To Anyone (The 4MAT Method)
+2026-10-20 18:33:39,902 INFO 받아쓰기: large-v3 / cuda (첫 실행은 모델 다운로드 필요)
+2026-10-20 18:33:40,522 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+2026-10-20 18:33:40,732 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/tree/edaa852ec7e145841d8ffdb056a99866b5f0a478?recursive=true&expand=false "HTTP/1.1 200 OK"
+2026-10-20 18:33:44,202 WARNING GPU를 사용할 수 없어 CPU로 재시도합니다: open() got an unexpected keyword argument 'metadata_errors'
+2026-10-20 18:33:44,203 INFO 받아쓰기: large-v3 / cpu (첫 실행은 모델 다운로드 필요)
+2026-10-20 18:33:44,427 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+2026-10-20 18:37:14,190 INFO 영상 다운로드: How To Explain Anything To Anyone (The 4MAT Method)
+2026-10-20 18:38:21,083 INFO 받아쓰기: large-v3 / cuda (첫 실행은 모델 다운로드 필요)
+2026-10-20 18:38:21,652 INFO HTTP Request: GET https://huggingface.co/api/agent-harnesses "HTTP/1.1 200 OK"
+2026-10-20 18:38:21,866 INFO HTTP Request: GET https://huggingface.co/api/models/Systran/faster-whisper-large-v3/revision/main "HTTP/1.1 200 OK"
+2026-10-20 18:38:25,051 INFO Processing audio with duration 10:15.033
+2026-10-20 18:38:25,990 INFO VAD filter removed 00:00.000 of audio
+2026-10-20 18:38:27,668 INFO Detected language 'en' with probability 1.00
+2026-10-20 18:39:16,000 INFO 받아쓰기 완료: 108구간, 감지 언어 en
+2026-10-20 18:39:16,002 INFO 전체 영상 화면 표본 추출: 2장/초
+2026-10-20 18:41:14,300 INFO 근거 추출 1: 0.0~46.5초, 화면 40장
+2026-10-20 18:41:14,315 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 18:42:03,741 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 18:42:03,834 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 18:42:34,814 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 18:42:35,122 INFO F: C:\vault\koreanwithji_vault\_vault_setup\01_md_convert\result_check\convert_F\teaching_Preston Chin_How To Explain Anything To Anyone (The 4MAT Method)_261020.md (Ji 검수 대기)
+2026-10-20 18:42:38,079 INFO 영상 다운로드: How to Explain Anything To Anyone (Even If It's Complex!)
+2026-10-20 19:05:05,170 INFO HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest "HTTP/1.1 200 OK"
+2026-10-20 19:05:05,666 INFO 근거 추출 1: 0.0~46.5초, 화면 40장
+2026-10-20 19:05:05,688 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 19:05:07,062 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-20 19:05:07,078 WARNING 일시적인 Gemini 오류(429). 재시도 1/2
+2026-10-20 19:05:15,677 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 19:05:17,142 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-20 19:05:17,164 WARNING 일시적인 Gemini 오류(429). 재시도 2/2
+2026-10-20 19:05:27,173 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 19:05:28,543 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 429 Too Many Requests"
+2026-10-20 19:05:28,566 ERROR YZjWuFVSjjM: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'Your project has exceeded its monthly spending cap. Please go to AI Studio at https://ai.studio/spend to manage your project spend cap. Learn more at https://ai.google.dev/gemini-api/docs/billing#project-spend-caps. ', 'status': 'RESOURCE_EXHAUSTED'}}
+2026-10-20 20:12:11,744 INFO HTTP Request: GET https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest "HTTP/1.1 200 OK"
+2026-10-20 20:12:12,299 INFO 근거 추출 1: 0.0~46.5초, 화면 40장
+2026-10-20 20:12:12,334 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:12:27,521 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:12:27,536 WARNING 근거 구간 1 보완 1/1: 관찰 1: 인용문이 연속된 원본 음성 구간에 그대로 있지 않습니다
+2026-10-20 20:12:27,554 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:13:01,717 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:13:01,771 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:13:16,649 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:13:16,669 INFO 근거 추출 2: 46.5~99.0초, 화면 40장
+2026-10-20 20:13:16,683 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:13:35,186 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:13:35,215 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:13:51,503 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:13:51,547 INFO 근거 추출 3: 99.0~139.5초, 화면 40장
+2026-10-20 20:13:51,561 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:14:21,444 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:14:21,466 WARNING 근거 구간 3 보완 1/1: 관찰 0: 인용문이 연속된 원본 음성 구간에 그대로 있지 않습니다; 관찰 3: 인용문이 연속된 원본 음성 구간에 그대로 있지 않습니다
+2026-10-20 20:14:21,482 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:14:50,401 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:14:50,449 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:15:10,238 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:15:10,260 INFO 근거 추출 4: 139.5~191.0초, 화면 40장
+2026-10-20 20:15:10,276 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:15:58,464 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:15:58,523 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:16:21,151 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:16:21,177 INFO 근거 추출 5: 191.0~262.0초, 화면 40장
+2026-10-20 20:16:21,192 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:17:06,594 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:17:06,667 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:17:24,507 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:17:24,528 INFO 근거 추출 6: 262.0~307.0초, 화면 40장
+2026-10-20 20:17:24,543 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:17:35,539 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:17:35,562 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:18:08,623 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:18:08,658 WARNING 근거 구간 6 보완 1/1: E0005_0000은 화자의 유료 강좌(Impromptu Speakers Academy) 및 등록 링크 홍보(A00044~A00048: 'links in the description to sign up' 등) 멘트를 프레임워크의 적용 조건으로 정리한 것으로, 자체 홍보(self-promotion) 및 광고 내용을 제외하도록 한 규칙에 위배됩니다.; E0005_0001은 화자가 다룰 사례의 배경 맥락을 구두로 소개하는 도입부일 뿐 아직 구체적인 시범이나 프레임워크 적용 시연이 진행되지 않았음에도 basis를 'demonstration'으로 잘못 분류했습니다.; E0005_0001 본문에 'whether we should engage with a strategic partner'라고 서술되었으나, 제공된 구간의 A00051 발화는 'whether we should engage with a strategic'에서 끊기므로 제공된 오디오 범위를 넘어서 서술되었습니다.
+2026-10-20 20:18:08,672 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:18:35,348 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:18:35,395 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:18:57,675 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:18:57,699 INFO 근거 추출 7: 307.0~342.5초, 화면 40장
+2026-10-20 20:18:57,715 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:19:21,200 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:19:21,229 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:19:37,046 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:19:37,062 WARNING 근거 구간 7 보완 1/1: E0006_0000 관찰 내용에 언급된 '과거 임원진을 대상으로 전략적 파트너십 추진 여부를 보고할 때(executives at the company many years ago the topic was whether we should engage with a strategic)'를 뒷받침하는 오디오 구간 A00051이 audio_ids에서 누락되었습니다.
+2026-10-20 20:19:37,077 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:20:07,963 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:20:07,999 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:20:26,768 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:20:26,783 INFO 근거 추출 8: 342.5~393.0초, 화면 40장
+2026-10-20 20:20:26,798 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:21:04,090 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:21:04,140 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:21:19,652 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:21:19,671 INFO 근거 추출 9: 393.0~440.0초, 화면 40장
+2026-10-20 20:21:19,687 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:22:02,722 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:22:02,750 WARNING 근거 구간 9 보완 1/1: 관찰 0: 인용문이 연속된 원본 음성 구간에 그대로 있지 않습니다
+2026-10-20 20:22:02,765 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 20:23:42,495 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 20:23:42,946 INFO F: C:\vault\koreanwithji_vault\_vault_setup\01_md_convert\result_check\convert_F\retry_c5ffd8aff376\teaching_Preston Chin_How To Explain Anything To Anyone (The 4MAT Method)_261020.md (Ji 검수 대기)
+2026-10-20 22:44:03,631 INFO 영상 다운로드: How To Explain Anything To Anyone (The 4MAT Method)
+2026-10-20 22:44:40,824 INFO 전체 음성 받아쓰기: large-v3
+2026-10-20 22:44:44,190 INFO Processing audio with duration 10:15.033
+2026-10-20 22:44:45,036 INFO VAD filter removed 00:00.000 of audio
+2026-10-20 22:44:45,752 INFO Detected language 'en' with probability 1.00
+2026-10-20 22:51:35,305 ERROR YZjWuFVSjjM: 402 RESOURCE_EXHAUSTED. {'error': {'code': 402, 'message': 'Your prepayment credits are depleted. Please go to AI Studio at https://ai.studio/projects to manage your project and billing. Learn more at https://ai.google.dev/gemini-api/docs/billing#prepay. ', 'status': 'RESOURCE_EXHAUSTED'}}
+2026-10-20 22:53:18,040 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 22:54:12,325 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 22:54:12,459 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 22:54:59,752 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 22:55:00,358 INFO O: C:\vault\koreanwithji_vault\_vault_setup\01_md_convert\result_check\convert_O\teaching_Preston Chin_How To Explain Anything To Anyone (The 4MAT Method)_261020.md (Ji 검수 대기)
+2026-10-20 22:55:53,524 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 22:57:31,637 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 22:57:31,762 INFO AFC is enabled with max remote calls: 10.
+2026-10-20 22:58:07,325 INFO HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-latest:generateContent "HTTP/1.1 200 OK"
+2026-10-20 22:58:07,685 INFO O: C:\vault\koreanwithji_vault\_vault_setup\01_md_convert\result_check\convert_O\teaching_Vinh Giang_How to Explain Anything To Anyone (Even If It's Complex!)_261020.md (Ji 검수 대기)

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-2-4"
+---
 # World Wide Korean | 한국어 중급 [문법] 2. -대요, -는/ㄴ대요, (이)래요
 
 ## Metadata

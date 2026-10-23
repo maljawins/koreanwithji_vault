@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-11"
+---
 # World Wide Korean | 한국어 중급 [문법] 9. -자고 하다
 
 ## Metadata

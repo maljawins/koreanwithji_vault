@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "faad0929fc45337c3ef947bcd42c52a63aa843fa1e411b3e5a8ecb4fbdcb8215",
+  "raw": "{\n  \"passed\": false,\n  \"issues\": [\n    \"E0006_0000 관찰 내용에 언급된 '과거 임원진을 대상으로 전략적 파트너십 추진 여부를 보고할 때(executives at the company many years ago the topic was whether we should engage with a strategic)'를 뒷받침하는 오디오 구간 A00051이 audio_ids에서 누락되었습니다.\"\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 102,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48512,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 4512
+      }
+    ],
+    "thoughts_token_count": 1567,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 50181,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:19:37.055139+09:00"
+}

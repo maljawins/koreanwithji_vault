@@ -1,0 +1,129 @@
+{
+  "request_fingerprint": "e5362762cd2f038d6aaaa664f5c6b31f261f9269853455a2d1576c3aef245c9a",
+  "result": {
+    "observations": [
+      {
+        "kind": "method",
+        "title": "Quadrant 1(WHY)의 핵심 원리: 상대방 중심의 질문 던지기",
+        "content": "발표자는 Quadrant 1의 핵심 원리로 상대방에게 무엇을 생각해야 할지 일방적으로 주입하지 않고 상대방이 무엇을 생각하는지 물어보아야 한다고 설명한다. 초점을 화자가 아닌 상대방에게 두고('make it about them not me'), 구체적인 질문을 던져 청자가 사고와 참여를 시작할 수 있게 유도하는 방식이다.",
+        "basis": "speaker_claim",
+        "time": 342.5,
+        "audio_ids": [
+          "A00057",
+          "A00058"
+        ],
+        "quote": "first i didn't tell them what to think i asked what they thought that's quadrant one i make it about them not me",
+        "frame_ids": [
+          "V00000685",
+          "V00000686",
+          "V00000687",
+          "V00000690",
+          "V00000694",
+          "V00000695",
+          "V00000697"
+        ]
+      },
+      {
+        "kind": "method",
+        "title": "Quadrant 2(WHAT): 이정표 문구와 사실 중심의 맥락 전달",
+        "content": "Quadrant 2('WHAT') 단계로 전환할 때 'Here's the background'(배경 설명입니다)라는 명확한 이정표(Signpost) 문구를 제시한다. 발표자는 군더더기(fluff) 없이 상황을 이해하는 데 꼭 필요한 사실(facts)과 맥락(context)만을 객관적으로 전달해야 분석적 학습자(analytical learners)의 니즈를 만족시킬 수 있다고 주장한다.",
+        "basis": "speaker_claim",
+        "time": 348.22,
+        "audio_ids": [
+          "A00059",
+          "A00065",
+          "A00066"
+        ],
+        "quote": "notice how i'm just giving all the facts there's no fluff just the context they need to understand the situation and that's quadrant two",
+        "frame_ids": [
+          "V00000703",
+          "V00000704",
+          "V00000706",
+          "V00000707",
+          "V00000757",
+          "V00000759",
+          "V00000760",
+          "V00000763",
+          "V00000766",
+          "V00000770",
+          "V00000772",
+          "V00000773",
+          "V00000775"
+        ]
+      },
+      {
+        "kind": "example",
+        "title": "Quadrant 2 시범: 파트너십 배경 상황의 객관적 사실 전달",
+        "content": "발표자가 Quadrant 2 발화의 실제 시범을 보인다. 'Here's the background'로 시작하여 컨퍼런스에서 제품 부사장(VP of Product)을 만나 솔루션 탑재를 타진했던 사실, 상대 회사가 B2B 앱에 집중하며 비공개 베타를 마감해 첫날부터 준비된 파트너와만 작업한다는 피드백을 준 사실, 그리고 2월부터 작업해 온 타 파트너들이 먼저 선정된 것이 당연했던 객관적 정황을 감정 섞인 수식 없이 순차적으로 설명한다.",
+        "basis": "demonstration",
+        "time": 353.98,
+        "audio_ids": [
+          "A00059",
+          "A00060",
+          "A00061",
+          "A00062",
+          "A00063",
+          "A00064",
+          "A00065"
+        ],
+        "quote": "here's the background i met with their vp of product briefly at a conference and i asked if we could work together to feature our solution when it's ready",
+        "frame_ids": [
+          "V00000708",
+          "V00000710",
+          "V00000715",
+          "V00000720",
+          "V00000724",
+          "V00000740",
+          "V00000742",
+          "V00000744",
+          "V00000745",
+          "V00000746",
+          "V00000747",
+          "V00000750",
+          "V00000751",
+          "V00000754"
+        ]
+      },
+      {
+        "kind": "method",
+        "title": "Quadrant 3(THE HOW): 제안 단계로의 이정표 전환",
+        "content": "화면 좌상단에 'Quadrant 3 - THE HOW' 그래픽이 표시되며, 방법과 구체적 실행을 다루는 Quadrant 3으로 넘어갈 때 사용하는 이정표(Signpost)로 'Here's what I propose'(제가 제안하는 바는 이렇습니다)를 제시한다. 청자의 주의를 다음 단계의 해결책 제안으로 부드럽게 연결하는 역할을 한다.",
+        "basis": "speaker_claim",
+        "time": 387.82,
+        "audio_ids": [
+          "A00067"
+        ],
+        "quote": "now for quadrant three the how so my signpost here would be here's what i propose so here's",
+        "frame_ids": [
+          "V00000776",
+          "V00000780",
+          "V00000781",
+          "V00000783",
+          "V00000785"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1406,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48057,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 4057
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      }
+    ],
+    "thoughts_token_count": 3172,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 52635,
+    "traffic_type": null
+  }
+}

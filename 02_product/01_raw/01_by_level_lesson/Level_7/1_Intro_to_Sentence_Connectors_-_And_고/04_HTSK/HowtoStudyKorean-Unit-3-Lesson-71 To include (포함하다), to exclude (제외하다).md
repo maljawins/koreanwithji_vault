@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-1-2"
+---
 Lesson 71: To include (포함하다), to exclude (제외하다)
 
 Introduction

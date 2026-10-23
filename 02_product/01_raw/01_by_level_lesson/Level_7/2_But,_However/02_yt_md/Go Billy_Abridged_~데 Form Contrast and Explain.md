@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-2-1"
+---
 # Go Billy | ~데 Form "Contrast" and "Explain" | Live Class Abridged
 
 ## Metadata

@@ -1,0 +1,19 @@
+{
+  "checkedIndexes": 10,
+  "updatedIndexes": [
+    "master_index.md",
+    "_archive/_archive.md",
+    "_vault_setup/_vault_setup.md",
+    "03_tech/03_tech.md",
+    "05_teaching/05_teaching.md",
+    "01_inbox/01_inbox.md",
+    "00_daily_worklog/00_daily_worklog.md"
+  ],
+  "unchangedIndexes": [
+    "_about/_about.md",
+    "02_product/02_product.md",
+    "04_marketing/04_marketing.md"
+  ],
+  "linksCheckedBeforeWrite": 141,
+  "backup": "C:\\vault\\koreanwithji_vault\\_archive\\audit_1022\\before\\index_update_01a16226"
+}

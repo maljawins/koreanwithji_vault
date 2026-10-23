@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-10-1-6"
+---
 # KOREAN WITH JI — Amira 1-on-1 #24 (0806)
 
 ## Metadata

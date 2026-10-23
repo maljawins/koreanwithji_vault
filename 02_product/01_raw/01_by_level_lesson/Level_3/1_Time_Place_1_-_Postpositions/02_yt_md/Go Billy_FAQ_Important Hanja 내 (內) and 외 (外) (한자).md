@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-1-7"
+---
 # Go Billy | Important Hanja: 내 (內) and 외 (外) (한자) | Korean FAQ
 
 ## Metadata

@@ -5,3 +5,4 @@ cookies.txt
 __pycache__/
 *.pyc
 .claude/
+_vault_setup/01_md_convert/ji_yt_shorts/*.mp4

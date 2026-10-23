@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-3-7"
+---
 # Go Billy | Learn Korean Ep. 123: ~아/어/etc. 하다 & 싶어 하다 "Want to~"
 
 ## Metadata

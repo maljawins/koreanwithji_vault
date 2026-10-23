@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-10-2"
+---
 # Go Billy | 보다 vs 에 비해(서) "Compared to" | Live Class Abridged
 
 ## Metadata

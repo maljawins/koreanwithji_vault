@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-9-3"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #90: Thinking More
 
 ## Metadata

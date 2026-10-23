@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-18-6"
+---
 # World Wide Korean | 한국어 중급 [문법] 71. -다 보면
 
 ## Metadata

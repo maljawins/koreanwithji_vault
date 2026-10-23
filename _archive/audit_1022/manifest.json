@@ -1,0 +1,874 @@
+{
+  "archive": "C:\\vault\\koreanwithji_vault\\audit_1022",
+  "jiMarked": 27,
+  "moved": 26,
+  "alreadyAbsent": 2,
+  "movedFiles": 135,
+  "memorySettings": {
+    "use_memories": false,
+    "claude_autoMemoryEnabled": false,
+    "generate_memories": false,
+    "features_memories": false
+  },
+  "memoryOriginals": "Codex managed originals not modified; Claude automatic memory files archived",
+  "memoryUpdateRequest": "C:/Users/Jigyo/.codex/memories/extensions/ad_hoc/notes/2026-10-22T113356-disable-auto-memories.md",
+  "requests": [
+    {
+      "sheet": "공통 지침,기록,설정 27개",
+      "row": 11,
+      "item": "01_inbox/conversation_log/to_do.md",
+      "source": "C:\\vault\\koreanwithji_vault\\01_inbox\\conversation_log\\to_do.md",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\workspace\\01_inbox\\conversation_log\\to_do.md",
+      "status": "already_absent",
+      "files": 0,
+      "hashes": []
+    },
+    {
+      "sheet": "공통 지침,기록,설정 27개",
+      "row": 12,
+      "item": "01_inbox/conversation_log/prompt.md",
+      "source": "C:\\vault\\koreanwithji_vault\\01_inbox\\conversation_log\\prompt.md",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\workspace\\01_inbox\\conversation_log\\prompt.md",
+      "status": "already_absent",
+      "files": 0,
+      "hashes": []
+    },
+    {
+      "sheet": "공통 지침,기록,설정 27개",
+      "row": 17,
+      "item": ".agents/taskmaster/",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\taskmaster",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\workspace\\.agents\\taskmaster",
+      "status": "moved_verified",
+      "files": 8,
+      "hashes": [
+        {
+          "relative": ".gitignore",
+          "sha256": "441FC7F5E8AD20A719F8C29A9F6EF42F821EBBB4836BCCA46778083A499BAFEE"
+        },
+        {
+          "relative": "package-lock.json",
+          "sha256": "44F1AF792A46DC7FC0A4F8451C2FC18C9FAE8ADF6C58B4F1AEF5CDF7F6B0127F"
+        },
+        {
+          "relative": "package.json",
+          "sha256": "D26A595C164632C14B18029B9B2D696A55176D5A88206CDFB1213E4647D2058F"
+        },
+        {
+          "relative": ".taskmaster\\config.json",
+          "sha256": "EB502AEE53136A95C9934B128624638B41E0AA91FDAF25249D5EB9203F716773"
+        },
+        {
+          "relative": ".taskmaster\\state.json",
+          "sha256": "3E9F069B647D857FB6CE233E653DA1628A0885A16CE8827C77E566C8833F065C"
+        },
+        {
+          "relative": ".taskmaster\\templates\\example_prd.txt",
+          "sha256": "3C55E30F1D48D089DE336E03DFDEC9480B1F158BED32837571FDDC2D952B82BE"
+        },
+        {
+          "relative": ".taskmaster\\templates\\example_prd_rpg.txt",
+          "sha256": "FF89D538E6AD018003274405302C7BF179D18030A43303F0B2CEA6348D894528"
+        }
+      ]
+    },
+    {
+      "sheet": "자료 변환,운영 19개",
+      "row": 17,
+      "item": "_scripts/__pycache__/",
+      "source": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\_scripts\\__pycache__",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\workspace\\_vault_setup\\01_md_convert\\_scripts\\__pycache__",
+      "status": "moved_verified",
+      "files": 1,
+      "hashes": [
+        {
+          "relative": "teaching_yt_md_pipeline.cpython-312.pyc",
+          "sha256": "86F4351CC9882B1B40C328B70C0E1A1EB4E7F40F670823291B590AB5BD063CE6"
+        }
+      ]
+    },
+    {
+      "sheet": "자료 변환,운영 19개",
+      "row": 20,
+      "item": "같은 폴더의 fable_project.md",
+      "source": "C:\\vault\\koreanwithji_vault\\_vault_setup\\02_vault_ops\\fable_project.md",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\workspace\\_vault_setup\\02_vault_ops\\fable_project.md",
+      "status": "moved_verified",
+      "files": 1,
+      "hashes": [
+        {
+          "relative": "",
+          "sha256": "73137707767AF6542C9F2D9EC2CC1951EDF66079D15968AE708FBB645867A7B2"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 2,
+      "item": "brainstorming",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\brainstorming",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\brainstorming",
+      "status": "moved_verified",
+      "files": 10,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "2C4F0F074E983469FEB107091E6F57281067694D1C1999463AD0E5531991D15A"
+        },
+        {
+          "relative": "spec-document-reviewer-prompt.md",
+          "sha256": "793F2546815A28F2712F0DCB926AB96DC4A60145FBEA6F9A08D88287EC8E15BC"
+        },
+        {
+          "relative": "visual-companion.md",
+          "sha256": "95A58903EEAC8E247F75335D46D5CBBE29E041E1731A15FF89AEC82E96A7C989"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        },
+        {
+          "relative": "scripts\\frame-template.html",
+          "sha256": "7B9418E9939DDED0CF8E6A5549A18162B7C7E5495DEEEFA83A12F3394B81395D"
+        },
+        {
+          "relative": "scripts\\helper.js",
+          "sha256": "78C3A22DD5E799623CAB8908B0B03E764404EFDE2D2EDC94A8814CF450A09E81"
+        },
+        {
+          "relative": "scripts\\server.cjs",
+          "sha256": "EE89AF11506AC4933324C89A2CFB36B391FE611F82EFB9EEB3B814E40825145F"
+        },
+        {
+          "relative": "scripts\\start-server.sh",
+          "sha256": "526F3FC34BBDC56D97532D84BF861A1113F9F08FEC6479C3553C13EC627C2448"
+        },
+        {
+          "relative": "scripts\\stop-server.sh",
+          "sha256": "6A2F3F3B7CA84FDE8EF3C43825D392E1F12126B52A93B42C4D4940779BAC884D"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 3,
+      "item": "defuddle",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\defuddle",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\defuddle",
+      "status": "moved_verified",
+      "files": 1,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "A4F046B1830F0B3F6B5B344D7595437FBD1F8D70AD79447AE393FDE48043D460"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 4,
+      "item": "diagnosing-superpowers",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\diagnosing-superpowers",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\diagnosing-superpowers",
+      "status": "moved_verified",
+      "files": 22,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "9C68190617F4F20EEE9C7519BADC067C66E732922A343825937F62AF62578182"
+        },
+        {
+          "relative": "prompts\\analyst-common.md",
+          "sha256": "87F5303D6C45B3FB7BA6D54A46B06F0227E5F8F2F3FDD54C1C698D33EFBAF3F6"
+        },
+        {
+          "relative": "prompts\\cost-and-time.md",
+          "sha256": "72EE384CF6BC3DAEB3F954230A05EDD96CA9B3C03E303BBA031612FE259E2868"
+        },
+        {
+          "relative": "prompts\\plan-adherence.md",
+          "sha256": "D2681D76BF70EFF9FBA380C6D6C9C2B6E1AF7AFFF32D0BD282E17C977DA6FC37"
+        },
+        {
+          "relative": "prompts\\quality-evidence.md",
+          "sha256": "01B29EEA22501DDD22416418B8DE1C7A6124A293D13C41D417F7ECF08BB690A3"
+        },
+        {
+          "relative": "prompts\\repeated-work.md",
+          "sha256": "E9A7B8BDE8521C896B959B9C63570E7F832CE75D5DB3F4CFECC14F988E2E7524"
+        },
+        {
+          "relative": "prompts\\request-conflicts.md",
+          "sha256": "2FEE01230CF625DE4702AD2AD83CD68D3C236B69B51D3823342F9D12449AB166"
+        },
+        {
+          "relative": "prompts\\scrub-audit.md",
+          "sha256": "C230BEFE2AB708FAEE327D708760C2FBE6FC39F874653CA21FED660068209D15"
+        },
+        {
+          "relative": "prompts\\scrub.md",
+          "sha256": "58E84FB2DB013A945DE00AB67F2945B2829DEB70ABB132C0A18FAD4A5CDC2216"
+        },
+        {
+          "relative": "prompts\\similar-session.md",
+          "sha256": "ABEC588FB5F59A2BC1C54CA0AA1BDA538989EF0C48E32BB85030097C1DD43908"
+        },
+        {
+          "relative": "prompts\\skill-timeline.md",
+          "sha256": "C2F24BA30C7BE3B13AE5FD1C51D4A2397BD1CDC1700F7E7B37B259F9B2357535"
+        },
+        {
+          "relative": "prompts\\stumbles.md",
+          "sha256": "BF103612B7B78DCD160FA7B6A58E31A5349334ADB4092781471016EF07619E27"
+        },
+        {
+          "relative": "references\\context-safety.md",
+          "sha256": "39C5259DE8416F309B9D4E7A559FB7F5F1DB52D865522EFC87635F7669EDB334"
+        },
+        {
+          "relative": "references\\github-issues.md",
+          "sha256": "0444C209FA848CDA33636FA45E834C399C31D4E3B3D86C01EE7E1123D9C6048F"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\redaction-policy.md",
+          "sha256": "6ECA8A3A16B174F2A4505FAFB7D55B756904EA176147BDE2AAF2E5AD5333D89B"
+        },
+        {
+          "relative": "references\\session-discovery.md",
+          "sha256": "383801D792EED50A7049F7C39997DEE9D12945A7618BFFA1FF9C0C1256F8D4CC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        },
+        {
+          "relative": "templates\\bundle-README.md",
+          "sha256": "75E2D9C9DC1BF2AB6818C0D36363D08A4B162F8F8D8EA5C8AB30D7AF40B7F383"
+        },
+        {
+          "relative": "templates\\case.md",
+          "sha256": "8E5ECB243D01A9A4D6189F6EC3F179BD42A6CB28A6E781345C097E8237515AC4"
+        },
+        {
+          "relative": "templates\\issue.md",
+          "sha256": "F8A6D000E412BE1159BBFD947C5475C9522512E4B13335DBC6B64BD99AE03E5D"
+        },
+        {
+          "relative": "templates\\report.md",
+          "sha256": "5844320CD9CFEFB064EC1249B1DEAB91E6157E2199B911A30459E082035CE987"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 5,
+      "item": "dispatching-parallel-agents",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\dispatching-parallel-agents",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\dispatching-parallel-agents",
+      "status": "moved_verified",
+      "files": 3,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "FC9875393A1DCD6B649BF22D9FF62F3A02080C0CE365932451BC73E63D87DDAB"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 6,
+      "item": "executing-plans",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\executing-plans",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\executing-plans",
+      "status": "moved_verified",
+      "files": 5,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "A54E395EB299984F45A8444A241C873D2CE91CCE8414CA298C3CF86E4A98B8BD"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        },
+        {
+          "relative": "scripts\\task-done",
+          "sha256": "5896EBBB8C2A942A523913DE6975B2A6334A27D0B9BC128CEDAD83BD2737792A"
+        },
+        {
+          "relative": "scripts\\task-start",
+          "sha256": "5EB4DB5457BFE9D201712FD7322896AFD2F7F12B277B563900331B4E2DDFB114"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 7,
+      "item": "finishing-a-development-branch",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\finishing-a-development-branch",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\finishing-a-development-branch",
+      "status": "moved_verified",
+      "files": 3,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "2B8CB8F9CABB1951BE2EBB1D72DA90D3313F7E3705FD25F5B8F2D0432E139BAE"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 9,
+      "item": "humanizer",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\humanizer",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\humanizer",
+      "status": "moved_verified",
+      "files": 14,
+      "hashes": [
+        {
+          "relative": "AGENTS.md",
+          "sha256": "DE84A449DA400454DF1225DDB1CED728C35BF0BE7811B239E3370C7DBE1F4E69"
+        },
+        {
+          "relative": "CHANGELOG.md",
+          "sha256": "B3591FE203429F1A6BD2F713C79272E9A8E58A487843D0908D2BBE0700722AFA"
+        },
+        {
+          "relative": "LICENSE",
+          "sha256": "4AC4810254AB36D45419141AEB8E69BF50652CFAFE5B2DAB947D06D44E5CBF96"
+        },
+        {
+          "relative": "README.md",
+          "sha256": "A07A054F230DCA1E3D25E32BA6C808905B743CC6FA56BF8B6868CEE0B12A0432"
+        },
+        {
+          "relative": "SKILL.md",
+          "sha256": "0612F1DFB1672B0EA9B97E139BF1F06CABE98D8B27424FE8FF01E1FB4CC99CAD"
+        },
+        {
+          "relative": ".claude-plugin\\marketplace.json",
+          "sha256": "E539740285B660D2288A38B6D9B237396C6769828C671C46B9F91E760DB6CC29"
+        },
+        {
+          "relative": ".claude-plugin\\plugin.json",
+          "sha256": "054C0AFEEB03C12F01A7F156DA949EDFDEC3A2B756588F5FF4EE7357B0C07F6A"
+        },
+        {
+          "relative": ".cursor-plugin\\plugin.json",
+          "sha256": "D1E0B50594CF4BBE57FD164B771B401713A91B76B5A213EBE8F4558BB2036546"
+        },
+        {
+          "relative": ".github\\ISSUE_TEMPLATE\\config.yml",
+          "sha256": "CB7E95DE7606D07654024C8D47916796B307033E23DDB2B0A821A9BF89E999EF"
+        },
+        {
+          "relative": ".github\\ISSUE_TEMPLATE\\new-pattern.yml",
+          "sha256": "7436D578FA0056A09DA5DA6DA950A03CB49F3CE27CF268AE295EB3D7CA19F604"
+        },
+        {
+          "relative": ".github\\ISSUE_TEMPLATE\\rewrite-problem.yml",
+          "sha256": "ECFE5E82C5B6D44683E0CB63CFAD117DFDD16E30CC6F03510EF335414EEA4947"
+        },
+        {
+          "relative": ".github\\workflows\\validate.yml",
+          "sha256": "F2D6A8780FB0B3CF6FA7D2FFCCD72D0FC8BEE29B4E63EA0FD65924712C9055FD"
+        },
+        {
+          "relative": "agents\\openai.yaml",
+          "sha256": "9D87FF83149A04F86A372948B8EE35FA249DE20923867BBC2A49304290AAD736"
+        },
+        {
+          "relative": "scripts\\validate-package.py",
+          "sha256": "941BD99E52B2BA21449719BB7969607AC8117E3DC173D0C9DFE64FD274C65938"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 11,
+      "item": "json-canvas",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\json-canvas",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\json-canvas",
+      "status": "moved_verified",
+      "files": 2,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "788535277BC5F460BEC97D467615A2CE97E2957DAD1B1FC961E645F64C827128"
+        },
+        {
+          "relative": "references\\EXAMPLES.md",
+          "sha256": "C6FCE2E043F98D5BF3C52662A0261AA3E12D5EABBB37585E3C4C52A968B109A1"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 12,
+      "item": "obsidian-bases",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\obsidian-bases",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\obsidian-bases",
+      "status": "moved_verified",
+      "files": 2,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "83BC04A2C306A61C216C0CFECBB4D032CC763896623D229CD2A6DAB811083032"
+        },
+        {
+          "relative": "references\\FUNCTIONS_REFERENCE.md",
+          "sha256": "0D0CD128BC5070EF1ABA2BAEF41BD55B31B3F56961975934D7A5172396CA0006"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 13,
+      "item": "obsidian-cli",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\obsidian-cli",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\obsidian-cli",
+      "status": "moved_verified",
+      "files": 1,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "B4D398C64E086D84CFD51BED896B9BDC243A5FD8A9EA2815A261CD9CB4DA3155"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 14,
+      "item": "obsidian-markdown",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\obsidian-markdown",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\obsidian-markdown",
+      "status": "moved_verified",
+      "files": 4,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "EF409B7EEDA59E2E0C5CDEAD334DCC997DC9459D689859B3A610FFA9AF5CABC5"
+        },
+        {
+          "relative": "references\\CALLOUTS.md",
+          "sha256": "3B8F63C90F692AC40E6989FDA2AB2FED3BB482FF515176B40D18DAC8402E516B"
+        },
+        {
+          "relative": "references\\EMBEDS.md",
+          "sha256": "D9F9F485DED6A32B4D76E59EADDC442BD09FAF851D755F052759FC9AB1A25B2C"
+        },
+        {
+          "relative": "references\\PROPERTIES.md",
+          "sha256": "28DA58935CA3296F30B7E9AA25F2A695963DC0A3E4062638428D3BCB2094562A"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 15,
+      "item": "receiving-code-review",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\receiving-code-review",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\receiving-code-review",
+      "status": "moved_verified",
+      "files": 3,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "BBE7EB200AC9FEB97F2620308BA8ECB517837465009A858BC5687695F3D0A6AE"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 16,
+      "item": "requesting-code-review",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\requesting-code-review",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\requesting-code-review",
+      "status": "moved_verified",
+      "files": 4,
+      "hashes": [
+        {
+          "relative": "code-reviewer.md",
+          "sha256": "5E618B2A89AB9616112791B5245957948A1A26079CA6C30339F42FB378411E32"
+        },
+        {
+          "relative": "SKILL.md",
+          "sha256": "C12EDF804D7B064661DE587920B92768AD650FC5B61917C795436637B7F00740"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 17,
+      "item": "subagent-driven-development",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\subagent-driven-development",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\subagent-driven-development",
+      "status": "moved_verified",
+      "files": 9,
+      "hashes": [
+        {
+          "relative": "implementer-prompt.md",
+          "sha256": "BDA42C4969D1578EAB92BC1CCA864397203329D22DBC143A8C6A896ADB548B42"
+        },
+        {
+          "relative": "re-review-prompt.md",
+          "sha256": "EA2D362871C1269BA44F3D5E4C6D7B6785DA7572E6B7E27B7C5F92443F55D0AC"
+        },
+        {
+          "relative": "SKILL.md",
+          "sha256": "5B516908C4345A9C1B4D93A06657A17F5CFD6D7F997B43DEE0E270D15657B4AD"
+        },
+        {
+          "relative": "task-reviewer-prompt.md",
+          "sha256": "F1431B65A6E63E5FBADDDA1922B4C97375CD4FEEECF9ECDD9A9391FF1C405843"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        },
+        {
+          "relative": "scripts\\review-package",
+          "sha256": "F617C52C538F09B13BD19A301CF5201584DCFD7AAF552EEDEFB3405F3F90FE0E"
+        },
+        {
+          "relative": "scripts\\sdd-workspace",
+          "sha256": "6E36A399687199DC11B9D7BD3038082D6A4637E7AD373B674DBB09F8EE1F7EEA"
+        },
+        {
+          "relative": "scripts\\task-brief",
+          "sha256": "51BB3FB73B07F85FD19D8F29F178451F7557B8C3D084A85835C5BC6BC15869F3"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 18,
+      "item": "systematic-debugging",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\systematic-debugging",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\systematic-debugging",
+      "status": "moved_verified",
+      "files": 8,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "88E85ED9E416423551796C92BE8B083D61F26070452E02EC58653A5B106D60D3"
+        },
+        {
+          "relative": "references\\condition-based-waiting-example.ts",
+          "sha256": "0602407671F97439ACC9E3CC2FE27AD42A22EB0DBCA62F56D610FB223DAADB0F"
+        },
+        {
+          "relative": "references\\condition-based-waiting.md",
+          "sha256": "02AA854BD9E761F275E1450D7136BA60F1A4D103FE94B552FDCE822DD3C99506"
+        },
+        {
+          "relative": "references\\defense-in-depth.md",
+          "sha256": "9407EFCBD028A5EC45EDFDF6692B988716C0A7B34D1FB5E05D60146171D8041E"
+        },
+        {
+          "relative": "references\\find-polluter.sh",
+          "sha256": "31AA8BBAB625FFAE398C357DE90FE3F4CB8F6DD39B23101BF81EF6DD53638B7C"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\root-cause-tracing.md",
+          "sha256": "94FAB21B3862B04DA706B6CE0E4F24A992311695E547BB11E963B00DE61B1D03"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "8238881CCFA456B7E4CE7AA79911777831E1DF541B1EA8C6A8B5D135181B796A"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 19,
+      "item": "test-driven-development",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\test-driven-development",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\test-driven-development",
+      "status": "moved_verified",
+      "files": 4,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "90FA0021A53360948FD1EB67799821D549EBEF036FFAD0AD5CEB7D8585ABF159"
+        },
+        {
+          "relative": "writing-good-tests.md",
+          "sha256": "03A6786A6C0C5D334F27778356D2ACA478D10666FEB2D3C7B6042D82344BDDBF"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 20,
+      "item": "using-git-worktrees",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\using-git-worktrees",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\using-git-worktrees",
+      "status": "moved_verified",
+      "files": 3,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "49AC647DD5A65E0E79F87D346005DDE8CE27C6886BCCF966164917EE8BB4DF80"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 21,
+      "item": "using-superpowers",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\using-superpowers",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\using-superpowers",
+      "status": "moved_verified",
+      "files": 10,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "C1F3548B0A7E8C76CC38BF137C05258A3A77886CF9CDC10A7D85D03A8AF83275"
+        },
+        {
+          "relative": "references\\antigravity-tools.md",
+          "sha256": "343AF08ABAB2936A4063399EC0908A0D3A129F66A54A42EF1F14E9B9EDC0B8FA"
+        },
+        {
+          "relative": "references\\claude-code-tools.md",
+          "sha256": "0C369ED56079D06B64FD75F73093152E990BA64E3A2D1B4E5CEF27FD128A0025"
+        },
+        {
+          "relative": "references\\codex-tools.md",
+          "sha256": "9CA30EB7250C029CC76EA2C33EAA55DE8AA716D4906136F4FCE753E8ABC50862"
+        },
+        {
+          "relative": "references\\gemini-tools.md",
+          "sha256": "07F4B5DACBE806B978ED132E0A64454A7118CE8F77E9BEC053053AE5BA88D4A4"
+        },
+        {
+          "relative": "references\\hermes-tools.md",
+          "sha256": "32C262E22DA268AC1BC33F2B318E597E78539F10BE170A7453DEE07FF432F36B"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\muse-tools.md",
+          "sha256": "7FC9B703682C55B453B1ED56A498D99DF2293242CDBD9B53AF15F8982E513969"
+        },
+        {
+          "relative": "references\\pi-tools.md",
+          "sha256": "FB6DB6991508E958B0117861B6107FB1CAFCC752210C7CFE66DEF13F1E34D371"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 22,
+      "item": "vault-day-close",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\vault-day-close",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\vault-day-close",
+      "status": "moved_verified",
+      "files": 1,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "2ED00134DBFC743F7258DCDF3CB5841D26AB992A7065ED945237DF948C76F524"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 23,
+      "item": "verification-before-completion",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\verification-before-completion",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\verification-before-completion",
+      "status": "moved_verified",
+      "files": 3,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "8F15B9F67E566F286D531B7DA77052F4009B5065FD8EDFCB659C9F837EEBB4A4"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "658DBAFEDFB2D70C5802980A98F5C207EA7123288B48B0034988F979D524B04E"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 24,
+      "item": "writing-plans",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\writing-plans",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\writing-plans",
+      "status": "moved_verified",
+      "files": 3,
+      "hashes": [
+        {
+          "relative": "SKILL.md",
+          "sha256": "2FDFF5B8716EF28A5E93BA21DDC08B842CD863E783B3843B6C247D57452C6861"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "로컬 스킬 24개",
+      "row": 25,
+      "item": "writing-skills",
+      "source": "C:\\vault\\koreanwithji_vault\\.agents\\skills\\writing-skills",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\skills\\writing-skills",
+      "status": "moved_verified",
+      "files": 9,
+      "hashes": [
+        {
+          "relative": "anthropic-best-practices.md",
+          "sha256": "26F2FC231B4BEA7AD7EC034A61615F8FE8BFFF6C436AD77E60D5734BE16A6A15"
+        },
+        {
+          "relative": "graphviz-conventions.dot",
+          "sha256": "B18A02773875F6C7B92F2A260E88550C92A62549B0009DF9D680F7E9541D0ECC"
+        },
+        {
+          "relative": "persuasion-principles.md",
+          "sha256": "73FFB3D9D9F510F82296DE0E3509BDCC1BAE13379EF56354877E3F33303B44BF"
+        },
+        {
+          "relative": "render-graphs.js",
+          "sha256": "7F558E910DC0DC1C24A30FDA9B0595643399F16014F8CD12B56E1EF1AD113A84"
+        },
+        {
+          "relative": "SKILL.md",
+          "sha256": "7CD42097451E722105C7DF4600AAC23EEC4E4882C049AC8AF34F2AC55CE30414"
+        },
+        {
+          "relative": "testing-skills-with-subagents.md",
+          "sha256": "2399AD72D50AE0F986B8C61BD2B8309F4DEBD102DE02C240C096B528FDA17158"
+        },
+        {
+          "relative": "examples\\CLAUDE_MD_TESTING.md",
+          "sha256": "3648A10C414546FDEA2EAE3A8F21345CDA2234ACA54A084042E5F933A6B332CA"
+        },
+        {
+          "relative": "references\\LICENSE.txt",
+          "sha256": "0DA33ED814EE87E72DB078F489C4447AF72F13D9F25D9E17476F32EFD77705FC"
+        },
+        {
+          "relative": "references\\SOURCE.md",
+          "sha256": "5DBF314A05992A9D5DCF525CF8181748CF96EA9A440119590249FF1A7491F6B7"
+        }
+      ]
+    },
+    {
+      "sheet": "workspace 밖의 공통 설정·메모리 16개",
+      "row": 2,
+      "item": "C/AGENTS.md",
+      "source": "C:\\Users\\Jigyo\\.codex\\AGENTS.md",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\outside_workspace\\codex\\AGENTS.md",
+      "status": "moved_verified",
+      "files": 1,
+      "hashes": [
+        {
+          "relative": "",
+          "sha256": "E7A71F16387CC8732D782A0A4EFD284C13BE5D3AFFCF4D0FFA8EF2C80CF4FE1D"
+        }
+      ]
+    }
+  ],
+  "additionalClaudeMemories": [
+    {
+      "source": "C:\\Users\\Jigyo\\.claude\\projects\\c--Users-Jigyo-Desktop-AI------02----AI-Lab-05------1------------01-------yt-script-mvp\\memory\\feedback_cmd_only.md",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\outside_workspace\\claude\\projects\\c--Users-Jigyo-Desktop-AI------02----AI-Lab-05------1------------01-------yt-script-mvp\\memory\\feedback_cmd_only.md",
+      "sha256": "D694506BA9A6025A10CBBAE4114AF82AA2DABEB67ED4335D06AD12A42CDC2D43",
+      "status": "moved_verified"
+    },
+    {
+      "source": "C:\\Users\\Jigyo\\.claude\\projects\\c--Users-Jigyo-Desktop-AI------02----AI-Lab-05------1------------01-------yt-script-mvp\\memory\\MEMORY.md",
+      "destination": "C:\\vault\\koreanwithji_vault\\audit_1022\\outside_workspace\\claude\\projects\\c--Users-Jigyo-Desktop-AI------02----AI-Lab-05------1------------01-------yt-script-mvp\\memory\\MEMORY.md",
+      "sha256": "86E09EA631FC1B2A2269A88424C15147A9CD9EBDD232FC568D7D01F38E7FAAC7",
+      "status": "moved_verified"
+    }
+  ],
+  "totalArchivedFiles": 137
+}

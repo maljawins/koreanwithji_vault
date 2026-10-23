@@ -1,0 +1,29 @@
+{
+  "request_fingerprint": "1c13308e5bb422b3fdeea177e1bccc62b7b000e2eeb4f76be44aa7be17fbd183",
+  "result": {
+    "passed": true,
+    "issues": []
+  },
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 16,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 49214,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 5214
+      }
+    ],
+    "thoughts_token_count": 1747,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 50977,
+    "traffic_type": null
+  }
+}

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-19-2"
+---
 # Go Billy | Learn Korean Ep. 67: 수록
 
 ## Metadata

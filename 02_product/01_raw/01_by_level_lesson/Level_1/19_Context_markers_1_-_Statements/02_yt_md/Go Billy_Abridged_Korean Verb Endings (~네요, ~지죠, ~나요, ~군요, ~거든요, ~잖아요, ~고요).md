@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-3"
+---
 # Go Billy | Korean Verb Endings (~네요, ~지/죠, ~나요, ~군요, ~거든요, ~잖아요, ~고요) | Live Class Abridged
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-16-3"
+---
 Lesson 159: Abbreviating ~하지 않다 (~치 않다 and ~지 않다)
 
 Introduction

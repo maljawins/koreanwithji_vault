@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-14-1"
+---
 # Go Billy | "First" 먼저, 일단, 우선, ~부터 (하다) | Live Class Abridged
 
 ## Metadata

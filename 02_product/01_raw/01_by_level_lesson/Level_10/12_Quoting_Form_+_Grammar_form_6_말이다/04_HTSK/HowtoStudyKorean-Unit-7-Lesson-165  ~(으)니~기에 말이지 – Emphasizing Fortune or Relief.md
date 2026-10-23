@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-10-12-3"
+---
 Lesson 165: ~(으)니/~기에 말이지 – Emphasizing Fortune or Relief
 
 Introduction

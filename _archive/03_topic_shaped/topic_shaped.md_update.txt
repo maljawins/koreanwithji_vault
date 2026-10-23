@@ -1,0 +1,57 @@
+topic_shaped_plan.md 업데이트
+
+■ topic_shaped 핵심 목적: 각 출처에서 언급되는 내용을 체계적으로 정리하여 무엇을 어떻게 가르치는지 쉽게 파악하게함. (Ji가 직접 읽어보고)
+ - 이를 토대로 강의의 structure를 짜고 설명 방식을 구상할 수 있도록 함.
+
+기존 topic_shaped_plan.md에서 수정할 사항
+
+1.  ## 결론:
+ - 설명의 채택·비채택 이유는 굳이 기록하지 않는다. (range_set 단계에서 이미 진행함.)
+
+2. ## 현재 상태와 착수 순서:
+ - 굳이 몇개의 레슨이 어디까지 진행됐는지 topic_shaped_plan.md에 기록할 필요없다.
+  > 필요할 때 lesson_spec_tracking.xlsx 확인하면 된다.
+ - topic_shaped 입력자격 : 단순하게 topic_raw가 완료된 범위이다. 로 수정
+ - 첫 사례는 Hangul-1이 아니라 1-1이다.
+
+3. ## 레슨별 작업 기준
+ - 발췌 내용 organize
+   - topic_raw에서 발췌된 내용을 논리적으로 구조에 맞게 organize.
+    > 예를 들어 word order에 대한 설명은 word order의 설명끼리 모아놓는다. (Ji-1-1-1의 word order 설명, YT-1-1-1에서의 word order 설명, YT-1-1-3에서의 word order 설명 etc.)
+   - 설명 선택을 임의로 하지 않는다. 동일 주제에 대한 내용 여러 개 중 1개만 채택하지 않고 Ji가 직접 설명을 조합하거나 새로운 설명을 할 수도 있다.
+   - 영상 순서 구성: 새로 업데이트한 lesson_design_method의 Skeleton → Flesh, CLEAR. 4MAT응용을 따른다.
+
+
+
+ 2) 
+
+
+ - 이 순서는 [[lesson_design_method]]의 Skeleton → Flesh 원칙과 맞아야 한다.
+
+
+
+
+3. 배치 순서 (1-1 예시)
+ 1) GOAL
+ - 무엇을 배울지 > 한국어라는 언어가 전체적으로 어떻게 기능하는지 큰 그림을 배울 것.
+ - 배우는 목표와 이유 > 본격적으로 한국어 학습에 앞서 한국어 문장이 어떻게 형성되는지 보는
+
+ 2) Calibrate - 얼마나 학생이 지금 주제에 대해 알고 있는지 교정한다.
+ - 기본적으로 커리큘럼 순서대로 전에 배운 건 이미 학생이 알고 있다고 가정한다. (예: 1-1 가르칠 때 학생이 이미 한글은 알고 있다고 가정)
+ - 아직 cover안 된 주제를 언급할 경우 disclaimer 추가하고 **간단하게** 해당 주제를 설명한다. 그리고 어느 레슨에 배우게 될 지 안내해준다.
+ 
+
+
+(예: 1-1에서의 particle 설명, )
+
+3. Teaching point
+ - 
+
+
+
+
+
+
+ - 1-1 How Korean works를 예로 들것
+
+

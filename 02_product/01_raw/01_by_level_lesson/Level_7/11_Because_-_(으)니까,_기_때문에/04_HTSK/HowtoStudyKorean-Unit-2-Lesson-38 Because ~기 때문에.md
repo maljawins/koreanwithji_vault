@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-11-1"
+---
 Lesson 38: Because: ~기 때문에
 
 Introduction

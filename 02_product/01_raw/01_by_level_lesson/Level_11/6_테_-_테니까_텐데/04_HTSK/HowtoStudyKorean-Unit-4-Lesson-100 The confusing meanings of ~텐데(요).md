@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-6-1"
+---
 Lesson 100: The confusing meanings of ~텐데(요)
 
 Introduction

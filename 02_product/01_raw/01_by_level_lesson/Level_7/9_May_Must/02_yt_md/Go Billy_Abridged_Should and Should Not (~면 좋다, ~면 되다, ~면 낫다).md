@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-9-1"
+---
 # Go Billy | Should and Should Not (~면 좋다, ~면 되다, ~면 낫다) | Live Class Abridged
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-1-10"
+---
 # Miss Vicky | Let’s Practice Thinking in Korean & Boost Your Speaking! 🚀🚀 (Beginner-Friendly)
 
 ## Metadata

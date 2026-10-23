@@ -1,0 +1,122 @@
+model = "gpt-6-astra"
+model_reasoning_effort = "xhigh"
+service_tier = "default"
+notify = [ "C:\\Users\\Jigyo\\AppData\\Local\\OpenAI\\Codex\\runtimes\\cua_node\\2fbcd108736f9c20\\bin\\node_modules\\@oai\\sky\\bin\\windows\\codex-computer-use.exe", "turn-ended" ]
+[desktop]
+followUpQueueMode = "steer"
+conversationDetailMode = "STEPS_PROSE"
+sansFontSize = 16
+codeFontSize = 14
+ambient-suggestions-enabled = true
+appearanceTheme = "dark"
+external-agent-import-sync-enabled = true
+usePointerCursors = true
+appearanceDiffMarkerStyle = "color"
+
+[desktop.appearanceDarkChromeTheme]
+accent = "#3a83f7"
+accentSource = "chatgpt"
+contrast = 100
+ink = "#ffffff"
+opaqueWindows = false
+surface = "#181818"
+
+[desktop.appearanceDarkChromeTheme.fonts]
+
+[desktop.appearanceDarkChromeTheme.semanticColors]
+diffAdded = "#40c977"
+diffRemoved = "#fa423e"
+skill = "#ad7bf9"
+
+[marketplaces.openai-bundled]
+source_type = "local"
+source = '\\?\C:\Users\Jigyo\.codex\.tmp\bundled-marketplaces\openai-bundled'
+
+[marketplaces.openai-primary-runtime]
+source_type = "local"
+source = '\\?\C:\Users\Jigyo\.cache\codex-runtimes\codex-primary-runtime\plugins\openai-primary-runtime'
+
+[plugins."codex-app-tools@openai-bundled"]
+enabled = true
+
+[plugins."browser@openai-bundled"]
+enabled = true
+
+[plugins."unified-computer-use@openai-bundled"]
+enabled = true
+
+[plugins."code-review@openai-bundled"]
+enabled = true
+
+[plugins."visualize@openai-bundled"]
+enabled = true
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."pdf@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."template-creator@openai-primary-runtime"]
+enabled = true
+
+[plugins."chrome@openai-bundled"]
+enabled = true
+
+[plugins."computer-use@openai-bundled"]
+enabled = true
+
+[mcp_servers.node_repl]
+args = []
+command = 'C:\Users\Jigyo\AppData\Local\OpenAI\Codex\runtimes\cua_node\2fbcd108736f9c20\bin\node_repl.exe'
+env_vars = ["BROWSER_USE_ACCESS_EXECUTOR_ID", "BROWSER_USE_ACCESS_PIPE_PATH", "BROWSER_USE_ACCESS_VERIFYING_IDENTITY", "CODEX_WINDOWS_REGISTERED_CORE"]
+startup_timeout_sec = 120
+
+[mcp_servers.node_repl.env]
+NODE_REPL_NATIVE_PIPE_CONNECT_TIMEOUT_MS = "1000"
+NODE_REPL_NODE_MODULE_DIRS = 'C:\Users\Jigyo\AppData\Local\OpenAI\Codex\runtimes\cua_node\2fbcd108736f9c20\bin\node_modules'
+NODE_REPL_NODE_PATH = 'C:\Users\Jigyo\AppData\Local\OpenAI\Codex\runtimes\cua_node\2fbcd108736f9c20\bin\node.exe'
+NODE_REPL_TRUSTED_CODE_PATHS = 'C:\Users\Jigyo\.codex;C:\Users\Jigyo\AppData\Local\OpenAI\Codex\runtimes\cua_node\2fbcd108736f9c20\bin\node_modules'
+CODEX_HOME = 'C:\Users\Jigyo\.codex'
+BROWSER_USE_AVAILABLE_BACKENDS = "chrome,iab,mcpapps"
+BROWSER_USE_TINYSKY_ENABLED = "1"
+NODE_REPL_INSTRUCTIONS_USE_CASE_BROWSER = ""
+NODE_REPL_INSTRUCTIONS_USE_CASE_CHROME = ""
+BROWSER_USE_CODEX_APP_BUILD_FLAVOR = "prod"
+BROWSER_USE_CODEX_APP_VERSION = "26.1016.51333"
+NODE_REPL_TRUSTED_SERVICES = '{"browser":"C:/Users/Jigyo/.codex/plugins/cache/openai-bundled/browser/26.1016.51333/scripts/browser-service.mjs","sky":"@oai/sky/service"}'
+SKY_CUA_NATIVE_PIPE = "1"
+SKY_CUA_NATIVE_PIPE_DIRECTORY = '\\.\pipe\codex-computer-use-02036387-1e4e-4ac1-ab0a-0aafe6419ad7'
+CODEX_CLI_PATH = 'C:\Users\Jigyo\AppData\Local\OpenAI\Codex\bin\6257d9e8f63c0f2b\codex.exe'
+NODE_REPL_UNTRUSTED_ENV_ALLOWLIST = "CODEX_WINDOWS_REGISTERED_CORE"
+
+[windows]
+sandbox = "elevated"
+
+[features]
+memories = true
+
+[memories]
+generate_memories = true
+use_memories = true
+
+[projects.'c:\vault\koreanwithji_vault']
+trust_level = "trusted"
+
+[hooks.state.'C:\vault\koreanwithji_vault\.codex\hooks.json:user_prompt_submit:0:0']
+trusted_hash = "sha256:d14ee2b51f4c689c5d9125d0de70df4e9c3c300c493007635515fbb38b53cd10"
+
+[hooks.state.'C:\vault\koreanwithji_vault\.codex\hooks.json:stop:0:0']
+trusted_hash = "sha256:c92e1f09e15031e2059b118b36e6c93a784be78f76faa8e53e90fb10c07df8b4"
+
+[hooks.state.'c:\vault\koreanwithji_vault\.codex\hooks.json:user_prompt_submit:0:0']
+trusted_hash = "sha256:d14ee2b51f4c689c5d9125d0de70df4e9c3c300c493007635515fbb38b53cd10"
+
+[hooks.state.'c:\vault\koreanwithji_vault\.codex\hooks.json:stop:0:0']
+trusted_hash = "sha256:c92e1f09e15031e2059b118b36e6c93a784be78f76faa8e53e90fb10c07df8b4"

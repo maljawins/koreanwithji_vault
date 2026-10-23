@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-7-1"
+---
 Lesson 48: Regardless of… : ~아/어도
 
 Introduction

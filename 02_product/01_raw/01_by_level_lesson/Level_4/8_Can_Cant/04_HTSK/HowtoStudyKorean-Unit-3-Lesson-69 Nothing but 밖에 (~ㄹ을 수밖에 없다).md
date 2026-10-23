@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-4-8-4"
+---
 Lesson 69: Nothing but: 밖에 (~ㄹ/을 수밖에 없다)
 
 Introduction

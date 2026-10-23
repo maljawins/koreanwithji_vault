@@ -1,0 +1,11 @@
+{
+  "fingerprint": "96edb2b053132cc856c122c81d91a3de925d089aa4023f8ad114cbef18bbbba2",
+  "video_id": "YZjWuFVSjjM",
+  "settings": {
+    "whisper_model": "large-v3",
+    "language": null,
+    "device": "auto",
+    "sample_fps": 2,
+    "max_images": 60
+  }
+}

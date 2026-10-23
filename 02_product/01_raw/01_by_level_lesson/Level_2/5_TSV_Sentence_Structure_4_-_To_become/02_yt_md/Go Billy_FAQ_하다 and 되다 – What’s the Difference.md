@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-5-2"
+---
 # Go Billy | 하다 and 되다 – What’s the Difference? | Korean FAQ
 
 ## Metadata

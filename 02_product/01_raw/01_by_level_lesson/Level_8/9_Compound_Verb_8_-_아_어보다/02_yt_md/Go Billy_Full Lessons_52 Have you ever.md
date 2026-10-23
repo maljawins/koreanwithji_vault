@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-9-6"
+---
 # Go Billy | Learn Korean Ep. 52: "Have you ever?"
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-11-12"
+---
 # Korean with Miss Vicky 빅키쌤 | Korean Passive Verbs #4 | Vocab Class (-아/어지다, -되다, -받다, 당하다)
 
 ## Metadata

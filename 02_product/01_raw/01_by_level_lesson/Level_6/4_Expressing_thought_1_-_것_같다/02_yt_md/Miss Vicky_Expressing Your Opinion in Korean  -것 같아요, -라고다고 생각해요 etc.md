@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-4-4"
+---
 # Miss Vicky | Expressing Your Opinion in Korean : -것 같아요, -라고/다고 생각해요 etc
 
 ## Metadata

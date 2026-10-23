@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-12-15-1"
+---
 Lesson 184: ~(이)나마: Accepting an Unsatisfactory Situation
 
 Introduction

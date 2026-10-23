@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-3-8"
+---
 # Go Billy | What happened to the ㄴ/ㄹ? Simplifying 두음법칙 | Korean FAQ
 
 ## Metadata

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "SCREEN_000",
+    "time": 0.0,
+    "file": "frames\\000.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_001",
+    "time": 3.5,
+    "file": "frames\\001.jpg",
+    "ocr": "IF\nPerform\nConnect\n4MAT\nRefine\nAttend\nExtend\nInage\nSKILLS\nHow?\nPractice\nInform\nWhat\nEXPO\nWhat\nwhy\nf\nwhat\nHow"
+  },
+  {
+    "id": "SCREEN_002",
+    "time": 10.0,
+    "file": "frames\\002.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_003",
+    "time": 11.5,
+    "file": "frames\\003.jpg",
+    "ocr": ""
+  }
+]

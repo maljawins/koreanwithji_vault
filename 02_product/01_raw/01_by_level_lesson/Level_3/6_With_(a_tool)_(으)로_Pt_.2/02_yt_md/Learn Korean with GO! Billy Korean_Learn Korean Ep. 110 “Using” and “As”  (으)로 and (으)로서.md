@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-6-4"
+---
 # Learn Korean with GO! Billy Korean | Learn Korean Ep. 110: “Using” and “As” | (으)로 and (으)로서
 
 ## Metadata

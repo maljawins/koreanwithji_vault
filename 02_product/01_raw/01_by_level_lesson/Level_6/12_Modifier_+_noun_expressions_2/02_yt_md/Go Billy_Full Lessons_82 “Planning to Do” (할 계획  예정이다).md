@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-12-4"
+---
 # Go Billy | Learn Korean Ep. 82: “Planning to Do”
 
 ## Metadata

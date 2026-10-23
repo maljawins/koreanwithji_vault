@@ -1,0 +1,111 @@
+{
+  "request_fingerprint": "057475b3f2d716d8526fe16e9b4663505c32081ea5246df644798653600adc5d",
+  "result": {
+    "observations": [
+      {
+        "kind": "method",
+        "title": "4MAT 프레임워크와 4분면 구조화 원리",
+        "content": "발표자는 1970년대 후반 Dr. Bernice McCarthy가 개발한 4MAT 프레임워크를 소개한다. 모든 사람이 4가지 방식으로 학습할 수 있으나 특정 사분면에 더 우세한 경향이 있다고 설명하며, 4개 사분면 전체를 아우르도록 생각을 구조화하면 자신과 같은 방식으로 생각하는 25%뿐만 아니라 청중 전체(100%)에 도달할 수 있다고 주장한다. 화면에는 EXPERIENCING, CONCEPTUALISING, APPLYING, REFINING 및 MEANING(Why?), CONCEPTS(What?), SKILLS(How?), ADAPTATION(If?)으로 나뉜 원형 도표가 제시된다.",
+        "basis": "speaker_claim",
+        "time": 46.5,
+        "audio_ids": [
+          "A00008",
+          "A00009",
+          "A00010",
+          "A00011",
+          "A00012"
+        ],
+        "quote": "This framework is called Format. It was developed by Dr. Bernice McCarthy in the late 1970s.",
+        "frame_ids": [
+          "V00000093",
+          "V00000098",
+          "V00000114",
+          "V00000119",
+          "V00000126",
+          "V00000128",
+          "V00000136",
+          "V00000143"
+        ]
+      },
+      {
+        "kind": "method",
+        "title": "사분면 1(Quadrant 1: Why) 설명법 - 참여 유도와 질문으로 시작",
+        "content": "사분면 1(Quadrant 1)은 'Why'에 해당하며 상상형 학습자(imaginative learners)를 대상으로 한다. 이들은 개인적 연결과 관련성(personal connection, relevance)을 필요로 하며 '이것이 나에게 왜 중요한가?(why does this matter to me)'를 묻는다. 따라서 이들에게 도달하기 위해서는 시작 단계에서부터 참여(engagement)를 이끌어내야 하며, 화자 자신이 아닌 청중에 초점을 맞춰 질문을 던져야 한다고 설명한다. 발표자는 화이트보드에 'Quadrant 1: Why', 'imaginative', 'why does this matter?', 'Ask questions'를 판서하며 설명한다.",
+        "basis": "speaker_claim",
+        "time": 70.38,
+        "audio_ids": [
+          "A00012",
+          "A00013",
+          "A00014",
+          "A00015"
+        ],
+        "quote": "quadrant one is the why these are imaginative learners they need personal connection relevance their question is why does this matter to me",
+        "frame_ids": [
+          "V00000144",
+          "V00000148",
+          "V00000150",
+          "V00000160",
+          "V00000170",
+          "V00000172",
+          "V00000177",
+          "V00000185",
+          "V00000186"
+        ]
+      },
+      {
+        "kind": "example",
+        "title": "사분면 1 도달을 위한 질문 및 거수 유도 예시",
+        "content": "사분면 1(Why) 학습자의 참여를 이끌어내기 위해 던질 수 있는 질문의 구체적인 예시로, '여기 계신 분 중 팀의 우선순위를 일치시키는 데 어려움을 겪어보신 분 계신가요? 손들어 보세요(who here has ever struggled to keep a team aligned on priorities? Raise your hands)'라는 질문과 함께 손을 드는 동작(거수 유도)을 시범 보인다.",
+        "basis": "demonstration",
+        "time": 91.18,
+        "audio_ids": [
+          "A00015",
+          "A00016",
+          "A00017"
+        ],
+        "quote": "So for example, you might ask, who here has ever struggled to keep a team aligned on priorities? Raise your hands.",
+        "frame_ids": [
+          "V00000186",
+          "V00000193",
+          "V00000195"
+        ]
+      },
+      {
+        "kind": "method",
+        "title": "사분면 2(Quadrant 2: What)의 대상과 요구사항",
+        "content": "사분면 2(Quadrant 2)는 'What'에 해당하며, 분석형 학습자(analytical learners)를 대상으로 한다. 이들은 사실(facts)과 데이터(data)를 필요로 한다고 밝힌다. 발표자는 화이트보드에 'Quadrant 2:'를 적기 시작한다.",
+        "basis": "speaker_claim",
+        "time": 97.34,
+        "audio_ids": [
+          "A00017"
+        ],
+        "quote": "Quadrant two is the what. These are for our analytical learners. They need facts, data,",
+        "frame_ids": [
+          "V00000196"
+        ]
+      }
+    ]
+  },
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1258,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 47888,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 3888
+      }
+    ],
+    "thoughts_token_count": null,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 49146,
+    "traffic_type": null
+  }
+}

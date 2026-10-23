@@ -1,0 +1,362 @@
+[
+  {
+    "id": "SCREEN_000",
+    "time": 0.0,
+    "file": "frames\\000.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_001",
+    "time": 3.5,
+    "file": "frames\\001.jpg",
+    "ocr": "TION\n4 M AT\nILL\nWhy\nWhat\nWhat\nMoHt"
+  },
+  {
+    "id": "SCREEN_002",
+    "time": 12.5,
+    "file": "frames\\002.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_003",
+    "time": 22.5,
+    "file": "frames\\003.jpg",
+    "ocr": "Why Lucid\nMost Intelligent\nAutomales the creation of visuals\nProvides unparalleled clanty with\ndate-backedvisualizations\nDives productivity wit innoations like\nVisual Activities and Collaborative Al\nVeo"
+  },
+  {
+    "id": "SCREEN_004",
+    "time": 33.5,
+    "file": "frames\\004.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_005",
+    "time": 46.5,
+    "file": "frames\\005.jpg",
+    "ocr": "framework\n4MA"
+  },
+  {
+    "id": "SCREEN_006",
+    "time": 57.0,
+    "file": "frames\\006.jpg",
+    "ocr": "APPLYING"
+  },
+  {
+    "id": "SCREEN_007",
+    "time": 72.0,
+    "file": "frames\\007.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_008",
+    "time": 75.0,
+    "file": "frames\\008.jpg",
+    "ocr": "QuadrantI: Why"
+  },
+  {
+    "id": "SCREEN_009",
+    "time": 86.0,
+    "file": "frames\\009.jpg",
+    "ocr": "QuadrantI: Why\nImcginctive\nWhy Che3 the5 Ma+H7"
+  },
+  {
+    "id": "SCREEN_010",
+    "time": 101.0,
+    "file": "frames\\010.jpg",
+    "ocr": "Qundranr:\nWhat\n-"
+  },
+  {
+    "id": "SCREEN_011",
+    "time": 109.5,
+    "file": "frames\\011.jpg",
+    "ocr": "Qusdran Z: What\nAndlytical\nWhat is thes?"
+  },
+  {
+    "id": "SCREEN_012",
+    "time": 124.0,
+    "file": "frames\\012.jpg",
+    "ocr": "E 7vjpon"
+  },
+  {
+    "id": "SCREEN_013",
+    "time": 128.5,
+    "file": "frames\\013.jpg",
+    "ocr": "uadaant3: How\nCommon"
+  },
+  {
+    "id": "SCREEN_014",
+    "time": 139.5,
+    "file": "frames\\014.jpg",
+    "ocr": "uadra^t3: How\nCommon Sense\nfractel tips\nHow do I apply thi?"
+  },
+  {
+    "id": "SCREEN_015",
+    "time": 156.5,
+    "file": "frames\\015.jpg",
+    "ocr": "Quadrart 4: What"
+  },
+  {
+    "id": "SCREEN_016",
+    "time": 163.0,
+    "file": "frames\\016.jpg",
+    "ocr": "Quadrart 4: What if\nDynamic\nAdaptation"
+  },
+  {
+    "id": "SCREEN_017",
+    "time": 170.5,
+    "file": "frames\\017.jpg",
+    "ocr": "Quadrart 4: What if\nAdaptation\nWhat ifI asethis..."
+  },
+  {
+    "id": "SCREEN_018",
+    "time": 187.5,
+    "file": "frames\\018.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_019",
+    "time": 192.0,
+    "file": "frames\\019.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_020",
+    "time": 211.5,
+    "file": "frames\\020.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_021",
+    "time": 212.0,
+    "file": "frames\\021.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_022",
+    "time": 228.0,
+    "file": "frames\\022.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_023",
+    "time": 236.5,
+    "file": "frames\\023.jpg",
+    "ocr": "Quadrant3-HOw\nyour signposts are:\n\"Here's how you apply this...\".\nThe steps are...\".\nLet me walk you through...\""
+  },
+  {
+    "id": "SCREEN_024",
+    "time": 246.5,
+    "file": "frames\\024.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_025",
+    "time": 262.0,
+    "file": "frames\\025.jpg",
+    "ocr": "nptuSpeakers Academy"
+  },
+  {
+    "id": "SCREEN_026",
+    "time": 273.0,
+    "file": "frames\\026.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_027",
+    "time": 277.0,
+    "file": "frames\\027.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_028",
+    "time": 289.0,
+    "file": "frames\\028.jpg",
+    "ocr": "Linkinthedescription below"
+  },
+  {
+    "id": "SCREEN_029",
+    "time": 307.0,
+    "file": "frames\\029.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_030",
+    "time": 316.0,
+    "file": "frames\\030.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_031",
+    "time": 320.0,
+    "file": "frames\\031.jpg",
+    "ocr": "Quadrant1-WHY\nI'd love to gauge fromyou all"
+  },
+  {
+    "id": "SCREEN_032",
+    "time": 335.5,
+    "file": "frames\\032.jpg",
+    "ocr": "Quadrant 1-WHY\nacross the company to get our footin thedoor."
+  },
+  {
+    "id": "SCREEN_033",
+    "time": 342.0,
+    "file": "frames\\033.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_034",
+    "time": 354.0,
+    "file": "frames\\034.jpg",
+    "ocr": "Quadrant2-WHAT\nSignpost:\nHere's the background."
+  },
+  {
+    "id": "SCREEN_035",
+    "time": 361.5,
+    "file": "frames\\035.jpg",
+    "ocr": "Quadrant2-WHAT\nBut the feedback he gave me was:"
+  },
+  {
+    "id": "SCREEN_036",
+    "time": 378.5,
+    "file": "frames\\036.jpg",
+    "ocr": "Quadrant2-WHAT\nthey'd baen building since February."
+  },
+  {
+    "id": "SCREEN_037",
+    "time": 385.0,
+    "file": "frames\\037.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_038",
+    "time": 393.0,
+    "file": "frames\\038.jpg",
+    "ocr": "Quadrant 3-THE HOW\nSignpost:\nHere's whatI propose"
+  },
+  {
+    "id": "SCREEN_039",
+    "time": 405.5,
+    "file": "frames\\039.jpg",
+    "ocr": "Quadrant3-THEHOW\nBut I'd love to leverage our collective networks"
+  },
+  {
+    "id": "SCREEN_040",
+    "time": 419.0,
+    "file": "frames\\040.jpg",
+    "ocr": "Quadrant3-THE HOW\nto your contacts, and if one bites,we can jumpin."
+  },
+  {
+    "id": "SCREEN_041",
+    "time": 426.5,
+    "file": "frames\\041.jpg",
+    "ocr": "Quadrant 4-WHATIF"
+  },
+  {
+    "id": "SCREEN_042",
+    "time": 443.5,
+    "file": "frames\\042.jpg",
+    "ocr": "Quadrant4-WHATIF\nversus whether we've been INVITED to build it."
+  },
+  {
+    "id": "SCREEN_043",
+    "time": 451.5,
+    "file": "frames\\043.jpg",
+    "ocr": "Quadrant4-WHAT IF\nwhen we haven't been invited to the game yet."
+  },
+  {
+    "id": "SCREEN_044",
+    "time": 461.0,
+    "file": "frames\\044.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_045",
+    "time": 472.5,
+    "file": "frames\\045.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_046",
+    "time": 482.0,
+    "file": "frames\\046.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_047",
+    "time": 489.5,
+    "file": "frames\\047.jpg",
+    "ocr": "WHAT IF scenarios we need to consider"
+  },
+  {
+    "id": "SCREEN_048",
+    "time": 505.0,
+    "file": "frames\\048.jpg",
+    "ocr": "4MAT\nPresentation Template"
+  },
+  {
+    "id": "SCREEN_049",
+    "time": 513.0,
+    "file": "frames\\049.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_050",
+    "time": 519.5,
+    "file": "frames\\050.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_051",
+    "time": 536.5,
+    "file": "frames\\051.jpg",
+    "ocr": "Mistake 2"
+  },
+  {
+    "id": "SCREEN_052",
+    "time": 547.5,
+    "file": "frames\\052.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_053",
+    "time": 552.0,
+    "file": "frames\\053.jpg",
+    "ocr": "Mistake 3\nForgetting Quadrant 4 -\nWHAT IF"
+  },
+  {
+    "id": "SCREEN_054",
+    "time": 562.5,
+    "file": "frames\\054.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_055",
+    "time": 573.5,
+    "file": "frames\\055.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_056",
+    "time": 589.0,
+    "file": "frames\\056.jpg",
+    "ocr": "Before any presentation\nAsk yourself four questions.\nWhat's my WHY?\nWhat's my WHAT?\nWhat's my HOw?\nWhat's my WHAT IF?"
+  },
+  {
+    "id": "SCREEN_057",
+    "time": 595.5,
+    "file": "frames\\057.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_058",
+    "time": 608.5,
+    "file": "frames\\058.jpg",
+    "ocr": ""
+  },
+  {
+    "id": "SCREEN_059",
+    "time": 614.5,
+    "file": "frames\\059.jpg",
+    "ocr": ""
+  }
+]

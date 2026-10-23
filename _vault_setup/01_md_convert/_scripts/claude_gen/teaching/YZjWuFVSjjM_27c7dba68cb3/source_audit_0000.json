@@ -1,0 +1,32 @@
+{
+  "request_fingerprint": "5cd7d03b4ade4f6ca86672f27f8d490e94aa406435ecfd53a32b02f42e34e936",
+  "result": {
+    "passed": false,
+    "issues": [
+      "관찰 E0000_0001의 본문에 4번째 질문인 'And what if I apply this?'가 포함되어 있고 프레임(V00000038, 19.0초)도 지정되어 있으나, 해당 발화가 등장하는 A00003(17.28~23.10초)이 audio_ids에서 누락되었으며 quote에도 해당 문장이 누락되었습니다.",
+      "관찰 E0000_0001 내용 중 발표자가 프레임워크 이름을 말로 언급하는 부분('구두 발음 Format')은 42.96초의 발화(A00008: 'This framework is called Format.')에서 나오지만, 근거 audio_ids에 A00008이 포함되지 않았고 인용문도 누락되었습니다."
+    ]
+  },
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 216,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48199,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 4199
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      }
+    ],
+    "thoughts_token_count": 2869,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 51284,
+    "traffic_type": null
+  }
+}

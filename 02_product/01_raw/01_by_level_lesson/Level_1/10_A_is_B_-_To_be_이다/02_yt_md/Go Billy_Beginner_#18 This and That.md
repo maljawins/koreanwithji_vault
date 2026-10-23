@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-10-2"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #18: This and That
 
 ## Metadata

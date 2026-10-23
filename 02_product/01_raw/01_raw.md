@@ -1,8 +1,8 @@
 # 01_raw 인덱스
 
-> 이 폴더는 **강의를 만들 재료가 되는 원본 자료 저장소**다. 1,747개의 .md가 들어 있다.
+> 이 폴더는 **강의를 만들 재료가 되는 원본 자료 저장소**다. 1,730개의 .md가 들어 있다.
 > 에이전트는 여기서 **읽기만 한다.** 작업 산출물은 `02_course_creation`에 쓴다.
-> 최종 갱신: 2026-09-03
+> 최종 갱신: 2026-10-21
 
 ---
 
@@ -58,14 +58,15 @@
 
 | 트랙 | .md 개수 |
 |---|---|
-| `01_Ji_draft` | 97 |
+| `01_Ji_draft` | 70 |
 | `02_yt_md` | 849 |
 | `03_Amira` | 438 |
 | `04_HTSK` | 339 |
 | `05_Reddit` | 4 |
+| `06_ext_sources` | 4 |
 
 **주의 2가지**
-1. **빈 트랙 폴더는 만들지 않는다.** 레슨 안에 `01_Ji_draft`, `02_yt_md`, `03_Amira`, `04_HTSK` 중 특정 트랙 폴더가 없으면 그 레슨에는 해당 출처의 자료가 매핑되지 않았다는 뜻이다(폴더 자체를 안 만들어 표시). 반드시 폴더 존재로 자료 유무를 확인하고, 없으면 없다고 보고한다. Ji가 직접 가져오거나 md 변환을 통해서 가져오지 않는 이상 임의로 폴더나 파일을 만들지 않는다.
+1. **빈 트랙 폴더는 만들지 않는다.** 레슨 안에 `01_Ji_draft`, `02_yt_md`, `03_Amira`, `04_HTSK`, `05_Reddit`, `06_ext_sources` 중 특정 트랙 폴더가 없으면 그 레슨에는 해당 출처의 자료가 매핑되지 않았다는 뜻이다(폴더 자체를 안 만들어 표시). 반드시 폴더 존재로 자료 유무를 확인하고, 없으면 없다고 보고한다. Ji가 직접 가져오거나 md 변환을 통해서 가져오지 않는 이상 임의로 폴더나 파일을 만들지 않는다.
 
 ---
 
@@ -75,6 +76,8 @@ Ji가 직접 작성해 둔 **미완성 Draft** 모음이다.
 
 - Draft가 있는 레슨도 있고 없는 레슨도 있다. 초반부 레벨일수록 완성도가 높다. 1차 Drafting 이후 커리큘럼 맵이 바뀌어서 Draft가 없는 레슨도 있다.
 - Ji의 Rough Idea이므로, 에이전트가 Draft 초안을 만들 때 **Base 자료**로 쓴다.
+- 같은 레슨의 `03_Amira`에 Lesson Script가 매핑되어 있으면, Amira에서 복사된 Ji_draft 본문은 대사 작성에서 중복 자료가 된다. Ji_draft는 Ji의 직접 작성 말투와 Intro 도입을 참고하는 용도로 보존하며, 복사 판정이 있더라도 Intro 작성에 쓸 수 있는 직접 작성 부분만 남긴다.
+- 현재 `01_Ji_draft` 파일 수는 실제 폴더를 세어 기록한다. 삭제된 파일은 `01_Ji_Draft_index.xlsx`의 현재 매핑 상태와 `이전_매핑`의 Draft 보유여부에 반영한다.
 - **완성도 90% 수준의 본보기 3개**: Level 1-1 *How Korean works*, Level 2-1 *은/는 & 이/가*, Level 2-2 *TSV Sentence Structure #1 - The Rule of Three*. Ji 고유의 설명법과 unique style이 고스란히 들어 있다.
 - **"TSV Sentence Structure"와 "Rule of Three"는 Ji가 직접 만든 용어다.** 특히 "Rule of Three"는 강의 전반에 걸쳐 incorporate될 central concept이다. 임의로 다른 이름으로 바꾸지 않는다.
 - 이 트랙은 **brand voice의 기준**이기도 하다. 톤 규칙의 단일 출처는 [`_about/01_brand.md`](../../_about/01_brand.md) §8.
@@ -117,6 +120,10 @@ howtostudykorean.com의 모든 Unit과 레슨을 `.md`로 변환한 자료다.
 
 Reddit에서 Obsidian Web Clipper로 가져온 .md. 2026-09-02 기준 4개뿐이다.
 
+### 1-6. `06_ext_sources`
+
+`02_ext_sources/02_한글`의 공식 자료 중 레슨 주제와 직접 맞는 파일을 **Hangul 1·3·4·6에만** 레슨별 복사본으로 넣은 트랙이다. 복사본 하나는 Ref_No 하나를 가지며, 현재 Ref_No 형식은 `EXT-HG-레슨-문서 순서`다. 실제 매핑·사용 구간·원본 근거는 [`06_ext_sources_index.xlsx`](../02_course_creation/00_curriculum_and_index/06_ext_sources_index.xlsx)가 정본이다.
+
 ---
 
 ## 2. 02_ext_sources (범용 참고 자료)
@@ -134,7 +141,7 @@ Reddit에서 Obsidian Web Clipper로 가져온 .md. 2026-09-02 기준 4개뿐이
 > Fluent Forever 3종은 **브랜드 교육 철학의 학술적 백본**이다. 활용 방침은 [`_about/01_brand.md`](../../_about/01_brand.md) §9가 단일 출처다.
 
 ### `02_한글\`
-국립국어원 공식 자료. 한글 맞춤법, 발음 법칙, 외래어 표기법 규정집. **Hangul 섹션 레슨 제작 시 활용한다.**
+국립국어원 공식 자료. 한글 맞춤법, 발음 법칙, 외래어 표기법 규정집. 원본은 여기 보관하고, 이번에 Hangul 1·3·4·6에 필요한 4개 파일을 `01_by_level_lesson`의 `06_ext_sources` 트랙으로 복사했다. 레슨별 매핑 정본은 [`06_ext_sources_index.xlsx`](../02_course_creation/00_curriculum_and_index/06_ext_sources_index.xlsx)다.
 
 ### `03_textbook\` — 교재 변환본
 Gemini Vision으로 시각 정보까지 캡처했다. 단, **변환이 온전하지 않은 것이 있다.**
@@ -172,4 +179,4 @@ Gemini Vision으로 시각 정보까지 캡처했다. 단, **변환이 온전하
 3. **`01_Ji_draft`가 톤의 기준이다.** 다른 트랙은 내용의 재료이고, Ji의 말투와 설명 방식은 이 트랙에서 가져온다.
 4. **트랙 폴더가 없으면 그 레슨에 해당 자료가 없다는 뜻이다.** 없으면 없다고 보고하고 다음 단계를 Ji에게 묻는다.
 5. **PDF를 직접 읽어야 하면 Ji에게 먼저 알린다.** 토큰 소모가 크다.
-6. **트랙별 index**는 `02_course_creation/00_curriculum_and_index`의 xlsx 5종이 관리한다. 자료 커버리지를 확인할 때 그쪽을 먼저 본다.
+6. **트랙별 index**는 `02_course_creation/00_curriculum_and_index`의 xlsx 5종과 `06_ext_sources_index.xlsx`가 관리한다. `06_ext_sources_index.xlsx`는 Hangul 1·3·4·6의 외부자료 복사본 전용이다. 자료 커버리지를 확인할 때 그쪽을 먼저 본다.

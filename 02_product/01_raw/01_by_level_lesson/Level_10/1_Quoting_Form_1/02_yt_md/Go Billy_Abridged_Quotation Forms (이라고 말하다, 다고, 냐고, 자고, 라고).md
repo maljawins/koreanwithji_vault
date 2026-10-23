@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-1-2"
+---
 # Go Billy | Quotation Forms (이라고 말하다, 다고, 냐고, 자고, 라고) | Live Class Abridged
 
 ## Metadata

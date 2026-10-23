@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-5-10-2"
+---
 # Go Billy | Important Hanja: “Each” or “Every” 매 (每) (한자) | Korean FAQ
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-4-2"
+---
 # Korean with Miss Vicky 빅키쌤 | Adj-아/어지다 : to become adjective | Changing Adjective to Verb #1
 
 ## Metadata

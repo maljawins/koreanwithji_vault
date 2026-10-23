@@ -1,0 +1,70 @@
+1-18 Plain form draft 검토
+ - Ji 전반 평가: 1-3, 1-4, 1-5에 비해 눈에 띄게 improve 되었음.
+  > But there's still room for improvement.
+  > 네가 1-18 작업을 하기 위해 사용했던 reasoning과 approach에 내 피드백 반영하기.
+  > 
+  > 최종 목표는 매핑된 Ji_draft가 있든 Amira레슨이 있든 공통적으로 적용할 수 있는 대사 제작 프로세스를 구축하는 것.
+
+
+아래는 상세 피드백
+
+1-18 approach_review.md
+ - Amira Day 23 Part 2 관련
+  > Ji_draft 없는 레슨은 두 가지로 나뉨 - Amira수업이 있는지 없는지
+ - 매핑된 Amira 수업자료가 있는 것 approach
+ - 매핑된 Amira 수업자료가 없는 것 approach
+
+
+
+
+
+
+가장 중요한 **Plain form이 뭔지에 대한 정의**가 오프닝에 없음.
+ - "What you're hearing is a complete sentence in the plain form." 이후 바로 "So, the plain form is~", "So, what is the plain form?"  혹은 "So, if you remember from the lesson 2, the plain form is~" 와 같은 이번 메인 주제인 Plain form에 대한 정의가 필요함. 그리고 그 정의에 대해 이전 레슨에서 가르친 내용을 상기시켜야 함. 
+
+전 레슨에서 가르친 내용 상기가 부족함.
+ - 골든 샘플 레슨 중 하나인 (exmaples 폴더) 1-2 에서 Plain form에 대한 언급을 처음했음. 그리고 이에 대해서는 나중 레슨으로 미뤘음.
+  > 1-2에서 4가지 speech level을 Informal / Formal + High / low 조합으로 알려줌
+  > Informal High: 본 코스에서 Polite speech라고 부르기로 약속 - 요 form
+  > Informal Low: 본 코스에서 Casual speech라고 부르기로 약속 - 반말
+  > Formal High: 본 코스에서 Formal speech라고 부르기로 약속 - 니다 / 니까? form
+  > Formal Low: 본 코스에서 Plain form이라고 부르기로 약속 - 이게 바로 이번 레슨 주제
+▶ 왜 Plain form의 이름이 Plain form인지도 그 레슨에서 언급함.
+▶ 전에 배운 내용에 대한 remind를 하면서 Plain form에 대한 "정의"를 상기시켜줘야 함 
+
+레슨 순서
+ - 오프닝에서 "아, 배고프다"가 dictionary form과 똑같이 생겼음을 언급하며 학습자가 궁금했을만한 포인트를 얘기함.
+  > 오프닝의 방향은 아주 좋음. 그러나 "배고프다"가 왜 똑같아 보이는지 궁금증만 야기시켜놓고 그에 대한 해소없이 plain form이 언제 쓰이는지로 넘어감. (그 조차도 위에 말했듯 Plain form에 대한 정의 없이)
+ - 오프닝을 이렇게 열었으면 바로 왜 "배고프다"가 dictionary form가 똑같이 보이는지 답을 주는 포인트, 즉 만드는 법으로 [Present tense: descriptive verbs] 넘어가는 게 적절함.
+
+Plain form in writing 섹션 흐름 개선 필요.
+ - 혼잣말할 때 plain form이 쓰인다는 건 already established. 일기라는 것 자체가 혼잣말이기 때문에 굳이 말할 필요없다.
+ - 뉴스기사, 광고, 에세이와 같이 "Unknown audience"에게 쓰인다는 것 명시 필요 - 1-18-1 line 46~52 참고
+ - Unknown audience vs 특정인 (Teacher에게 쓰는 letter) 에게 쓸 때를 구분한 것은 잘했음.
+ - 문법 설명 섹션 아래와 같이 개선
+  > Descriptive verb - Present / Past 같이 설명
+  > Action verb - Present / Past 같이 설명
+  > 이다 - Present / Past 같이 설명
+  ▶ Present: Action verb 했다가 Present: Descriptive 했다가 Present: 이다 했다가 또 다시 Past tense로 넘어와서 Action verb, Descriptive, 이다 이런식으로 설명하는 것은 비효율적
+
+Amira Lesson 23를 주 reference로 썼다면서 Plain form의 용도가 빠졌다.
+ - To start a story (with a rising intonation / almost like a question)
+  > 예: 나 어제 BTS 콘서트 갔다(~?)
+
+Plain form의 Question 형태가 통째로 빠졌다.
+
+
+
+ 
+
+
+
+번외
+ - Plain form에는 context marker(거든, 잖아, 구나, 네 등등)를 붙일 수 없음.
+  > Context marker, by nature, can only be attached to "Informal speech levels".
+   > 좋거든습니다 ← 없는 표현.
+  > Plain form은 technically formal speech level, specifically "formal low"이기 때문에 
+
+
+
+ 

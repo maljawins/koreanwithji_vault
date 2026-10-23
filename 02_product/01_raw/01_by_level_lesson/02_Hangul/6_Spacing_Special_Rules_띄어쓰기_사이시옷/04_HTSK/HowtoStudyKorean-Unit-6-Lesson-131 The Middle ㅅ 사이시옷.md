@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-Hangul-6-1"
+---
 Lesson 131: The Middle ㅅ: 사이시옷
 
 Introduction

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-8-3"
+---
 # Go Billy | “Can’t” 못 vs 지 못하다 vs 수 없다 | Korean FAQ
 
 ## Metadata

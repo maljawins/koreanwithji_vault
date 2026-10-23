@@ -1,0 +1,78 @@
+{
+  "observations": [
+    {
+      "kind": "method",
+      "title": "3사분면(Quadrant 3 - THE HOW): 제안 표지판과 구체적 실행 단계 제시",
+      "content": "발표자는 3사분면('방법', The How)으로 전환할 때 'Here's what I propose'(제가 제안하는 바는 이렇습니다)라는 표지판(Signpost) 문구를 제시한다. 발표자의 주장에 따르면, 이 단계는 청중 중 실행가들('the doers in the room')에게 필요한 정보를 전달하며, 누가 무엇을 하고(who does what) 어떻게 앞으로 나아갈지(how we move forward)에 관한 명확한 실행 단계(clear action steps)를 밝히는 역할을 한다.",
+      "basis": "speaker_claim",
+      "time": 393.0,
+      "audio_ids": ["A00067", "A00068", "A00072", "A00073"],
+      "quote": "see how there's clear action steps who does what how we move forward that's quadrant three the doers in the room get exactly what they needed",
+      "frame_ids": ["V00000786", "V00000787", "V00000788"]
+    },
+    {
+      "kind": "example",
+      "title": "3사분면 제안 시범: 임원 인맥 활용 및 역할 분담 대사",
+      "content": "발표자는 실제 회의에서 진행했던 3사분면 설명 대사를 시범 보인다. 이미 파트너 사의 이전 동료와 기술팀 접촉선 2곳에 연락을 취했음을 알리고, Don, James, Martin 등 임원진의 인맥 네트워크를 활용하기 위해 각자 전달할 간단한 메모를 작성해 둘 테니 반응이 오면 바로 착수하겠다는 구체적인 실행 계획을 제시한다.",
+      "basis": "demonstration",
+      "time": 393.26,
+      "audio_ids": ["A00068", "A00069", "A00070", "A00071", "A00072"],
+      "quote": "here's what i propose so i've already reached out to two contacts one who's a former colleague who's now at the partner company",
+      "frame_ids": [
+        "V00000791",
+        "V00000793",
+        "V00000809",
+        "V00000811",
+        "V00000812",
+        "V00000814",
+        "V00000822",
+        "V00000823",
+        "V00000827",
+        "V00000829",
+        "V00000830",
+        "V00000832",
+        "V00000835",
+        "V00000836",
+        "V00000838",
+        "V00000839",
+        "V00000840",
+        "V00000842"
+      ]
+    },
+    {
+      "kind": "method",
+      "title": "4사분면(Quadrant 4 - WHAT IF): 함의 질문 표지판과 의도적 침묵",
+      "content": "발표자는 4사분면('만약 ~라면', What If)으로 넘어갈 때 'So what does this mean for us?'(그렇다면 이것이 우리에게 의미하는 바는 무엇인가?)라는 질문 형태의 표지판(Signpost)을 던진 뒤 말을 멈추는(pause) 방식을 설명한다. 의도적인 침묵을 통해 청중이 의문이나 우려를 표출할 수 있는 계기를 마련한다.",
+      "basis": "speaker_claim",
+      "time": 425.74,
+      "audio_ids": ["A00074", "A00075"],
+      "quote": "in quadrant four here is the what if section so my signpost would be a question like so what does this mean for us and then i paused",
+      "frame_ids": [
+        "V00000853",
+        "V00000857",
+        "V00000859",
+        "V00000860",
+        "V00000861",
+        "V00000862",
+        "V00000864",
+        "V00000865",
+        "V00000868",
+        "V00000870",
+        "V00000871",
+        "V00000872",
+        "V00000873",
+        "V00000874"
+      ]
+    },
+    {
+      "kind": "example",
+      "title": "4사분면 질문 후 임원의 우려 제기 반응 시범",
+      "content": "발표자가 질문 후 말을 멈추자, 한 임원이 직접 우려를 제기하며 내부적으로 자체 개발이 가능한지 여부와 공식적으로 개발 초대를 받았는지에 대해 내부적인 혼선이 있다는 점을 지적했던 실제 회의 사례를 재현한다.",
+      "basis": "demonstration",
+      "time": 435.0,
+      "audio_ids": ["A00075", "A00076", "A00077"],
+      "quote": "one executive raised a concern he specifically said well i think there's some internal confusion about whether we could build this ourselves",
+      "frame_ids": ["V00000878", "V00000879"]
+    }
+  ]
+}

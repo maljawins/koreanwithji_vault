@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-17-8"
+---
 # Go Billy | Learn Korean Ep. 30: "Shall we?"
 
 ## Metadata

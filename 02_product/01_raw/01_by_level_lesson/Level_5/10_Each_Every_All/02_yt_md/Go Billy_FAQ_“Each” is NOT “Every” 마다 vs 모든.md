@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-5-10-1"
+---
 # Go Billy | “Each” is NOT “Every” 마다 vs 모든 | Korean FAQ
 
 ## Metadata

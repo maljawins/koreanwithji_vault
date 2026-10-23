@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-3-8"
+---
 # Go Billy | Learn Korean Ep. 3: "Want~" and "Want to~" 원하다 vs. ~고 싶다
 
 ## Metadata

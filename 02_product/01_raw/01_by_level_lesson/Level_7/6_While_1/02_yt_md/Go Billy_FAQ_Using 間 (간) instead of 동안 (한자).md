@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-6-7"
+---
 # Go Billy | Using 間 (간) instead of 동안 (한자) | Korean FAQ
 
 ## Metadata

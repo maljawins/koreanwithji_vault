@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-6-2"
+---
 Lesson 62: While: ~(으)면서, ~(으)며
 
 Introduction

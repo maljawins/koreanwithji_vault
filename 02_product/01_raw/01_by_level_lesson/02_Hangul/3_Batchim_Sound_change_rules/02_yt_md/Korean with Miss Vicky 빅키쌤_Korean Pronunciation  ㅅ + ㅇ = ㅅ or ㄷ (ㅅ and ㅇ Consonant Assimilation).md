@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-3-11"
+---
 # Korean with Miss Vicky 빅키쌤 | Korean Pronunciation | ㅅ + ㅇ = ㅅ or ㄷ?? (ㅅ and ㅇ Consonant Assimilation)
 
 ## Metadata

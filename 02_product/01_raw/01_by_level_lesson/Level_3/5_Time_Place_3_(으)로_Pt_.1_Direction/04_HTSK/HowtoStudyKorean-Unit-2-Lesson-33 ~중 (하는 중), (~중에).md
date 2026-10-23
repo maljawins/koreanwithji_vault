@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-3-5-2"
+---
 Lesson 33: ~중 (하는 중), (~중에)
 
 Introduction

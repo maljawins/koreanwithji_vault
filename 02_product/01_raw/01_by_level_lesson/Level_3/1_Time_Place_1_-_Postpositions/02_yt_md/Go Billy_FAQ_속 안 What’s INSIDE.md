@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-1-6"
+---
 # Go Billy | 속? 안? What’s INSIDE? | Korean FAQ
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Intro-2-2"
+---
 # Go Billy | How Many Vocabulary Words Do You NEED to Speak Korean? | Korean FAQ
 
 ## Metadata

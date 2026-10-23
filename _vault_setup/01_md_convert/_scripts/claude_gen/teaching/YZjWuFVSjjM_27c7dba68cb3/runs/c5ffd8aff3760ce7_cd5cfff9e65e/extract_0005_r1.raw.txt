@@ -1,0 +1,23 @@
+{
+  "observations": [
+    {
+      "kind": "example",
+      "title": "4MAT 프레임워크 실전 적용을 위한 임원 회의 사례 도입",
+      "content": "화자는 4MAT 프레임워크(발화상 format framework)를 실전에서 적용하는 실제 사례(real life example)로, 수년 전 회사 시니어 임원들과 진행했던 파트너 운영 회의(partner steering meeting)를 소개한다. 회의 주제는 전략적(strategic) 참여/협력 여부였음을 구두로 밝히며 사례의 배경 맥락을 제시한다. 이는 본격적인 프레임워크 단계별 시연에 앞서 사례 상황을 구두로 설명하는 도입 단계이다.",
+      "basis": "speaker_claim",
+      "time": 296.86,
+      "audio_ids": ["A00049", "A00050", "A00051"],
+      "quote": "so let's take a real life example i'm going to walk you through an executive meeting that i led a while ago",
+      "frame_ids": [
+        "V00000592",
+        "V00000596",
+        "V00000598",
+        "V00000600",
+        "V00000604",
+        "V00000607",
+        "V00000612",
+        "V00000613"
+      ]
+    }
+  ]
+}

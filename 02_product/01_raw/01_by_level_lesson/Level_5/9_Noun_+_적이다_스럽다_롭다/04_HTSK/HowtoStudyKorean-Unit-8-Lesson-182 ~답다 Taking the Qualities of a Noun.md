@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-5-9-2"
+---
 Lesson 182: ~답다: Taking the Qualities of a Noun
 
 Introduction

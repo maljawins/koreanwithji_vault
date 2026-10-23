@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-8-11-4"
+---
 Lessons 103: 한, 약, ~(으)므로, 전반, 당하다
 
 Introduction

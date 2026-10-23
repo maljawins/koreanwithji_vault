@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-13-1"
+---
 Nouns:
 동생 = younger sibling
 남동생 = younger brother

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-12-7"
+---
 # Learn Korean with GO! Billy Korean | 따름이다 "Only" | Live Class Abridged
 
 ## Metadata

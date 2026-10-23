@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-17-3"
+---
 # Miss Vicky | 오히려 vs. 차라리 - Korean Vocab FAQ
 
 ## Metadata

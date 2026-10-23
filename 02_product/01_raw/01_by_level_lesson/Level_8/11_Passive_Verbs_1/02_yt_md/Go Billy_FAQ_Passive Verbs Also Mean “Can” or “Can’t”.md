@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-11-6"
+---
 # Go Billy | Passive Verbs Also Mean “Can” or “Can’t” | Korean FAQ
 
 ## Metadata

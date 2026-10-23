@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-VSL-1-2"
+---
 # Miss Vicky | Korean Podcast ep.2 문법 공부가 꼭 필요할까? Is studying grammar really necessary?
 
 ## Metadata

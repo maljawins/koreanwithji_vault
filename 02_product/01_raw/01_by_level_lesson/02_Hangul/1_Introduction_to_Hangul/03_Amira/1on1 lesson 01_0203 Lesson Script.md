@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-Hangul-1-1"
+---
 **KOREAN LESSON NOTE #1 Feb. 3rd**
 
 * **Objective**: Review and reorganize what you’ve learned about Hangul, fill in gaps, and cover tricky areas like pronunciation.

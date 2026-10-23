@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "21970530eef714fa160973dac78fa9a4e87d16824d9728492c4b216e9d587517",
+  "raw": "{\n  \"observations\": [\n    {\n      \"kind\": \"method\",\n      \"title\": \"전환 어구인 '이정표(Signposts)'를 활용한 프레임워크 전개법\",\n      \"content\": \"대본에 의존하지 않고 프레임워크를 전달하기 위해 발표자는 전환 어구(transitional phrases)인 '이정표(Signposts)' 기법을 제시한다(speaker_claim). 화면 그래픽('Signposts Guide You—and Your Audience—Through the Framework')과 함께 설명하며, 이정표는 청중에게 현재 프레임워크의 어느 위치에 있는지를 명확히 짚어줄 뿐만 아니라 발표자 스스로도 진행 순서를 잃지 않도록 돕는 역할을 한다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 195.02,\n      \"audio_ids\": [\"A00032\", \"A00033\", \"A00034\", \"A00035\"],\n      \"quote\": \"you're going to use what i call signposts signposts are transitional phrases they tell your audience exactly where you are in the framework\",\n      \"frame_ids\": [\"V00000398\", \"V00000401\", \"V00000403\", \"V00000404\", \"V00000406\", \"V00000409\", \"V00000411\", \"V00000413\", \"V00000414\", \"V00000416\", \"V00000418\"]\n    },\n    {\n      \"kind\": \"example\",\n      \"title\": \"4MAT 4대 사분면(Quadrant 1~4)별 이정표 전환 표현 제시\",\n      \"content\": \"발표자는 4MAT 프레임워크의 각 사분면을 전환할 때 사용할 수 있는 구체적인 발화 표현을 직접 시범 보이고 화면 텍스트로도 제시한다(demonstration). 1사분면(WHY)에서는 'Let me ask you all of this...', 'Have you ever...', 'Who here has experienced...' 등의 질문형 어구를 제시하고, 2사분면(WHAT)에서는 'Here's what this is...', 'The framework consists of...', 3사분면(HOW)에서는 'Here's how you would apply this...', 'The steps are...', 'Let me walk you through...', 4사분면(WHAT IF)에서는 'So what does this mean for you?', 'Imagine if...', 'How could you use this on your own?' 등의 표현을 시범 보인다.\",\n      \"basis\": \"demonstration\",\n      \"time\": 212.0,\n      \"audio_ids\": [\"A00035\", \"A00036\", \"A00037\", \"A00038\", \"A00039\", \"A00040\"],\n      \"quote\": \"for quadrant one why your signpost could be something like let me ask you all of this or have you ever or who here has experienced\",\n      \"frame_ids\": [\"V00000424\", \"V00000440\", \"V00000456\", \"V00000472\", \"V00000488\"]\n    },\n    {\n      \"kind\": \"condition\",\n      \"title\": \"이정표(Signposts) 중심 진행을 통한 대본 없는 즉흥 발화 조건\",\n      \"content\": \"발표자는 모든 내용을 단어 하나하나 암기할 필요 없이 이정표만 숙지하면 대본을 읽는 듯한 느낌(sounding scripted) 없이 구조를 지킬 수 있다고 설명한다(speaker_claim). 각 사분면(quadrant) 내부에서는 즉흥적으로 발화(improvise)하되, 핵심 전환 어구인 이정표가 발표의 중심을 잡아주는 닻(anchored) 역할을 수행하는 전제 조건과 효과를 강조한다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 246.5,\n      \"audio_ids\": [\"A00041\", \"A00042\", \"A00043\"],\n      \"quote\": \"these signposts give you structure without sounding scripted so you can improvise within each quadrant but the signposts keep you anchored\",\n      \"frame_ids\": [\"V00000500\", \"V00000502\", \"V00000511\", \"V00000513\", \"V00000519\", \"V00000520\"]\n    }\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1103,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48148,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 4148
+      }
+    ],
+    "thoughts_token_count": 4492,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 53743,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:17:06.626549+09:00"
+}

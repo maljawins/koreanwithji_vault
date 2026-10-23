@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-2-2"
+---
 # Go Billy | Korean Sentence Connectors (~고, ~지만, ~는데 & ~은/ㄴ데) | Live Class Abridged
 
 ## Metadata

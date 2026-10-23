@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Intro-1-10"
+---
 # Miss Vicky | How Did a Polyglot Learn Korean? | Interview with Steve Kaufmann
 
 ## Metadata

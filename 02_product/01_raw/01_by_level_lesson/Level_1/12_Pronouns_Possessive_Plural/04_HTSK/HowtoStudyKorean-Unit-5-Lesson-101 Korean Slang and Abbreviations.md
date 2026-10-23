@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-12-4"
+---
 Lesson 101: Korean Slang and Abbreviations
 
 Introduction

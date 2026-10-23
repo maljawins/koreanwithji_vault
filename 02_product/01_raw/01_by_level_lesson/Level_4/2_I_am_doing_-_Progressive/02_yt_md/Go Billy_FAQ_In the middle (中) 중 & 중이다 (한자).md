@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-2-3"
+---
 # Go Billy | In the middle (中) 중 & 중이다 (한자) | Korean FAQ
 
 ## Metadata

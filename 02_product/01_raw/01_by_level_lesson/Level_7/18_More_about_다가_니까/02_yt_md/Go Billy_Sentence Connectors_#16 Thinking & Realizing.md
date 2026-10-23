@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-18-5"
+---
 # Go Billy | Korean Sentence Connectors With Billy Go | #16: Thinking & Realizing
 
 ## Metadata

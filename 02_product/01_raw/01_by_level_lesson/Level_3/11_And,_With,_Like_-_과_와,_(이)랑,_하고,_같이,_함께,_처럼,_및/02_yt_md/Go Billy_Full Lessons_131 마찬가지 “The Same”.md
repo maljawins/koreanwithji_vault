@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-11-5"
+---
 # Go Billy | Learn Korean Ep. 131: 마찬가지 “The Same”
 
 ## Metadata

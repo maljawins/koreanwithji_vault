@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-3-10"
+---
 # Korean with Miss Vicky 빅키쌤 | All About 받침 Part 2 - Consonant Assimilation | Sound Like a Native Speaker
 
 ## Metadata

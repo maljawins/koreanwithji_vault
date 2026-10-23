@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-6-2"
+---
 # Go Billy | Learn Korean Ep. 42: "테니까" & "텐데"
 
 ## Metadata

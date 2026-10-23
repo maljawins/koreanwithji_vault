@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-2-1"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #7: Learning 한글 Part 5 Double and Strong Consonants
 
 ## Metadata

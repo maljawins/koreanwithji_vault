@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-17-1"
+---
 Lesson 157: 경우 – Case or Circumstance
 
 Introduction

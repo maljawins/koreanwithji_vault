@@ -1,0 +1,102 @@
+{
+  "observations": [
+    {
+      "kind": "method",
+      "title": "Quadrant 3(How) 실용적 학습자 도달 방법: 절차 시연, 예시 제시 및 실습",
+      "content": "발표자는 '이것을 어떻게 적용하는가(How do I apply this?)'를 중시하는 3사분면 학습자(Common sense, Practical tips)에게 다가가기 위해 프로세스를 보여주고(show the process), 구체적인 예시를 제공하며(give examples), 만져지듯 체감되게 만들고(make it tangible), 직접 실습하게(let them practice) 해야 한다고 설명한다. 화이트보드에는 'Give examples'와 'Practice'를 차례로 판서한다.",
+      "basis": "speaker_claim",
+      "time": 139.5,
+      "audio_ids": ["A00023", "A00024"],
+      "quote": "to reach them you show the process you give examples you make it tangible you let them practice",
+      "frame_ids": [
+        "V00000279",
+        "V00000282",
+        "V00000286",
+        "V00000287",
+        "V00000293"
+      ]
+    },
+    {
+      "kind": "example",
+      "title": "Quadrant 3 적용 시연: 스프린트 계획 회의 단계별 안내",
+      "content": "발표자는 3사분면 학습자에게 적용 가능한 구체적 설명 예시로 스프린트 계획 회의(sprint planning meeting) 활용법을 시범 보인다: 1단계 모든 이니셔티브 나열(Step 1: list all the initiatives), 2단계 루브릭을 사용한 우선순위 산정(Step 2: rank them using this rubric) 절차를 단계별로 명시한다.",
+      "basis": "demonstration",
+      "time": 145.0,
+      "audio_ids": ["A00024", "A00025"],
+      "quote": "here's how you'll use this in your next sprint planning meeting step one list all the initiatives step two rank them using this rubric",
+      "frame_ids": ["V00000293"]
+    },
+    {
+      "kind": "method",
+      "title": "Quadrant 4(What if) 역동적 학습자 촉진법: 토론, 시나리오 탐색 및 공동 창작",
+      "content": "발표자는 4사분면(Quadrant 4: What if)이 역동적 학습자(dynamic learners)를 위한 영역이라고 규정한다. 이들은 창의적이고 미래의 가능성과 적응(adaptation)을 필요로 하며, '내 맥락에 이를 적용하면 어떻게 될까(What if I use this in my context)?'라는 의문을 가진다. 이들을 포섭하기 위해 일방적 강의 대신 토론 촉진(facilitate discussion), 즉흥 브레인스토밍 세션(riff sessions), 시나리오 탐색(explore scenarios), 향후 방향 공동 창작(co-create the path forward with you) 방식을 활용해야 한다고 설명한다. 화이트보드에는 'Dynamic', 'Adaptation', 'What if I use this...', 'Co-create the path forward', 'Ask questions'를 녹색 마커로 판서한다.",
+      "basis": "speaker_claim",
+      "time": 154.0,
+      "audio_ids": ["A00025", "A00026", "A00027", "A00028", "A00029"],
+      "quote": "quadrant four is the what if so these are for our dynamic learners they need future possibilities adaptation they're oftentimes very creative",
+      "frame_ids": [
+        "V00000307",
+        "V00000308",
+        "V00000311",
+        "V00000313",
+        "V00000314",
+        "V00000315",
+        "V00000318",
+        "V00000320",
+        "V00000323",
+        "V00000326",
+        "V00000328",
+        "V00000330",
+        "V00000332",
+        "V00000334",
+        "V00000336",
+        "V00000339",
+        "V00000340",
+        "V00000341",
+        "V00000344",
+        "V00000346",
+        "V00000350",
+        "V00000357",
+        "V00000361",
+        "V00000362",
+        "V00000366",
+        "V00000369"
+      ]
+    },
+    {
+      "kind": "example",
+      "title": "Quadrant 4 개방형 질문 시연: 원격 협업 적용 질문과 공동 탐색 유도",
+      "content": "발표자는 4사분면 학습자의 능동적 사고를 자극하는 실제 발화 시범을 보인다: '이것이 여러분의 팀에 무엇을 의미하는가?', '원격 협업을 위해 이를 어떻게 적응(adapt)시킬 수 있는가?'라고 질문하고, '내게 정해진 확고한 정답이 있는 것은 아니니 함께 브레인스토밍해 보자(I don't have strong opinions here but let's brainstorm together)'라며 교수자가 주도권을 내려놓고 함께 탐색하는 화법을 보여준다.",
+      "basis": "demonstration",
+      "time": 178.0,
+      "audio_ids": ["A00029", "A00030", "A00031"],
+      "quote": "what does this mean for your team how might you adapt this for remote collaboration i don't have strong opinions here but let's brainstorm together",
+      "frame_ids": [
+        "V00000357",
+        "V00000361",
+        "V00000362",
+        "V00000366",
+        "V00000369"
+      ]
+    },
+    {
+      "kind": "condition",
+      "title": "4MAT 4개 사분면 전체 충족 조건과 전원 도달 효과",
+      "content": "발표자는 4개 사분면(Quadrant 1 Why, Quadrant 2 What, Quadrant 3 How, Quadrant 4 What if)을 모두 건드릴 때 강연장의 모든 사람(everyone in the room)에게 도달할 수 있다고 주장한다. 화면에는 청중이 모인 강당 배경과 함께 화면 자막 'You reach everyone in the room. That's the power of 4MAT.'가 표기된다.",
+      "basis": "speaker_claim",
+      "time": 187.0,
+      "audio_ids": ["A00031", "A00032"],
+      "quote": "when you hit all four quadrants you reach everyone in the room that's the power of format",
+      "frame_ids": [
+        "V00000372",
+        "V00000375",
+        "V00000376",
+        "V00000377",
+        "V00000378",
+        "V00000379",
+        "V00000380",
+        "V00000381"
+      ]
+    }
+  ]
+}

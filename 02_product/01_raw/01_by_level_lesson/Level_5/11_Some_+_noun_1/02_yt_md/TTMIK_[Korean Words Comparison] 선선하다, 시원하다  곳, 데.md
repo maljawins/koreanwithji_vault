@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-5-11-4"
+---
 # TTMIK | [Korean Words Comparison] 선선하다, 시원하다 / 곳, 데
 
 ## Metadata

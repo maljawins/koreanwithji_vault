@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-3-3"
+---
 # Go Billy | “ㄴ Addition” – A Lesser Known Sound Change Rule (ㄴ 첨가) | Korean FAQ
 
 ## Metadata

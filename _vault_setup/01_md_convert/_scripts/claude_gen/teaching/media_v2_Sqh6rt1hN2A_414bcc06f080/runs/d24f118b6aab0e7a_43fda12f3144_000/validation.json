@@ -1,0 +1,23 @@
+{
+  "version": "2.0.0",
+  "signature": "d24f118b6aab0e7a69ffe99e02d1e052633d4f3d11d791ae98865474019dae07",
+  "attempt": 0,
+  "status": "O",
+  "issues": [],
+  "source": "https://youtu.be/Sqh6rt1hN2A",
+  "rows": [
+    3
+  ],
+  "output": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\result_check\\convert_O\\teaching_Vinh Giang_How to Explain Anything To Anyone (Even If It's Complex!)_261020.md",
+  "sha256": "c827ef883063ae5afb4855184891d89131840a9ec31b425f92c475fc9f344c27",
+  "media_work": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\_scripts\\claude_gen\\teaching\\media_v2_Sqh6rt1hN2A_414bcc06f080",
+  "response_work": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\_scripts\\claude_gen\\teaching\\media_v2_Sqh6rt1hN2A_414bcc06f080\\runs\\d24f118b6aab0e7a_43fda12f3144_000",
+  "media_fingerprint": "43fda12f31440bbea840902bed9dc98f63d727ad85a12fe02cd0da00c776ab33",
+  "transcript_segments": 177,
+  "sampled_frames": 60,
+  "duration": 810.914,
+  "automatic_validation_only": true,
+  "ji_review": "pending",
+  "workbook_synced": true,
+  "finished": "2026-10-20T22:58:07.358471+09:00"
+}

@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "6f5a30fb152ddc64441d94155d0c2566828675cd69f8d141ffea3c4541d5c7c0",
+  "raw": "{\n  \"observations\": [\n    {\n      \"kind\": \"method\",\n      \"title\": \"사분면 2(Quadrant 2: What) - 분석적 학습자를 위한 프레임워크 및 데이터 제시법\",\n      \"content\": \"발표자는 두 번째 사분면인 'What'을 설명하며, 대상 학습자를 분석적 학습자(analytical learners)로 규정한다. 발표자의 주장에 따르면 이들은 사실, 데이터, 전문가 지식, 최대한의 맥락을 필요로 하며 '이것이 정확히 무엇인가?(What is this exactly?)'라는 의문을 가진다. 따라서 이들을 설득하기 위해서는 프레임워크를 공유하고 구체적인 세부사항을 정확하게(precise) 제시해야 한다고 설명하며, 화이트보드에 'Quadrant 2: What', 'Analytical', 'What is this?', 'Frameworks, context, details'를 직접 판서한다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 99.0,\n      \"audio_ids\": [\"A00017\", \"A00018\", \"A00019\"],\n      \"quote\": \"Quadrant two is the what. These are for our analytical learners.\",\n      \"frame_ids\": [\n        \"V00000198\",\n        \"V00000200\",\n        \"V00000201\",\n        \"V00000202\",\n        \"V00000203\",\n        \"V00000204\",\n        \"V00000205\",\n        \"V00000206\",\n        \"V00000213\",\n        \"V00000215\",\n        \"V00000219\",\n        \"V00000223\",\n        \"V00000226\",\n        \"V00000228\",\n        \"V00000231\",\n        \"V00000234\",\n        \"V00000235\",\n        \"V00000239\",\n        \"V00000241\",\n        \"V00000245\"\n      ]\n    },\n    {\n      \"kind\": \"example\",\n      \"title\": \"사분면 2 프레임워크 제시 예시: 영향도와 시급성 기반의 3단계 우선순위 모델\",\n      \"content\": \"발표자가 분석적 학습자에게 'What'을 전달할 때 활용할 수 있는 구체적인 발화 사례를 직접 시범 보인다. 새로운 우선순위 지정 시스템이 어떻게 생겼는지 보여주며, 영향도(impact)와 시급성(urgency)에 기반한 3단계 모델(three-tier model)이라는 구조적 프레임워크를 명확히 제시한다.\",\n      \"basis\": \"demonstration\",\n      \"time\": 117.2,\n      \"audio_ids\": [\"A00019\", \"A00020\"],\n      \"quote\": \"For example, here's what our new prioritization system looks like. It's a three-tier model based on impact and urgency.\",\n      \"frame_ids\": [\"V00000241\", \"V00000245\"]\n    },\n    {\n      \"kind\": \"method\",\n      \"title\": \"사분면 3(Quadrant 3: How) - 상식형 학습자를 위한 프로세스와 실전 팁 전달법\",\n      \"content\": \"발표자는 세 번째 사분면인 'How'로 전환하며 손가락 세 개를 펼쳐 보이고 화이트보드 새 페이지에 빨간색 마커로 판서한다. 대상 학습자는 상식형 학습자(common sense learners)로, 실용적인 팁과 실행 항목(action items)을 필요로 한다. 이들의 핵심 질문은 '말해준 것을 실제로 어떻게 적용하는가?(so how do I apply all this that you're telling me)'이므로, 이들에게는 프로세스를 보여주고(show the process) 실제 예시를 제공해야 한다고 설명한다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 123.88,\n      \"audio_ids\": [\"A00021\", \"A00022\", \"A00023\"],\n      \"quote\": \"Quadrant three is the how. These are for our common sense learners. They need the practical tips, the action items.\",\n      \"frame_ids\": [\n        \"V00000248\",\n        \"V00000251\",\n        \"V00000252\",\n        \"V00000253\",\n        \"V00000254\",\n        \"V00000255\",\n        \"V00000256\",\n        \"V00000257\",\n        \"V00000260\",\n        \"V00000262\",\n        \"V00000263\",\n        \"V00000265\",\n        \"V00000266\",\n        \"V00000268\",\n        \"V00000270\",\n        \"V00000272\",\n        \"V00000274\",\n        \"V00000276\",\n        \"V00000278\"\n      ]\n    },\n    {\n      \"kind\": \"condition\",\n      \"title\": \"상식형 학습자 대상 이론적 접근의 한계\",\n      \"content\": \"발표자는 상식형 학습자(common sense learners)의 특성 및 교수 한계로 '이들은 이론 중심의 설명에서는 잘해내지 못한다(They don't do well in the theory)'는 점을 명시하며, 이론적 설명 대신 실전 조언과 행동 지침으로 접근해야 한다는 조건을 밝힌다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 129.7,\n      \"audio_ids\": [\"A00021\", \"A00022\"],\n      \"quote\": \"They don't do well in the theory.\",\n      \"frame_ids\": [\"V00000260\", \"V00000262\", \"V00000263\"]\n    }\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 1538,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 49303,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 5303
+      }
+    ],
+    "thoughts_token_count": 2468,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 53309,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:14:50.429345+09:00"
+}

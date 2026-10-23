@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-3-1"
+---
 Lesson 119: ~더니 (to notice… then…)
 
 Introduction

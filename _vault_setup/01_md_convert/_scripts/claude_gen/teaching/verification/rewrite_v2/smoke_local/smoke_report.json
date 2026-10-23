@@ -1,0 +1,15 @@
+{
+  "duration": 12.012,
+  "segments": 2,
+  "frame_times": [
+    0.0,
+    3.5,
+    10.0,
+    11.5
+  ],
+  "frames_with_text": 1,
+  "first_audio": "There's a four-step framework that helps you explain anything, and I mean anything, so people actually listen to you.",
+  "first_ocr": "",
+  "paid_calls": 0,
+  "scope": "12-second local excerpt, not full-video generation"
+}

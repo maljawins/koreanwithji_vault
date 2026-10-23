@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "aa064684a3598d8697191fb68ade63805b4d2ff93a0564a10f7be2464d54895d",
+  "raw": "{\n  \"observations\": [\n    {\n      \"kind\": \"example\",\n      \"title\": \"4MAT 프레임워크 실전 적용을 위한 임원 회의 사례 도입\",\n      \"content\": \"화자는 4MAT 프레임워크(발화상 format framework)를 실전에서 적용하는 실제 사례(real life example)로, 수년 전 회사 시니어 임원들과 진행했던 파트너 운영 회의(partner steering meeting)를 소개한다. 회의 주제는 전략적(strategic) 참여/협력 여부였음을 구두로 밝히며 사례의 배경 맥락을 제시한다. 이는 본격적인 프레임워크 단계별 시연에 앞서 사례 상황을 구두로 설명하는 도입 단계이다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 296.86,\n      \"audio_ids\": [\"A00049\", \"A00050\", \"A00051\"],\n      \"quote\": \"so let's take a real life example i'm going to walk you through an executive meeting that i led a while ago\",\n      \"frame_ids\": [\n        \"V00000592\",\n        \"V00000596\",\n        \"V00000598\",\n        \"V00000600\",\n        \"V00000604\",\n        \"V00000607\",\n        \"V00000612\",\n        \"V00000613\"\n      ]\n    }\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 373,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 48764,
+    "prompt_tokens_details": [
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      },
+      {
+        "modality": "TEXT",
+        "token_count": 4764
+      }
+    ],
+    "thoughts_token_count": 2991,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 52128,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:18:35.372928+09:00"
+}

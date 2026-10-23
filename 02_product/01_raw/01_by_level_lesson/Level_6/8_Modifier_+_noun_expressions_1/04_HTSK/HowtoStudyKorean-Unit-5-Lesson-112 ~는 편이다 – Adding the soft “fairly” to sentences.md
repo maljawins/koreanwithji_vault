@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-8-2"
+---
 Lesson 112: ~는 편이다 – Adding the soft “fairly” to sentences
 
 Introduction

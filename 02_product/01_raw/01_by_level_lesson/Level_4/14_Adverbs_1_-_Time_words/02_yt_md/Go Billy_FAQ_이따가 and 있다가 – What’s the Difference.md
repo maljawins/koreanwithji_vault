@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-4-14-2"
+---
 # Go Billy | 이따가 and 있다가 – What’s the Difference? | Korean FAQ
 
 ## Metadata

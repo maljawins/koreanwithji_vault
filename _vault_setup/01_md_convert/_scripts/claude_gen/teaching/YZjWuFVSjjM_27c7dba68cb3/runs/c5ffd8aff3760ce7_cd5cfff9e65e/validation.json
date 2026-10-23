@@ -1,0 +1,24 @@
+{
+  "status": "F",
+  "issues": [
+    "원본 대조 실패: 관찰 0: 인용문이 연속된 원본 음성 구간에 그대로 있지 않습니다"
+  ],
+  "rows": [
+    2
+  ],
+  "source": "https://youtu.be/YZjWuFVSjjM",
+  "signature": "c5ffd8aff3760ce75bec6c142a6082bd540c01256c8b1c2ee9728b064fef58d2",
+  "output": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\result_check\\convert_F\\retry_c5ffd8aff376\\teaching_Preston Chin_How To Explain Anything To Anyone (The 4MAT Method)_261020.md",
+  "sha256": "6e71403e61df9c07ade33e53977fac9a6c0bfea9bcf3bfc1bd1a80c6e0b6bb8e",
+  "media_work": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\_scripts\\claude_gen\\teaching\\YZjWuFVSjjM_27c7dba68cb3",
+  "response_work": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\_scripts\\claude_gen\\teaching\\YZjWuFVSjjM_27c7dba68cb3\\runs\\c5ffd8aff3760ce7_cd5cfff9e65e",
+  "media_fingerprint": "cd5cfff9e65e52baa9d39ff5cf0b0d58b17a9aa8d3a20f6c47bbd8e686104e01",
+  "source_frames_available": 479,
+  "transcript_segments": 108,
+  "audited_frames": 320,
+  "source_coverage_complete": false,
+  "duration": 615.034,
+  "automatic_validation_only": true,
+  "ji_review": "pending",
+  "finished": "2026-10-20T20:23:42.667249+09:00"
+}

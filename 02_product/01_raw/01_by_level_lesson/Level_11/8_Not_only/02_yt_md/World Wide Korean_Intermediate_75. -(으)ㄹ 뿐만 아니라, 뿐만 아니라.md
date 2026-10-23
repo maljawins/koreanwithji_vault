@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-8-8"
+---
 # World Wide Korean | 한국어 중급 [문법] 75. -(으)ㄹ 뿐만 아니라, 뿐만 아니라
 
 ## Metadata

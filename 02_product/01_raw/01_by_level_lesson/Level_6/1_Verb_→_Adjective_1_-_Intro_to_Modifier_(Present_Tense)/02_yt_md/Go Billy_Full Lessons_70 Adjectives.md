@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-1-6"
+---
 # Go Billy | Learn Korean Ep. 70: Adjectives
 
 ## Metadata

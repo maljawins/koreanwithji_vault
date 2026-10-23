@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-7-2-4"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #72: Showing Contrast
 
 ## Metadata

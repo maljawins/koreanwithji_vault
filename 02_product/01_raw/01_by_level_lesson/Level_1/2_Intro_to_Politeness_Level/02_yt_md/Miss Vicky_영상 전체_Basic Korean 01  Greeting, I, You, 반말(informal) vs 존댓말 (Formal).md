@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-2-25"
+---
 # Miss Vicky | Basic Korean 01 : Greeting, "I," "You," 반말(informal) vs 존댓말 (Formal)
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-10-2-2"
+---
 # Miss Vicky | Quotation Endings : 대요, (이)래요, (으)래요, 냬요, 재요
 
 ## Metadata

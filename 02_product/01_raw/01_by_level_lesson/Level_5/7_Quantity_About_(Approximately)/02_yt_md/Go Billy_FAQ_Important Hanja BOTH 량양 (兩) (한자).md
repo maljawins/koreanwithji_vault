@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-5-7-7"
+---
 # Go Billy | Important Hanja: BOTH 량/양 (兩) (한자) | Korean FAQ
 
 ## Metadata

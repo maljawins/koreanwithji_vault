@@ -1,0 +1,54 @@
+{
+  "observations": [
+    {
+      "kind": "example",
+      "title": "사분면 1(Quadrant 1 - WHY)의 실제 질문 시범",
+      "content": "발표자는 과거 임원진을 대상으로 전략적 파트너십 추진 여부를 보고할 때 사분면 1(Quadrant 1 - WHY)을 시작한 방식을 시범 보인다. 청중에게 무엇을 생각해야 할지 일방적으로 강요하지 않고 '이 계획에 대해 얼마나 알고 계신지 모르겠지만, 현재 단계에서 이 파트너와 협력하는 것이 얼마나 중요하다고 보시는지 의견을 듣고 싶습니다'라는 구체적인 질문을 던져 청중의 생각을 먼저 묻고 참여시킨 뒤, 중요하다고 볼 경우 사내 관계를 활용해 접근 기회를 마련해야 할 것이라는 흐름으로 연결한다.",
+      "basis": "demonstration",
+      "time": 307.5,
+      "audio_ids": [
+        "A00051",
+        "A00052",
+        "A00053",
+        "A00054",
+        "A00055",
+        "A00056"
+      ],
+      "quote": "how important do you think it is for us to engage with this partner at the stage that we're at and if it is important to you i think we'll need to leverage",
+      "frame_ids": [
+        "V00000614",
+        "V00000615",
+        "V00000617",
+        "V00000634",
+        "V00000640",
+        "V00000643",
+        "V00000648",
+        "V00000652",
+        "V00000656",
+        "V00000660",
+        "V00000666"
+      ]
+    },
+    {
+      "kind": "method",
+      "title": "사분면 1(Quadrant 1)의 원리: 청중 참여 유도 및 청중 중심 질문",
+      "content": "사분면 1(Quadrant 1) 단계에서는 발표자가 먼저 청중을 참여(engage)시키고, 청중에게 일방적으로 생각을 주입하지 않고 청중의 생각을 묻는다. 핵심은 발표자 자신이 아니라 청중 중심(make it about them not me)으로 만들고, 청중이 반응하여 논의를 시작할 수 있는 구체적인 질문을 제시하는 것이다.",
+      "basis": "speaker_claim",
+      "time": 336.5,
+      "audio_ids": [
+        "A00056",
+        "A00057",
+        "A00058"
+      ],
+      "quote": "notice what i did there i engaged them first i didn't tell them what to think i asked what they thought that's quadrant one i make it about them not me",
+      "frame_ids": [
+        "V00000673",
+        "V00000675",
+        "V00000676",
+        "V00000677",
+        "V00000680",
+        "V00000681"
+      ]
+    }
+  ]
+}

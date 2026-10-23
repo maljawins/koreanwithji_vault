@@ -1,3 +1,6 @@
+---
+Ref_No: "Amira-1-6-3"
+---
 # Korean With Ji — Amira 1-on-1 Day 09 · Part 1 (03-14)
 
 ## Metadata
@@ -15,20 +18,20 @@
 
 ## Lesson Overview
 
-This recording covers the introduction and detailed mechanics of Korean past tense conjugation. Ji explains that the past tense is structurally similar to the present tense, with the primary addition of the `쌍시옷 (ㅆ)` patchim. The lesson focuses on how the verb stem's final vowel determines whether to add `앗` or `었`, and how these endings interact with different speech levels: informal low (`어`), informal high (`어요`), and formal high (`습니다`).
+This recording covers the introduction and detailed mechanics of Korean past tense conjugation. Ji explains that the past tense is structurally similar to the present tense, with the primary addition of the `쌍시옷 (ㅆ)` patchim. The lesson focuses on how the verb stem's final vowel determines whether to add `았` or `었`, and how these endings interact with different speech levels: informal low (`어`), informal high (`어요`), and formal high (`습니다`).
 
 Ji's teaching approach is highly systematic, using a "tree" metaphor (Stem, Branch, Leaf, Fruit) to visualize sentence construction. He emphasizes the logic of vowel merging and redundancy cancellation, such as why `가다` becomes `갔어` rather than `가앗어`. Amira is engaged throughout, noting the consistency between present and past tense rules, which she finds helpful for memorization. The session also includes a brief cultural discussion on Korean media and recommendations for beginner-friendly listening resources to increase Amira's language input.
 
 ## Teaching Points
 
-The past tense is formed by adding `앗` or `었` to the verb stem, followed by a speech level ending. Ji notes that past tense sentences are typically declarative or inquisitive, as imperative or propositive moods do not logically apply to the past.
+The past tense is formed by adding `았` or `었` to the verb stem, followed by a speech level ending. Ji notes that past tense sentences are typically declarative or inquisitive, as imperative or propositive moods do not logically apply to the past.
 
 **1. Vowel-Based Branch Selection**
-*   **If the stem ends in ㅏ or ㅗ:** Add the branch `앗`.
-    *   **With Patchim:** `남다 (to remain)` → `남` + `앗` + `어` = `남았어`.
+*   **If the stem ends in ㅏ or ㅗ:** Add the branch `았`.
+    *   **With Patchim:** `남다 (to remain)` → `남` + `았` + `어` = `남았어`.
     *   **Without Patchim (Merging):**
-        *   `가다 (to go)` → `가` + `앗` = `갔` (redundant `ㅏ` cancels out).
-        *   `오다 (to come)` → `오` + `앗` = `왔` (`ㅗ` + `ㅏ` merges into `ㅘ`).
+        *   `가다 (to go)` → `가` + `았` = `갔` (redundant `ㅏ` cancels out).
+        *   `오다 (to come)` → `오` + `았` = `왔` (`ㅗ` + `ㅏ` merges into `ㅘ`).
         *   *Note:* For `보다 (to see)`, both `보았어` and `봤어` are correct, but for `오다`, only `왔어` is correct.
 *   **If the stem ends in any other vowel:** Add the branch `었`.
     *   **With Patchim:** `입다 (to wear)` → `입` + `었` + `어` = `입었어`.
@@ -52,7 +55,7 @@ The past tense is formed by adding `앗` or `었` to the verb stem, followed by 
 
 Ji begins by explaining the core difference between present and past tense: the `ㅆ` patchim. He uses the PowerPoint to show the "Branch" (`앗/었`) and how it connects to the "Leaf" (speech levels). He explains that formal high endings like `습니다` are unique because they don't require a separate context marker (leaf) since the formality is built-in.
 
-The lesson moves into specific examples for the `앗` branch. Ji introduces `남다 (to stay/remain)` and explains a cultural nuance: while "the food stayed on the table" sounds odd in English, `식탁에 음식이 남았어요` is the natural way to say "there is food left" in Korean. He then uses `가다` and `오다` to demonstrate vowel merging. When discussing `오다`, Ji references the common greeting `왔어?` (Are you here?/Did you come?), explaining its grammatical origin.
+The lesson moves into specific examples for the `았` branch. Ji introduces `남다 (to stay/remain)` and explains a cultural nuance: while "the food stayed on the table" sounds odd in English, `식탁에 음식이 남았어요` is the natural way to say "there is food left" in Korean. He then uses `가다` and `오다` to demonstrate vowel merging. When discussing `오다`, Ji references the common greeting `왔어?` (Are you here?/Did you come?), explaining its grammatical origin.
 
 Amira asks about Korean content recommendations. Ji suggests "Talk To Me In Korean" and beginner podcasts on YouTube, advising her to use Korean subtitles to get accustomed to sentence structures visually even if she doesn't understand every word.
 

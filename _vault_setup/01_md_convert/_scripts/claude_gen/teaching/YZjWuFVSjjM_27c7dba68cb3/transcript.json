@@ -1,0 +1,650 @@
+[
+  {
+    "id": "A00000",
+    "start": 0.0,
+    "end": 4.84,
+    "text": "There's a four-step framework that helps you explain anything, and I mean anything,"
+  },
+  {
+    "id": "A00001",
+    "start": 5.18,
+    "end": 9.66,
+    "text": "so people actually listen to you. No more rambling, no more losing the room,"
+  },
+  {
+    "id": "A00002",
+    "start": 9.8,
+    "end": 16.82,
+    "text": "just four simple questions you need to answer. Why does this matter? What is this? How do we use it?"
+  },
+  {
+    "id": "A00003",
+    "start": 17.28,
+    "end": 23.1,
+    "text": "And what if I apply this? But how do you actually apply these questions the right way whenever"
+  },
+  {
+    "id": "A00004",
+    "start": 23.1,
+    "end": 28.3,
+    "text": "you're presenting? That's what I'm going to show you today. Hey, I'm Preston Chin. I'm the head of"
+  },
+  {
+    "id": "A00005",
+    "start": 28.3,
+    "end": 33.56,
+    "text": "business development at Lucid Software and the founder of the Impromptu Speakers Academy. I've"
+  },
+  {
+    "id": "A00006",
+    "start": 33.56,
+    "end": 38.12,
+    "text": "worked with global 100 executives from some of the top tech companies, and this framework that I'm"
+  },
+  {
+    "id": "A00007",
+    "start": 38.12,
+    "end": 42.96,
+    "text": "about to teach you has helped me close more than $10 million in revenue through partnerships. So"
+  },
+  {
+    "id": "A00008",
+    "start": 42.96,
+    "end": 48.64,
+    "text": "let me show you exactly how this works. This framework is called Format. It was developed by"
+  },
+  {
+    "id": "A00009",
+    "start": 48.64,
+    "end": 54.86,
+    "text": "Dr. Bernice McCarthy in the late 1970s. She's a respected educator who studied how people learn"
+  },
+  {
+    "id": "A00010",
+    "start": 54.86,
+    "end": 59.58,
+    "text": "different and here's what she found we can all learn in all four of these ways but we're more"
+  },
+  {
+    "id": "A00011",
+    "start": 59.58,
+    "end": 64.62,
+    "text": "dominant in one quadrant than the other so when you structure your ideas to reach all four"
+  },
+  {
+    "id": "A00012",
+    "start": 64.62,
+    "end": 70.38,
+    "text": "quadrants you'll reach 100 of your audience not the 25 who think like you so let me break down"
+  },
+  {
+    "id": "A00013",
+    "start": 70.38,
+    "end": 76.86,
+    "text": "each quadrant for you quadrant one is the why these are imaginative learners they need personal"
+  },
+  {
+    "id": "A00014",
+    "start": 76.86,
+    "end": 83.66,
+    "text": "connection relevance their question is why does this matter to me so to reach these types of"
+  },
+  {
+    "id": "A00015",
+    "start": 83.66,
+    "end": 91.18,
+    "text": "people, you start with engagement. Upfront, ask questions, make it about them, not you. So for"
+  },
+  {
+    "id": "A00016",
+    "start": 91.18,
+    "end": 97.34,
+    "text": "example, you might ask, who here has ever struggled to keep a team aligned on priorities? Raise your"
+  },
+  {
+    "id": "A00017",
+    "start": 97.34,
+    "end": 103.28,
+    "text": "hands. Quadrant two is the what. These are for our analytical learners. They need facts, data,"
+  },
+  {
+    "id": "A00018",
+    "start": 103.6,
+    "end": 110.06,
+    "text": "expert knowledge, as much context as possible. Their question is, what is this exactly? So to"
+  },
+  {
+    "id": "A00019",
+    "start": 110.06,
+    "end": 117.2,
+    "text": "reach them, you share the frameworks, you give the details, you be precise. For example, here's what"
+  },
+  {
+    "id": "A00020",
+    "start": 117.2,
+    "end": 123.7,
+    "text": "our new prioritization system looks like. It's a three-tier model based on impact and urgency."
+  },
+  {
+    "id": "A00021",
+    "start": 123.88,
+    "end": 129.7,
+    "text": "Quadrant three is the how. These are for our common sense learners. They need the practical"
+  },
+  {
+    "id": "A00022",
+    "start": 129.7,
+    "end": 135.66,
+    "text": "tips, the action items. They don't do well in the theory. Their question is, so how do I apply all"
+  },
+  {
+    "id": "A00023",
+    "start": 135.66,
+    "end": 142.3,
+    "text": "this that you're telling me so to reach them you show the process you give examples you make it"
+  },
+  {
+    "id": "A00024",
+    "start": 142.3,
+    "end": 148.46,
+    "text": "tangible you let them practice for example here's how you'll use this in your next sprint planning"
+  },
+  {
+    "id": "A00025",
+    "start": 148.46,
+    "end": 154.22,
+    "text": "meeting step one list all the initiatives step two rank them using this rubric etc and quadrant"
+  },
+  {
+    "id": "A00026",
+    "start": 154.22,
+    "end": 160.86,
+    "text": "four is the what if so these are for our dynamic learners they need future possibilities adaptation"
+  },
+  {
+    "id": "A00027",
+    "start": 160.86,
+    "end": 167.34,
+    "text": "they're oftentimes very creative their question is so what if i use this in my context so to reach"
+  },
+  {
+    "id": "A00028",
+    "start": 167.34,
+    "end": 172.7,
+    "text": "them you're likely going to facilitate discussion you'll have riff sessions you'll explore scenarios"
+  },
+  {
+    "id": "A00029",
+    "start": 172.7,
+    "end": 178.46,
+    "text": "you'll let them co-create the path forward with you so for instance you might ask so what does"
+  },
+  {
+    "id": "A00030",
+    "start": 178.46,
+    "end": 183.5,
+    "text": "this mean for your team how might you adapt this for remote collaboration i don't have strong"
+  },
+  {
+    "id": "A00031",
+    "start": 183.5,
+    "end": 189.02,
+    "text": "opinions here but let's brainstorm together when you hit all four quadrants you reach everyone in"
+  },
+  {
+    "id": "A00032",
+    "start": 189.02,
+    "end": 195.02,
+    "text": "the room that's the power of format now here's how you actually use this without scripting every"
+  },
+  {
+    "id": "A00033",
+    "start": 195.02,
+    "end": 201.5,
+    "text": "single word you're going to use what i call signposts signposts are transitional phrases"
+  },
+  {
+    "id": "A00034",
+    "start": 201.5,
+    "end": 206.86,
+    "text": "they tell your audience exactly where you are in the framework and more importantly they keep"
+  },
+  {
+    "id": "A00035",
+    "start": 206.86,
+    "end": 213.1,
+    "text": "you from losing your place for quadrant one why your signpost could be something like let me ask"
+  },
+  {
+    "id": "A00036",
+    "start": 213.1,
+    "end": 219.82,
+    "text": "you all of this or have you ever or who here has experienced or how many of you have for quadrant"
+  },
+  {
+    "id": "A00037",
+    "start": 219.82,
+    "end": 226.14,
+    "text": "two the what you might say something like here's what this is the framework consists of blank let"
+  },
+  {
+    "id": "A00038",
+    "start": 226.14,
+    "end": 231.5,
+    "text": "me break this down this way for quadrant three how your signpost might be here's how you would"
+  },
+  {
+    "id": "A00039",
+    "start": 231.5,
+    "end": 238.54,
+    "text": "apply this the steps are blank let me walk you through blank and for quadrant four the what if"
+  },
+  {
+    "id": "A00040",
+    "start": 238.54,
+    "end": 246.06,
+    "text": "your signpost might be so what does this mean for you or imagine if or how could you use this on"
+  },
+  {
+    "id": "A00041",
+    "start": 246.06,
+    "end": 251.66,
+    "text": "your own these signposts give you structure without sounding scripted so you can improvise"
+  },
+  {
+    "id": "A00042",
+    "start": 251.66,
+    "end": 256.86,
+    "text": "within each quadrant but the signposts keep you anchored so really you don't need to memorize"
+  },
+  {
+    "id": "A00043",
+    "start": 256.86,
+    "end": 262.78,
+    "text": "everything just know your signposts now this is exactly what i teach inside the impromptu speakers"
+  },
+  {
+    "id": "A00044",
+    "start": 262.78,
+    "end": 267.66,
+    "text": "academy how to speak with structure but without sounding scripted to grow in your careers inside"
+  },
+  {
+    "id": "A00045",
+    "start": 267.66,
+    "end": 274.78,
+    "text": "the isa you'll get my 20-day blueprint to master these frameworks including pes what so what now"
+  },
+  {
+    "id": "A00046",
+    "start": 274.78,
+    "end": 280.06,
+    "text": "what the carl framework and much more this is for you if you need to present to executives lead"
+  },
+  {
+    "id": "A00047",
+    "start": 280.06,
+    "end": 285.42,
+    "text": "meetings ace interviews or influence stakeholders and you want to do this while sounding confident"
+  },
+  {
+    "id": "A00048",
+    "start": 285.42,
+    "end": 291.42,
+    "text": "without scripting the links in the description to sign up but right now let me show you how you can"
+  },
+  {
+    "id": "A00049",
+    "start": 291.42,
+    "end": 296.86,
+    "text": "apply the format framework in action so let's take a real life example i'm going to walk you through"
+  },
+  {
+    "id": "A00050",
+    "start": 296.86,
+    "end": 303.5,
+    "text": "an executive meeting that i led a while ago this was for our partner steering meeting with senior"
+  },
+  {
+    "id": "A00051",
+    "start": 303.5,
+    "end": 309.34,
+    "text": "executives at the company many years ago the topic was whether we should engage with a strategic"
+  },
+  {
+    "id": "A00052",
+    "start": 309.34,
+    "end": 315.26,
+    "text": "partner at the stage we were in so i'll show you each quadrant and you'll see the signposts in"
+  },
+  {
+    "id": "A00053",
+    "start": 315.26,
+    "end": 319.82,
+    "text": "action so i started off like this so i don't know how much you all know about this initiative but"
+  },
+  {
+    "id": "A00054",
+    "start": 319.82,
+    "end": 326.22,
+    "text": "i'd love to gauge from you all how important do you think it is for us to engage with this partner"
+  },
+  {
+    "id": "A00055",
+    "start": 326.22,
+    "end": 332.38,
+    "text": "at the stage that we're at and if it is important to you i think we'll need to leverage relationships"
+  },
+  {
+    "id": "A00056",
+    "start": 332.38,
+    "end": 337.42,
+    "text": "across the company to get our foot in the door with them notice what i did there i engaged them"
+  },
+  {
+    "id": "A00057",
+    "start": 337.42,
+    "end": 343.34,
+    "text": "first i didn't tell them what to think i asked what they thought that's quadrant one i make"
+  },
+  {
+    "id": "A00058",
+    "start": 343.34,
+    "end": 348.22,
+    "text": "it about them not me and i asked a specific question that could get them going this then"
+  },
+  {
+    "id": "A00059",
+    "start": 348.22,
+    "end": 353.34,
+    "text": "brings me to quadrant two so then my next signpost was here's the background i said"
+  },
+  {
+    "id": "A00060",
+    "start": 353.98,
+    "end": 358.3,
+    "text": "here's the background i met with their vp of product briefly at a conference and i asked if"
+  },
+  {
+    "id": "A00061",
+    "start": 358.3,
+    "end": 363.5,
+    "text": "we could work together to feature our solution when it's ready but the feedback he gave me was"
+  },
+  {
+    "id": "A00062",
+    "start": 363.5,
+    "end": 368.22,
+    "text": "well one they're focused on b2b apps and two they've already closed their private beta and"
+  },
+  {
+    "id": "A00063",
+    "start": 368.22,
+    "end": 372.62,
+    "text": "are working with partners who had solutions that were ready from day one so i wasn't really"
+  },
+  {
+    "id": "A00064",
+    "start": 372.62,
+    "end": 377.58,
+    "text": "surprised when we saw other partners featured in that first wave they've been building with them"
+  },
+  {
+    "id": "A00065",
+    "start": 377.58,
+    "end": 382.46,
+    "text": "since february notice how i'm just giving all the facts there's no fluff just the context they need"
+  },
+  {
+    "id": "A00066",
+    "start": 382.46,
+    "end": 387.82,
+    "text": "to understand the situation and that's quadrant two analytical learners got what they needed"
+  },
+  {
+    "id": "A00067",
+    "start": 387.82,
+    "end": 393.26,
+    "text": "now for quadrant three the how so my signpost here would be here's what i propose so here's"
+  },
+  {
+    "id": "A00068",
+    "start": 393.26,
+    "end": 398.54,
+    "text": "what i said here's what i propose so i've already reached out to two contacts one who's a former"
+  },
+  {
+    "id": "A00069",
+    "start": 398.54,
+    "end": 403.34,
+    "text": "colleague who's now at the partner company and another who's on their technical team but i'd"
+  },
+  {
+    "id": "A00070",
+    "start": 403.34,
+    "end": 409.98,
+    "text": "love to leverage our collective networks across the executive team don james martin i know you"
+  },
+  {
+    "id": "A00071",
+    "start": 409.98,
+    "end": 414.86,
+    "text": "all have relationships there if you're open to it we could put together a brief note for each of you"
+  },
+  {
+    "id": "A00072",
+    "start": 414.86,
+    "end": 420.78,
+    "text": "to send to your contacts and if one bites we can then jump in see how there's clear action steps"
+  },
+  {
+    "id": "A00073",
+    "start": 420.78,
+    "end": 425.74,
+    "text": "who does what how we move forward that's quadrant three the doers in the room get exactly what they"
+  },
+  {
+    "id": "A00074",
+    "start": 425.74,
+    "end": 430.78,
+    "text": "needed in quadrant four here is the what if section so my signpost would be a question like"
+  },
+  {
+    "id": "A00075",
+    "start": 430.78,
+    "end": 435.82,
+    "text": "so what does this mean for us and then i paused and this is where something got interesting one"
+  },
+  {
+    "id": "A00076",
+    "start": 435.82,
+    "end": 441.02,
+    "text": "executive raised a concern he specifically said well i think there's some internal confusion about"
+  },
+  {
+    "id": "A00077",
+    "start": 441.02,
+    "end": 446.06,
+    "text": "whether we could build this ourselves versus whether we've been invited to build it the"
+  },
+  {
+    "id": "A00078",
+    "start": 446.06,
+    "end": 449.66,
+    "text": "messaging isn't entirely clear so some people think we're sitting on the sidelines when we"
+  },
+  {
+    "id": "A00079",
+    "start": 449.66,
+    "end": 453.9,
+    "text": "haven't even been invited to the game yet and then i could respond to my executive saying that's"
+  },
+  {
+    "id": "A00080",
+    "start": 453.9,
+    "end": 459.5,
+    "text": "exactly my concern which is why i think we should reach out now versus wait there may be more risk"
+  },
+  {
+    "id": "A00081",
+    "start": 459.5,
+    "end": 465.9,
+    "text": "if we were to hold back so this is quadrant four in action you give space for those dynamic thinkers"
+  },
+  {
+    "id": "A00082",
+    "start": 465.9,
+    "end": 471.34,
+    "text": "those forward-thinking people to voice their concerns to co-create the path forward to ask"
+  },
+  {
+    "id": "A00083",
+    "start": 471.34,
+    "end": 476.7,
+    "text": "more questions so you see how i'm not going to lose anyone when i present in this fashion every"
+  },
+  {
+    "id": "A00084",
+    "start": 476.7,
+    "end": 482.22,
+    "text": "single executive in that room that i sat in no matter how they think they got what they needed"
+  },
+  {
+    "id": "A00085",
+    "start": 482.22,
+    "end": 488.86,
+    "text": "why it matters what the situation is how we'll proceed and the what if scenarios that we need"
+  },
+  {
+    "id": "A00086",
+    "start": 488.86,
+    "end": 493.58,
+    "text": "to consider that is the power of format now that you've seen this in action i want to help you"
+  },
+  {
+    "id": "A00087",
+    "start": 493.58,
+    "end": 501.02,
+    "text": "apply it to your own presentation so i've created a free format presentation template that you can"
+  },
+  {
+    "id": "A00088",
+    "start": 501.02,
+    "end": 507.18,
+    "text": "use to prep for your next meeting presentation or pitch it will walk you through each quadrant with"
+  },
+  {
+    "id": "A00089",
+    "start": 507.18,
+    "end": 512.46,
+    "text": "prompts and signpost examples exactly like what you just saw grab it for free the link is in the"
+  },
+  {
+    "id": "A00090",
+    "start": 512.46,
+    "end": 517.66,
+    "text": "description but before we wrap up i want to share three common mistakes that i see with this"
+  },
+  {
+    "id": "A00091",
+    "start": 517.66,
+    "end": 525.32,
+    "text": "framework that you should avoid number one is you're skipping quadrant one the why most people"
+  },
+  {
+    "id": "A00092",
+    "start": 525.32,
+    "end": 530.66,
+    "text": "they just jump straight into the facts the what that's the easy part but that's a big mistake if"
+  },
+  {
+    "id": "A00093",
+    "start": 530.66,
+    "end": 535.58,
+    "text": "you start with why it matters then you're going to hook them in especially when you ask them a"
+  },
+  {
+    "id": "A00094",
+    "start": 535.58,
+    "end": 541.98,
+    "text": "question mistake two is spending too long in quadrant two the what so you don't want to info"
+  },
+  {
+    "id": "A00095",
+    "start": 541.98,
+    "end": 548.78,
+    "text": "dump everything every single detail just give enough detail and then move on mistake three"
+  },
+  {
+    "id": "A00096",
+    "start": 548.78,
+    "end": 554.62,
+    "text": "is then forgetting the what if because this is where you're gonna lose buy-in if you don't ask"
+  },
+  {
+    "id": "A00097",
+    "start": 554.62,
+    "end": 560.14,
+    "text": "the question to the specific individual if you don't let them explore how this might apply to"
+  },
+  {
+    "id": "A00098",
+    "start": 560.14,
+    "end": 564.46,
+    "text": "them if you don't allow them to critically think of the different trade-offs and the risks then"
+  },
+  {
+    "id": "A00099",
+    "start": 564.46,
+    "end": 570.22,
+    "text": "they're gonna lose you so how do you practice this without sounding scripted so here's what i"
+  },
+  {
+    "id": "A00100",
+    "start": 570.22,
+    "end": 577.74,
+    "text": "recommend before any presentation ask yourself those four questions what's my why what's my what"
+  },
+  {
+    "id": "A00101",
+    "start": 577.74,
+    "end": 586.62,
+    "text": "what's my how and what's my what if write down your signposts for each then practice it aloud"
+  },
+  {
+    "id": "A00102",
+    "start": 586.62,
+    "end": 592.94,
+    "text": "use the signposts as anchors fill in the details as you go you can apply this whenever you're"
+  },
+  {
+    "id": "A00103",
+    "start": 592.94,
+    "end": 599.02,
+    "text": "practicing presentations or preparing for speeches and remember don't memorize every word you just"
+  },
+  {
+    "id": "A00104",
+    "start": 599.02,
+    "end": 603.5,
+    "text": "need the structure. So the next time you present, you got to ask yourself, am I hitting all four"
+  },
+  {
+    "id": "A00105",
+    "start": 603.5,
+    "end": 608.54,
+    "text": "quadrants? Because if you're not within your first few minutes, you're going to lose people."
+  },
+  {
+    "id": "A00106",
+    "start": 608.54,
+    "end": 611.5,
+    "text": "So if you want to master other speaking frameworks like this,"
+  },
+  {
+    "id": "A00107",
+    "start": 611.5,
+    "end": 614.86,
+    "text": "make sure to watch this video right here and I'll see you in the next one."
+  }
+]

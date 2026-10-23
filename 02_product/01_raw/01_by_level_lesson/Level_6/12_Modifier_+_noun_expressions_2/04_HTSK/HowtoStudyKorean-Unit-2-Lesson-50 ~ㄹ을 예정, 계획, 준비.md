@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-12-2"
+---
 Lesson 50: ~ㄹ/을 예정, 계획, 준비
 
 Introduction

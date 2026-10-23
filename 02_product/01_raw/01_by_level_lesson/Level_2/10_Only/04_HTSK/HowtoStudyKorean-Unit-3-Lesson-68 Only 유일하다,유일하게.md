@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-2-10-2"
+---
 Lesson 68: Only: 유일하다/유일하게
 
 Introduction

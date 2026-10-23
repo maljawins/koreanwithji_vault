@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-2-6"
+---
 # Go Billy | 어디 있어요? vs 어디예요? | Korean FAQ
 
 ## Metadata

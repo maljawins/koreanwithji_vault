@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-15-7"
+---
 # Miss Vicky | 10+ Phrases for Beginners to Start Korean With
 
 ## Metadata

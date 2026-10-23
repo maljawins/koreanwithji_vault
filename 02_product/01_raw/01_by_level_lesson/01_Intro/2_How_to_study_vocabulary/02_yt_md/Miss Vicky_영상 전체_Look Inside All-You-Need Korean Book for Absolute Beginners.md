@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Intro-2-5"
+---
 # Miss Vicky | Look Inside: All-You-Need Korean Book for Absolute Beginners 📚 (+ Study Tips!)
 
 ## Metadata

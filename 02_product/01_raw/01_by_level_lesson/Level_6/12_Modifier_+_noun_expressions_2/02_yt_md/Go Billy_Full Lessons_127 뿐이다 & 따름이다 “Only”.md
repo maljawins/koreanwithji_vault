@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-12-3"
+---
 # Go Billy | Learn Korean Ep. 127: 뿐이다 & 따름이다 “Only”
 
 ## Metadata

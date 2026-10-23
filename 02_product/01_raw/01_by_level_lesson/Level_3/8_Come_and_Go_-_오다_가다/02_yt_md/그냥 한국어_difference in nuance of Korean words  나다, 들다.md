@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-3-8-1"
+---
 # 그냥 한국어 | difference in nuance of Korean words : 나다, 들다
 
 ## Metadata

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-5-5-3"
+---
 Lesson 79: Difficult words: (그)대로, 인기, 당연하다, 알맞다, 전체
 
 As Experienced: 대로

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-1-12-2"
+---
 Nouns:
 음식 = food
 케이크 = cake

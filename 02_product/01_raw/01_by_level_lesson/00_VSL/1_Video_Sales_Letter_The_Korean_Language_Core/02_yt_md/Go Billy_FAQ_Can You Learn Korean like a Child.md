@@ -1,4 +1,7 @@
-﻿# Go Billy | Can You Learn Korean like a Child? | Korean FAQ
+﻿---
+Ref_No: "YT-VSL-1-1"
+---
+# Go Billy | Can You Learn Korean like a Child? | Korean FAQ
 
 ## Metadata
 - **Channel:** Go Billy

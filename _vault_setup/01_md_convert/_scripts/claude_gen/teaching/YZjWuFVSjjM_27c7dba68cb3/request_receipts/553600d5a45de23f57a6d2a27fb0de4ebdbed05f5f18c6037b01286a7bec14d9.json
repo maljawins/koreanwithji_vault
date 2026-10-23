@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "553600d5a45de23f57a6d2a27fb0de4ebdbed05f5f18c6037b01286a7bec14d9",
+  "raw": "{\n  \"observations\": [\n    {\n      \"kind\": \"condition\",\n      \"title\": \"구조적 즉흥 말하기 프레임워크 학습의 적용 대상과 상황\",\n      \"content\": \"화자는 대본 없이도 자신감 있게 구조를 갖춰 말하는 프레임워크 훈련이 임원 보고(present to executives), 회의 주재(lead meetings), 인터뷰 합격(ace interviews), 이해관계자 설득(influence stakeholders)을 필요로 하는 사람들에게 적합하다고 명시한다. 또한 화면 자료를 통해 PREPS(또는 PRE, PRS, PES) 프레임워크는 즉석에서 질문을 받았을 때(for answering questions when you're put on the spot), PCSB(또는 PCS, PSB) 프레임워크는 미리 준비된 업무 업데이트를 전달할 때(For giving more prepared updates) 사용된다고 분류한다.\",\n      \"basis\": \"speaker_claim\",\n      \"time\": 273.5,\n      \"audio_ids\": [\"A00044\", \"A00045\", \"A00046\", \"A00047\", \"A00048\"],\n      \"quote\": \"this is for you if you need to present to executives lead meetings ace interviews or influence stakeholders\",\n      \"frame_ids\": [\"V00000547\", \"V00000548\", \"V00000550\", \"V00000551\", \"V00000553\"]\n    },\n    {\n      \"kind\": \"example\",\n      \"title\": \"임원 회의(Executive Meeting)를 통한 4MAT 프레임워크 실전 적용 도입\",\n      \"content\": \"화자는 4MAT 프레임워크(화면상 4MAT / 발화 'format')를 실제 업무에 적용하는 시범 사례로, 수년 전 회사 시니어 임원들과 함께 진행했던 파트너십 운영 회의(partner steering meeting)를 소개한다. 논의 주제는 전략적 파트너와 협력/계약을 진행할지 여부(whether we should engage with a strategic partner)에 관한 것이었다고 맥락을 설정한다.\",\n      \"basis\": \"demonstration\",\n      \"time\": 296.86,\n      \"audio_ids\": [\"A00049\", \"A00050\", \"A00051\"],\n      \"quote\": \"so let's take a real life example i'm going to walk you through an executive meeting that i led a while ago\",\n      \"frame_ids\": [\"V00000592\", \"V00000596\", \"V00000598\", \"V00000600\", \"V00000604\", \"V00000607\", \"V00000612\", \"V00000613\"]\n    }\n  ]\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 690,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 47869,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 3869
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      }
+    ],
+    "thoughts_token_count": null,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 48559,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:17:35.541872+09:00"
+}

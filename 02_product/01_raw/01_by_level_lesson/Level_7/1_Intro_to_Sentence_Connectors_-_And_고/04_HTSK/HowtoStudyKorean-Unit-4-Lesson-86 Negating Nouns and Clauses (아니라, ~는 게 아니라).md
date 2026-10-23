@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-1-4"
+---
 Lesson 86: Negating Nouns and Clauses (아니라, ~는 게 아니라)
 
 Introduction

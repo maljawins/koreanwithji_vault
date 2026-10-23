@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-3-2-3"
+---
 Nouns:
 기계 = machine
 대학교 = college, university

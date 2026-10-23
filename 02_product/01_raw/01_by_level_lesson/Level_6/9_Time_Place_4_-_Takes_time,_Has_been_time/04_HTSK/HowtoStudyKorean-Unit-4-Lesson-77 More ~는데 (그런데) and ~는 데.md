@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-9-3"
+---
 Lesson 77: More ~는데 (그런데) and ~는 데
 
 Introduction

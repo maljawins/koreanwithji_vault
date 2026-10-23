@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-12-7"
+---
 # Go Billy | Using 들 After Phrases | Korean FAQ
 
 ## Metadata

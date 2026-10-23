@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-12"
+---
 # TTMIK | How are -잖아요 and -거든요 different?
 
 ## Metadata

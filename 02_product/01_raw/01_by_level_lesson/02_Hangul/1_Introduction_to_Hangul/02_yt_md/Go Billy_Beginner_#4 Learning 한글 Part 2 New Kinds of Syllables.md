@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-1-3"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #4: Learning 한글 Part 2 New Kinds of Syllables
 
 ## Metadata

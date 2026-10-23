@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-18-1"
+---
 # Go Billy | The Plain Form (Conjugation + Usage) | Live Class Abridged
 
 ## Metadata
@@ -58,7 +61,7 @@ Another major use in speech is "talking to yourself" (self-talk). When you expre
 
 ### The "Attention-Grabbing" Question Intonation
 
-The instructor introduces a specific spoken nuance: using the plain form with a rising question intonation. While the plain form is technically for statements, ending it with a rising tone functions as a way to grab a listener's attention before starting a story. It acts like a "Hey, listen to this" signal. For example, saying `어제 파티에 찰수도 왔다?` with a rising tone translates to "So, Charsu came to the party yesterday (right/you know)?" This sets the stage for the speaker to continue their narrative.
+The instructor introduces a specific spoken nuance: using the plain form with a rising question intonation. While the plain form is technically for statements, ending it with a rising tone functions as a way to grab a listener's attention before starting a story. It acts like a "Hey, listen to this" signal. For example, saying `어제 파티에 철수도 왔다?` with a rising tone translates to "So, Cheol-soo came to the party yesterday (right/you know)?" This sets the stage for the speaker to continue their narrative.
 
 ---
 
@@ -66,11 +69,11 @@ The instructor introduces a specific spoken nuance: using the plain form with a 
 
 The instructor provides a variety of examples to demonstrate the plain form in context:
 
-> **오늘 찰수를 만났다.** / I met Charsu today.
+> **오늘 철수를 만났다.** / I met Cheol-soo today.
 > **나는 김치를 좋아하지 않는다.** / I do not like Kimchi.
 > **이 가방이 안 무겁다.** / This bag is not heavy.
-> **찰수는 한국 사람이다.** / Charsu is a Korean person.
-> **찰수는 한국에 산다.** / Charsu lives in Korea.
+> **철수는 한국 사람이다.** / Cheol-soo is a Korean person.
+> **철수는 한국에 산다.** / Cheol-soo lives in Korea.
 > **이미 다 먹었다.** / I already ate it all.
 > **괜찮을 것이다.** / It will be okay.
 > **한국어가 쉽다.** / Korean is easy.
@@ -103,7 +106,7 @@ For example, 좋다고 생각해요. So I think it is good. 저는 좋다고 생
 
 The plain form is commonly used in both speech and writing whenever the audience, so whenever the listener is unknown. So this form is not going to be commonly used when you know who you are directing it to. So this will be different whether you're using it in writing or in speaking. So first, let's talk about usages of the plain form in writing. Some common places that you're going to see it used are the following. Advertisements. So if you are looking at an advertisement on the subway. Essays. Including your test essays. So if you take a test in Korean and you want to say, I did this. I like to eat cheese. Monkeys are my favorite animal. All of these sentences should be in plain form. The next thing is newspaper articles. Look at the verb endings. They're going to be plain form. 
 
-Another place you're going to see plain form is example sentences. So this is going to be in a textbook. If you wanted to write an example sentence, that's not really supposed to be a dialogue example, but just an example like Charsu went to the moon. It's not supposed to be an example of someone saying something. It's just an example sentence. These are all going to be written in plain form because they're plain. They don't have to be directed at anyone. It's just this is the sentence. No context. The end. Charsu went to the moon. Another place you're going to see plain form is in your own journal entries. So if you're writing a diary, you should be writing those in the plain form.
+Another place you're going to see plain form is example sentences. So this is going to be in a textbook. If you wanted to write an example sentence, that's not really supposed to be a dialogue example, but just an example like Cheol-soo went to the moon. It's not supposed to be an example of someone saying something. It's just an example sentence. These are all going to be written in plain form because they're plain. They don't have to be directed at anyone. It's just this is the sentence. No context. The end. Cheol-soo went to the moon. Another place you're going to see plain form is in your own journal entries. So if you're writing a diary, you should be writing those in the plain form.
 
 For speech, it's a bit different. This form is going to be used when you're using 반말. So if you use this in speech, this is considered to be 반말 if you direct it at anyone. So then what does it sound like using it to someone? Sounds like you're making an announcement. By that, I mean, this is like you're holding a megaphone and you're saying something out loud. So when you say plain form out loud, it is considered 반말. And the feeling that you get is like you're holding a megaphone, like a microphone, and then making an announcement. It's like you're saying something out loud to get other people's attention. So if you're walking around outside and you say to your friend, I am going. I'm going. I'm going. But it sounds like, Hey, I'm going. It sounds like you're making an announcement to them. Like, listen to me. Give me your attention. Okay. All right. All right. I'm leaving. All right. I'm eating. I'm leaving. It sounds like an announcement. So you're not going to use it for regular speech because you don't need to make announcements with your regular speech. 
 
@@ -111,10 +114,10 @@ The next way that you will use plain form in speech is not for 반말. Talking o
 
 When you're talking to yourself, you actually have several options for what you can use. You can use casual speech when you're talking to yourself, but you also have a few other options. You can use the plain form for any sort of statement, but if you want to use questions, how can you make questions to yourself? This is not the plain form, but I'll give you a few other forms. You can use 지 for questions to yourself. If you want to have a soft question, what could that be? You can also use the regular 나 or 가 endings. If you're trying to remember something, you can also use the 더라 ending. 뭐더라? What's that? I can't remember. Again, these are not directed at other people. If they are, these would all be casual speech, but you can use these when talking to yourself.
 
-There's one more usage in speech. When you say something in the plain form with a rising intonation at the end, so the same as you would do when you're asking a question, it has a different meaning. Here are just three random examples. What if you said 한다 or 있다 or 같다? If you use plain form, which is only for statements I said, but you use it with a question intonation, adding a question mark grabs the listener's attention. When you use a question intonation after plain form, it sounds like this. Hey, listen to me. So I did something. So there is something. So I went somewhere. 어제 파티에 찰수도 왔다? So you're saying, hey, so, and I'm getting your attention. Again, it's like using a megaphone. 찰수 went to the party yesterday, okay? And then you continue with what you want to talk about. So this again is casual because you're using it directed at someone. You're talking with someone when you're using it, but it gets their attention. So it's a good way to start telling a story is by using the plain form with a question intonation. 
+There's one more usage in speech. When you say something in the plain form with a rising intonation at the end, so the same as you would do when you're asking a question, it has a different meaning. Here are just three random examples. What if you said 한다 or 있다 or 같다? If you use plain form, which is only for statements I said, but you use it with a question intonation, adding a question mark grabs the listener's attention. When you use a question intonation after plain form, it sounds like this. Hey, listen to me. So I did something. So there is something. So I went somewhere. 어제 파티에 철수도 왔다? So you're saying, hey, so, and I'm getting your attention. Again, it's like using a megaphone. 철수 went to the party yesterday, okay? And then you continue with what you want to talk about. So this again is casual because you're using it directed at someone. You're talking with someone when you're using it, but it gets their attention. So it's a good way to start telling a story is by using the plain form with a question intonation. 
 
-So let me give you some sentences. 오늘 찰수를 만났다. So 만났다, past tense of 만나다, to meet. So I met 찰수 today. 오늘 찰수를 만났다. Now, if you were to say this with a question intonation, it sounds like the start of a story you're going to tell a friend. 오늘 찰수를 만났다? 오늘 찰수를 만났다? Hey, so I met 찰수 today. So they know when they're listening, oh, something happened. There's something to tell me. 나는 김치를 좋아하지 않는다. Do not like. Notice 않는다 because to like is an action verb. 나는 김치를 좋아하지 않는다. I do not like 김치. Although I do like 김치, in the example sentence, I do not like it. 
+So let me give you some sentences. 오늘 철수를 만났다. So 만났다, past tense of 만나다, to meet. So I met 철수 today. 오늘 철수를 만났다. Now, if you were to say this with a question intonation, it sounds like the start of a story you're going to tell a friend. 오늘 철수를 만났다? 오늘 철수를 만났다? Hey, so I met 철수 today. So they know when they're listening, oh, something happened. There's something to tell me. 나는 김치를 좋아하지 않는다. Do not like. Notice 않는다 because to like is an action verb. 나는 김치를 좋아하지 않는다. I do not like 김치. Although I do like 김치, in the example sentence, I do not like it. 
 
-이 가방, this bag, 이 가방이 안 무겁다. 무겁다 is to be heavy. 안 무겁다, not heavy. This bag is not heavy. 이 가방이 안 무겁다. 찰수는 한국인이다 or 한국 사람이다. 찰수 is a Korean. 찰수는 한국 사람이다. 찰수는 한국에 산다. 찰수 한국에 산다, lives, 살다, lives in Korea. 이미 다 먹었다. So I ate it all already. Or more naturally, I already finished eating it. 이미 다 먹었다. 괜찮을 것이다. You could have also said 거다. 괜찮을 거다. It will be okay. You could say 한국어는 or 한국어가 쉽다. Korean, as in the Korean language, 한국어, 쉽다 is easy. 쉽다, 한국어가 쉽다. Or you could have said 한글이 쉽다. 한글, the alphabet. 한글이 쉽다. So the Korean alphabet is easy. 
+이 가방, this bag, 이 가방이 안 무겁다. 무겁다 is to be heavy. 안 무겁다, not heavy. This bag is not heavy. 이 가방이 안 무겁다. 철수는 한국인이다 or 한국 사람이다. 철수 is a Korean. 철수는 한국 사람이다. 철수는 한국에 산다. 철수 한국에 산다, lives, 살다, lives in Korea. 이미 다 먹었다. So I ate it all already. Or more naturally, I already finished eating it. 이미 다 먹었다. 괜찮을 것이다. You could have also said 거다. 괜찮을 거다. It will be okay. You could say 한국어는 or 한국어가 쉽다. Korean, as in the Korean language, 한국어, 쉽다 is easy. 쉽다, 한국어가 쉽다. Or you could have said 한글이 쉽다. 한글, the alphabet. 한글이 쉽다. So the Korean alphabet is easy. 
 
 Okay, that is our lesson for today. Thank you everyone for joining me. And I will see you again next time.

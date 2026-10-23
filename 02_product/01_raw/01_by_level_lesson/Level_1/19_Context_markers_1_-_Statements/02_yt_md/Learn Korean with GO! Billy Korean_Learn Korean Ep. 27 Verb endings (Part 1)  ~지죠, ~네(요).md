@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-10"
+---
 # Learn Korean with GO! Billy Korean | Learn Korean Ep. 27: Verb endings (Part 1) | ~지/죠, ~네(요)
 
 ## Metadata

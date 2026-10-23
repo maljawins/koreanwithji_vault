@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-6-8-4"
+---
 Lesson 116: While in the state of: ~ㄴ/은 채(로)
 
 Introduction

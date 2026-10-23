@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-5-7"
+---
 # Learn Korean with GO! Billy Korean | Learn Korean Ep. 76: “Contrary to what you might think…” | ~걸(요)
 
 ## Metadata

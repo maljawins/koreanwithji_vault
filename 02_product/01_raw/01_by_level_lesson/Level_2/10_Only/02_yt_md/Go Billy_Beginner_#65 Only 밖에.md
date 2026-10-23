@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-10-4"
+---
 # Go Billy | Billy Go’s Beginner Korean Course | #65: Only 밖에
 
 ## Metadata

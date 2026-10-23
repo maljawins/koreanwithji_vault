@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-2-3-6"
+---
 # Korean Jream | Angry, Irritated, Excited = Verb in Korean? Learn 1 Verb 나다(to occur) and Use it for 20+ Phrases!
 
 ## Metadata

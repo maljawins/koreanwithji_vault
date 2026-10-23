@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-2-1-1"
+---
 Nouns:
 한국 = Korea
 도시 = city

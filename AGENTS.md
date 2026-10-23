@@ -3,8 +3,6 @@
 이 파일은 **에이전트 행동 규칙과 라우팅**만 담는다. 사업 내용, 브랜드, 작업 절차는 여기 없다. 각 폴더 index로 간다.
 길이 상한 200줄. 넘으면 내용을 폴더 index로 옮긴다.
 
----
-I already have line installed here, and I go to the view to see the code skinnected and move to allow codes that you start your ground so you can open up a tab and search for something to debug your application make sure you get that set up and then you dispresses open button solve extension and put it. Another extension that I highly recommend is GitHub if you're where GitHub is essentially a version of your software for code. This means a senior changes that lean and become technology businesses anytime you're a medium size project project you should use in this to create three GitHub account very easy to switch.com as if they could connect to the other insights to a normal way to stop a repository and uploaded to the blocks that you're not going to recent to access to any necessary to refer back as this product making it where he too judged too much by idea highly recommend set if you're wondering education spreadsheets slack generally thousands maybe if you want to set up these ways to now we have to hears to whether you use match worth you can see that next refers different applications and specifically discomputer so form computer like use as it to do something to start might do it some simple or copy new tank close and ingress that are there and a run a single node and describe your ideal date where your computer is called yourself to frontier I was used to skills to case especially in AI tools where influence to check those descriptions to see to use it and finally place a military good and free to try. So most wrongness and we'll see what we get very doing is a key real and it should control and keep demanded how it's controlled on the computer I can still use a result soldiers replication I can post up and it can really use it will actually use it for the person is because it apparently no better their time where you start the country he continued to just open up to be renote and wrote it started and say something smake that we're triple length delivery was on stage to friends enter and then we will see we find that balloon few around the computer and see it will take over and do anything super useful especially to quality and testing the website goes to a form during the task is headed to the administration working at sad the exact same job at the exact same company for years now with no disruption my pay or benefits
 ## 1. 프로젝트와 사용자
 
 Korean With Ji의 한국어 교육 사업 운영을 위한 **Obsidian LLM Wiki vault**다. 코드 저장소가 아니라 지식 저장소다.
@@ -30,6 +28,8 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 3. **`02_product/01_raw/`는 읽기 전용이다.** 이 폴더 안에 쓰거나 고치지 않는다.
 4. **`.env`, cookies.txt, 키 파일을 읽지 않는다.**
 5. **요청받은 것만 한다.** 요청하지 않은 파일을 함께 고치지 않는다.
+6. **업무 기억은 `00_daily_worklog/`와 `01_inbox/conversation_log/conversation_log.md`에서만 관리한다.** workspace 밖의 자동 메모리는 생성·누적·사용하지 않는다.
+7. **`audit_1022/`는 보관소다.** 안의 스킬·지침·설정을 현재 작업의 지시서로 자동 사용하지 않는다.
 
 
 ---
@@ -38,8 +38,9 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 
 ### 3-1. 기본
 - **한국어로 답한다.** 단, 영어 tech 용어와 브랜드 용어는 영어 그대로 쓴다.
-- **결론 먼저, 그 다음 단계별 설명.** 원칙은 본 vault 내 [`.Codex/skills/get-to-the-point-skill/SKILL.md`](.Codex/skills/get-to-the-point-skill/SKILL.md)를 따른다.
+- **결론 먼저, 그 다음 단계별 설명.** 원칙은 본 vault 내 [`.agents/skills/get-to-the-point-skill/SKILL.md`](.agents/skills/get-to-the-point-skill/SKILL.md)를 따른다.
 - **이모지, em dash 금지.** "좋은 질문!" 같은 빈말 금지.
+- **문체 교정은 Ji가 지정한 Writing Style을 사용한다.** 보관 처리한 humanizer를 다시 설치하거나 활성 지침으로 사용하지 않는다.
 
 | 규칙 | 내용 |
 |---|---|
@@ -85,9 +86,7 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 |---|---|
 | 브랜드 톤, 대본 톤, 메시지, ICP | [`_about/01_brand.md`](_about/01_brand.md) (§8이 톤 단일 출처) |
 | 사업 순서, 우선순위, 기술 스택, 미정 사항 | [`_about/Koreanwithji_기획서_v6_260902.md`](_about/Koreanwithji_기획서_v6_260902.md) |
-| 강의 제작 로드맵, 계획, 작업 규칙, 결정 사항, 실시/미실시 사항 | [`02_product/02_course_creation/course_plan.md`](02_product/02_course_creation/course_plan.md) |
-| 코스 제작 용어 | [`02_product/02_course_creation/glossary.md`](02_product/02_course_creation/glossary.md) |
-| 레슨 상세 설계법 (outline, draft 단계) | [`02_product/02_course_creation/03_course_outline_and_draft/lesson_design_method.md`](02_product/02_course_creation/03_course_outline_and_draft/lesson_design_method.md) |
+| 코스 제작의 자료·학습 범위·OUTLINE·대사·장면 설계 | [코스 제작 지도](02_product/02_course_creation/02_course_creation.md)에서 해당 단계만 연다 |
 | 코스 제작 도구 (Wiki, 영상, 음성) | [`02_product/02_course_creation/course_tech_stack.md`](02_product/02_course_creation/course_tech_stack.md) |
 | 원본 자료 찾기, 트랙 구조 | [`02_product/01_raw/01_raw.md`](02_product/01_raw/01_raw.md) |
 | vault 구조, 자료 .md 변환, 파이프라인 | [`_vault_setup/_vault_setup.md`](_vault_setup/_vault_setup.md) |
@@ -95,7 +94,7 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 | 퍼널, 카피, 가격, 채널 | [`04_marketing/04_marketing.md`](04_marketing/04_marketing.md) |
 | 과거 작업 맥락 확인 | [`00_daily_worklog/00_daily_worklog.md`](00_daily_worklog/00_daily_worklog.md) |
 | 직전 대화 맥락, 오늘 할 일 | [`01_inbox/01_inbox.md`](01_inbox/01_inbox.md) |
-| 지금 할 일 | [`01_inbox/conversation_log/to_do.md`](01_inbox/conversation_log/to_do.md) |
+| 지금 할 일 | Ji의 현재 요청을 따른다. 할 일·개인 메모의 관리 기준은 [`01_inbox/01_inbox.md`](01_inbox/01_inbox.md) |
 
 **어느 것을 볼지 모르겠으면 추측하지 말고 Ji에게 묻는다.**
 
@@ -104,7 +103,7 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 ## 5. 문서 작성 원칙 (Single Source of Truth)
 
 - **같은 사실은 한 곳에만 쓴다.** 다른 문서에서는 그곳을 가리킨다. 내용을 복사하지 않고 문서 별로 중복되는 내용이 없게 한다.
-- **폴더 index는 지도다.** 폴더명과 같은 이름의 .md가 그 폴더의 index다. index에는 무엇이 어디 있는지만 쓰고 실제 내용은 별도 문서에 둔다.
+- **폴더 index는 지도다.** 폴더명과 같은 이름의 .md가 그 폴더의 index다. index에는 무엇이 어디 있는지만 쓰고 실제 내용은 별도 문서에 둔다. 코스 제작 하위 작업 폴더는 시작 지도에서 직접 안내하며 별도 index를 추가하지 않는다.
 - **새 사실이 어느 문서 소관인지 애매하면 Ji에게 묻는다.** 임의로 두 곳에 쓰지 않는다.
 
 ---
@@ -132,26 +131,28 @@ Ji의 역할은 3가지로 고정된다. **자료 고르기, 검수, 방향 결�
 ## 8. 세션 루틴
 
 **Agent가 읽는 순서**
+
+코스 제작 요청은 [코스 제작 지도](02_product/02_course_creation/02_course_creation.md)에서 해당 단계와 해당 레슨 자료로 바로 들어간다. 아래 공통 순서의 전체 작업 기록·할 일은 코스 요청의 필독 경로로 두지 않고, 관련 과거 판단이 필요할 때 해당 부분만 찾는다.
 ```
-Codex 실행 → AGENTS.md → master_index.md → 00_daily_worklog.md → to_do.md → 필요 시 conversation_log.md 및 YYMMDD_log.md
+Codex 실행 → AGENTS.md → master_index.md → 필요 시 conversation_log.md와 00_daily_worklog의 해당 기록
 ```
 
 **작업 순서**
 ```
-Ji가 프롬프트 작성 → 작업 내용 conversation_log.md에 기록(Codex turn hook의 append는 사전 승인) → 일과 마무리 후 Ji의 명시 요청이 있을 시 YYMMDD_log.md 작성 + to_do.md 갱신
+Ji가 프롬프트 작성 → 작업 내용 conversation_log.md에 기록(Codex turn hook의 append는 사전 승인) → Ji의 명시 요청이 있을 시 날짜별 worklog와 index 갱신
 ```
 
 **세션 시작**
 1. 바로 직전의 맥락을 파악하기 위해서는 [`01_inbox/conversation_log/conversation_log.md`](01_inbox/conversation_log/conversation_log.md) 최근 항목을 읽어 직전 맥락을 잡는다.
 2. 더 앞선 맥락이 필요하면 [`00_daily_worklog/00_daily_worklog.md`](00_daily_worklog/00_daily_worklog.md)의 인덱스 표를 본다.
-3. 다음에 무엇을 할지는 [`01_inbox/conversation_log/to_do.md`](01_inbox/conversation_log/to_do.md)를 본다. 작성 요령은 [`01_inbox/01_inbox.md`](01_inbox/01_inbox.md).
+3. 다음 작업은 Ji의 현재 요청으로 정한다. 삭제된 할 일·개인 메모 파일을 다시 만들지 않는다.
 
 **작업 중**
 - 답변할 때마다 [`01_inbox/conversation_log/conversation_log.md`](01_inbox/conversation_log/conversation_log.md)에 실시간으로 기록한다. 항목마다 날짜와 시간, Ji가 시킨 것, 그것을 어떻게 이해했는지, 어떻게 이행했는지와 특이사항(있을 시), Codex turn marker를 남긴다. plan mode에서는 hook이 종료를 막지 않으며, 다음 편집 가능한 turn에 기록한다.
 
 **하루 마감**
-- `conversation_log.md`를 근거로 `00_daily_worklog/YYMMDD_log/YYMMDD_log.md`를 쓰고 인덱스 표에 행을 추가한다. 같은 근거로 `to_do.md`도 이때 한 번 갱신한다. Ji의 "오늘 마감" 등 명시 요청은 이 세 파일의 생성·수정과 옮긴 conversation 항목 삭제를 승인한다.
-- **이 작업은 Ji가 요청할 때만 한다.** 스스로 판단해서 옮기거나 `to_do.md`를 고치지 않는다.
+- `conversation_log.md`를 근거로 `00_daily_worklog/YYMMDD_log/YYMMDD_log.md`와 인덱스를 갱신한다. Ji의 "오늘 마감" 등 명시 요청은 이 기록의 생성·수정과 옮긴 conversation 항목 삭제를 승인한다.
+- **이 작업은 Ji가 요청할 때만 한다.** 스스로 판단해서 기록을 옮기지 않는다. 구체적인 마감 절차는 [`01_inbox/01_inbox.md`](01_inbox/01_inbox.md)를 따른다.
 
 > 이 기록이 곧 §1의 long-term purpose를 지탱한다. 기록이 끊기면 vault는 인프라가 아니라 파일 더미가 된다.
 
@@ -169,11 +170,11 @@ Ji가 직접 만든 용어다. **임의로 다른 이름으로 바꾸지 않는�
 | TSV | Topic-Subject-Verb 문장 구조. Ji가 만든 약어 |
 | STLOHV | Subject-Time-Location-Object-How-Verb 표준 어순 |
 | 트랙 | 레슨 폴더 안의 자료 출처별 하위 폴더 (`01_Ji_draft`, `02_yt_md` 등) |
-| Draft | 영상 설계서. 사람도 읽고 AI도 읽는다 |
-| OUTLINE | Draft 전에 잡는 레슨 뼈대 |
+| Draft | Ji가 실제 발화할 대사 초안. 장면 설계는 BEATS로 분리한다 |
+| OUTLINE | 레슨 소주제의 순서와 무엇을 어떻게 설명할지 정한 문서 |
 
 - 브랜드 용어의 정의와 사용법: [`_about/01_brand.md`](_about/01_brand.md)
-- 코스 제작 용어(BEAT, concept_index, Ref_No 등) 전체 사전: [`02_product/02_course_creation/glossary.md`](02_product/02_course_creation/glossary.md)
+- 코스 제작의 용어와 실행 방법은 [코스 제작 지도](02_product/02_course_creation/02_course_creation.md)가 가리키는 해당 단계 지시서에서 확인한다.
 
 ---
 

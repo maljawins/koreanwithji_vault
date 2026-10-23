@@ -1,0 +1,33 @@
+lesson_design_method.md 아래 사항 응용해서 고도화 시키려고 해.
+업데이트 계획 한 번 세워줘봐. 
+
+두 가지 교수법 응용
+ 1) CLEAR(Calibrate, Link, Envision, Abtraction, Repeat) METHOD
+ 2) 4MAT 방식응용
+
+1. Calibrate
+ - 얼마나 audience가 해당 주제에 대해 알고 있는지 교정한다.
+  > 커리큘럼 순서대로 전에 배운 건 이미 학생이 알고 있다고 가정한다. (예: 1-1 가르칠 때 학생이 이미 한글은 알고 있다고 가정)
+
+2. LINK
+ - Connect what they don't know what they already know
+ - 2일 동안 진행되는 복잡한 커뮤니케이션 워크숍을 '음악'에 비유
+   > 1일 차는 '악기(목소리와 바디랭귀지) 연주법'을 배우고
+   > 2일 차는 '좋은 음악(아이디어 구조화) 작곡법'을 배운다**고 간단히 설명한 사례
+ - 응용: 영어의 어떤 개념과 비교되는가? → 한국어의 개념과 Linking
+   > 예시: 영어의 She eats의 s VS 한국어 '먹어'의 '어' - 영어의 's'와 한국어의 '어' 둘 다 아무 뜻이 없음.
+
+3. Envision
+ - 말로만 설명하기 어려운 복잡한 개념이나 모델을 도형, 다이어그램, 시각적 구도를 활용해 직접 그려서 보여주는 단계
+ > 여기서 Visual aid, Motion Graphic 기획 및 사용
+ > Comprehensible input 방식 사용
+
+4. Abstraction
+ - 복잡한 전문 용어나 복잡한 구조를 핵심만 남기고 가장 간결하고 직관적인 형태의 언어로 요약·단순화하는 단계
+
+5. Repeat
+ - 설명의 마지막에 전체 핵심 내용을 다시 한 번 요약하고 정리해 줌으로써 청중의 이해를 확실하게 다지는(close the loop) 단계
+
+Michel Thomas Method
+https://www.youtube.com/shorts/tJESh3HQ4hw?feature=share
+

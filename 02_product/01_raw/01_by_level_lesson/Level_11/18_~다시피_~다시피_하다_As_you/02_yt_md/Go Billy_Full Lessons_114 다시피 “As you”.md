@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-11-18-2"
+---
 # Go Billy | Learn Korean Ep. 114: 다시피 “As you…”
 
 ## Metadata

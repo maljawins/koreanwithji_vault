@@ -1,0 +1,30 @@
+{
+  "state": "returned",
+  "request_fingerprint": "f7d5daa6da03f835699063ec75909403fc8d959497351f15fdb6111d7da5697a",
+  "raw": "{\n  \"passed\": true,\n  \"issues\": []\n}",
+  "usage": {
+    "cache_tokens_details": null,
+    "cached_content_token_count": null,
+    "candidates_token_count": 16,
+    "candidates_tokens_details": null,
+    "prompt_token_count": 49232,
+    "prompt_tokens_details": [
+      {
+        "modality": "TEXT",
+        "token_count": 5232
+      },
+      {
+        "modality": "IMAGE",
+        "token_count": 44000
+      }
+    ],
+    "thoughts_token_count": 1760,
+    "tool_use_prompt_token_count": null,
+    "tool_use_prompt_tokens_details": null,
+    "total_token_count": 51008,
+    "traffic_type": null
+  },
+  "finish": "STOP",
+  "model": "gemini-flash-latest",
+  "at": "2026-10-20T20:15:10.251973+09:00"
+}

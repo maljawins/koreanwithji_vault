@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-11-2-1"
+---
 Lesson 84: As soon as (~자마자, ~는 대로, ~자)
 
 Introduction

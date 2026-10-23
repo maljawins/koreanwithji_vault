@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-6-6-2"
+---
 # Go Billy | Thinking 생각하다 | Live Class Abridged
 
 ## Metadata

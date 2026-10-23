@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-2-6-1"
+---
 Lesson 46: I have to/I need to ~아/어야 하다/되다/지/겠다, ~ㄹ 필요가 있다/없다
 
 Introduction

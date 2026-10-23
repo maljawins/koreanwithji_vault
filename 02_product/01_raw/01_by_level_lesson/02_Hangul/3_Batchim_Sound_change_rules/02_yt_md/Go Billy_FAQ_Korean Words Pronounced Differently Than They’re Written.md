@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-Hangul-3-7"
+---
 # Go Billy | Korean Words Pronounced Differently Than They’re Written | Korean FAQ
 
 ## Metadata
@@ -27,7 +30,7 @@ To clarify the scope, the instructor first defines what he is excluding. He is n
 
 The primary example that inspired the video is the verb **닦다** (to wipe). While the dictionary and news anchors might use the literal pronunciation, almost all Koreans pronounce it as `딱따`, as if it started with a double ㄷ. The instructor notes that while you should speak it this way to sound natural, you must never write it with a double ㄷ.
 
-Another native example involves the adjective **간단하다** (to be simple). In common speech, the first syllable is often tensified, resulting in the pronunciation `깐단하다`. Similarly, the polite sentence ending **예요** (used after vowels) is almost universally pronounced as `에요`. This shift is so pervasive that it has become one of the most frequent spelling mistakes among native Koreans, who often write **에요** because that is exactly how they hear and say it.
+Another native example involves the adjective **간단하다** (to be simple). In common speech, the first syllable is often tensified, resulting in the pronunciation `간딴하다`. Similarly, the polite sentence ending **예요** (used after vowels) is almost universally pronounced as `에요`. This shift is so pervasive that it has become one of the most frequent spelling mistakes among native Koreans, who often write **에요** because that is exactly how they hear and say it.
 
 ---
 

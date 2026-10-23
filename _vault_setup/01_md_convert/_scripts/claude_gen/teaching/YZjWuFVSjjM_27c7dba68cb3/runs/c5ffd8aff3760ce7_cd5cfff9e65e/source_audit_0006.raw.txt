@@ -1,0 +1,6 @@
+{
+  "passed": false,
+  "issues": [
+    "E0006_0000 관찰 내용에 언급된 '과거 임원진을 대상으로 전략적 파트너십 추진 여부를 보고할 때(executives at the company many years ago the topic was whether we should engage with a strategic)'를 뒷받침하는 오디오 구간 A00051이 audio_ids에서 누락되었습니다."
+  ]
+}

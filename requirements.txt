@@ -1,21 +1,39 @@
-# kor_yt_md_pipeline.py / tech_yt_md_pipeline.py / monitor_server.py
-# (_vault_setup\01_md_convert\_scripts\) 실행에 필요한 패키지
-# 설치: py -3.12 -m venv .venv  →  .venv\Scripts\pip install -r requirements.txt
-# ffmpeg는 pip 패키지가 아니므로 별도로 PATH에 설치돼 있어야 함 (winget 등으로 이미 설치돼 있음)
+# Korean / Tech 영상 변환, Teaching 재작성, 기존 진행상황 화면의 공용 설치 목록.
+# Python 3.12, Windows x64. vault 루트에서 실행:
+#   .venv\Scripts\python.exe -m pip install -r requirements.txt
+# 목록 수정은 설치 실행이 아니다. 기존 .venv에 적용하는 작업은 별도 실행한다.
+# Node.js / ffmpeg / ffprobe 및 NVIDIA 드라이버는 별도 설치가 필요하다.
 
-openpyxl
-python-dotenv
-yt-dlp
-pillow
-google-genai
+# 세 변환 작업의 공통 도구: 엑셀 상태 기록, 이미지 처리, Gemini 호출, 받아쓰기.
+openpyxl==3.1.5
+python-dotenv==1.2.4
+# YouTube의 JavaScript 처리용 yt-dlp-ejs를 포함한다. Node.js도 필요하다.
+yt-dlp[default]==2026.8.19
+pillow==13.0.0
+google-genai==2.31.0
+faster-whisper==1.2.1
+# 실제 음성 해독 확인: av 16.1.0. PyAV 19의 metadata_errors 충돌을 피한다.
+av>=11,<17
 
-# Whisper 받아쓰기 (faster-whisper, GPU: RTX 4070)
-faster-whisper
-# ctranslate2가 Windows에서 시스템 CUDA 툴킷 없이 GPU를 쓰기 위해 필요
-# (kor_yt_md_pipeline.py의 _register_nvidia_dlls()가 site-packages\nvidia\*\bin 을 PATH/DLL 검색경로에 자동 등록함)
-nvidia-cublas-cu12
-nvidia-cudnn-cu12
+# 로컬 GPU 받아쓰기: CUDA 12 + cuDNN 9 조합을 사용한다.
+# Windows용 DLL은 각 변환 코드가 .venv/site-packages/nvidia/*/bin에서 등록한다.
+# 현재 그래픽 장치 인식과 받아쓰기에 사용한 버전을 유지한다.
+ctranslate2==4.8.3
+nvidia-cublas-cu12==12.9.2.10
+nvidia-cudnn-cu12==9.27.0.42
 
-# 화면 OCR (PaddleOCR, CPU 전용)
-paddlepaddle
-paddleocr
+# 화면 글자 인식: 기존 Korean / Tech와 같은 구조로 만들 Teaching에서 공용 사용.
+# Korean의 ocr(..., cls=True) 호출과 중첩 목록 반환 형식은 PaddleOCR 2.x 기준이다.
+# PaddleOCR 3.x를 설치하면 Korean에서 오류가 빈 문자열로 처리되어 글자가 누락된다.
+# Paddle은 CPU용을 사용해 Whisper와 그래픽 메모리를 나눠 쓰지 않는다.
+# Python 3.12에는 setuptools가 기본 포함되지 않는다. Paddle 2.6이 가져오는
+# easy_install은 setuptools 80에서 제거됐으므로 호환 버전을 명시한다.
+setuptools==79.0.1
+paddlepaddle==2.6.2
+paddleocr==2.10.0
+
+# Paddle 2.6의 NumPy 1.x 호환 계열. OpenCV 간접 의존성도 같은 버전으로 맞춘다.
+numpy==1.26.4
+opencv-python==4.11.0.86
+opencv-contrib-python==4.11.0.86
+opencv-python-headless==4.11.0.86

@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-9-1-2"
+---
 Lesson 31: Using ~는 것 with 이다
 
 Introduction

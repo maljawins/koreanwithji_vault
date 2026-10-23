@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-9"
+---
 # Korean with Miss Vicky 빅키쌤 | Korean Sentence Endings | -네요, -다, -더라고(요), -구나, -잖아, -거든, -지, -거야, -(으)ㄴ/는데, -라
 
 ## Metadata

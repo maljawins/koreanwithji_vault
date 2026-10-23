@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-1-19-11"
+---
 # Learn Korean with GO! Billy Korean | Learn Korean Ep. 28: Verb endings (Part 2) | ~나(요), ~군(요)
 
 ## Metadata

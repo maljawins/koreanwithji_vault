@@ -1,3 +1,6 @@
+---
+Ref_No: "YT-8-2-2"
+---
 # Go Billy | Learn Korean Ep. 100: ~하고 있다 vs. ~해 있다 (Verb States)
 
 ## Metadata

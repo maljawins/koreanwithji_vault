@@ -1,0 +1,18 @@
+{
+  "status": "F",
+  "issues": [
+    "원본 대조 실패: 관찰 E0000_0001의 본문에 4번째 질문인 'And what if I apply this?'가 포함되어 있고 프레임(V00000038, 19.0초)도 지정되어 있으나, 해당 발화가 등장하는 A00003(17.28~23.10초)이 audio_ids에서 누락되었으며 quote에도 해당 문장이 누락되었습니다.; 관찰 E0000_0001 내용 중 발표자가 프레임워크 이름을 말로 언급하는 부분('구두 발음 Format')은 42.96초의 발화(A00008: 'This framework is called Format.')에서 나오지만, 근거 audio_ids에 A00008이 포함되지 않았고 인용문도 누락되었습니다."
+  ],
+  "rows": [
+    2
+  ],
+  "source": "https://youtu.be/YZjWuFVSjjM",
+  "signature": "27c7dba68cb3986da6d3d7d5420225cd4e6dca670bf1079e1d7f59d655c7d5f7",
+  "output": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\result_check\\convert_F\\teaching_Preston Chin_How To Explain Anything To Anyone (The 4MAT Method)_261020.md",
+  "sha256": "662e9496b0344cce3908305a5387cfe61be287dc814587e9ad6aa5abe2c54244",
+  "sampled_frames_sent": 479,
+  "transcript_segments": 108,
+  "automatic_validation_only": true,
+  "ji_review": "pending",
+  "finished": "2026-10-20T18:42:34.850495+09:00"
+}

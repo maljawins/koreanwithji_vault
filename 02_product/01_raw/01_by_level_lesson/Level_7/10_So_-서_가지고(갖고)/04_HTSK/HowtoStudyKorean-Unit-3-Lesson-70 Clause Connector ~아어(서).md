@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-7-10-4"
+---
 Lesson 70: Clause Connector: ~아/어(서)
 
 Introduction

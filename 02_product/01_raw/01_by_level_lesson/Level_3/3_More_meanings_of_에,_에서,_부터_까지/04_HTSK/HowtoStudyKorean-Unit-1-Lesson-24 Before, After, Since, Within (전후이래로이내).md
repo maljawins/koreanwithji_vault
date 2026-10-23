@@ -1,3 +1,6 @@
+---
+Ref_No: "HTSK-3-3-3"
+---
 Lesson 24: Before, After, Since, Within (전/후/이래로/이내)
 
 Introduction

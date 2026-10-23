@@ -1,0 +1,54 @@
+{
+  "checked_at": "2026-10-20T19:11:52.239656+09:00",
+  "preserved_baseline_files": 1248,
+  "changed_baseline_files": [],
+  "rows": [
+    {
+      "row": 2,
+      "channel": "Preston Chin",
+      "destination": "05_teaching",
+      "title": "How To Explain Anything To Anyone (The 4MAT Method)",
+      "url": "https://youtu.be/YZjWuFVSjjM",
+      "status": "F",
+      "vid": "YZjWuFVSjjM"
+    },
+    {
+      "row": 3,
+      "channel": "Vinh Giang",
+      "destination": "05_teaching",
+      "title": "How to Explain Anything To Anyone (Even If It's Complex!)",
+      "url": "https://youtu.be/Sqh6rt1hN2A",
+      "status": "X",
+      "vid": "Sqh6rt1hN2A"
+    }
+  ],
+  "new_generate_content_attempts": 3,
+  "new_received_usage_records": 0,
+  "new_reported_usage": {
+    "prompt_token_count": 0,
+    "candidates_token_count": 0,
+    "thoughts_token_count": 0,
+    "total_token_count": 0
+  },
+  "selected_videos_all_attempts_including_history": 5,
+  "selected_videos_all_received_usage_records_including_history": 2,
+  "all_recorded_usage_including_history": {
+    "prompt_token_count": 95861,
+    "candidates_token_count": 814,
+    "thoughts_token_count": 7969,
+    "total_token_count": 104644
+  },
+  "conversion_complete": false,
+  "blocker": "Gemini project monthly spending cap; 429 RESOURCE_EXHAUSTED",
+  "new_output_files": [],
+  "vinh_local_preparation": {
+    "source": "https://youtu.be/Sqh6rt1hN2A",
+    "duration": 810.914,
+    "media_work": "C:\\vault\\koreanwithji_vault\\_vault_setup\\01_md_convert\\_scripts\\claude_gen\\teaching\\Sqh6rt1hN2A_ed9082725cec",
+    "transcript_segments": 177,
+    "selected_frames": 1179,
+    "gemini_calls": 0,
+    "document_complete": false,
+    "workbook_status_unchanged": "X"
+  }
+}
